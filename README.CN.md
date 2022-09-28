@@ -71,4 +71,4 @@
 | 1470 |           重新排列数组           |                      [Java](./java-solutions/1470-shuffle-the-array/src/Solution.java)                       |               [Python3](./python-solutions/1470-shuffle-the-array/solution.py)                |                                                                                                      | [back to top] |
 | 1656 |            设计有序流            |                [Java](./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java)                 |             [Python3](python-solutions/1656-design-an-ordered-stream/solution.py)             |                                                                                                      | [back to top] |
 
-[back to top]: #solutions
+[back to top]: #题解
