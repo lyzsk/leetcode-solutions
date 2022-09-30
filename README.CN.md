@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/language-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/language-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
-    <img src="https://img.shields.io/badge/language-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 # leetcode-solutions
@@ -36,6 +36,7 @@
 | 0005 |           最长回文子串           |                         [Java](./java-solutions/0005-longest-palindromic-substring)                          |         [Python3](./python-solutions/0005-longest-palindromic-substring/solution.py)          |         [JavaScript](./javascript-solutions/0005-longest-palindromic-substring/solution.js)          | [back to top] |
 | 0007 |             整数反转             |                       [Java](./java-solutions/0007-reverse-integer/src/Solution.java)                        |                [Python3](./python-solutions/0007-reverse-integer/solution.py)                 |                                                                                                      | [back to top] |
 | 0015 |             三数之和             |                                     [Java](./java-solutions/0015-3-sum)                                      |                                                                                               |                                                                                                      | [back to top] |
+| 0020 |            有效的括号            |                      [Java](./java-solutions/0020-valid-parentheses/src/Solution.java)                       |                                                                                               |                                                                                                      | [back to top] |
 | 0021 |         合并两个有序链表         |                    [Java](./java-solutions/0021-merge-two-sorted-lists/src/Solution.java)                    |                                                                                               |                                                                                                      | [back to top] |
 | 0025 |         K 个一组翻转链表         |                   [Java](./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java)                   |                                                                                               |                                                                                                      | [back to top] |
 | 0033 |         搜索旋转排序数组         |                [Java](./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java)                |                                                                                               |                                                                                                      | [back to top] |

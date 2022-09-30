@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/language-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/language-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
-    <img src="https://img.shields.io/badge/language-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 # leetcode-solutions
@@ -36,6 +36,7 @@ Recording personal solutions for Leetcode problems.
 | 0005 |                Longest Palindromic Substring                 |                         [Java](./java-solutions/0005-longest-palindromic-substring)                          |         [Python3](./python-solutions/0005-longest-palindromic-substring/solution.py)          |         [JavaScript](./javascript-solutions/0005-longest-palindromic-substring/solution.js)          | [back to top] |
 | 0007 |                       Reverse Integer                        |                       [Java](./java-solutions/0007-reverse-integer/src/Solution.java)                        |                [Python3](./python-solutions/0007-reverse-integer/solution.py)                 |                                                                                                      | [back to top] |
 | 0015 |                             3Sum                             |                                     [Java](./java-solutions/0015-3-sum)                                      |                                                                                               |                                                                                                      | [back to top] |
+| 0020 |                      Valid Parentheses                       |                      [Java](./java-solutions/0020-valid-parentheses/src/Solution.java)                       |                                                                                               |                                                                                                      | [back to top] |
 | 0021 |                    Merge Two Sorted Lists                    |                    [Java](./java-solutions/0021-merge-two-sorted-lists/src/Solution.java)                    |                                                                                               |                                                                                                      | [back to top] |
 | 0025 |                   Reverse Nodes in k-Group                   |                   [Java](./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java)                   |                                                                                               |                                                                                                      | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                |                [Java](./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java)                |                                                                                               |                                                                                                      | [back to top] |
