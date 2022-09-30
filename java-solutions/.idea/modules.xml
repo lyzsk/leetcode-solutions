@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" filepath="$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" filepath="$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" filepath="$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" filepath="$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/0654-maximum-binary-tree/0654-maximum-binary-tree.iml" filepath="$PROJECT_DIR$/0654-maximum-binary-tree/0654-maximum-binary-tree.iml" />
