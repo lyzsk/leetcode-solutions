@@ -83,6 +83,7 @@ Recording personal solutions for Leetcode problems.
 | 1464 |         Maximum Product of Two Elements in an Array          | [Java][java-1464] |                    |                       | [back to top] |
 | 1470 |                      Shuffle the Array                       | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
 | 1656 |                   Design an Ordered Stream                   | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
+| 1694 |                    Reformat Phone Number                     | [Java][java-1694] |                    |                       | [back to top] |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -163,3 +164,4 @@ Recording personal solutions for Leetcode problems.
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
+[java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
