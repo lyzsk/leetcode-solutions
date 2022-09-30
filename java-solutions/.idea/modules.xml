@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" filepath="$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" filepath="$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" filepath="$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" filepath="$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" filepath="$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" filepath="$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/0088-merge-sorted-array/0088-merge-sorted-array.iml" filepath="$PROJECT_DIR$/0088-merge-sorted-array/0088-merge-sorted-array.iml" />
