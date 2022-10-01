@@ -69,6 +69,7 @@ Recording personal solutions for Leetcode problems.
 | 0659 |          Split Array into Consecutive Subsequences           | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |                 Maximum Width of Binary Tree                 | [Java][java-0662] |                    |                       | [back to top] |
 | 0687 |                    Longest Univalue Path                     | [Java][java-0687] |                    |                       | [back to top] |
+| 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0869 |                     Reordered Power of 2                     | [Java][java-0869] |                    |                       | [back to top] |
 | 0871 |              Minimum Number of Refueling Stops               | [Java][java-0871] |                    |                       | [back to top] |
@@ -143,6 +144,7 @@ Recording personal solutions for Leetcode problems.
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
+[java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js

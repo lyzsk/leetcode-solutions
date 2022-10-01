@@ -69,6 +69,7 @@
 | 0659 |       分割数组为连续子序列       | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |          二叉树最大宽度          | [Java][java-0662] |                    |                       | [back to top] |
 | 0687 |           最长同值路径           | [Java][java-0687] |                    |                       | [back to top] |
+| 0704 |             二分查找             | [Java][java-0704] |                    |                       | [back to top] |
 | 0804 |         唯一摩尔斯密码词         | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0869 |       重新排序得到 2 的幂        | [Java][java-0869] |                    |                       | [back to top] |
 | 0871 |           最低加油次数           | [Java][java-0871] |                    |                       | [back to top] |
