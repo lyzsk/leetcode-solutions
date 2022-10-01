@@ -46,6 +46,7 @@
 | 0054 |             螺旋矩阵             | [Java][java-0054] |                    |                       | [back to top] |
 | 0070 |              爬楼梯              | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0088 |         合并两个有序数组         | [Java][java-0088] |                    |                       | [back to top] |
+| 0094 |         二叉树的中序遍历         | [Java][java-0094] |                    |                       | [back to top] |
 | 0121 |        买卖股票的最佳时机        | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0141 |             环形链表             | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |           环形链表 II            | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
@@ -113,6 +114,7 @@
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
+[java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
@@ -144,6 +146,7 @@
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
+[java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
