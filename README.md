@@ -43,6 +43,7 @@ Recording personal solutions for Leetcode problems.
 | 0046 |                         Permutations                         | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                       Permutations II                        | [Java][java-0047] |                    |                       | [back to top] |
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
+| 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
@@ -107,6 +108,7 @@ Recording personal solutions for Leetcode problems.
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
+[java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
