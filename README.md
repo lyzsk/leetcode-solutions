@@ -48,6 +48,7 @@ Recording personal solutions for Leetcode problems.
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
 | 0091 |                         Decode Ways                          | [Java][java-0091] |                    |                       | [back to top] |
+| 0092 |                    Reverse Linked List II                    | [Java][java-0092] |                    |                       | [back to top] |
 | 0094 |                Binary Tree Inorder Traversal                 | [Java][java-0094] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0141 |                      Linked List Cycle                       | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -119,6 +120,7 @@ Recording personal solutions for Leetcode problems.
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
 [java-0091]: ./java-solutions/0091-decode-ways/src/Solution.java
+[java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
