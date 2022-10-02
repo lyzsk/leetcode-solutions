@@ -75,6 +75,7 @@ Recording personal solutions for Leetcode problems.
 | 0659 |          Split Array into Consecutive Subsequences           | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |                 Maximum Width of Binary Tree                 | [Java][java-0662] |                    |                       | [back to top] |
 | 0687 |                    Longest Univalue Path                     | [Java][java-0687] |                    |                       | [back to top] |
+| 0695 |                      Max Area of Island                      | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
 | 0777 |                  Swap Adjacent in LR String                  | [Java][java-0777] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -157,6 +158,7 @@ Recording personal solutions for Leetcode problems.
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
+[java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
