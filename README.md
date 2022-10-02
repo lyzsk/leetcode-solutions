@@ -38,6 +38,7 @@ Recording personal solutions for Leetcode problems.
 | 0015 |                             3Sum                             | [Java][java-0015] |                    |                       | [back to top] |
 | 0020 |                      Valid Parentheses                       | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |                    Merge Two Sorted Lists                    | [Java][java-0021] |                    |                       | [back to top] |
+| 0023 |                     Merge k Sorted Lists                     | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |                   Reverse Nodes in k-Group                   | [Java][java-0025] |                    |                       | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
 | 0046 |                         Permutations                         | [Java][java-0046] |                    |                       | [back to top] |
@@ -106,6 +107,7 @@ Recording personal solutions for Leetcode problems.
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0020]: ./java-solutions/0020-valid-parentheses/src/Solution.java
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
+[java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java

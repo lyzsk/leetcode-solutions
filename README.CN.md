@@ -38,6 +38,7 @@
 | 0015 |             三数之和             | [Java][java-0015] |                    |                       | [back to top] |
 | 0020 |            有效的括号            | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |         合并两个有序链表         | [Java][java-0021] |                    |                       | [back to top] |
+| 0023 |        合并 K 个升序链表         | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |         K 个一组翻转链表         | [Java][java-0025] |                    |                       | [back to top] |
 | 0033 |         搜索旋转排序数组         | [Java][java-0033] |                    |                       | [back to top] |
 | 0046 |              全排列              | [Java][java-0046] |                    |                       | [back to top] |
@@ -106,6 +107,7 @@
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0020]: ./java-solutions/0020-valid-parentheses/src/Solution.java
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
+[java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java

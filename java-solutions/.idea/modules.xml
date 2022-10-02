@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" filepath="$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" filepath="$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" filepath="$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.iml" filepath="$PROJECT_DIR$/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" filepath="$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" />
       <module fileurl="file://$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" filepath="$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0046-permutations/0046-permutations.iml" filepath="$PROJECT_DIR$/0046-permutations/0046-permutations.iml" />
