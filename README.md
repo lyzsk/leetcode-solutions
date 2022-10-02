@@ -41,6 +41,7 @@ Recording personal solutions for Leetcode problems.
 | 0023 |                     Merge k Sorted Lists                     | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |                   Reverse Nodes in k-Group                   | [Java][java-0025] |                    |                       | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
+| 0034 |   Find First and Last Position of Element in Sorted Array    | [Java][java-0034] |                    |                       | [back to top] |
 | 0046 |                         Permutations                         | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                       Permutations II                        | [Java][java-0047] |                    |                       | [back to top] |
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
@@ -112,6 +113,7 @@ Recording personal solutions for Leetcode problems.
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
+[java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java

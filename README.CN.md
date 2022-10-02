@@ -28,70 +28,71 @@
 
 # 题解
 
-|  #   |              Title               |       Java        |      Python3       |      JavaScript       |               |
-| :--: | :------------------------------: | :---------------: | :----------------: | :-------------------: | :-----------: |
-| 0001 |             两数之和             | [Java][java-0001] | [Python3][py-0001] | [JavaScript][js-0001] | [back to top] |
-| 0002 |             两数相加             | [Java][java-0002] |                    |                       | [back to top] |
-| 0003 |       无重复字符的最长子串       | [Java][java-0003] | [Python3][py-0003] | [JavaScript][js-0003] | [back to top] |
-| 0005 |           最长回文子串           | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
-| 0007 |             整数反转             | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
-| 0015 |             三数之和             | [Java][java-0015] |                    |                       | [back to top] |
-| 0020 |            有效的括号            | [Java][java-0020] |                    |                       | [back to top] |
-| 0021 |         合并两个有序链表         | [Java][java-0021] |                    |                       | [back to top] |
-| 0023 |        合并 K 个升序链表         | [Java][java-0023] |                    |                       | [back to top] |
-| 0025 |         K 个一组翻转链表         | [Java][java-0025] |                    |                       | [back to top] |
-| 0033 |         搜索旋转排序数组         | [Java][java-0033] |                    |                       | [back to top] |
-| 0046 |              全排列              | [Java][java-0046] |                    |                       | [back to top] |
-| 0047 |            全排列 II             | [Java][java-0047] |                    |                       | [back to top] |
-| 0053 |           最大子数组和           | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
-| 0054 |             螺旋矩阵             | [Java][java-0054] |                    |                       | [back to top] |
-| 0070 |              爬楼梯              | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
-| 0088 |         合并两个有序数组         | [Java][java-0088] |                    |                       | [back to top] |
-| 0091 |             解码方法             | [Java][java-0091] |                    |                       | [back to top] |
-| 0092 |           反转链表 II            | [Java][java-0092] |                    |                       | [back to top] |
-| 0094 |         二叉树的中序遍历         | [Java][java-0094] |                    |                       | [back to top] |
-| 0104 |         二叉树的最大深度         | [Java][java-0104] |                    |                       | [back to top] |
-| 0121 |        买卖股票的最佳时机        | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
-| 0141 |             环形链表             | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
-| 0142 |           环形链表 II            | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
-| 0146 |             LRU 缓存             | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
-| 0160 |             相交链表             | [Java][java-0160] |                    |                       | [back to top] |
-| 0199 |          二叉树的右视图          | [Java][java-0199] |                    |                       | [back to top] |
-| 0200 |             岛屿数量             | [Java][java-0200] |                    |                       | [back to top] |
-| 0206 |             反转链表             | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
-| 0215 |     数组中的第 K 个最大元素      | [Java][java-0215] |                    |                       | [back to top] |
-| 0218 |            天际线问题            | [Java][java-0218] |                    |                       | [back to top] |
-| 0236 |       二叉树的最近公共祖先       | [Java][java-0236] |                    |                       | [back to top] |
-| 0300 |          最长递增子序列          | [Java][java-0300] |                    |                       | [back to top] |
-| 0316 |           去除重复字母           | [Java][java-0316] |                    |                       | [back to top] |
-| 0387 |     字符串中的第一个唯一字符     | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
-| 0525 |             连续数组             | [Java][java-0525] |                    |                       | [back to top] |
-| 0641 |         设计循环双端队列         | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
-| 0652 |          寻找重复的子树          | [Java][java-0652] |                    |                       | [back to top] |
-| 0654 |            最大二叉树            | [Java][java-0654] |                    |                       | [back to top] |
-| 0655 |            输出二叉树            | [Java][java-0655] |                    |                       | [back to top] |
-| 0658 |      找到 K 个最接近的元素       | [Java][java-0658] |                    |                       | [back to top] |
-| 0659 |       分割数组为连续子序列       | [Java][java-0659] |                    |                       | [back to top] |
-| 0662 |          二叉树最大宽度          | [Java][java-0662] |                    |                       | [back to top] |
-| 0687 |           最长同值路径           | [Java][java-0687] |                    |                       | [back to top] |
-| 0704 |             二分查找             | [Java][java-0704] |                    |                       | [back to top] |
-| 0777 |    在 LR 字符串中交换相邻字符    | [Java][java-0777] |                    |                       | [back to top] |
-| 0804 |         唯一摩尔斯密码词         | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
-| 0869 |       重新排序得到 2 的幂        | [Java][java-0869] |                    |                       | [back to top] |
-| 0871 |           最低加油次数           | [Java][java-0871] |                    |                       | [back to top] |
-| 0876 |          链表的中间结点          | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
-| 0912 |             排序数组             | [Java][java-0912] |                    |                       | [back to top] |
-| 0998 |          最大二叉树 II           | [Java][java-0998] |                    |                       | [back to top] |
-| 1224 |           最大相等频率           | [Java][java-1224] |                    |                       | [back to top] |
-| 1302 |       层数最深叶子节点的和       | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
-| 1422 |       分割字符串的最大得分       | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
-| 1450 |    在既定时间做作业的学生人数    | [Java][java-1450] |                    |                       | [back to top] |
-| 1455 | 检查单词是否为句中其他单词的前缀 | [Java][java-1455] |                    |                       | [back to top] |
-| 1460 |   通过翻转子数组使两个数组相等   | [Java][java-1460] |                    |                       | [back to top] |
-| 1464 |      数组中两元素的最大乘积      | [Java][java-1464] |                    |                       | [back to top] |
-| 1470 |           重新排列数组           | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
-| 1656 |            设计有序流            | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
-| 1694 |        重新格式化电话号码        | [Java][java-1694] |                    |                       | [back to top] |
+|  #   |                   Title                    |       Java        |      Python3       |      JavaScript       |               |
+| :--: | :----------------------------------------: | :---------------: | :----------------: | :-------------------: | :-----------: |
+| 0001 |                  两数之和                  | [Java][java-0001] | [Python3][py-0001] | [JavaScript][js-0001] | [back to top] |
+| 0002 |                  两数相加                  | [Java][java-0002] |                    |                       | [back to top] |
+| 0003 |            无重复字符的最长子串            | [Java][java-0003] | [Python3][py-0003] | [JavaScript][js-0003] | [back to top] |
+| 0005 |                最长回文子串                | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
+| 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
+| 0015 |                  三数之和                  | [Java][java-0015] |                    |                       | [back to top] |
+| 0020 |                 有效的括号                 | [Java][java-0020] |                    |                       | [back to top] |
+| 0021 |              合并两个有序链表              | [Java][java-0021] |                    |                       | [back to top] |
+| 0023 |             合并 K 个升序链表              | [Java][java-0023] |                    |                       | [back to top] |
+| 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
+| 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
+| 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
+| 0046 |                   全排列                   | [Java][java-0046] |                    |                       | [back to top] |
+| 0047 |                 全排列 II                  | [Java][java-0047] |                    |                       | [back to top] |
+| 0053 |                最大子数组和                | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
+| 0054 |                  螺旋矩阵                  | [Java][java-0054] |                    |                       | [back to top] |
+| 0070 |                   爬楼梯                   | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
+| 0088 |              合并两个有序数组              | [Java][java-0088] |                    |                       | [back to top] |
+| 0091 |                  解码方法                  | [Java][java-0091] |                    |                       | [back to top] |
+| 0092 |                反转链表 II                 | [Java][java-0092] |                    |                       | [back to top] |
+| 0094 |              二叉树的中序遍历              | [Java][java-0094] |                    |                       | [back to top] |
+| 0104 |              二叉树的最大深度              | [Java][java-0104] |                    |                       | [back to top] |
+| 0121 |             买卖股票的最佳时机             | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
+| 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
+| 0142 |                环形链表 II                 | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
+| 0146 |                  LRU 缓存                  | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
+| 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
+| 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
+| 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
+| 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
+| 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
+| 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
+| 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
+| 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
+| 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
+| 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
+| 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
+| 0652 |               寻找重复的子树               | [Java][java-0652] |                    |                       | [back to top] |
+| 0654 |                 最大二叉树                 | [Java][java-0654] |                    |                       | [back to top] |
+| 0655 |                 输出二叉树                 | [Java][java-0655] |                    |                       | [back to top] |
+| 0658 |           找到 K 个最接近的元素            | [Java][java-0658] |                    |                       | [back to top] |
+| 0659 |            分割数组为连续子序列            | [Java][java-0659] |                    |                       | [back to top] |
+| 0662 |               二叉树最大宽度               | [Java][java-0662] |                    |                       | [back to top] |
+| 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
+| 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
+| 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
+| 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
+| 0869 |            重新排序得到 2 的幂             | [Java][java-0869] |                    |                       | [back to top] |
+| 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
+| 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
+| 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
+| 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
+| 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
+| 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
+| 1422 |            分割字符串的最大得分            | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
+| 1450 |         在既定时间做作业的学生人数         | [Java][java-1450] |                    |                       | [back to top] |
+| 1455 |      检查单词是否为句中其他单词的前缀      | [Java][java-1455] |                    |                       | [back to top] |
+| 1460 |        通过翻转子数组使两个数组相等        | [Java][java-1460] |                    |                       | [back to top] |
+| 1464 |           数组中两元素的最大乘积           | [Java][java-1464] |                    |                       | [back to top] |
+| 1470 |                重新排列数组                | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
+| 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
+| 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -112,6 +113,7 @@
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
+[java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
