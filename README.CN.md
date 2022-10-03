@@ -66,6 +66,7 @@
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
+| 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |               寻找重复的子树               | [Java][java-0652] |                    |                       | [back to top] |
@@ -148,6 +149,7 @@
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
+[java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
