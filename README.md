@@ -47,6 +47,8 @@ Recording personal solutions for Leetcode problems.
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
+| 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
+| 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
 | 0091 |                         Decode Ways                          | [Java][java-0091] |                    |                       | [back to top] |
 | 0092 |                    Reverse Linked List II                    | [Java][java-0092] |                    |                       | [back to top] |
@@ -127,6 +129,8 @@ Recording personal solutions for Leetcode problems.
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
+[java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
+[java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
 [java-0091]: ./java-solutions/0091-decode-ways/src/Solution.java
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
