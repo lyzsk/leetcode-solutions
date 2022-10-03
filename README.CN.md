@@ -51,6 +51,7 @@
 | 0091 |                  解码方法                  | [Java][java-0091] |                    |                       | [back to top] |
 | 0092 |                反转链表 II                 | [Java][java-0092] |                    |                       | [back to top] |
 | 0094 |              二叉树的中序遍历              | [Java][java-0094] |                    |                       | [back to top] |
+| 0103 |           二叉树的锯齿形层序遍历           | [Java][java-0103] |                    |                       | [back to top] |
 | 0104 |              二叉树的最大深度              | [Java][java-0104] |                    |                       | [back to top] |
 | 0121 |             买卖股票的最佳时机             | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -129,6 +130,7 @@
 [java-0091]: ./java-solutions/0091-decode-ways/src/Solution.java
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
+[java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
