@@ -93,8 +93,10 @@
 | 1460 |        通过翻转子数组使两个数组相等        | [Java][java-1460] |                    |                       | [back to top] |
 | 1464 |           数组中两元素的最大乘积           | [Java][java-1464] |                    |                       | [back to top] |
 | 1470 |                重新排列数组                | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
+| 1578 |          使绳子变成彩色的最短时间          | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
+| 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -184,6 +186,8 @@
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
