@@ -62,6 +62,7 @@
 | 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |                环形链表 II                 | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
 | 0143 |                  重排链表                  | [Java][java-0143] |                    |                       | [back to top] |
+| 0144 |              二叉树的前序遍历              | [Java][java-0144] |                    |                       | [back to top] |
 | 0146 |                  LRU 缓存                  | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0148 |                  排序链表                  | [Java][java-0148] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
@@ -152,6 +153,7 @@
 [java-0142]: ./java-solutions/0142-linked-list-cycle-ii/src/Solution.java
 [js-0142]: ./javascript-solutions/0142-linked-list-cycle-ii/solution.js
 [java-0143]: ./java-solutions/0143-reorder-list/src/Solution.java
+[java-0144]: ./java-solutions/0144-binary-tree-preorder-traverseal/src/Solution.java
 [java-0146]: ./java-solutions/0146-lru-cache/src/LRUCache.java
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java

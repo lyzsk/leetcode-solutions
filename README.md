@@ -62,6 +62,7 @@ Recording personal solutions for Leetcode problems.
 | 0141 |                      Linked List Cycle                       | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |                     Linked List Cycle II                     | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
 | 0143 |                         Reorder List                         | [Java][java-0143] |                    |                       | [back to top] |
+| 0144 |                Binary Tree Preorder Traversal                | [Java][java-0144] |                    |                       | [back to top] |
 | 0146 |                          LRU Cache                           | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0148 |                          Sort List                           | [Java][java-0148] |                    |                       | [back to top] |
 | 0160 |               Intersection of Two Linked Lists               | [Java][java-0160] |                    |                       | [back to top] |
@@ -152,6 +153,7 @@ Recording personal solutions for Leetcode problems.
 [java-0142]: ./java-solutions/0142-linked-list-cycle-ii/src/Solution.java
 [js-0142]: ./javascript-solutions/0142-linked-list-cycle-ii/solution.js
 [java-0143]: ./java-solutions/0143-reorder-list/src/Solution.java
+[java-0144]: ./java-solutions/0144-binary-tree-preorder-traverseal/src/Solution.java
 [java-0146]: ./java-solutions/0146-lru-cache/src/LRUCache.java
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
