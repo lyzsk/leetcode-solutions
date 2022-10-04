@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" filepath="$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" filepath="$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" filepath="$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" filepath="$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" filepath="$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" filepath="$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" />

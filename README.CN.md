@@ -35,6 +35,7 @@
 | 0003 |            无重复字符的最长子串            | [Java][java-0003] | [Python3][py-0003] | [JavaScript][js-0003] | [back to top] |
 | 0005 |                最长回文子串                | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
 | 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
+| 0008 |           字符串转换整数 (atoi)            | [Java][java-0008] |                    |                       | [back to top] |
 | 0015 |                  三数之和                  | [Java][java-0015] |                    |                       | [back to top] |
 | 0020 |                 有效的括号                 | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |              合并两个有序链表              | [Java][java-0021] |                    |                       | [back to top] |
@@ -121,6 +122,7 @@
 [js-0005]: ./javascript-solutions/0005-longest-palindromic-substring/solution.js
 [java-0007]: ./java-solutions/0007-reverse-integer/src/Solution.java
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
+[java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0020]: ./java-solutions/0020-valid-parentheses/src/Solution.java
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
