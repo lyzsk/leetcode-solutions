@@ -96,6 +96,7 @@ Recording personal solutions for Leetcode problems.
 | 0912 |                        Sort an Array                         | [Java][java-0912] |                    |                       | [back to top] |
 | 0921 |            Minimum Add to Make Parentheses Valid             | [Java][java-0921] |                    |                       | [back to top] |
 | 0998 |                    Maximum Binary Tree II                    | [Java][java-0998] |                    |                       | [back to top] |
+| 1143 |                  Longest Common Subsequence                  | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                   Maximum Equal Frequency                    | [Java][java-1224] |                    |                       | [back to top] |
 | 1302 |                      Deepest Leaves Sum                      | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
 | 1422 |            Maximum Score After Splitting a String            | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
@@ -196,6 +197,7 @@ Recording personal solutions for Leetcode problems.
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
+[java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
