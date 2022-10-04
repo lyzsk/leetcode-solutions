@@ -57,6 +57,7 @@ Recording personal solutions for Leetcode problems.
 | 0094 |                Binary Tree Inorder Traversal                 | [Java][java-0094] |                    |                       | [back to top] |
 | 0103 |           Binary Tree Zigzag Level Order Traversal           | [Java][java-0103] |                    |                       | [back to top] |
 | 0104 |                 Maximum Depth of Binary Tree                 | [Java][java-0104] |                    |                       | [back to top] |
+| 0105 |  Construct Binary Tree from Preorder and Inorder Traversal   | [Java][java-0105] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0141 |                      Linked List Cycle                       | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |                     Linked List Cycle II                     | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
@@ -142,6 +143,7 @@ Recording personal solutions for Leetcode problems.
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
+[java-0105]: ./java-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
