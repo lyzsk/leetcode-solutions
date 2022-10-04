@@ -93,6 +93,7 @@
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
+| 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
@@ -191,6 +192,7 @@
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
+[java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
