@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.iml" filepath="$PROJECT_DIR$/0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" filepath="$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" filepath="$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" filepath="$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" />
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" filepath="$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
