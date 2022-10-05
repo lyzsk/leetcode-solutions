@@ -37,6 +37,7 @@
 | 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |           字符串转换整数 (atoi)            | [Java][java-0008] |                    |                       | [back to top] |
 | 0015 |                  三数之和                  | [Java][java-0015] |                    |                       | [back to top] |
+| 0019 |         删除链表的倒数第 N 个结点          | [Java][java-0019] |                    |                       | [back to top] |
 | 0020 |                 有效的括号                 | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |              合并两个有序链表              | [Java][java-0021] |                    |                       | [back to top] |
 | 0022 |                  括号生成                  | [Java][java-0022] |                    |                       | [back to top] |
