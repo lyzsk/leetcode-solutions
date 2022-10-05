@@ -80,6 +80,7 @@ Recording personal solutions for Leetcode problems.
 | 0387 |              First Unique Character in a String              | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0415 |                         Add Strings                          | [Java][java-0415] |                    |                       | [back to top] |
 | 0525 |                       Contiguous Array                       | [Java][java-0525] |                    |                       | [back to top] |
+| 0623 |                     Add One Row to Tree                      | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                    Design Circular Deque                     | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |                   Find Duplicate Subtrees                    | [Java][java-0652] |                    |                       | [back to top] |
 | 0654 |                     Maximum Binary Tree                      | [Java][java-0654] |                    |                       | [back to top] |
@@ -92,6 +93,7 @@ Recording personal solutions for Leetcode problems.
 | 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
 | 0777 |                  Swap Adjacent in LR String                  | [Java][java-0777] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
+| 0811 |                    Subdomain Visit Count                     | [Java][java-0811] |                    |                       | [back to top] |
 | 0869 |                     Reordered Power of 2                     | [Java][java-0869] |                    |                       | [back to top] |
 | 0871 |              Minimum Number of Refueling Stops               | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |                  Middle of the Linked List                   | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
@@ -178,6 +180,7 @@ Recording personal solutions for Leetcode problems.
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
+[java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
@@ -194,6 +197,7 @@ Recording personal solutions for Leetcode problems.
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
+[java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java

@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" filepath="$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" filepath="$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" filepath="$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" filepath="$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/0654-maximum-binary-tree/0654-maximum-binary-tree.iml" filepath="$PROJECT_DIR$/0654-maximum-binary-tree/0654-maximum-binary-tree.iml" />
@@ -64,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/0704-binary-search/0704-binary-search.iml" filepath="$PROJECT_DIR$/0704-binary-search/0704-binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" filepath="$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" filepath="$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" />
       <module fileurl="file://$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" filepath="$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" filepath="$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" />
       <module fileurl="file://$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" />
