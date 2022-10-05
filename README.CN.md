@@ -68,6 +68,7 @@
 | 0146 |                  LRU 缓存                  | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0148 |                  排序链表                  | [Java][java-0148] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
+| 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
 | 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
@@ -167,6 +168,7 @@
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
+[java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
