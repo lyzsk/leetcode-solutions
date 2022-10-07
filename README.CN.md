@@ -96,6 +96,7 @@
 | 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
+| 0732 |             我的日程安排表 III             | [Java][java-0732] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |               子域名访问计数               | [Java][java-0811] |                    |                       | [back to top] |
@@ -204,6 +205,7 @@
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
+[java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
