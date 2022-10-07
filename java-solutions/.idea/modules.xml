@@ -90,6 +90,7 @@
       <module fileurl="file://$PROJECT_DIR$/1656-design-an-Ordered-stream/1656-design-an-Ordered-stream.iml" filepath="$PROJECT_DIR$/1656-design-an-Ordered-stream/1656-design-an-Ordered-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" filepath="$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" filepath="$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
     </modules>
   </component>
 </project>
