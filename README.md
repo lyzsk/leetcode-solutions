@@ -78,6 +78,7 @@ Recording personal solutions for Leetcode problems.
 | 0206 |                     Reverse Linked List                      | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0215 |               Kth Largest Element in an Array                | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                     The Skyline Problem                      | [Java][java-0218] |                    |                       | [back to top] |
+| 0232 |                 Implement Queue using Stacks                 | [Java][java-0232] |                    |                       | [back to top] |
 | 0236 |           Lowest Common Ancestor of a Binary Tree            | [Java][java-0236] |                    |                       | [back to top] |
 | 0300 |                Longest Increasing Subsequence                | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                   Remove Duplicate Letters                   | [Java][java-0316] |                    |                       | [back to top] |
@@ -185,6 +186,7 @@ Recording personal solutions for Leetcode problems.
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
+[java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java

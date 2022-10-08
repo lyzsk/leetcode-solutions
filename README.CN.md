@@ -78,6 +78,7 @@
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
+| 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
