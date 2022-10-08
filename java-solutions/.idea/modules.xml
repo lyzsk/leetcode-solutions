@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" filepath="$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" filepath="$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" filepath="$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0016-3sum-closest/0016-3sum-closest.iml" filepath="$PROJECT_DIR$/0016-3sum-closest/0016-3sum-closest.iml" />
       <module fileurl="file://$PROJECT_DIR$/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.iml" filepath="$PROJECT_DIR$/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" filepath="$PROJECT_DIR$/0020-valid-parentheses/0020-valid-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" filepath="$PROJECT_DIR$/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" filepath="$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" />
       <module fileurl="file://$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" filepath="$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" filepath="$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" filepath="$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" />
       <module fileurl="file://$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" filepath="$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" />

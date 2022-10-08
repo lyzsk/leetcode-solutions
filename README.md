@@ -37,6 +37,7 @@ Recording personal solutions for Leetcode problems.
 | 0007 |                       Reverse Integer                        | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |                   String to Integer (atoi)                   | [Java][java-0008] |                    |                       | [back to top] |
 | 0015 |                             3Sum                             | [Java][java-0015] |                    |                       | [back to top] |
+| 0016 |                         3Sum Closest                         | [Java][java-0016] |                    |                       | [back to top] |
 | 0019 |               Remove Nth Node From End of List               | [Java][java-0019] |                    |                       | [back to top] |
 | 0020 |                      Valid Parentheses                       | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |                    Merge Two Sorted Lists                    | [Java][java-0021] |                    |                       | [back to top] |
@@ -102,6 +103,7 @@ Recording personal solutions for Leetcode problems.
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |                    Subdomain Visit Count                     | [Java][java-0811] |                    |                       | [back to top] |
 | 0869 |                     Reordered Power of 2                     | [Java][java-0869] |                    |                       | [back to top] |
+| 0870 |                      Advantage Shuffle                       | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |              Minimum Number of Refueling Stops               | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |                  Middle of the Linked List                   | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0912 |                        Sort an Array                         | [Java][java-0912] |                    |                       | [back to top] |
@@ -137,6 +139,7 @@ Recording personal solutions for Leetcode problems.
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
+[java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
 [java-0019]: ./java-solutions/0019-remove-nth-node-from-end-of-list/src/Solution.java
 [java-0020]: ./java-solutions/0020-valid-parentheses/src/Solution.java
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
@@ -214,6 +217,7 @@ Recording personal solutions for Leetcode problems.
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
 [java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
+[java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
