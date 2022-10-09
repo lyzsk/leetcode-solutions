@@ -103,6 +103,7 @@ Recording personal solutions for Leetcode problems.
 | 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
 | 0732 |                       My Calendar III                        | [Java][java-0732] |                    |                       | [back to top] |
 | 0777 |                  Swap Adjacent in LR String                  | [Java][java-0777] |                    |                       | [back to top] |
+| 0801 |          Minimum Swaps To Make Sequences Increasing          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |                    Subdomain Visit Count                     | [Java][java-0811] |                    |                       | [back to top] |
 | 0856 |                     Score of Parentheses                     | [Java][java-0856] |                    |                       | [back to top] |
@@ -219,6 +220,7 @@ Recording personal solutions for Leetcode problems.
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
