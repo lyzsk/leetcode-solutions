@@ -67,6 +67,7 @@ Recording personal solutions for Leetcode problems.
 | 0110 |                     Balanced Binary Tree                     | [Java][java-0110] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0124 |                 Binary Tree Maximum Path Sum                 | [Java][java-0124] |                    |                       | [back to top] |
+| 0129 |                   Sum Root to Leaf Numbers                   | [Java][java-0129] |                    |                       | [back to top] |
 | 0141 |                      Linked List Cycle                       | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |                     Linked List Cycle II                     | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
 | 0143 |                         Reorder List                         | [Java][java-0143] |                    |                       | [back to top] |
@@ -176,6 +177,7 @@ Recording personal solutions for Leetcode problems.
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
+[java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
 [js-0141]: ./javascript-solutions/0141-linked-list-cycle/solution.js
 [java-0142]: ./java-solutions/0142-linked-list-cycle-ii/src/Solution.java
