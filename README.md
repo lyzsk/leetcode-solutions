@@ -90,6 +90,7 @@ Recording personal solutions for Leetcode problems.
 | 0623 |                     Add One Row to Tree                      | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                    Design Circular Deque                     | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |                   Find Duplicate Subtrees                    | [Java][java-0652] |                    |                       | [back to top] |
+| 0653 |                 Two Sum IV - Input is a BST                  | [Java][java-0653] |                    |                       | [back to top] |
 | 0654 |                     Maximum Binary Tree                      | [Java][java-0654] |                    |                       | [back to top] |
 | 0655 |                      Print Binary Tree                       | [Java][java-0655] |                    |                       | [back to top] |
 | 0658 |                   Find K Closest Elements                    | [Java][java-0658] |                    |                       | [back to top] |
@@ -203,6 +204,7 @@ Recording personal solutions for Leetcode problems.
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
+[java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
 [java-0655]: ./java-solutions/0655-print-binary-tree/src/
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java

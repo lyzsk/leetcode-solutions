@@ -90,6 +90,7 @@
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |               寻找重复的子树               | [Java][java-0652] |                    |                       | [back to top] |
+| 0653 |        两数之和 IV - 输入二叉搜索树        | [Java][java-0653] |                    |                       | [back to top] |
 | 0654 |                 最大二叉树                 | [Java][java-0654] |                    |                       | [back to top] |
 | 0655 |                 输出二叉树                 | [Java][java-0655] |                    |                       | [back to top] |
 | 0658 |           找到 K 个最接近的元素            | [Java][java-0658] |                    |                       | [back to top] |
@@ -203,6 +204,7 @@
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
+[java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
 [java-0655]: ./java-solutions/0655-print-binary-tree/src/
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
