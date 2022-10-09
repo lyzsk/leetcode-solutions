@@ -102,6 +102,7 @@ Recording personal solutions for Leetcode problems.
 | 0777 |                  Swap Adjacent in LR String                  | [Java][java-0777] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |                    Subdomain Visit Count                     | [Java][java-0811] |                    |                       | [back to top] |
+| 0856 |                     Score of Parentheses                     | [Java][java-0856] |                    |                       | [back to top] |
 | 0869 |                     Reordered Power of 2                     | [Java][java-0869] |                    |                       | [back to top] |
 | 0870 |                      Advantage Shuffle                       | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |              Minimum Number of Refueling Stops               | [Java][java-0871] |                    |                       | [back to top] |
@@ -216,6 +217,7 @@ Recording personal solutions for Leetcode problems.
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
 [java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
+[java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
