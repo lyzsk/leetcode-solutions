@@ -6,7 +6,7 @@ import java.util.List;
  * @date 2022/10/09
  **/
 public class Solution {
-    private List<Integer> list = new ArrayList<>();
+    private final List<Integer> list = new ArrayList<>();
 
     private void inorderTraversal(TreeNode root) {
         if (root == null) {

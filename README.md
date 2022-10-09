@@ -52,6 +52,7 @@ Recording personal solutions for Leetcode problems.
 | 0047 |                       Permutations II                        | [Java][java-0047] |                    |                       | [back to top] |
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
+| 0056 |                       Merge Intervals                        | [Java][java-0056] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
@@ -157,6 +158,7 @@ Recording personal solutions for Leetcode problems.
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
+[java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
