@@ -58,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" filepath="$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" filepath="$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" filepath="$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.iml" filepath="$PROJECT_DIR$/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" filepath="$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
@@ -100,6 +101,7 @@
       <module fileurl="file://$PROJECT_DIR$/1656-design-an-Ordered-stream/1656-design-an-Ordered-stream.iml" filepath="$PROJECT_DIR$/1656-design-an-Ordered-stream/1656-design-an-Ordered-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" filepath="$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" filepath="$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" filepath="$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
     </modules>
   </component>
