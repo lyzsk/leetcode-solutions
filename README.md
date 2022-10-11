@@ -89,7 +89,7 @@ Recording personal solutions for Leetcode problems.
 | 0334 |                Increasing Triplet Subsequence                | [Java][java-0334] |                    |                       | [back to top] |
 | 0387 |              First Unique Character in a String              | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0415 |                         Add Strings                          | [Java][java-0415] |                    |                       | [back to top] |
-| 0443 |                      String Compression                      | [Java][java-0443] |                    |                       | [back to top] |
+| 0443 |                      String Compression                      | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0525 |                       Contiguous Array                       | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |                     Add One Row to Tree                      | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                    Design Circular Deque                     | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -213,6 +213,7 @@ Recording personal solutions for Leetcode problems.
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
+[js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
