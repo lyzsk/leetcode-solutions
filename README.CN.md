@@ -88,6 +88,7 @@
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
+| 0402 |               移掉 K 位数字                | [Java][java-0402] |                    |                       | [back to top] |
 | 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
@@ -208,6 +209,7 @@
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
+[java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
