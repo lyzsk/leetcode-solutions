@@ -89,6 +89,7 @@
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
+| 0443 |                 压缩字符串                 | [Java][java-0443] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -211,6 +212,7 @@
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
+[java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
