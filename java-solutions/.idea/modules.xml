@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" filepath="$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" filepath="$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" filepath="$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" filepath="$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" />
       <module fileurl="file://$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" filepath="$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.iml" filepath="$PROJECT_DIR$/0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.iml" filepath="$PROJECT_DIR$/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.iml" />
@@ -89,6 +90,7 @@
       <module fileurl="file://$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" filepath="$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.iml" filepath="$PROJECT_DIR$/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" filepath="$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" filepath="$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" filepath="$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" filepath="$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" />

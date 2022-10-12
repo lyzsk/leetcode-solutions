@@ -53,6 +53,7 @@ Recording personal solutions for Leetcode problems.
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
 | 0056 |                       Merge Intervals                        | [Java][java-0056] |                    |                       | [back to top] |
+| 0069 |                           Sqrt(x)                            | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
@@ -117,6 +118,7 @@ Recording personal solutions for Leetcode problems.
 | 0876 |                  Middle of the Linked List                   | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0912 |                        Sort an Array                         | [Java][java-0912] |                    |                       | [back to top] |
 | 0921 |            Minimum Add to Make Parentheses Valid             | [Java][java-0921] |                    |                       | [back to top] |
+| 0976 |                  Largest Perimeter Triangle                  | [Java][java-0976] |                    |                       | [back to top] |
 | 0998 |                    Maximum Binary Tree II                    | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |                  Longest Common Subsequence                  | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                   Maximum Equal Frequency                    | [Java][java-1224] |                    |                       | [back to top] |
@@ -167,6 +169,7 @@ Recording personal solutions for Leetcode problems.
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
+[java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
@@ -244,6 +247,7 @@ Recording personal solutions for Leetcode problems.
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
+[java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
