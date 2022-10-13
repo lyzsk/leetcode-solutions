@@ -84,6 +84,7 @@ Recording personal solutions for Leetcode problems.
 | 0218 |                     The Skyline Problem                      | [Java][java-0218] |                    |                       | [back to top] |
 | 0232 |                 Implement Queue using Stacks                 | [Java][java-0232] |                    |                       | [back to top] |
 | 0236 |           Lowest Common Ancestor of a Binary Tree            | [Java][java-0236] |                    |                       | [back to top] |
+| 0237 |                 Delete Node in a Linked List                 | [Java][java-0237] |                    |                       | [back to top] |
 | 0300 |                Longest Increasing Subsequence                | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                   Remove Duplicate Letters                   | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                         Coin Change                          | [Java][java-0322] |                    |                       | [back to top] |
@@ -106,6 +107,7 @@ Recording personal solutions for Leetcode problems.
 | 0695 |                      Max Area of Island                      | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
 | 0732 |                       My Calendar III                        | [Java][java-0732] |                    |                       | [back to top] |
+| 0769 |                  Max Chunks To Make Sorted                   | [Java][java-0769] |                    |                       | [back to top] |
 | 0777 |                  Swap Adjacent in LR String                  | [Java][java-0777] |                    |                       | [back to top] |
 | 0801 |          Minimum Swaps To Make Sequences Increasing          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                   Unique Morse Code Words                    | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -207,6 +209,7 @@ Recording personal solutions for Leetcode problems.
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
+[java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
@@ -232,6 +235,7 @@ Recording personal solutions for Leetcode problems.
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
+[java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java

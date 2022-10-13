@@ -84,6 +84,7 @@
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
+| 0237 |              删除链表中的节点              | [Java][java-0237] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
@@ -106,6 +107,7 @@
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
 | 0732 |             我的日程安排表 III             | [Java][java-0732] |                    |                       | [back to top] |
+| 0769 |             最多能完成排序的块             | [Java][java-0769] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
 | 0801 |          使序列递增的最小交换次数          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -207,6 +209,7 @@
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
+[java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
@@ -232,6 +235,7 @@
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
+[java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
