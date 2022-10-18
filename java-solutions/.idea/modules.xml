@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/0001-two-sum/0001-two-sum.iml" filepath="$PROJECT_DIR$/0001-two-sum/0001-two-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0002-add-two-numbers/0002-add-two-numbers.iml" filepath="$PROJECT_DIR$/0002-add-two-numbers/0002-add-two-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.iml" filepath="$PROJECT_DIR$/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" filepath="$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" filepath="$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" filepath="$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" />

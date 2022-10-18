@@ -33,6 +33,7 @@
 | 0001 |                  两数之和                  | [Java][java-0001] | [Python3][py-0001] | [JavaScript][js-0001] | [back to top] |
 | 0002 |                  两数相加                  | [Java][java-0002] |                    |                       | [back to top] |
 | 0003 |            无重复字符的最长子串            | [Java][java-0003] | [Python3][py-0003] | [JavaScript][js-0003] | [back to top] |
+| 0004 |          寻找两个正序数组的中位数          | [Java][java-0004] |                    |                       | [back to top] |
 | 0005 |                最长回文子串                | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
 | 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |           字符串转换整数 (atoi)            | [Java][java-0008] |                    |                       | [back to top] |
@@ -148,6 +149,7 @@
 [java-0003]: ./java-solutions/0003-longest-substring-without-repeating-characters/src/Solution.java
 [py-0003]: ./python-solutions/0003-longest-substring-without-repeating-characters/solution.py
 [js-0003]: ./javascript-solutions/0003-longest-substring-without-repeating-characters/solution.js
+[java-0004]: ./java-solutions/0004-median-of-two-sorted-arrays/src/Solution.java
 [java-0005]: ./java-solutions/0005-longest-palindromic-substring/src/Solution.java
 [py-0005]: ./python-solutions/0005-longest-palindromic-substring/solution.py
 [js-0005]: ./javascript-solutions/0005-longest-palindromic-substring/solution.js
