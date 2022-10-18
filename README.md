@@ -47,6 +47,7 @@ Recording personal solutions for Leetcode problems.
 | 0031 |                       Next Permutation                       | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 |   Find First and Last Position of Element in Sorted Array    | [Java][java-0034] |                    |                       | [back to top] |
+| 0038 |                        Count and Say                         | [Java][java-0038] |                    |                       | [back to top] |
 | 0042 |                     Trapping Rain Water                      | [Java][java-0042] |                    |                       | [back to top] |
 | 0046 |                         Permutations                         | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                       Permutations II                        | [Java][java-0047] |                    |                       | [back to top] |
@@ -164,6 +165,7 @@ Recording personal solutions for Leetcode problems.
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
+[java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0042]: ./java-solutions/0042-trapping-rain-water/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
