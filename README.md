@@ -91,6 +91,7 @@ Recording personal solutions for Leetcode problems.
 | 0316 |                   Remove Duplicate Letters                   | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                         Coin Change                          | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |                Increasing Triplet Subsequence                | [Java][java-0334] |                    |                       | [back to top] |
+| 0347 |                   Top K Frequent Elements                    | [Java][java-0347] |                    |                       | [back to top] |
 | 0387 |              First Unique Character in a String              | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |                       Remove K Digits                        | [Java][java-0402] |                    |                       | [back to top] |
 | 0415 |                         Add Strings                          | [Java][java-0415] |                    |                       | [back to top] |
@@ -218,6 +219,7 @@ Recording personal solutions for Leetcode problems.
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
+[java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
