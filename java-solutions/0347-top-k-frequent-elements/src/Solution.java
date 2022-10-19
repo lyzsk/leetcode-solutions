@@ -39,7 +39,7 @@ public class Solution {
             res[i] = pq.poll()[0];
         }
         return res;
-        
+
         // 方法三
         // Map<Integer, Integer> freq = new HashMap<>(16);
         // for (int num : nums) {

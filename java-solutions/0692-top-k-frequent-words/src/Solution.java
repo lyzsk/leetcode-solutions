@@ -11,7 +11,7 @@ public class Solution {
             freq.put(word, freq.getOrDefault(word, 0) + 1);
         }
         PriorityQueue<Map.Entry<String, Integer>> pq = new PriorityQueue<>(
-            (o1, o2) -> o1.getValue() == o2.getValue() ? o2.getKey().compareTo(o1.getKey()) :
+            (o1, o2) -> o1.getValue().equals(o2.getValue()) ? o2.getKey().compareTo(o1.getKey()) :
                 o1.getValue() - o2.getValue());
         for (Map.Entry<String, Integer> entry : freq.entrySet()) {
             pq.offer(entry);
