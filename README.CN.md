@@ -107,6 +107,7 @@
 | 0659 |            分割数组为连续子序列            | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |               二叉树最大宽度               | [Java][java-0662] |                    |                       | [back to top] |
 | 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
+| 0692 |              前 K 个高频单词               | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
 | 0732 |             我的日程安排表 III             | [Java][java-0732] |                    |                       | [back to top] |
@@ -238,6 +239,7 @@
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
+[java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
