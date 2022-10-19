@@ -78,6 +78,7 @@
 | 0146 |                  LRU 缓存                  | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0148 |                  排序链表                  | [Java][java-0148] |                    |                       | [back to top] |
 | 0151 |             反转字符串中的单词             | [Java][java-0151] |                    |                       | [back to top] |
+| 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
 | 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
@@ -207,6 +208,7 @@
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
 [java-0151]: ./java-solutions/0151-reverse-words-in-a-string/src/Solution.java
+[java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
