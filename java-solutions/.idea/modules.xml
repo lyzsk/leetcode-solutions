@@ -119,6 +119,7 @@
       <module fileurl="file://$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" filepath="$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" />
       <module fileurl="file://$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" filepath="$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" filepath="$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" />
     </modules>
   </component>
 </project>
