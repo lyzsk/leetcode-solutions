@@ -41,6 +41,7 @@ Recording personal solutions for Leetcode problems.
 | 0013 |                       Roman to Integer                       | [Java][java-0013] |                    |                       | [back to top] |
 | 0015 |                             3Sum                             | [Java][java-0015] |                    |                       | [back to top] |
 | 0016 |                         3Sum Closest                         | [Java][java-0016] |                    |                       | [back to top] |
+| 0017 |            Letter Combinations of a Phone Number             | [Java][java-0017] |                    |                       | [back to top] |
 | 0019 |               Remove Nth Node From End of List               | [Java][java-0019] |                    |                       | [back to top] |
 | 0020 |                      Valid Parentheses                       | [Java][java-0020] |                    |                       | [back to top] |
 | 0021 |                    Merge Two Sorted Lists                    | [Java][java-0021] |                    |                       | [back to top] |
@@ -169,6 +170,7 @@ Recording personal solutions for Leetcode problems.
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
+[java-0017]: ./java-solutions/0017-letter-combinations-of-a-phone-number/src/Solution.java
 [java-0019]: ./java-solutions/0019-remove-nth-node-from-end-of-list/src/Solution.java
 [java-0020]: ./java-solutions/0020-valid-parentheses/src/Solution.java
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
