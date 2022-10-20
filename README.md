@@ -65,6 +65,7 @@ Recording personal solutions for Leetcode problems.
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0077 |                         Combinations                         | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                           Subsets                            | [Java][java-0078] |                    |                       | [back to top] |
+| 0079 |                         Word Search                          | [Java][java-0079] |                    |                       | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
@@ -93,6 +94,7 @@ Recording personal solutions for Leetcode problems.
 | 0199 |                 Binary Tree Right Side View                  | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                      Number of Islands                       | [Java][java-0200] |                    |                       | [back to top] |
 | 0206 |                     Reverse Linked List                      | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0212 |                        Word Search II                        | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |               Kth Largest Element in an Array                | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                     The Skyline Problem                      | [Java][java-0218] |                    |                       | [back to top] |
 | 0232 |                 Implement Queue using Stacks                 | [Java][java-0232] |                    |                       | [back to top] |
@@ -201,6 +203,7 @@ Recording personal solutions for Leetcode problems.
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
+[java-0079]: ./java-solutions/0079-word-search/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
@@ -235,6 +238,7 @@ Recording personal solutions for Leetcode problems.
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
+[java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
