@@ -63,6 +63,7 @@ Recording personal solutions for Leetcode problems.
 | 0056 |                       Merge Intervals                        | [Java][java-0056] |                    |                       | [back to top] |
 | 0069 |                           Sqrt(x)                            | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
+| 0077 |                         Combinations                         | [Java][java-0077] |                    |                       | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
@@ -196,6 +197,7 @@ Recording personal solutions for Leetcode problems.
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
+[java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
