@@ -37,6 +37,7 @@ Recording personal solutions for Leetcode problems.
 | 0005 |                Longest Palindromic Substring                 | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
 | 0007 |                       Reverse Integer                        | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |                   String to Integer (atoi)                   | [Java][java-0008] |                    |                       | [back to top] |
+| 0012 |                       Integer to Roman                       | [Java][java-0012] |                    |                       | [back to top] |
 | 0015 |                             3Sum                             | [Java][java-0015] |                    |                       | [back to top] |
 | 0016 |                         3Sum Closest                         | [Java][java-0016] |                    |                       | [back to top] |
 | 0019 |               Remove Nth Node From End of List               | [Java][java-0019] |                    |                       | [back to top] |
@@ -161,6 +162,7 @@ Recording personal solutions for Leetcode problems.
 [java-0007]: ./java-solutions/0007-reverse-integer/src/Solution.java
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
+[java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
 [java-0019]: ./java-solutions/0019-remove-nth-node-from-end-of-list/src/Solution.java
