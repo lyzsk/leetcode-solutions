@@ -52,6 +52,8 @@ Recording personal solutions for Leetcode problems.
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 |   Find First and Last Position of Element in Sorted Array    | [Java][java-0034] |                    |                       | [back to top] |
 | 0038 |                        Count and Say                         | [Java][java-0038] |                    |                       | [back to top] |
+| 0039 |                       Combination Sum                        | [Java][java-0039] |                    |                       | [back to top] |
+| 0040 |                      Combination Sum II                      | [Java][java-0040] |                    |                       | [back to top] |
 | 0042 |                     Trapping Rain Water                      | [Java][java-0042] |                    |                       | [back to top] |
 | 0043 |                       Multiply Strings                       | [Java][java-0043] |                    |                       | [back to top] |
 | 0046 |                         Permutations                         | [Java][java-0046] |                    |                       | [back to top] |
@@ -181,6 +183,8 @@ Recording personal solutions for Leetcode problems.
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
+[java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
+[java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
 [java-0042]: ./java-solutions/0042-trapping-rain-water/src/Solution.java
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
