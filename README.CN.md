@@ -82,6 +82,8 @@
 | 0113 |                路径总和 II                 | [Java][java-0113] |                    |                       | [back to top] |
 | 0121 |             买卖股票的最佳时机             | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0124 |            二叉树中的最大路径和            | [Java][java-0124] |                    |                       | [back to top] |
+| 0126 |                单词接龙 II                 | [Java][java-0126] |                    |                       | [back to top] |
+| 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
 | 0139 |                  单词拆分                  | [Java][java-0139] |                    |                       | [back to top] |
 | 0140 |                单词拆分 II                 | [Java][java-0140] |                    |                       | [back to top] |
@@ -226,6 +228,8 @@
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
+[java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
+[java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
