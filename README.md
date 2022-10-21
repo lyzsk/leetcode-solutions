@@ -85,6 +85,7 @@ Recording personal solutions for Leetcode problems.
 | 0113 |                         Path Sum II                          | [Java][java-0113] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0124 |                 Binary Tree Maximum Path Sum                 | [Java][java-0124] |                    |                       | [back to top] |
+| 0125 |                       Valid Palindrome                       | [Java][java-0125] |                    |                       | [back to top] |
 | 0126 |                        Word Ladder II                        | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                         Word Ladder                          | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |                   Sum Root to Leaf Numbers                   | [Java][java-0129] |                    |                       | [back to top] |
@@ -129,6 +130,7 @@ Recording personal solutions for Leetcode problems.
 | 0658 |                   Find K Closest Elements                    | [Java][java-0658] |                    |                       | [back to top] |
 | 0659 |          Split Array into Consecutive Subsequences           | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |                 Maximum Width of Binary Tree                 | [Java][java-0662] |                    |                       | [back to top] |
+| 0680 |                     Valid Palindrome II                      | [Java][java-0680] |                    |                       | [back to top] |
 | 0687 |                    Longest Univalue Path                     | [Java][java-0687] |                    |                       | [back to top] |
 | 0692 |                     Top K Frequent Words                     | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |                      Max Area of Island                      | [Java][java-0695] |                    |                       | [back to top] |
@@ -234,6 +236,7 @@ Recording personal solutions for Leetcode problems.
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
+[java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
@@ -285,6 +288,7 @@ Recording personal solutions for Leetcode problems.
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
+[java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java

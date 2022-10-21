@@ -85,6 +85,7 @@
 | 0113 |                路径总和 II                 | [Java][java-0113] |                    |                       | [back to top] |
 | 0121 |             买卖股票的最佳时机             | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0124 |            二叉树中的最大路径和            | [Java][java-0124] |                    |                       | [back to top] |
+| 0125 |                 验证回文串                 | [Java][java-0125] |                    |                       | [back to top] |
 | 0126 |                单词接龙 II                 | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
@@ -129,6 +130,7 @@
 | 0658 |           找到 K 个最接近的元素            | [Java][java-0658] |                    |                       | [back to top] |
 | 0659 |            分割数组为连续子序列            | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |               二叉树最大宽度               | [Java][java-0662] |                    |                       | [back to top] |
+| 0680 |               验证回文串 II                | [Java][java-0680] |                    |                       | [back to top] |
 | 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
 | 0692 |              前 K 个高频单词               | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
@@ -234,6 +236,7 @@
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
+[java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
@@ -285,6 +288,7 @@
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
+[java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java

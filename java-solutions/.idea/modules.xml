@@ -57,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/0113-path-sum-ii/0113-path-sum-ii.iml" filepath="$PROJECT_DIR$/0113-path-sum-ii/0113-path-sum-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.iml" filepath="$PROJECT_DIR$/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.iml" filepath="$PROJECT_DIR$/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0125-valid-palindrome/0125-valid-palindrome.iml" filepath="$PROJECT_DIR$/0125-valid-palindrome/0125-valid-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" filepath="$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" filepath="$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" filepath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" />
@@ -101,6 +102,7 @@
       <module fileurl="file://$PROJECT_DIR$/0658-find-k-closest-elements/0658-find-k-closest-elements.iml" filepath="$PROJECT_DIR$/0658-find-k-closest-elements/0658-find-k-closest-elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/0659-split-array-into-consecutive-subsequences/0659-split-array-into-consecutive-subsequences.iml" filepath="$PROJECT_DIR$/0659-split-array-into-consecutive-subsequences/0659-split-array-into-consecutive-subsequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.iml" filepath="$PROJECT_DIR$/0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0680-valid-palindrome-ii/0680-valid-palindrome-ii.iml" filepath="$PROJECT_DIR$/0680-valid-palindrome-ii/0680-valid-palindrome-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0687-longest-univalue-path/0687-longest-univalue-path.iml" filepath="$PROJECT_DIR$/0687-longest-univalue-path/0687-longest-univalue-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/0692-top-k-frequent-words/0692-top-k-frequent-words.iml" filepath="$PROJECT_DIR$/0692-top-k-frequent-words/0692-top-k-frequent-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0695-max-area-of-island/0695-max-area-of-island.iml" filepath="$PROJECT_DIR$/0695-max-area-of-island/0695-max-area-of-island.iml" />
