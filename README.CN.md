@@ -37,6 +37,7 @@
 | 0005 |                最长回文子串                | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
 | 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |           字符串转换整数 (atoi)            | [Java][java-0008] |                    |                       | [back to top] |
+| 0009 |                   回文数                   | [Java][java-0009] |                    |                       | [back to top] |
 | 0012 |               整数转罗马数字               | [Java][java-0012] |                    |                       | [back to top] |
 | 0013 |               罗马数字转整数               | [Java][java-0013] |                    |                       | [back to top] |
 | 0015 |                  三数之和                  | [Java][java-0015] |                    |                       | [back to top] |
@@ -181,6 +182,7 @@
 [java-0007]: ./java-solutions/0007-reverse-integer/src/Solution.java
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
+[java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java

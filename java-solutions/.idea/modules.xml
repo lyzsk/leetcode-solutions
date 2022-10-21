@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" filepath="$PROJECT_DIR$/0005-longest-palindromic-substring/0005-longest-palindromic-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" filepath="$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" filepath="$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0009-palindrome-number/0009-palindrome-number.iml" filepath="$PROJECT_DIR$/0009-palindrome-number/0009-palindrome-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0012-integer-to-roman/0012-integer-to-roman.iml" filepath="$PROJECT_DIR$/0012-integer-to-roman/0012-integer-to-roman.iml" />
       <module fileurl="file://$PROJECT_DIR$/0013-roman-to-integer/0013-roman-to-integer.iml" filepath="$PROJECT_DIR$/0013-roman-to-integer/0013-roman-to-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" filepath="$PROJECT_DIR$/0015-3-sum/0015-3-sum.iml" />
