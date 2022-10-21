@@ -58,6 +58,8 @@
 | 0043 |                 字符串相乘                 | [Java][java-0043] |                    |                       | [back to top] |
 | 0046 |                   全排列                   | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                 全排列 II                  | [Java][java-0047] |                    |                       | [back to top] |
+| 0051 |                   N 皇后                   | [Java][java-0051] |                    |                       | [back to top] |
+| 0052 |                 N 皇后 II                  | [Java][java-0052] |                    |                       | [back to top] |
 | 0053 |                最大子数组和                | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                  螺旋矩阵                  | [Java][java-0054] |                    |                       | [back to top] |
 | 0056 |                  合并区间                  | [Java][java-0056] |                    |                       | [back to top] |
@@ -200,6 +202,8 @@
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
+[java-0051]: ./java-solutions/0051-n-queens/src/Solution.java
+[java-0052]: ./java-solutions/0052-n-queens-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java

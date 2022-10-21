@@ -30,6 +30,8 @@
       <module fileurl="file://$PROJECT_DIR$/0043-multiply-strings/0043-multiply-strings.iml" filepath="$PROJECT_DIR$/0043-multiply-strings/0043-multiply-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0046-permutations/0046-permutations.iml" filepath="$PROJECT_DIR$/0046-permutations/0046-permutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0047-permutations-ii/0047-permutations-ii.iml" filepath="$PROJECT_DIR$/0047-permutations-ii/0047-permutations-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0051-n-queens/0051-n-queens.iml" filepath="$PROJECT_DIR$/0051-n-queens/0051-n-queens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" filepath="$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" filepath="$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" filepath="$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" filepath="$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" />
