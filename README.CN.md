@@ -83,6 +83,8 @@
 | 0121 |             买卖股票的最佳时机             | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
 | 0124 |            二叉树中的最大路径和            | [Java][java-0124] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
+| 0139 |                  单词拆分                  | [Java][java-0139] |                    |                       | [back to top] |
+| 0140 |                单词拆分 II                 | [Java][java-0140] |                    |                       | [back to top] |
 | 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
 | 0142 |                环形链表 II                 | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
 | 0143 |                  重排链表                  | [Java][java-0143] |                    |                       | [back to top] |
@@ -225,6 +227,8 @@
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
+[java-0139]: ./java-solutions/0139-word-break/src/Solution.java
+[java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
 [js-0141]: ./javascript-solutions/0141-linked-list-cycle/solution.js
 [java-0142]: ./java-solutions/0142-linked-list-cycle-ii/src/Solution.java
