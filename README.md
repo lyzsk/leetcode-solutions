@@ -110,6 +110,7 @@ Recording personal solutions for Leetcode problems.
 | 0212 |                        Word Search II                        | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |               Kth Largest Element in an Array                | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                     The Skyline Problem                      | [Java][java-0218] |                    |                       | [back to top] |
+| 0230 |                Kth Smallest Element in a BST                 | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                 Implement Queue using Stacks                 | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                    Palindrome Linked List                    | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |           Lowest Common Ancestor of a Binary Tree            | [Java][java-0236] |                    |                       | [back to top] |
@@ -120,6 +121,7 @@ Recording personal solutions for Leetcode problems.
 | 0334 |                Increasing Triplet Subsequence                | [Java][java-0334] |                    |                       | [back to top] |
 | 0347 |                   Top K Frequent Elements                    | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |                  Intersection of Two Arrays                  | [Java][java-0349] |                    |                       | [back to top] |
+| 0378 |           Kth Smallest Element in a Sorted Matrix            | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |              First Unique Character in a String              | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |                       Remove K Digits                        | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                      Longest Palindrome                      | [Java][java-0409] |                    |                       | [back to top] |
@@ -271,6 +273,7 @@ Recording personal solutions for Leetcode problems.
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
+[java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
@@ -281,6 +284,7 @@ Recording personal solutions for Leetcode problems.
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
+[java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java

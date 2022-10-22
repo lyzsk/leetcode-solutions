@@ -110,6 +110,7 @@
 | 0212 |                单词搜索 II                 | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
+| 0230 |         二叉搜索树中第 K 小的元素          | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
@@ -120,6 +121,7 @@
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
 | 0347 |              前 K 个高频元素               | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |               两个数组的交集               | [Java][java-0349] |                    |                       | [back to top] |
+| 0378 |          有序矩阵中第 K 小的元素           | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |               移掉 K 位数字                | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                 最长回文串                 | [Java][java-0409] |                    |                       | [back to top] |
@@ -271,6 +273,7 @@
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
+[java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
@@ -281,6 +284,7 @@
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
+[java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
