@@ -119,6 +119,7 @@ Recording personal solutions for Leetcode problems.
 | 0349 |                  Intersection of Two Arrays                  | [Java][java-0349] |                    |                       | [back to top] |
 | 0387 |              First Unique Character in a String              | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |                       Remove K Digits                        | [Java][java-0402] |                    |                       | [back to top] |
+| 0409 |                      Longest Palindrome                      | [Java][java-0409] |                    |                       | [back to top] |
 | 0415 |                         Add Strings                          | [Java][java-0415] |                    |                       | [back to top] |
 | 0443 |                      String Compression                      | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0525 |                       Contiguous Array                       | [Java][java-0525] |                    |                       | [back to top] |
@@ -276,6 +277,7 @@ Recording personal solutions for Leetcode problems.
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
+[java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
