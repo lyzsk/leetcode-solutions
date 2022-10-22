@@ -8,19 +8,19 @@ import java.util.Set;
 public class Solution {
     private final Set<String> set = new HashSet<>();
 
-    private static String countDigits(int n) {
-        char[] count = new char[10];
+    private static String countDigit(int n) {
+        char[] cnt = new char[10];
         while (n > 0) {
-            ++count[n % 10];
+            ++cnt[n % 10];
             n /= 10;
         }
-        return new String(count);
+        return new String(cnt);
     }
 
     public boolean reorderedPowerOf2(int n) {
-        for (int i = 1; i < 1e9; i <<= 1) {
-            set.add(countDigits(i));
+        for (int i = 1; i <= 1e9; i <<= 1) {
+            set.add(countDigit(i));
         }
-        return set.contains(countDigits(n));
+        return set.contains(countDigit(n));
     }
 }
