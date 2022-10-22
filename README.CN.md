@@ -40,6 +40,7 @@
 | 0009 |                   回文数                   | [Java][java-0009] |                    |                       | [back to top] |
 | 0012 |               整数转罗马数字               | [Java][java-0012] |                    |                       | [back to top] |
 | 0013 |               罗马数字转整数               | [Java][java-0013] |                    |                       | [back to top] |
+| 0014 |                最长公共前缀                | [Java][java-0014] |                    |                       | [back to top] |
 | 0015 |                  三数之和                  | [Java][java-0015] |                    |                       | [back to top] |
 | 0016 |              最接近的三数之和              | [Java][java-0016] |                    |                       | [back to top] |
 | 0017 |             电话号码的字母组合             | [Java][java-0017] |                    |                       | [back to top] |
@@ -189,6 +190,7 @@
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
+[java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
 [java-0017]: ./java-solutions/0017-letter-combinations-of-a-phone-number/src/Solution.java

@@ -40,6 +40,7 @@ Recording personal solutions for Leetcode problems.
 | 0009 |                      Palindrome Number                       | [Java][java-0009] |                    |                       | [back to top] |
 | 0012 |                       Integer to Roman                       | [Java][java-0012] |                    |                       | [back to top] |
 | 0013 |                       Roman to Integer                       | [Java][java-0013] |                    |                       | [back to top] |
+| 0014 |                    Longest Common Prefix                     | [Java][java-0014] |                    |                       | [back to top] |
 | 0015 |                             3Sum                             | [Java][java-0015] |                    |                       | [back to top] |
 | 0016 |                         3Sum Closest                         | [Java][java-0016] |                    |                       | [back to top] |
 | 0017 |            Letter Combinations of a Phone Number             | [Java][java-0017] |                    |                       | [back to top] |
@@ -189,6 +190,7 @@ Recording personal solutions for Leetcode problems.
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
+[java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
 [java-0017]: ./java-solutions/0017-letter-combinations-of-a-phone-number/src/Solution.java
