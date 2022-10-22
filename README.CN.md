@@ -50,6 +50,7 @@
 | 0022 |                  括号生成                  | [Java][java-0022] |                    |                       | [back to top] |
 | 0023 |             合并 K 个升序链表              | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
+| 0026 |           删除有序数组中的重复项           | [Java][java-0026] |                    |                       | [back to top] |
 | 0031 |                 下一个排列                 | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
@@ -70,6 +71,7 @@
 | 0077 |                    组合                    | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                    子集                    | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                  单词搜索                  | [Java][java-0079] |                    |                       | [back to top] |
+| 0080 |         删除有序数组中的重复项 II          | [Java][java-0080] |                    |                       | [back to top] |
 | 0082 |        删除排序链表中的重复元素 II         | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |          删除排序链表中的重复元素          | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |              合并两个有序数组              | [Java][java-0088] |                    |                       | [back to top] |
@@ -200,6 +202,7 @@
 [java-0022]: ./java-solutions/0022-generate-parentheses/src/Solution.java
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
+[java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
@@ -222,6 +225,7 @@
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java
+[java-0080]: ./java-solutions/0080-remove-duplicates-from-sorted-array-ii/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java

@@ -50,6 +50,7 @@ Recording personal solutions for Leetcode problems.
 | 0022 |                     Generate Parentheses                     | [Java][java-0022] |                    |                       | [back to top] |
 | 0023 |                     Merge k Sorted Lists                     | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |                   Reverse Nodes in k-Group                   | [Java][java-0025] |                    |                       | [back to top] |
+| 0026 |             Remove Duplicates from Sorted Array              | [Java][java-0026] |                    |                       | [back to top] |
 | 0031 |                       Next Permutation                       | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 |   Find First and Last Position of Element in Sorted Array    | [Java][java-0034] |                    |                       | [back to top] |
@@ -70,6 +71,7 @@ Recording personal solutions for Leetcode problems.
 | 0077 |                         Combinations                         | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                           Subsets                            | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                         Word Search                          | [Java][java-0079] |                    |                       | [back to top] |
+| 0080 |            Remove Duplicates from Sorted Array II            | [Java][java-0080] |                    |                       | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
@@ -200,6 +202,7 @@ Recording personal solutions for Leetcode problems.
 [java-0022]: ./java-solutions/0022-generate-parentheses/src/Solution.java
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
+[java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
@@ -222,6 +225,7 @@ Recording personal solutions for Leetcode problems.
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java
+[java-0080]: ./java-solutions/0080-remove-duplicates-from-sorted-array-ii/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java

@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/0022-generate-parentheses/0022-generate-parentheses.iml" filepath="$PROJECT_DIR$/0022-generate-parentheses/0022-generate-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.iml" filepath="$PROJECT_DIR$/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" filepath="$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.iml" filepath="$PROJECT_DIR$/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0031-next-permutation/0031-next-permutation.iml" filepath="$PROJECT_DIR$/0031-next-permutation/0031-next-permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" filepath="$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" filepath="$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" />
@@ -42,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/0077-combinations/0077-combinations.iml" filepath="$PROJECT_DIR$/0077-combinations/0077-combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0078-subsets/0078-subsets.iml" filepath="$PROJECT_DIR$/0078-subsets/0078-subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/0079-word-search/0079-word-search.iml" filepath="$PROJECT_DIR$/0079-word-search/0079-word-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.iml" filepath="$PROJECT_DIR$/0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.iml" filepath="$PROJECT_DIR$/0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.iml" filepath="$PROJECT_DIR$/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0088-merge-sorted-array/0088-merge-sorted-array.iml" filepath="$PROJECT_DIR$/0088-merge-sorted-array/0088-merge-sorted-array.iml" />
