@@ -108,6 +108,7 @@
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
+| 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
 | 0237 |              删除链表中的节点              | [Java][java-0237] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
@@ -263,6 +264,7 @@
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
+[java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
