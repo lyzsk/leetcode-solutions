@@ -169,6 +169,7 @@ Recording personal solutions for Leetcode problems.
 | 1578 |              Minimum Time to Make Rope Colorful              | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                   Design an Ordered Stream                   | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1694 |                    Reformat Phone Number                     | [Java][java-1694] |                    |                       | [back to top] |
+| 1768 |                  Merge Strings Alternately                   | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |    Check if Binary String Has at Most One Segment of Ones    | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |       Check if One String Swap Can Make Strings Equal        | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                Maximum Ascending Subarray Sum                | [Java][java-1800] |                    |                       | [back to top] |
@@ -340,6 +341,7 @@ Recording personal solutions for Leetcode problems.
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
