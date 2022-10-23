@@ -181,6 +181,7 @@ Recording personal solutions for Leetcode problems.
 | 1784 |    Check if Binary String Has at Most One Segment of Ones    | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |       Check if One String Swap Can Make Strings Equal        | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                Maximum Ascending Subarray Sum                | [Java][java-1800] |                    |                       | [back to top] |
+| 1905 |                      Count Sub Islands                       | [Java][java-1905] |                    |                       | [back to top] |
 | 2363 |                     Merge Similar Items                      | [Java][java-2363] |                    |                       | [back to top] |
 
 [back to top]: #solutions
@@ -361,4 +362,5 @@ Recording personal solutions for Leetcode problems.
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
