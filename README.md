@@ -98,6 +98,7 @@ Recording personal solutions for Leetcode problems.
 | 0142 |                     Linked List Cycle II                     | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
 | 0143 |                         Reorder List                         | [Java][java-0143] |                    |                       | [back to top] |
 | 0144 |                Binary Tree Preorder Traversal                | [Java][java-0144] |                    |                       | [back to top] |
+| 0145 |               Binary Tree Postorder Traversal                | [Java][java-0145] |                    |                       | [back to top] |
 | 0146 |                          LRU Cache                           | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0148 |                          Sort List                           | [Java][java-0148] |                    |                       | [back to top] |
 | 0151 |                  Reverse Words in a String                   | [Java][java-0151] |                    |                       | [back to top] |
@@ -260,6 +261,7 @@ Recording personal solutions for Leetcode problems.
 [js-0142]: ./javascript-solutions/0142-linked-list-cycle-ii/solution.js
 [java-0143]: ./java-solutions/0143-reorder-list/src/Solution.java
 [java-0144]: ./java-solutions/0144-binary-tree-preorder-traverseal/src/Solution.java
+[java-0145]: ./java-solutions/0145-binary-tree-postorder-traversal/src/Solution.java
 [java-0146]: ./java-solutions/0146-lru-cache/src/LRUCache.java
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
