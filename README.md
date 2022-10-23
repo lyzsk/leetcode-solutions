@@ -73,6 +73,7 @@ Recording personal solutions for Leetcode problems.
 | 0078 |                           Subsets                            | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                         Word Search                          | [Java][java-0079] |                    |                       | [back to top] |
 | 0080 |            Remove Duplicates from Sorted Array II            | [Java][java-0080] |                    |                       | [back to top] |
+| 0081 |              Search in Rotated Sorted Array II               | [Java][java-0081] |                    |                       | [back to top] |
 | 0082 |            Remove Duplicates from Sorted List II             | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |              Remove Duplicates from Sorted List              | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |                      Merge Sorted Array                      | [Java][java-0088] |                    |                       | [back to top] |
@@ -235,6 +236,7 @@ Recording personal solutions for Leetcode problems.
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java
 [java-0080]: ./java-solutions/0080-remove-duplicates-from-sorted-array-ii/src/Solution.java
+[java-0081]: ./java-solutions/0081-search-in-rotated-sorted-array-ii/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
