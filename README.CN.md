@@ -54,6 +54,7 @@
 | 0031 |                 下一个排列                 | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
+| 0035 |                搜索插入位置                | [Java][java-0035] |                    |                       | [back to top] |
 | 0038 |                  外观数列                  | [Java][java-0038] |                    |                       | [back to top] |
 | 0039 |                  组合总和                  | [Java][java-0039] |                    |                       | [back to top] |
 | 0040 |                组合总和 II                 | [Java][java-0040] |                    |                       | [back to top] |
@@ -213,6 +214,7 @@
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
+[java-0035]: ./java-solutions/0035-search-insert-position/src/Solution.java
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
 [java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
