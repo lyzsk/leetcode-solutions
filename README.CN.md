@@ -126,6 +126,7 @@
 | 0402 |               移掉 K 位数字                | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                 最长回文串                 | [Java][java-0409] |                    |                       | [back to top] |
 | 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
+| 0423 |              从英文中重建数字              | [Java][java-0423] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
@@ -293,6 +294,7 @@
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
+[java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
