@@ -161,6 +161,7 @@
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
+| 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
@@ -337,6 +338,7 @@
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
+[java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
