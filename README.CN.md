@@ -179,6 +179,7 @@
 | 1470 |                重新排列数组                | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
 | 1578 |          使绳子变成彩色的最短时间          | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
+| 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
@@ -363,6 +364,7 @@
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
+[java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java

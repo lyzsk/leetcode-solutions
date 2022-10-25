@@ -179,6 +179,7 @@ Recording personal solutions for Leetcode problems.
 | 1470 |                      Shuffle the Array                       | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
 | 1578 |              Minimum Time to Make Rope Colorful              | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                   Design an Ordered Stream                   | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
+| 1662 |          Check If Two String Arrays are Equivalent           | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |                    Reformat Phone Number                     | [Java][java-1694] |                    |                       | [back to top] |
 | 1768 |                  Merge Strings Alternately                   | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |    Check if Binary String Has at Most One Segment of Ones    | [Java][java-1784] |                    |                       | [back to top] |
@@ -363,6 +364,7 @@ Recording personal solutions for Leetcode problems.
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
+[java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
