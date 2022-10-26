@@ -67,6 +67,7 @@ Recording personal solutions for Leetcode problems.
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
 | 0056 |                       Merge Intervals                        | [Java][java-0056] |                    |                       | [back to top] |
+| 0061 |                         Rotate List                          | [Java][java-0061] |                    |                       | [back to top] |
 | 0069 |                           Sqrt(x)                            | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                       Climbing Stairs                        | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0077 |                         Combinations                         | [Java][java-0077] |                    |                       | [back to top] |
@@ -234,6 +235,7 @@ Recording personal solutions for Leetcode problems.
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
+[java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
