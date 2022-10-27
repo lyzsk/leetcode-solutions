@@ -89,6 +89,7 @@ Recording personal solutions for Leetcode problems.
 | 0105 |  Construct Binary Tree from Preorder and Inorder Traversal   | [Java][java-0105] |                    |                       | [back to top] |
 | 0107 |             Binary Tree Level Order Traversal II             | [Java][java-0107] |                    |                       | [back to top] |
 | 0110 |                     Balanced Binary Tree                     | [Java][java-0110] |                    |                       | [back to top] |
+| 0111 |                 Minimum Depth of Binary Tree                 | [Java][java-0111] |                    |                       | [back to top] |
 | 0112 |                           Path Sum                           | [Java][java-0112] |                    |                       | [back to top] |
 | 0113 |                         Path Sum II                          | [Java][java-0113] |                    |                       | [back to top] |
 | 0121 |               Best Time to Buy and Sell Stock                | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
@@ -258,6 +259,7 @@ Recording personal solutions for Leetcode problems.
 [java-0105]: ./java-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java
 [java-0107]: ./java-solutions/0107-binary-tree-level-order-traversal-ii/src/Solution.java
 [java-0110]: ./java-solutions/0110-balanced-binary-tree/src/Solution.java
+[java-0111]: ./java-solutions/0111-minimum-depth-of-binary-tree/src/Solution.java
 [java-0112]: ./java-solutions/0112-path-sum/src/Solution.java
 [java-0113]: ./java-solutions/0113-path-sum-ii/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
