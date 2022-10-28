@@ -164,6 +164,7 @@ Recording personal solutions for Leetcode problems.
 | 0870 |                      Advantage Shuffle                       | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |              Minimum Number of Refueling Stops               | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |                  Middle of the Linked List                   | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
+| 0907 |                   Sum of Subarray Minimums                   | [Java][java-0907] |                    |                       | [back to top] |
 | 0912 |                        Sort an Array                         | [Java][java-0912] |                    |                       | [back to top] |
 | 0915 |           Partition Array into Disjoint Intervals            | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            Minimum Add to Make Parentheses Valid             | [Java][java-0921] |                    |                       | [back to top] |
@@ -346,6 +347,7 @@ Recording personal solutions for Leetcode problems.
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java

@@ -164,6 +164,7 @@
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
+| 0907 |             子数组的最小值之和             | [Java][java-0907] |                    |                       | [back to top] |
 | 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
 | 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
@@ -346,6 +347,7 @@
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
