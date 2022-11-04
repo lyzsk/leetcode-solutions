@@ -126,6 +126,7 @@ Recording personal solutions for Leetcode problems.
 | 0316 |                   Remove Duplicate Letters                   | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                         Coin Change                          | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |                Increasing Triplet Subsequence                | [Java][java-0334] |                    |                       | [back to top] |
+| 0345 |                  Reverse Vowels of a String                  | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |                   Top K Frequent Elements                    | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |                  Intersection of Two Arrays                  | [Java][java-0349] |                    |                       | [back to top] |
 | 0378 |           Kth Smallest Element in a Sorted Matrix            | [Java][java-0378] |                    |                       | [back to top] |
@@ -304,6 +305,7 @@ Recording personal solutions for Leetcode problems.
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
+[java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java

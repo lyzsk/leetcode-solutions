@@ -126,6 +126,7 @@
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
+| 0345 |           反转字符串中的元音字母           | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |              前 K 个高频元素               | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |               两个数组的交集               | [Java][java-0349] |                    |                       | [back to top] |
 | 0378 |          有序矩阵中第 K 小的元素           | [Java][java-0378] |                    |                       | [back to top] |
@@ -304,6 +305,7 @@
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
+[java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
