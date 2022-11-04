@@ -161,6 +161,7 @@
       <module fileurl="file://$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" filepath="$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" filepath="$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" filepath="$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" filepath="$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" />
     </modules>
   </component>
