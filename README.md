@@ -51,6 +51,7 @@ Recording personal solutions for Leetcode problems.
 | 0023 |                     Merge k Sorted Lists                     | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |                   Reverse Nodes in k-Group                   | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |             Remove Duplicates from Sorted Array              | [Java][java-0026] |                    |                       | [back to top] |
+| 0028 |      Find the Index of the First Occurrence in a String      | [Java][java-0028] |                    |                       | [back to top] |
 | 0031 |                       Next Permutation                       | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |                Search in Rotated Sorted Array                | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 |   Find First and Last Position of Element in Sorted Array    | [Java][java-0034] |                    |                       | [back to top] |
@@ -222,6 +223,7 @@ Recording personal solutions for Leetcode problems.
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
+[java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java

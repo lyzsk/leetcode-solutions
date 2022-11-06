@@ -51,6 +51,7 @@
 | 0023 |             合并 K 个升序链表              | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |           删除有序数组中的重复项           | [Java][java-0026] |                    |                       | [back to top] |
+| 0028 |       找出字符串中第一个匹配项的下标       | [Java][java-0028] |                    |                       | [back to top] |
 | 0031 |                 下一个排列                 | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
@@ -222,6 +223,7 @@
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
+[java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
