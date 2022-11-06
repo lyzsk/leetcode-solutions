@@ -67,6 +67,7 @@ Recording personal solutions for Leetcode problems.
 | 0052 |                         N-Queens II                          | [Java][java-0052] |                    |                       | [back to top] |
 | 0053 |                       Maximum Subarray                       | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                        Spiral Matrix                         | [Java][java-0054] |                    |                       | [back to top] |
+| 0055 |                          Jump Game                           | [Java][java-0055] |                    |                       | [back to top] |
 | 0056 |                       Merge Intervals                        | [Java][java-0056] |                    |                       | [back to top] |
 | 0061 |                         Rotate List                          | [Java][java-0061] |                    |                       | [back to top] |
 | 0069 |                           Sqrt(x)                            | [Java][java-0069] |                    |                       | [back to top] |
@@ -240,6 +241,7 @@ Recording personal solutions for Leetcode problems.
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
+[java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java

@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" filepath="$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" filepath="$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" filepath="$PROJECT_DIR$/0054-spiral-matrix/0054-spiral-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0055-jump-game/0055-jump-game.iml" filepath="$PROJECT_DIR$/0055-jump-game/0055-jump-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" filepath="$PROJECT_DIR$/0056-merge-intervals/0056-merge-intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/0061-rotate-list/0061-rotate-list.iml" filepath="$PROJECT_DIR$/0061-rotate-list/0061-rotate-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" filepath="$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" />

@@ -67,6 +67,7 @@
 | 0052 |                 N 皇后 II                  | [Java][java-0052] |                    |                       | [back to top] |
 | 0053 |                最大子数组和                | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
 | 0054 |                  螺旋矩阵                  | [Java][java-0054] |                    |                       | [back to top] |
+| 0055 |                  跳跃游戏                  | [Java][java-0055] |                    |                       | [back to top] |
 | 0056 |                  合并区间                  | [Java][java-0056] |                    |                       | [back to top] |
 | 0061 |                  旋转链表                  | [Java][java-0061] |                    |                       | [back to top] |
 | 0069 |                 x 的平方根                 | [Java][java-0069] |                    |                       | [back to top] |
@@ -240,6 +241,7 @@
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
+[java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
