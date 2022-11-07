@@ -63,6 +63,7 @@
 | 0043 |                 字符串相乘                 | [Java][java-0043] |                    |                       | [back to top] |
 | 0046 |                   全排列                   | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                 全排列 II                  | [Java][java-0047] |                    |                       | [back to top] |
+| 0048 |                  旋转图像                  | [Java][java-0048] |                    |                       | [back to top] |
 | 0051 |                   N 皇后                   | [Java][java-0051] |                    |                       | [back to top] |
 | 0052 |                 N 皇后 II                  | [Java][java-0052] |                    |                       | [back to top] |
 | 0053 |                最大子数组和                | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
@@ -72,6 +73,8 @@
 | 0061 |                  旋转链表                  | [Java][java-0061] |                    |                       | [back to top] |
 | 0069 |                 x 的平方根                 | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                   爬楼梯                   | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
+| 0073 |                  矩阵置零                  | [Java][java-0073] |                    |                       | [back to top] |
+| 0075 |                  颜色分类                  | [Java][java-0075] |                    |                       | [back to top] |
 | 0077 |                    组合                    | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                    子集                    | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                  单词搜索                  | [Java][java-0079] |                    |                       | [back to top] |
@@ -239,6 +242,7 @@
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
+[java-0048]: ./java-solutions/0048-rotate-image/src/Solution.java
 [java-0051]: ./java-solutions/0051-n-queens/src/Solution.java
 [java-0052]: ./java-solutions/0052-n-queens-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
@@ -250,6 +254,8 @@
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
+[java-0073]: ./java-solutions/0073-set-matrix-zeroes/src/Solution.java
+[java-0075]: ./java-solutions/0075-sort-colors/src/Solution.java
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java

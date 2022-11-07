@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/0043-multiply-strings/0043-multiply-strings.iml" filepath="$PROJECT_DIR$/0043-multiply-strings/0043-multiply-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0046-permutations/0046-permutations.iml" filepath="$PROJECT_DIR$/0046-permutations/0046-permutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0047-permutations-ii/0047-permutations-ii.iml" filepath="$PROJECT_DIR$/0047-permutations-ii/0047-permutations-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0048-rotate-image/0048-rotate-image.iml" filepath="$PROJECT_DIR$/0048-rotate-image/0048-rotate-image.iml" />
       <module fileurl="file://$PROJECT_DIR$/0051-n-queens/0051-n-queens.iml" filepath="$PROJECT_DIR$/0051-n-queens/0051-n-queens.iml" />
       <module fileurl="file://$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" filepath="$PROJECT_DIR$/0052-n-queens-ii/0052-n-queens-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" filepath="$PROJECT_DIR$/0053-maximum-subarray/0053-maximum-subarray.iml" />
@@ -44,6 +45,8 @@
       <module fileurl="file://$PROJECT_DIR$/0061-rotate-list/0061-rotate-list.iml" filepath="$PROJECT_DIR$/0061-rotate-list/0061-rotate-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" filepath="$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" />
       <module fileurl="file://$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" filepath="$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" filepath="$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" filepath="$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/0077-combinations/0077-combinations.iml" filepath="$PROJECT_DIR$/0077-combinations/0077-combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0078-subsets/0078-subsets.iml" filepath="$PROJECT_DIR$/0078-subsets/0078-subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/0079-word-search/0079-word-search.iml" filepath="$PROJECT_DIR$/0079-word-search/0079-word-search.iml" />
