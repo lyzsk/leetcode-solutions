@@ -85,6 +85,8 @@ Recording personal solutions for Leetcode problems.
 | 0092 |                    Reverse Linked List II                    | [Java][java-0092] |                    |                       | [back to top] |
 | 0093 |                     Restore IP Addresses                     | [Java][java-0093] |                    |                       | [back to top] |
 | 0094 |                Binary Tree Inorder Traversal                 | [Java][java-0094] |                    |                       | [back to top] |
+| 0098 |                 Validate Binary Search Tree                  | [Java][java-0098] |                    |                       | [back to top] |
+| 0101 |                        Symmetric Tree                        | [Java][java-0101] |                    |                       | [back to top] |
 | 0102 |              Binary Tree Level Order Traversal               | [Java][java-0102] |                    |                       | [back to top] |
 | 0103 |           Binary Tree Zigzag Level Order Traversal           | [Java][java-0103] |                    |                       | [back to top] |
 | 0104 |                 Maximum Depth of Binary Tree                 | [Java][java-0104] |                    |                       | [back to top] |
@@ -128,6 +130,7 @@ Recording personal solutions for Leetcode problems.
 | 0316 |                   Remove Duplicate Letters                   | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                         Coin Change                          | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |                Increasing Triplet Subsequence                | [Java][java-0334] |                    |                       | [back to top] |
+| 0344 |                        Reverse String                        | [Java][java-0344] |                    |                       | [back to top] |
 | 0345 |                  Reverse Vowels of a String                  | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |                   Top K Frequent Elements                    | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |                  Intersection of Two Arrays                  | [Java][java-0349] |                    |                       | [back to top] |
@@ -260,6 +263,8 @@ Recording personal solutions for Leetcode problems.
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
+[java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
+[java-0101]: ./java-solutions/0101-symmetric-tree/src/Solution.java
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
@@ -309,6 +314,7 @@ Recording personal solutions for Leetcode problems.
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
+[java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java

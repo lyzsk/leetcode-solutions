@@ -85,6 +85,8 @@
 | 0092 |                反转链表 II                 | [Java][java-0092] |                    |                       | [back to top] |
 | 0093 |                复原 IP 地址                | [Java][java-0093] |                    |                       | [back to top] |
 | 0094 |              二叉树的中序遍历              | [Java][java-0094] |                    |                       | [back to top] |
+| 0098 |               验证二叉搜索树               | [Java][java-0098] |                    |                       | [back to top] |
+| 0101 |                 对称二叉树                 | [Java][java-0101] |                    |                       | [back to top] |
 | 0102 |              二叉树的层序遍历              | [Java][java-0102] |                    |                       | [back to top] |
 | 0103 |           二叉树的锯齿形层序遍历           | [Java][java-0103] |                    |                       | [back to top] |
 | 0104 |              二叉树的最大深度              | [Java][java-0104] |                    |                       | [back to top] |
@@ -128,6 +130,7 @@
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
+| 0344 |                 反转字符串                 | [Java][java-0344] |                    |                       | [back to top] |
 | 0345 |           反转字符串中的元音字母           | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |              前 K 个高频元素               | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |               两个数组的交集               | [Java][java-0349] |                    |                       | [back to top] |
@@ -260,6 +263,8 @@
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
+[java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
+[java-0101]: ./java-solutions/0101-symmetric-tree/src/Solution.java
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
@@ -309,6 +314,7 @@
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
+[java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
