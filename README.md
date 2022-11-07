@@ -159,6 +159,7 @@ Recording personal solutions for Leetcode problems.
 | 0692 |                     Top K Frequent Words                     | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |                      Max Area of Island                      | [Java][java-0695] |                    |                       | [back to top] |
 | 0704 |                        Binary Search                         | [Java][java-0704] |                    |                       | [back to top] |
+| 0718 |             Maximum Length of Repeated Subarray              | [Java][java-0718] |                    |                       | [back to top] |
 | 0729 |                        My Calendar I                         | [Java][java-0729] |                    |                       | [back to top] |
 | 0731 |                        My Calendar II                        | [Java][java-0731] |                    |                       | [back to top] |
 | 0732 |                       My Calendar III                        | [Java][java-0732] |                    |                       | [back to top] |
@@ -349,6 +350,7 @@ Recording personal solutions for Leetcode problems.
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
+[java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
