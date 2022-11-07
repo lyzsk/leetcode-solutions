@@ -183,8 +183,10 @@
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
+| 1304 |           和为零的 N 个不同整数            | [Java][java-1304] |                    |                       | [back to top] |
 | 1328 |                 破坏回文串                 | [Java][java-1328] |                    |                       | [back to top] |
 | 1422 |            分割字符串的最大得分            | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
+| 1448 |          统计二叉树中好节点的数目          | [Java][java-1448] |                    |                       | [back to top] |
 | 1450 |         在既定时间做作业的学生人数         | [Java][java-1450] |                    |                       | [back to top] |
 | 1455 |      检查单词是否为句中其他单词的前缀      | [Java][java-1455] |                    |                       | [back to top] |
 | 1460 |        通过翻转子数组使两个数组相等        | [Java][java-1460] |                    |                       | [back to top] |
@@ -378,10 +380,12 @@
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
+[java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
+[java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
 [java-1455]: ./java-solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/src/Solution.java
 [java-1460]: ./java-solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays/src/Solution.java
