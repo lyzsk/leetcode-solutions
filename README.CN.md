@@ -182,6 +182,7 @@
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
+| 1239 |            串联字符串的最大长度            | [Java][java-1239] |                    |                       | [back to top] |
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
 | 1304 |           和为零的 N 个不同整数            | [Java][java-1304] |                    |                       | [back to top] |
 | 1328 |                 破坏回文串                 | [Java][java-1328] |                    |                       | [back to top] |
@@ -378,6 +379,7 @@
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
+[java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
