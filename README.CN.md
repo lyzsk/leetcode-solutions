@@ -71,6 +71,7 @@
 | 0055 |                  跳跃游戏                  | [Java][java-0055] |                    |                       | [back to top] |
 | 0056 |                  合并区间                  | [Java][java-0056] |                    |                       | [back to top] |
 | 0061 |                  旋转链表                  | [Java][java-0061] |                    |                       | [back to top] |
+| 0066 |                    加一                    | [Java][java-0066] |                    |                       | [back to top] |
 | 0069 |                 x 的平方根                 | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                   爬楼梯                   | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0073 |                  矩阵置零                  | [Java][java-0073] |                    |                       | [back to top] |
@@ -255,6 +256,7 @@
 [java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
+[java-0066]: ./java-solutions/0066-plus-one/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
