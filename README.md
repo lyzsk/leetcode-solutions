@@ -130,6 +130,7 @@ Recording personal solutions for Leetcode problems.
 | 0234 |                     Palindrome Linked List                     | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            Lowest Common Ancestor of a Binary Tree             | [Java][java-0236] |                    |                       | [back to top] |
 | 0237 |                  Delete Node in a Linked List                  | [Java][java-0237] |                    |                       | [back to top] |
+| 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                    Remove Duplicate Letters                    | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                          Coin Change                           | [Java][java-0322] |                    |                       | [back to top] |
@@ -322,6 +323,7 @@ Recording personal solutions for Leetcode problems.
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
+[java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java

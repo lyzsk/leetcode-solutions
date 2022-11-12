@@ -130,6 +130,7 @@
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
 | 0237 |              删除链表中的节点              | [Java][java-0237] |                    |                       | [back to top] |
+| 0295 |               数据流的中位数               | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
@@ -322,6 +323,7 @@
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
+[java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
