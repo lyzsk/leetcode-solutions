@@ -130,6 +130,7 @@ Recording personal solutions for Leetcode problems.
 | 0234 |                     Palindrome Linked List                     | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            Lowest Common Ancestor of a Binary Tree             | [Java][java-0236] |                    |                       | [back to top] |
 | 0237 |                  Delete Node in a Linked List                  | [Java][java-0237] |                    |                       | [back to top] |
+| 0240 |                     Search a 2D Matrix II                      | [Java][java-0240] |                    |                       | [back to top] |
 | 0242 |                         Valid Anagram                          | [Java][java-0242] |                    |                       | [back to top] |
 | 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |                    |                       | [back to top] |
@@ -323,6 +324,7 @@ Recording personal solutions for Leetcode problems.
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
+[java-0240]: ./java-solutions/0240-search-a-2d-matrix-ii/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
