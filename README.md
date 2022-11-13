@@ -75,6 +75,7 @@ Recording personal solutions for Leetcode problems.
 | 0069 |                            Sqrt(x)                             | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                        Climbing Stairs                         | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0073 |                       Set Matrix Zeroes                        | [Java][java-0073] |                    |                       | [back to top] |
+| 0074 |                       Search a 2D Matrix                       | [Java][java-0074] |                    |                       | [back to top] |
 | 0075 |                          Sort Colors                           | [Java][java-0075] |                    |                       | [back to top] |
 | 0077 |                          Combinations                          | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                            Subsets                             | [Java][java-0078] |                    |                       | [back to top] |
@@ -266,6 +267,7 @@ Recording personal solutions for Leetcode problems.
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
 [java-0073]: ./java-solutions/0073-set-matrix-zeroes/src/Solution.java
+[java-0074]: ./java-solutions/0074-search-a-2d-matrix/src/Solution.java
 [java-0075]: ./java-solutions/0075-sort-colors/src/Solution.java
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java

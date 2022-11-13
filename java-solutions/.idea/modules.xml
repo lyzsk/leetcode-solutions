@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" filepath="$PROJECT_DIR$/0069-sqrtx/0069-sqrtx.iml" />
       <module fileurl="file://$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" filepath="$PROJECT_DIR$/0070-climbing-stairs/0070-climbing-stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" filepath="$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0074-search-a-2d-matrix/0074-search-a-2d-matrix.iml" filepath="$PROJECT_DIR$/0074-search-a-2d-matrix/0074-search-a-2d-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" filepath="$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/0077-combinations/0077-combinations.iml" filepath="$PROJECT_DIR$/0077-combinations/0077-combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0078-subsets/0078-subsets.iml" filepath="$PROJECT_DIR$/0078-subsets/0078-subsets.iml" />
