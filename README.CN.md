@@ -141,6 +141,7 @@
 | 0345 |           反转字符串中的元音字母           | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |              前 K 个高频元素               | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |               两个数组的交集               | [Java][java-0349] |                    |                       | [back to top] |
+| 0371 |                 两整数之和                 | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |          有序矩阵中第 K 小的元素           | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |               移掉 K 位数字                | [Java][java-0402] |                    |                       | [back to top] |
@@ -336,6 +337,7 @@
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
+[java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js

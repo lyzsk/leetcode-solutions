@@ -141,6 +141,7 @@ Recording personal solutions for Leetcode problems.
 | 0345 |                   Reverse Vowels of a String                   | [Java][java-0345] |                    |                       | [back to top] |
 | 0347 |                    Top K Frequent Elements                     | [Java][java-0347] |                    |                       | [back to top] |
 | 0349 |                   Intersection of Two Arrays                   | [Java][java-0349] |                    |                       | [back to top] |
+| 0371 |                      Sum of Two Integers                       | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |               First Unique Character in a String               | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0402 |                        Remove K Digits                         | [Java][java-0402] |                    |                       | [back to top] |
@@ -336,6 +337,7 @@ Recording personal solutions for Leetcode problems.
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
+[java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
