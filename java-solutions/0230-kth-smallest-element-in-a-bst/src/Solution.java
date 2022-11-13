@@ -10,10 +10,10 @@ public class Solution {
         Deque<TreeNode> stack = new ArrayDeque<>();
         while (root != null || !stack.isEmpty()) {
             while (root != null) {
-                stack.addFirst(root);
+                stack.addLast(root);
                 root = root.left;
             }
-            root = stack.removeFirst();
+            root = stack.removeLast();
             --k;
             if (k == 0) {
                 break;
