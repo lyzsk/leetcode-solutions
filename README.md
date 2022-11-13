@@ -38,6 +38,7 @@ Recording personal solutions for Leetcode problems.
 | 0007 |                        Reverse Integer                         | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |                    String to Integer (atoi)                    | [Java][java-0008] |                    |                       | [back to top] |
 | 0009 |                       Palindrome Number                        | [Java][java-0009] |                    |                       | [back to top] |
+| 0011 |                   Container With Most Water                    | [Java][java-0011] |                    |                       | [back to top] |
 | 0012 |                        Integer to Roman                        | [Java][java-0012] |                    |                       | [back to top] |
 | 0013 |                        Roman to Integer                        | [Java][java-0013] |                    |                       | [back to top] |
 | 0014 |                     Longest Common Prefix                      | [Java][java-0014] |                    |                       | [back to top] |
@@ -107,6 +108,7 @@ Recording personal solutions for Leetcode problems.
 | 0126 |                         Word Ladder II                         | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                          Word Ladder                           | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |                    |                       | [back to top] |
+| 0134 |                          Gas Station                           | [Java][java-0134] |                    |                       | [back to top] |
 | 0139 |                           Word Break                           | [Java][java-0139] |                    |                       | [back to top] |
 | 0140 |                         Word Break II                          | [Java][java-0140] |                    |                       | [back to top] |
 | 0141 |                       Linked List Cycle                        | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -212,6 +214,7 @@ Recording personal solutions for Leetcode problems.
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
+| 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -229,6 +232,7 @@ Recording personal solutions for Leetcode problems.
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
+[java-0011]: ./java-solutions/0011-container-with-most-water/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
@@ -302,6 +306,7 @@ Recording personal solutions for Leetcode problems.
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
+[java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
@@ -422,3 +427,4 @@ Recording personal solutions for Leetcode problems.
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
+[java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java

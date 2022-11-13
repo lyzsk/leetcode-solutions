@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" filepath="$PROJECT_DIR$/0007-reverse-integer/0007-reverse-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" filepath="$PROJECT_DIR$/0008-string-to-integer-atoi/0008-string-to-integer-atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/0009-palindrome-number/0009-palindrome-number.iml" filepath="$PROJECT_DIR$/0009-palindrome-number/0009-palindrome-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0011-container-with-most-water/0011-container-with-most-water.iml" filepath="$PROJECT_DIR$/0011-container-with-most-water/0011-container-with-most-water.iml" />
       <module fileurl="file://$PROJECT_DIR$/0012-integer-to-roman/0012-integer-to-roman.iml" filepath="$PROJECT_DIR$/0012-integer-to-roman/0012-integer-to-roman.iml" />
       <module fileurl="file://$PROJECT_DIR$/0013-roman-to-integer/0013-roman-to-integer.iml" filepath="$PROJECT_DIR$/0013-roman-to-integer/0013-roman-to-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0014-longest-common-prefix/0014-longest-common-prefix.iml" filepath="$PROJECT_DIR$/0014-longest-common-prefix/0014-longest-common-prefix.iml" />
@@ -79,6 +80,7 @@
       <module fileurl="file://$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" filepath="$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" filepath="$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" filepath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" filepath="$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" />
       <module fileurl="file://$PROJECT_DIR$/0139-word-break/0139-word-break.iml" filepath="$PROJECT_DIR$/0139-word-break/0139-word-break.iml" />
       <module fileurl="file://$PROJECT_DIR$/0140-word-break-ii/0140-word-break-ii.iml" filepath="$PROJECT_DIR$/0140-word-break-ii/0140-word-break-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0141-linked-list-cycle/0141-linked-list-cycle.iml" filepath="$PROJECT_DIR$/0141-linked-list-cycle/0141-linked-list-cycle.iml" />
@@ -184,6 +186,7 @@
       <module fileurl="file://$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" filepath="$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" filepath="$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" filepath="$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2379-minimum-recolors-to-get-k-consecutive-black-blocks/2379-minimum-recolors-to-get-k-consecutive-black-blocks.iml" filepath="$PROJECT_DIR$/2379-minimum-recolors-to-get-k-consecutive-black-blocks/2379-minimum-recolors-to-get-k-consecutive-black-blocks.iml" />
     </modules>
   </component>
 </project>

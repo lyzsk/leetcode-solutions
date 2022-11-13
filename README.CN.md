@@ -38,6 +38,7 @@
 | 0007 |                  整数反转                  | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
 | 0008 |           字符串转换整数 (atoi)            | [Java][java-0008] |                    |                       | [back to top] |
 | 0009 |                   回文数                   | [Java][java-0009] |                    |                       | [back to top] |
+| 0011 |               盛最多水的容器               | [Java][java-0011] |                    |                       | [back to top] |
 | 0012 |               整数转罗马数字               | [Java][java-0012] |                    |                       | [back to top] |
 | 0013 |               罗马数字转整数               | [Java][java-0013] |                    |                       | [back to top] |
 | 0014 |                最长公共前缀                | [Java][java-0014] |                    |                       | [back to top] |
@@ -107,6 +108,7 @@
 | 0126 |                单词接龙 II                 | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
+| 0134 |                   加油站                   | [Java][java-0134] |                    |                       | [back to top] |
 | 0139 |                  单词拆分                  | [Java][java-0139] |                    |                       | [back to top] |
 | 0140 |                单词拆分 II                 | [Java][java-0140] |                    |                       | [back to top] |
 | 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -212,6 +214,7 @@
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
+| 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -229,6 +232,7 @@
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
+[java-0011]: ./java-solutions/0011-container-with-most-water/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
@@ -302,6 +306,7 @@
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
+[java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
@@ -422,3 +427,4 @@
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
+[java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
