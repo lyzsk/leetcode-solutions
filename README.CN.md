@@ -186,7 +186,7 @@
 | 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
-| 0989 |        Add to Array-Form of Integer        | [Java][java-0989] |                    |                       | [back to top] |
+| 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
