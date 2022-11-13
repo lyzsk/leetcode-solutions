@@ -186,6 +186,7 @@ Recording personal solutions for Leetcode problems.
 | 0915 |            Partition Array into Disjoint Intervals             | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |                    |                       | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
+| 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |                    |                       | [back to top] |
@@ -389,6 +390,7 @@ Recording personal solutions for Leetcode problems.
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
+[java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
