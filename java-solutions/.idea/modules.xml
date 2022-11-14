@@ -125,10 +125,12 @@
       <module fileurl="file://$PROJECT_DIR$/0371-sum-of-two-integers/0371-sum-of-two-integers.iml" filepath="$PROJECT_DIR$/0371-sum-of-two-integers/0371-sum-of-two-integers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.iml" filepath="$PROJECT_DIR$/0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.iml" filepath="$PROJECT_DIR$/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0402-remove-k-digits/0402-remove-k-digits.iml" filepath="$PROJECT_DIR$/0402-remove-k-digits/0402-remove-k-digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/0409-longest-palindrome/0409-longest-palindrome.iml" filepath="$PROJECT_DIR$/0409-longest-palindrome/0409-longest-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" filepath="$PROJECT_DIR$/0415-add-strings/0415-add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0423-reconstruct-original-digits-from-english/0423-reconstruct-original-digits-from-english.iml" filepath="$PROJECT_DIR$/0423-reconstruct-original-digits-from-english/0423-reconstruct-original-digits-from-english.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.iml" filepath="$PROJECT_DIR$/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.iml" />
       <module fileurl="file://$PROJECT_DIR$/0443-string-compression/0443-string-compression.iml" filepath="$PROJECT_DIR$/0443-string-compression/0443-string-compression.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" filepath="$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" />

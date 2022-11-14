@@ -153,10 +153,12 @@ Recording personal solutions for Leetcode problems.
 | 0371 |                      Sum of Two Integers                       | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |               First Unique Character in a String               | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
+| 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |                    |                       | [back to top] |
 | 0402 |                        Remove K Digits                         | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                       Longest Palindrome                       | [Java][java-0409] |                    |                       | [back to top] |
 | 0415 |                          Add Strings                           | [Java][java-0415] |                    |                       | [back to top] |
 | 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |                    |                       | [back to top] |
+| 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |                    |                       | [back to top] |
 | 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
@@ -362,6 +364,7 @@ Recording personal solutions for Leetcode problems.
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
+[java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
@@ -369,6 +372,7 @@ Recording personal solutions for Leetcode problems.
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
+[java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
