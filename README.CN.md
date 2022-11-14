@@ -53,6 +53,7 @@
 | 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |           删除有序数组中的重复项           | [Java][java-0026] |                    |                       | [back to top] |
 | 0028 |       找出字符串中第一个匹配项的下标       | [Java][java-0028] |                    |                       | [back to top] |
+| 0030 |             串联所有单词的子串             | [Java][java-0030] |                    |                       | [back to top] |
 | 0031 |                 下一个排列                 | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
@@ -78,6 +79,7 @@
 | 0073 |                  矩阵置零                  | [Java][java-0073] |                    |                       | [back to top] |
 | 0074 |                搜索二维矩阵                | [Java][java-0074] |                    |                       | [back to top] |
 | 0075 |                  颜色分类                  | [Java][java-0075] |                    |                       | [back to top] |
+| 0076 |                最小覆盖子串                | [Java][java-0076] |                    |                       | [back to top] |
 | 0077 |                    组合                    | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                    子集                    | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                  单词搜索                  | [Java][java-0079] |                    |                       | [back to top] |
@@ -122,12 +124,15 @@
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
+| 0187 |              重复的 DNA 序列               | [Java][java-0187] |                    |                       | [back to top] |
 | 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                单词搜索 II                 | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
+| 0219 |              存在重复元素 II               | [Java][java-0219] |                    |                       | [back to top] |
 | 0230 |         二叉搜索树中第 K 小的元素          | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
@@ -191,6 +196,7 @@
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
+| 1156 |          单字符重复子串的最大长度          | [Java][java-1156] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 |            串联字符串的最大长度            | [Java][java-1239] |                    |                       | [back to top] |
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
@@ -247,6 +253,7 @@
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
+[java-0030]: ./java-solutions/0030-substring-with-concatenation-of-all-words/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
@@ -274,6 +281,7 @@
 [java-0073]: ./java-solutions/0073-set-matrix-zeroes/src/Solution.java
 [java-0074]: ./java-solutions/0074-search-a-2d-matrix/src/Solution.java
 [java-0075]: ./java-solutions/0075-sort-colors/src/Solution.java
+[java-0076]: ./java-solutions/0076-minimum-window-substring/src/Solution.java
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java
@@ -323,13 +331,16 @@
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
+[java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
+[java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
@@ -399,6 +410,7 @@
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
+[java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src

@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" filepath="$PROJECT_DIR$/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.iml" />
       <module fileurl="file://$PROJECT_DIR$/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.iml" filepath="$PROJECT_DIR$/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0028-find-the-index-of-the-first-ocurrence-in-a-string/0028-find-the-index-of-the-first-ocurrence-in-a-string.iml" filepath="$PROJECT_DIR$/0028-find-the-index-of-the-first-ocurrence-in-a-string/0028-find-the-index-of-the-first-ocurrence-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.iml" filepath="$PROJECT_DIR$/0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0031-next-permutation/0031-next-permutation.iml" filepath="$PROJECT_DIR$/0031-next-permutation/0031-next-permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" filepath="$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" filepath="$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" filepath="$PROJECT_DIR$/0073-set-matrix-zeroes/0073-set-matrix-zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/0074-search-a-2d-matrix/0074-search-a-2d-matrix.iml" filepath="$PROJECT_DIR$/0074-search-a-2d-matrix/0074-search-a-2d-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" filepath="$PROJECT_DIR$/0075-sort-colors/0075-sort-colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0076-minimum-window-substring/0076-minimum-window-substring.iml" filepath="$PROJECT_DIR$/0076-minimum-window-substring/0076-minimum-window-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/0077-combinations/0077-combinations.iml" filepath="$PROJECT_DIR$/0077-combinations/0077-combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/0078-subsets/0078-subsets.iml" filepath="$PROJECT_DIR$/0078-subsets/0078-subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/0079-word-search/0079-word-search.iml" filepath="$PROJECT_DIR$/0079-word-search/0079-word-search.iml" />
@@ -94,12 +96,15 @@
       <module fileurl="file://$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" filepath="$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" filepath="$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" filepath="$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" filepath="$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/0199-binary-tree-side-view/0199-binary-tree-side-view.iml" filepath="$PROJECT_DIR$/0199-binary-tree-side-view/0199-binary-tree-side-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/0200-number-of-islands/0200-number-of-islands.iml" filepath="$PROJECT_DIR$/0200-number-of-islands/0200-number-of-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/0206-reverse-linked-list/0206-reverse-linked-list.iml" filepath="$PROJECT_DIR$/0206-reverse-linked-list/0206-reverse-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.iml" filepath="$PROJECT_DIR$/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0212-word-search-ii/0212-word-search-ii.iml" filepath="$PROJECT_DIR$/0212-word-search-ii/0212-word-search-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.iml" filepath="$PROJECT_DIR$/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0218-the-skyline-problem/0218-the-skyline-problem.iml" filepath="$PROJECT_DIR$/0218-the-skyline-problem/0218-the-skyline-problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0219-contains-duplicate-ii/0219-contains-duplicate-ii.iml" filepath="$PROJECT_DIR$/0219-contains-duplicate-ii/0219-contains-duplicate-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.iml" filepath="$PROJECT_DIR$/0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.iml" filepath="$PROJECT_DIR$/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/0234-palindrome-linked-list/0234-palindrome-linked-list.iml" filepath="$PROJECT_DIR$/0234-palindrome-linked-list/0234-palindrome-linked-list.iml" />
@@ -163,6 +168,7 @@
       <module fileurl="file://$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" filepath="$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" filepath="$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" filepath="$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" filepath="$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" filepath="$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/1239-maximum-length-of-a-concatenated-string-with-characters/1239-maximum-length-of-a-concatenated-string-with-characters.iml" filepath="$PROJECT_DIR$/1239-maximum-length-of-a-concatenated-string-with-characters/1239-maximum-length-of-a-concatenated-string-with-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/1302-deepest-leaves-sum/1302-deepest-leaves-sum.iml" filepath="$PROJECT_DIR$/1302-deepest-leaves-sum/1302-deepest-leaves-sum.iml" />

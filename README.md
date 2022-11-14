@@ -53,6 +53,7 @@ Recording personal solutions for Leetcode problems.
 | 0025 |                    Reverse Nodes in k-Group                    | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |              Remove Duplicates from Sorted Array               | [Java][java-0026] |                    |                       | [back to top] |
 | 0028 |       Find the Index of the First Occurrence in a String       | [Java][java-0028] |                    |                       | [back to top] |
+| 0030 |           Substring with Concatenation of All Words            | [Java][java-0030] |                    |                       | [back to top] |
 | 0031 |                        Next Permutation                        | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |                 Search in Rotated Sorted Array                 | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 |    Find First and Last Position of Element in Sorted Array     | [Java][java-0034] |                    |                       | [back to top] |
@@ -78,6 +79,7 @@ Recording personal solutions for Leetcode problems.
 | 0073 |                       Set Matrix Zeroes                        | [Java][java-0073] |                    |                       | [back to top] |
 | 0074 |                       Search a 2D Matrix                       | [Java][java-0074] |                    |                       | [back to top] |
 | 0075 |                          Sort Colors                           | [Java][java-0075] |                    |                       | [back to top] |
+| 0076 |                    Minimum Window Substring                    | [Java][java-0076] |                    |                       | [back to top] |
 | 0077 |                          Combinations                          | [Java][java-0077] |                    |                       | [back to top] |
 | 0078 |                            Subsets                             | [Java][java-0078] |                    |                       | [back to top] |
 | 0079 |                          Word Search                           | [Java][java-0079] |                    |                       | [back to top] |
@@ -122,12 +124,15 @@ Recording personal solutions for Leetcode problems.
 | 0155 |                           Min Stack                            | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                Intersection of Two Linked Lists                | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                    Compare Version Numbers                     | [Java][java-0165] |                    |                       | [back to top] |
+| 0187 |                     Repeated DNA Sequences                     | [Java][java-0187] |                    |                       | [back to top] |
 | 0199 |                  Binary Tree Right Side View                   | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
 | 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                         Word Search II                         | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |                Kth Largest Element in an Array                 | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                      The Skyline Problem                       | [Java][java-0218] |                    |                       | [back to top] |
+| 0219 |                     Contains Duplicate II                      | [Java][java-0219] |                    |                       | [back to top] |
 | 0230 |                 Kth Smallest Element in a BST                  | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                  Implement Queue using Stacks                  | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                     Palindrome Linked List                     | [Java][java-0234] |                    |                       | [back to top] |
@@ -191,6 +196,7 @@ Recording personal solutions for Leetcode problems.
 | 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
+| 1156 |         Swap For Longest Repeated Character Substring          | [Java][java-1156] |                    |                       | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [Java][java-1239] |                    |                       | [back to top] |
 | 1302 |                       Deepest Leaves Sum                       | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
@@ -247,6 +253,7 @@ Recording personal solutions for Leetcode problems.
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
+[java-0030]: ./java-solutions/0030-substring-with-concatenation-of-all-words/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
@@ -274,6 +281,7 @@ Recording personal solutions for Leetcode problems.
 [java-0073]: ./java-solutions/0073-set-matrix-zeroes/src/Solution.java
 [java-0074]: ./java-solutions/0074-search-a-2d-matrix/src/Solution.java
 [java-0075]: ./java-solutions/0075-sort-colors/src/Solution.java
+[java-0076]: ./java-solutions/0076-minimum-window-substring/src/Solution.java
 [java-0077]: ./java-solutions/0077-combinations/src/Solution.java
 [java-0078]: ./java-solutions/0078-subsets/src/Solution.java
 [java-0079]: ./java-solutions/0079-word-search/src/Solution.java
@@ -323,13 +331,16 @@ Recording personal solutions for Leetcode problems.
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
+[java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
+[java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
@@ -399,6 +410,7 @@ Recording personal solutions for Leetcode problems.
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
+[java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
