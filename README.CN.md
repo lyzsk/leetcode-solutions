@@ -164,6 +164,7 @@
 | 0423 |              从英文中重建数字              | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            替换后的最长重复字符            | [Java][java-0424] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
+| 0454 |                四数相加 II                 | [Java][java-0454] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -384,6 +385,7 @@
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
+[java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java

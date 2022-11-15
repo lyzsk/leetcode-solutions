@@ -164,6 +164,7 @@ Recording personal solutions for Leetcode problems.
 | 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |                    |                       | [back to top] |
 | 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
+| 0454 |                            4Sum II                             | [Java][java-0454] |                    |                       | [back to top] |
 | 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                     Design Circular Deque                      | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -384,6 +385,7 @@ Recording personal solutions for Leetcode problems.
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
+[java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
