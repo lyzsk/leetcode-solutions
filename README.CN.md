@@ -142,8 +142,10 @@
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
 | 0236 |            二叉树的最近公共祖先            | [Java][java-0236] |                    |                       | [back to top] |
 | 0237 |              删除链表中的节点              | [Java][java-0237] |                    |                       | [back to top] |
+| 0239 |               滑动窗口最大值               | [Java][java-0239] |                    |                       | [back to top] |
 | 0240 |              搜索二维矩阵 II               | [Java][java-0240] |                    |                       | [back to top] |
 | 0242 |              有效的字母异位词              | [Java][java-0242] |                    |                       | [back to top] |
+| 0268 |                 丢失的数字                 | [Java][java-0268] |                    |                       | [back to top] |
 | 0283 |                   移动零                   | [Java][java-0283] |                    |                       | [back to top] |
 | 0295 |               数据流的中位数               | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
@@ -357,9 +359,11 @@
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
+[java-0239]: ./java-solutions/0239-sliding-window-maximum/src/Solution.java
 [java-0240]: ./java-solutions/0240-search-a-2d-matrix-ii/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
+[java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
