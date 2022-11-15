@@ -133,6 +133,7 @@
 | 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                单词搜索 II                 | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
+| 0217 |                存在重复元素                | [Java][java-0217] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |              存在重复元素 II               | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |            完全二叉树的节点个数            | [Java][java-0222] |                    |                       | [back to top] |
@@ -218,6 +219,7 @@
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
+| 1710 |             卡车上的最大单元数             | [Java][java-1710] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
@@ -346,6 +348,7 @@
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
+[java-0217]: ./java-solutions/0217-contains-duplicate/src/Solution.java
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
@@ -442,6 +445,7 @@
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java

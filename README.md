@@ -133,6 +133,7 @@ Recording personal solutions for Leetcode problems.
 | 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                         Word Search II                         | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |                Kth Largest Element in an Array                 | [Java][java-0215] |                    |                       | [back to top] |
+| 0217 |                       Contains Duplicate                       | [Java][java-0217] |                    |                       | [back to top] |
 | 0218 |                      The Skyline Problem                       | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |                     Contains Duplicate II                      | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |                   Count Complete Tree Nodes                    | [Java][java-0222] |                    |                       | [back to top] |
@@ -218,6 +219,7 @@ Recording personal solutions for Leetcode problems.
 | 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |           Check If Two String Arrays are Equivalent            | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |                     Reformat Phone Number                      | [Java][java-1694] |                    |                       | [back to top] |
+| 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -346,6 +348,7 @@ Recording personal solutions for Leetcode problems.
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
+[java-0217]: ./java-solutions/0217-contains-duplicate/src/Solution.java
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
@@ -442,6 +445,7 @@ Recording personal solutions for Leetcode problems.
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
