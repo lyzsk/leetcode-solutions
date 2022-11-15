@@ -113,6 +113,7 @@
 | 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
 | 0134 |                   加油站                   | [Java][java-0134] |                    |                       | [back to top] |
+| 0136 |              只出现一次的数字              | [Java][java-0136] |                    |                       | [back to top] |
 | 0139 |                  单词拆分                  | [Java][java-0139] |                    |                       | [back to top] |
 | 0140 |                单词拆分 II                 | [Java][java-0140] |                    |                       | [back to top] |
 | 0141 |                  环形链表                  | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -126,9 +127,12 @@
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
+| 0179 |                   最大数                   | [Java][java-0179] |                    |                       | [back to top] |
 | 0187 |              重复的 DNA 序列               | [Java][java-0187] |                    |                       | [back to top] |
+| 0198 |                  打家劫舍                  | [Java][java-0198] |                    |                       | [back to top] |
 | 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
+| 0202 |                   快乐数                   | [Java][java-0202] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                单词搜索 II                 | [Java][java-0212] |                    |                       | [back to top] |
@@ -187,6 +191,7 @@
 | 0731 |             我的日程安排表 II              | [Java][java-0731] |                    |                       | [back to top] |
 | 0732 |             我的日程安排表 III             | [Java][java-0732] |                    |                       | [back to top] |
 | 0769 |             最多能完成排序的块             | [Java][java-0769] |                    |                       | [back to top] |
+| 0775 |             全局倒置与局部倒置             | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
 | 0801 |          使序列递增的最小交换次数          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -327,6 +332,7 @@
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
+[java-0136]: ./java-solutions/0136-single-number/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
@@ -343,9 +349,12 @@
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
+[java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
+[java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
@@ -408,6 +417,7 @@
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
+[java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java

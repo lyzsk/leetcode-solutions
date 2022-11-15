@@ -113,6 +113,7 @@ Recording personal solutions for Leetcode problems.
 | 0127 |                          Word Ladder                           | [Java][java-0127] |                    |                       | [back to top] |
 | 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |                    |                       | [back to top] |
 | 0134 |                          Gas Station                           | [Java][java-0134] |                    |                       | [back to top] |
+| 0136 |                         Single Number                          | [Java][java-0136] |                    |                       | [back to top] |
 | 0139 |                           Word Break                           | [Java][java-0139] |                    |                       | [back to top] |
 | 0140 |                         Word Break II                          | [Java][java-0140] |                    |                       | [back to top] |
 | 0141 |                       Linked List Cycle                        | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
@@ -126,9 +127,12 @@ Recording personal solutions for Leetcode problems.
 | 0155 |                           Min Stack                            | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                Intersection of Two Linked Lists                | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                    Compare Version Numbers                     | [Java][java-0165] |                    |                       | [back to top] |
+| 0179 |                         Largest Number                         | [Java][java-0179] |                    |                       | [back to top] |
 | 0187 |                     Repeated DNA Sequences                     | [Java][java-0187] |                    |                       | [back to top] |
+| 0198 |                          House Robber                          | [Java][java-0198] |                    |                       | [back to top] |
 | 0199 |                  Binary Tree Right Side View                   | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
+| 0202 |                          Happy Number                          | [Java][java-0202] |                    |                       | [back to top] |
 | 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                         Word Search II                         | [Java][java-0212] |                    |                       | [back to top] |
@@ -187,6 +191,7 @@ Recording personal solutions for Leetcode problems.
 | 0731 |                         My Calendar II                         | [Java][java-0731] |                    |                       | [back to top] |
 | 0732 |                        My Calendar III                         | [Java][java-0732] |                    |                       | [back to top] |
 | 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |                    |                       | [back to top] |
+| 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -327,6 +332,7 @@ Recording personal solutions for Leetcode problems.
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
+[java-0136]: ./java-solutions/0136-single-number/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
@@ -343,9 +349,12 @@ Recording personal solutions for Leetcode problems.
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
+[java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
+[java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
@@ -408,6 +417,7 @@ Recording personal solutions for Leetcode problems.
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
+[java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java

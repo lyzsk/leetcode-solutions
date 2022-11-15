@@ -85,6 +85,7 @@
       <module fileurl="file://$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" filepath="$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" filepath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" filepath="$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0136-single-number/0136-single-number.iml" filepath="$PROJECT_DIR$/0136-single-number/0136-single-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0139-word-break/0139-word-break.iml" filepath="$PROJECT_DIR$/0139-word-break/0139-word-break.iml" />
       <module fileurl="file://$PROJECT_DIR$/0140-word-break-ii/0140-word-break-ii.iml" filepath="$PROJECT_DIR$/0140-word-break-ii/0140-word-break-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0141-linked-list-cycle/0141-linked-list-cycle.iml" filepath="$PROJECT_DIR$/0141-linked-list-cycle/0141-linked-list-cycle.iml" />
@@ -98,9 +99,12 @@
       <module fileurl="file://$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" filepath="$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" filepath="$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" filepath="$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0179-largest-number/0179-largest-number.iml" filepath="$PROJECT_DIR$/0179-largest-number/0179-largest-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" filepath="$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0198-house-robber/0198-house-robber.iml" filepath="$PROJECT_DIR$/0198-house-robber/0198-house-robber.iml" />
       <module fileurl="file://$PROJECT_DIR$/0199-binary-tree-side-view/0199-binary-tree-side-view.iml" filepath="$PROJECT_DIR$/0199-binary-tree-side-view/0199-binary-tree-side-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/0200-number-of-islands/0200-number-of-islands.iml" filepath="$PROJECT_DIR$/0200-number-of-islands/0200-number-of-islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0202-happy-number/0202-happy-number.iml" filepath="$PROJECT_DIR$/0202-happy-number/0202-happy-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0206-reverse-linked-list/0206-reverse-linked-list.iml" filepath="$PROJECT_DIR$/0206-reverse-linked-list/0206-reverse-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.iml" filepath="$PROJECT_DIR$/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0212-word-search-ii/0212-word-search-ii.iml" filepath="$PROJECT_DIR$/0212-word-search-ii/0212-word-search-ii.iml" />
@@ -159,6 +163,7 @@
       <module fileurl="file://$PROJECT_DIR$/0731-my-calendar-ii/0731-my-calendar-ii.iml" filepath="$PROJECT_DIR$/0731-my-calendar-ii/0731-my-calendar-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0732-my-calendar-iii/0732-my-calendar-iii.iml" filepath="$PROJECT_DIR$/0732-my-calendar-iii/0732-my-calendar-iii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0769-max-chunks-to-make-sorted/0769-max-chunks-to-make-sorted.iml" filepath="$PROJECT_DIR$/0769-max-chunks-to-make-sorted/0769-max-chunks-to-make-sorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0775-global-and-local-inversions/0775-global-and-local-inversions.iml" filepath="$PROJECT_DIR$/0775-global-and-local-inversions/0775-global-and-local-inversions.iml" />
       <module fileurl="file://$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" filepath="$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" filepath="$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
