@@ -53,6 +53,7 @@
 | 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |           删除有序数组中的重复项           | [Java][java-0026] |                    |                       | [back to top] |
 | 0028 |       找出字符串中第一个匹配项的下标       | [Java][java-0028] |                    |                       | [back to top] |
+| 0029 |                  两数相除                  | [Java][java-0029] |                    |                       | [back to top] |
 | 0030 |             串联所有单词的子串             | [Java][java-0030] |                    |                       | [back to top] |
 | 0031 |                 下一个排列                 | [Java][java-0031] |                    |                       | [back to top] |
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
@@ -66,6 +67,7 @@
 | 0046 |                   全排列                   | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                 全排列 II                  | [Java][java-0047] |                    |                       | [back to top] |
 | 0048 |                  旋转图像                  | [Java][java-0048] |                    |                       | [back to top] |
+| 0050 |                 Pow(x, n)                  | [Java][java-0050] |                    |                       | [back to top] |
 | 0051 |                   N 皇后                   | [Java][java-0051] |                    |                       | [back to top] |
 | 0052 |                 N 皇后 II                  | [Java][java-0052] |                    |                       | [back to top] |
 | 0053 |                最大子数组和                | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
@@ -133,6 +135,7 @@
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |              存在重复元素 II               | [Java][java-0219] |                    |                       | [back to top] |
+| 0222 |            完全二叉树的节点个数            | [Java][java-0222] |                    |                       | [back to top] |
 | 0230 |         二叉搜索树中第 K 小的元素          | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
@@ -255,6 +258,7 @@
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
+[java-0029]: ./java-solutions/0029-divide-two-integers/src/Solution.java
 [java-0030]: ./java-solutions/0030-substring-with-concatenation-of-all-words/src/Solution.java
 [java-0031]: ./java-solutions/0031-next-permutation/src/Solution.java
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
@@ -268,6 +272,7 @@
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0048]: ./java-solutions/0048-rotate-image/src/Solution.java
+[java-0050]: ./java-solutions/0050-powx-n/src/Solution.java
 [java-0051]: ./java-solutions/0051-n-queens/src/Solution.java
 [java-0052]: ./java-solutions/0052-n-queens-ii/src/Solution.java
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
@@ -343,6 +348,7 @@
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
+[java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
