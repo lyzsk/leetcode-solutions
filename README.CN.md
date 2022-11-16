@@ -129,6 +129,7 @@
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
+| 0172 |                 阶乘后的零                 | [Java][java-0172] |                    |                       | [back to top] |
 | 0179 |                   最大数                   | [Java][java-0179] |                    |                       | [back to top] |
 | 0187 |              重复的 DNA 序列               | [Java][java-0187] |                    |                       | [back to top] |
 | 0198 |                  打家劫舍                  | [Java][java-0198] |                    |                       | [back to top] |
@@ -173,7 +174,9 @@
 | 0423 |              从英文中重建数字              | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            替换后的最长重复字符            | [Java][java-0424] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
+| 0445 |                两数相加 II                 | [Java][java-0445] |                    |                       | [back to top] |
 | 0454 |                四数相加 II                 | [Java][java-0454] |                    |                       | [back to top] |
+| 0507 |                   完美数                   | [Java][java-0507] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -219,6 +222,7 @@
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
 | 1304 |           和为零的 N 个不同整数            | [Java][java-1304] |                    |                       | [back to top] |
 | 1328 |                 破坏回文串                 | [Java][java-1328] |                    |                       | [back to top] |
+| 1389 |           按既定顺序创建目标数组           | [Java][java-1389] |                    |                       | [back to top] |
 | 1422 |            分割字符串的最大得分            | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
 | 1448 |          统计二叉树中好节点的数目          | [Java][java-1448] |                    |                       | [back to top] |
 | 1450 |         在既定时间做作业的学生人数         | [Java][java-1450] |                    |                       | [back to top] |
@@ -354,6 +358,7 @@
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
 [java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
@@ -404,7 +409,9 @@
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
+[java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
@@ -452,6 +459,7 @@
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
+[java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
