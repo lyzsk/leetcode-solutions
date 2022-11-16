@@ -90,6 +90,7 @@
 | 0082 |        删除排序链表中的重复元素 II         | [Java][java-0082] |                    |                       | [back to top] |
 | 0083 |          删除排序链表中的重复元素          | [Java][java-0083] |                    |                       | [back to top] |
 | 0088 |              合并两个有序数组              | [Java][java-0088] |                    |                       | [back to top] |
+| 0089 |                  格雷编码                  | [Java][java-0089] |                    |                       | [back to top] |
 | 0090 |                  子集 II                   | [Java][java-0090] |                    |                       | [back to top] |
 | 0091 |                  解码方法                  | [Java][java-0091] |                    |                       | [back to top] |
 | 0092 |                反转链表 II                 | [Java][java-0092] |                    |                       | [back to top] |
@@ -307,6 +308,7 @@
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
+[java-0089]: ./java-solutions/0089-gray-code/src/Solution.java
 [java-0090]: ./java-solutions/0090-subsets-ii/src/Solution.java
 [java-0091]: ./java-solutions/0091-decode-ways/src/Solution.java
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
