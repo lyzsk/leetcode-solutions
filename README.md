@@ -97,6 +97,7 @@ Recording personal solutions for Leetcode problems.
 | 0093 |                      Restore IP Addresses                      | [Java][java-0093] |                    |                       | [back to top] |
 | 0094 |                 Binary Tree Inorder Traversal                  | [Java][java-0094] |                    |                       | [back to top] |
 | 0098 |                  Validate Binary Search Tree                   | [Java][java-0098] |                    |                       | [back to top] |
+| 0100 |                           Same Tree                            | [Java][java-0100] |                    |                       | [back to top] |
 | 0101 |                         Symmetric Tree                         | [Java][java-0101] |                    |                       | [back to top] |
 | 0102 |               Binary Tree Level Order Traversal                | [Java][java-0102] |                    |                       | [back to top] |
 | 0103 |            Binary Tree Zigzag Level Order Traversal            | [Java][java-0103] |                    |                       | [back to top] |
@@ -142,6 +143,7 @@ Recording personal solutions for Leetcode problems.
 | 0218 |                      The Skyline Problem                       | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |                     Contains Duplicate II                      | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |                   Count Complete Tree Nodes                    | [Java][java-0222] |                    |                       | [back to top] |
+| 0226 |                       Invert Binary Tree                       | [Java][java-0226] |                    |                       | [back to top] |
 | 0230 |                 Kth Smallest Element in a BST                  | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                  Implement Queue using Stacks                  | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                     Palindrome Linked List                     | [Java][java-0234] |                    |                       | [back to top] |
@@ -315,6 +317,7 @@ Recording personal solutions for Leetcode problems.
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
+[java-0100]: ./java-solutions/0100-same-tree/src/Solution.java
 [java-0101]: ./java-solutions/0101-symmetric-tree/src/Solution.java
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
@@ -366,6 +369,7 @@ Recording personal solutions for Leetcode problems.
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
+[java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java

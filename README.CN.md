@@ -97,6 +97,7 @@
 | 0093 |                复原 IP 地址                | [Java][java-0093] |                    |                       | [back to top] |
 | 0094 |              二叉树的中序遍历              | [Java][java-0094] |                    |                       | [back to top] |
 | 0098 |               验证二叉搜索树               | [Java][java-0098] |                    |                       | [back to top] |
+| 0100 |                  相同的树                  | [Java][java-0100] |                    |                       | [back to top] |
 | 0101 |                 对称二叉树                 | [Java][java-0101] |                    |                       | [back to top] |
 | 0102 |              二叉树的层序遍历              | [Java][java-0102] |                    |                       | [back to top] |
 | 0103 |           二叉树的锯齿形层序遍历           | [Java][java-0103] |                    |                       | [back to top] |
@@ -142,6 +143,7 @@
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |              存在重复元素 II               | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |            完全二叉树的节点个数            | [Java][java-0222] |                    |                       | [back to top] |
+| 0226 |                 翻转二叉树                 | [Java][java-0226] |                    |                       | [back to top] |
 | 0230 |         二叉搜索树中第 K 小的元素          | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
 | 0234 |                  回文链表                  | [Java][java-0234] |                    |                       | [back to top] |
@@ -315,6 +317,7 @@
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
+[java-0100]: ./java-solutions/0100-same-tree/src/Solution.java
 [java-0101]: ./java-solutions/0101-symmetric-tree/src/Solution.java
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
@@ -366,6 +369,7 @@
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
+[java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
