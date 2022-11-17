@@ -139,6 +139,7 @@
       <module fileurl="file://$PROJECT_DIR$/0371-sum-of-two-integers/0371-sum-of-two-integers.iml" filepath="$PROJECT_DIR$/0371-sum-of-two-integers/0371-sum-of-two-integers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.iml" filepath="$PROJECT_DIR$/0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" filepath="$PROJECT_DIR$/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0392-is-subsequence/0392-is-subsequence.iml" filepath="$PROJECT_DIR$/0392-is-subsequence/0392-is-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.iml" filepath="$PROJECT_DIR$/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0402-remove-k-digits/0402-remove-k-digits.iml" filepath="$PROJECT_DIR$/0402-remove-k-digits/0402-remove-k-digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/0409-longest-palindrome/0409-longest-palindrome.iml" filepath="$PROJECT_DIR$/0409-longest-palindrome/0409-longest-palindrome.iml" />
@@ -171,6 +172,7 @@
       <module fileurl="file://$PROJECT_DIR$/0769-max-chunks-to-make-sorted/0769-max-chunks-to-make-sorted.iml" filepath="$PROJECT_DIR$/0769-max-chunks-to-make-sorted/0769-max-chunks-to-make-sorted.iml" />
       <module fileurl="file://$PROJECT_DIR$/0775-global-and-local-inversions/0775-global-and-local-inversions.iml" filepath="$PROJECT_DIR$/0775-global-and-local-inversions/0775-global-and-local-inversions.iml" />
       <module fileurl="file://$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" filepath="$PROJECT_DIR$/0777-swap-adjacent-in-lr-string/0777-swap-adjacent-in-lr-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0792-number-of-matching-subsequences/0792-number-of-matching-subsequences.iml" filepath="$PROJECT_DIR$/0792-number-of-matching-subsequences/0792-number-of-matching-subsequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" filepath="$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" filepath="$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" />

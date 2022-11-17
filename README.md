@@ -167,6 +167,7 @@ Recording personal solutions for Leetcode problems.
 | 0371 |                      Sum of Two Integers                       | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |                    |                       | [back to top] |
 | 0387 |               First Unique Character in a String               | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
+| 0392 |                         Is Subsequence                         | [Java][java-0392] |                    |                       | [back to top] |
 | 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |                    |                       | [back to top] |
 | 0402 |                        Remove K Digits                         | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                       Longest Palindrome                       | [Java][java-0409] |                    |                       | [back to top] |
@@ -199,6 +200,7 @@ Recording personal solutions for Leetcode problems.
 | 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |                    |                       | [back to top] |
 | 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
+| 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |                     Subdomain Visit Count                      | [Java][java-0811] |                    |                       | [back to top] |
@@ -398,6 +400,7 @@ Recording personal solutions for Leetcode problems.
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
+[java-0392]: ./java-solutions/0392-is-subsequence/src/Solution.java
 [java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
@@ -432,6 +435,7 @@ Recording personal solutions for Leetcode problems.
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
