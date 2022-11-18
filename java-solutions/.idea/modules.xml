@@ -127,6 +127,7 @@
       <module fileurl="file://$PROJECT_DIR$/0239-sliding-window-maximum/0239-sliding-window-maximum.iml" filepath="$PROJECT_DIR$/0239-sliding-window-maximum/0239-sliding-window-maximum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.iml" filepath="$PROJECT_DIR$/0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0242-valid-anagram/0242-valid-anagram.iml" filepath="$PROJECT_DIR$/0242-valid-anagram/0242-valid-anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0263-ugly-number/0263-ugly-number.iml" filepath="$PROJECT_DIR$/0263-ugly-number/0263-ugly-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0268-missing-number/0268-missing-number.iml" filepath="$PROJECT_DIR$/0268-missing-number/0268-missing-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0283-move-zeroes/0283-move-zeroes.iml" filepath="$PROJECT_DIR$/0283-move-zeroes/0283-move-zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/0295-find-median-from-data-stream/0295-find-median-from-data-stream.iml" filepath="$PROJECT_DIR$/0295-find-median-from-data-stream/0295-find-median-from-data-stream.iml" />
@@ -179,6 +180,7 @@
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" filepath="$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" />
       <module fileurl="file://$PROJECT_DIR$/0817-linked-list-components/0817-linked-list-components.iml" filepath="$PROJECT_DIR$/0817-linked-list-components/0817-linked-list-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0822-card-flipping-game/0822-card-flipping-game.iml" filepath="$PROJECT_DIR$/0822-card-flipping-game/0822-card-flipping-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/0856-score-of-parentheses/0856-score-of-parentheses.iml" filepath="$PROJECT_DIR$/0856-score-of-parentheses/0856-score-of-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" filepath="$PROJECT_DIR$/0869-reordered-power-of-2/0869-reordered-power-of-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" filepath="$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" />
@@ -191,6 +193,7 @@
       <module fileurl="file://$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" filepath="$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" filepath="$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" filepath="$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" filepath="$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" filepath="$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" filepath="$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" filepath="$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" />
@@ -211,6 +214,7 @@
       <module fileurl="file://$PROJECT_DIR$/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.iml" filepath="$PROJECT_DIR$/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.iml" />
       <module fileurl="file://$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" filepath="$PROJECT_DIR$/1694-reformat-phone-number/1694-reformat-phone-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.iml" filepath="$PROJECT_DIR$/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1732-find-the-highest-altitude/1732-find-the-highest-altitude.iml" filepath="$PROJECT_DIR$/1732-find-the-highest-altitude/1732-find-the-highest-altitude.iml" />
       <module fileurl="file://$PROJECT_DIR$/1768-merge-strings-alternately/1768-merge-strings-alternately.iml" filepath="$PROJECT_DIR$/1768-merge-strings-alternately/1768-merge-strings-alternately.iml" />
       <module fileurl="file://$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" filepath="$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" />
       <module fileurl="file://$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" filepath="$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" />
@@ -218,6 +222,7 @@
       <module fileurl="file://$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" filepath="$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" filepath="$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" filepath="$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.iml" filepath="$PROJECT_DIR$/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" filepath="$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" />
       <module fileurl="file://$PROJECT_DIR$/2379-minimum-recolors-to-get-k-consecutive-black-blocks/2379-minimum-recolors-to-get-k-consecutive-black-blocks.iml" filepath="$PROJECT_DIR$/2379-minimum-recolors-to-get-k-consecutive-black-blocks/2379-minimum-recolors-to-get-k-consecutive-black-blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/4sum-ii/4sum-ii.iml" filepath="$PROJECT_DIR$/4sum-ii/4sum-ii.iml" />

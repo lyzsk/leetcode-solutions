@@ -155,6 +155,7 @@
 | 0239 |               滑动窗口最大值               | [Java][java-0239] |                    |                       | [back to top] |
 | 0240 |              搜索二维矩阵 II               | [Java][java-0240] |                    |                       | [back to top] |
 | 0242 |              有效的字母异位词              | [Java][java-0242] |                    |                       | [back to top] |
+| 0263 |                    丑数                    | [Java][java-0263] |                    |                       | [back to top] |
 | 0268 |                 丢失的数字                 | [Java][java-0268] |                    |                       | [back to top] |
 | 0283 |                   移动零                   | [Java][java-0283] |                    |                       | [back to top] |
 | 0295 |               数据流的中位数               | [Java][java-0295] |                    |                       | [back to top] |
@@ -207,6 +208,7 @@
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |               子域名访问计数               | [Java][java-0811] |                    |                       | [back to top] |
 | 0817 |                  链表组件                  | [Java][java-0817] |                    |                       | [back to top] |
+| 0822 |                翻转卡片游戏                | [Java][java-0822] |                    |                       | [back to top] |
 | 0856 |                 括号的分数                 | [Java][java-0856] |                    |                       | [back to top] |
 | 0869 |            重新排序得到 2 的幂             | [Java][java-0869] |                    |                       | [back to top] |
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
@@ -219,6 +221,7 @@
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
+| 1122 |               数组的相对排序               | [Java][java-1122] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1156 |          单字符重复子串的最大长度          | [Java][java-1156] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
@@ -239,6 +242,7 @@
 | 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
 | 1710 |             卡车上的最大单元数             | [Java][java-1710] |                    |                       | [back to top] |
+| 1732 |                找到最高海拔                | [Java][java-1732] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
@@ -246,6 +250,7 @@
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
+| 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
 
@@ -390,6 +395,7 @@
 [java-0240]: ./java-solutions/0240-search-a-2d-matrix-ii/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
+[java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
@@ -447,6 +453,7 @@
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
 [java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
+[java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
@@ -460,6 +467,7 @@
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
+[java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
@@ -485,6 +493,7 @@
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
+[java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
@@ -492,5 +501,6 @@
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
