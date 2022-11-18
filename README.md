@@ -113,6 +113,7 @@ Recording personal solutions for Leetcode problems.
 | 0125 |                        Valid Palindrome                        | [Java][java-0125] |                    |                       | [back to top] |
 | 0126 |                         Word Ladder II                         | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                          Word Ladder                           | [Java][java-0127] |                    |                       | [back to top] |
+| 0128 |                  Longest Consecutive Sequence                  | [Java][java-0128] |                    |                       | [back to top] |
 | 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |                    |                       | [back to top] |
 | 0134 |                          Gas Station                           | [Java][java-0134] |                    |                       | [back to top] |
 | 0136 |                         Single Number                          | [Java][java-0136] |                    |                       | [back to top] |
@@ -144,6 +145,7 @@ Recording personal solutions for Leetcode problems.
 | 0218 |                      The Skyline Problem                       | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |                     Contains Duplicate II                      | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |                   Count Complete Tree Nodes                    | [Java][java-0222] |                    |                       | [back to top] |
+| 0223 |                         Rectangle Area                         | [Java][java-0223] |                    |                       | [back to top] |
 | 0226 |                       Invert Binary Tree                       | [Java][java-0226] |                    |                       | [back to top] |
 | 0230 |                 Kth Smallest Element in a BST                  | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                  Implement Queue using Stacks                  | [Java][java-0232] |                    |                       | [back to top] |
@@ -241,6 +243,7 @@ Recording personal solutions for Leetcode problems.
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
+| 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
@@ -341,6 +344,7 @@ Recording personal solutions for Leetcode problems.
 [java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
+[java-0128]: ./java-solutions/0128-longest-consecutive-sequence/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
@@ -376,6 +380,7 @@ Recording personal solutions for Leetcode problems.
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
+[java-0223]: ./java-solutions/0223-rectangle-area/src/Solution.java
 [java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
@@ -484,6 +489,7 @@ Recording personal solutions for Leetcode problems.
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java

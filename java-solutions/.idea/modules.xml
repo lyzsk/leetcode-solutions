@@ -85,6 +85,7 @@
       <module fileurl="file://$PROJECT_DIR$/0125-valid-palindrome/0125-valid-palindrome.iml" filepath="$PROJECT_DIR$/0125-valid-palindrome/0125-valid-palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" filepath="$PROJECT_DIR$/0126-word-ladder-ii/0126-word-ladder-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" filepath="$PROJECT_DIR$/0127-word-ladder/0127-word-ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.iml" filepath="$PROJECT_DIR$/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" filepath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" filepath="$PROJECT_DIR$/0134-gas-station/0134-gas-station.iml" />
       <module fileurl="file://$PROJECT_DIR$/0136-single-number/0136-single-number.iml" filepath="$PROJECT_DIR$/0136-single-number/0136-single-number.iml" />
@@ -116,6 +117,7 @@
       <module fileurl="file://$PROJECT_DIR$/0218-the-skyline-problem/0218-the-skyline-problem.iml" filepath="$PROJECT_DIR$/0218-the-skyline-problem/0218-the-skyline-problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/0219-contains-duplicate-ii/0219-contains-duplicate-ii.iml" filepath="$PROJECT_DIR$/0219-contains-duplicate-ii/0219-contains-duplicate-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.iml" filepath="$PROJECT_DIR$/0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0223-rectangle-area/0223-rectangle-area.iml" filepath="$PROJECT_DIR$/0223-rectangle-area/0223-rectangle-area.iml" />
       <module fileurl="file://$PROJECT_DIR$/0226-invert-binary-tree/0226-invert-binary-tree.iml" filepath="$PROJECT_DIR$/0226-invert-binary-tree/0226-invert-binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.iml" filepath="$PROJECT_DIR$/0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.iml" />
       <module fileurl="file://$PROJECT_DIR$/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.iml" filepath="$PROJECT_DIR$/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.iml" />
@@ -213,6 +215,7 @@
       <module fileurl="file://$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" filepath="$PROJECT_DIR$/1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.iml" />
       <module fileurl="file://$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" filepath="$PROJECT_DIR$/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" filepath="$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" filepath="$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" filepath="$PROJECT_DIR$/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" filepath="$PROJECT_DIR$/2363-merge-similar-items/2363-merge-similar-items.iml" />

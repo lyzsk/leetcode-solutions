@@ -113,6 +113,7 @@
 | 0125 |                 验证回文串                 | [Java][java-0125] |                    |                       | [back to top] |
 | 0126 |                单词接龙 II                 | [Java][java-0126] |                    |                       | [back to top] |
 | 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
+| 0128 |                最长连续序列                | [Java][java-0128] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
 | 0134 |                   加油站                   | [Java][java-0134] |                    |                       | [back to top] |
 | 0136 |              只出现一次的数字              | [Java][java-0136] |                    |                       | [back to top] |
@@ -144,6 +145,7 @@
 | 0218 |                 天际线问题                 | [Java][java-0218] |                    |                       | [back to top] |
 | 0219 |              存在重复元素 II               | [Java][java-0219] |                    |                       | [back to top] |
 | 0222 |            完全二叉树的节点个数            | [Java][java-0222] |                    |                       | [back to top] |
+| 0223 |                  矩形面积                  | [Java][java-0223] |                    |                       | [back to top] |
 | 0226 |                 翻转二叉树                 | [Java][java-0226] |                    |                       | [back to top] |
 | 0230 |         二叉搜索树中第 K 小的元素          | [Java][java-0230] |                    |                       | [back to top] |
 | 0232 |                用栈实现队列                | [Java][java-0232] |                    |                       | [back to top] |
@@ -241,6 +243,7 @@
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
+| 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
@@ -341,6 +344,7 @@
 [java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
+[java-0128]: ./java-solutions/0128-longest-consecutive-sequence/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
@@ -376,6 +380,7 @@
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
+[java-0223]: ./java-solutions/0223-rectangle-area/src/Solution.java
 [java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
@@ -484,6 +489,7 @@
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
