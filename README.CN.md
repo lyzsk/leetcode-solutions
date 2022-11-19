@@ -204,6 +204,7 @@
 | 0775 |             全局倒置与局部倒置             | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
 | 0792 |             匹配子序列的单词数             | [Java][java-0792] |                    |                       | [back to top] |
+| 0799 |                   香槟塔                   | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |          使序列递增的最小交换次数          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |               子域名访问计数               | [Java][java-0811] |                    |                       | [back to top] |
@@ -250,6 +251,7 @@
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
+| 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
@@ -447,6 +449,7 @@
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
+[java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
@@ -501,6 +504,7 @@
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java

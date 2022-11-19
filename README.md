@@ -204,6 +204,7 @@ Recording personal solutions for Leetcode problems.
 | 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
 | 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |                    |                       | [back to top] |
+| 0799 |                        Champagne Tower                         | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0811 |                     Subdomain Visit Count                      | [Java][java-0811] |                    |                       | [back to top] |
@@ -250,6 +251,7 @@ Recording personal solutions for Leetcode problems.
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
+| 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
@@ -447,6 +449,7 @@ Recording personal solutions for Leetcode problems.
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
+[java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
@@ -501,6 +504,7 @@ Recording personal solutions for Leetcode problems.
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
