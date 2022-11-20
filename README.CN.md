@@ -59,6 +59,7 @@
 | 0033 |              搜索旋转排序数组              | [Java][java-0033] |                    |                       | [back to top] |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 | [Java][java-0034] |                    |                       | [back to top] |
 | 0035 |                搜索插入位置                | [Java][java-0035] |                    |                       | [back to top] |
+| 0036 |                 有效的数独                 | [Java][java-0036] |                    |                       | [back to top] |
 | 0038 |                  外观数列                  | [Java][java-0038] |                    |                       | [back to top] |
 | 0039 |                  组合总和                  | [Java][java-0039] |                    |                       | [back to top] |
 | 0040 |                组合总和 II                 | [Java][java-0040] |                    |                       | [back to top] |
@@ -218,11 +219,13 @@
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
+| 0904 |                  水果成篮                  | [Java][java-0904] |                    |                       | [back to top] |
 | 0905 |               按奇偶排序数组               | [Java][java-0905] |                    |                       | [back to top] |
 | 0907 |             子数组的最小值之和             | [Java][java-0907] |                    |                       | [back to top] |
 | 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
 | 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
+| 0929 |             独特的电子邮件地址             | [Java][java-0929] |                    |                       | [back to top] |
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
@@ -297,6 +300,7 @@
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0035]: ./java-solutions/0035-search-insert-position/src/Solution.java
+[java-0036]: ./java-solutions/0036-valid-sudoku/src/Solution.java
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
 [java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
@@ -470,11 +474,13 @@
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0904]: ./java-solutions/0904-fruit-into-baskets/src/Solution.java
 [java-0905]: ./java-solutions/0905-sort-array-by-parity/src/Solution.java
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
+[java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java

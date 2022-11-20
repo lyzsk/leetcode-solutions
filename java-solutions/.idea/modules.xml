@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" filepath="$PROJECT_DIR$/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" filepath="$PROJECT_DIR$/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0035-search-insert-position/0035-search-insert-position.iml" filepath="$PROJECT_DIR$/0035-search-insert-position/0035-search-insert-position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0036-valid-sudoku/0036-valid-sudoku.iml" filepath="$PROJECT_DIR$/0036-valid-sudoku/0036-valid-sudoku.iml" />
       <module fileurl="file://$PROJECT_DIR$/0038-count-and-say/0038-count-and-say.iml" filepath="$PROJECT_DIR$/0038-count-and-say/0038-count-and-say.iml" />
       <module fileurl="file://$PROJECT_DIR$/0039-combination-sum/0039-combination-sum.iml" filepath="$PROJECT_DIR$/0039-combination-sum/0039-combination-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0040-combination-sum-ii/0040-combination-sum-ii.iml" filepath="$PROJECT_DIR$/0040-combination-sum-ii/0040-combination-sum-ii.iml" />
@@ -190,11 +191,13 @@
       <module fileurl="file://$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" filepath="$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" filepath="$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" />
       <module fileurl="file://$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0904-fruit-into-baskets/0904-fruit-into-baskets.iml" filepath="$PROJECT_DIR$/0904-fruit-into-baskets/0904-fruit-into-baskets.iml" />
       <module fileurl="file://$PROJECT_DIR$/0905-sort-array-by-parity/0905-sort-array-by-parity.iml" filepath="$PROJECT_DIR$/0905-sort-array-by-parity/0905-sort-array-by-parity.iml" />
       <module fileurl="file://$PROJECT_DIR$/0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.iml" filepath="$PROJECT_DIR$/0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.iml" />
       <module fileurl="file://$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" filepath="$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0915-partition-array-into-disjoint-intervals/0915-partition-array-into-disjoint-intervals.iml" filepath="$PROJECT_DIR$/0915-partition-array-into-disjoint-intervals/0915-partition-array-into-disjoint-intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.iml" filepath="$PROJECT_DIR$/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0929-unique-email-addresses/0929-unique-email-addresses.iml" filepath="$PROJECT_DIR$/0929-unique-email-addresses/0929-unique-email-addresses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" filepath="$PROJECT_DIR$/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" filepath="$PROJECT_DIR$/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" filepath="$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" />
