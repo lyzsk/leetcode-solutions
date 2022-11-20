@@ -64,6 +64,7 @@ Recording personal solutions for Leetcode problems.
 | 0040 |                       Combination Sum II                       | [Java][java-0040] |                    |                       | [back to top] |
 | 0042 |                      Trapping Rain Water                       | [Java][java-0042] |                    |                       | [back to top] |
 | 0043 |                        Multiply Strings                        | [Java][java-0043] |                    |                       | [back to top] |
+| 0045 |                          Jump Game II                          | [Java][java-0045] |                    |                       | [back to top] |
 | 0046 |                          Permutations                          | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                        Permutations II                         | [Java][java-0047] |                    |                       | [back to top] |
 | 0048 |                          Rotate Image                          | [Java][java-0048] |                    |                       | [back to top] |
@@ -301,6 +302,7 @@ Recording personal solutions for Leetcode problems.
 [java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
 [java-0042]: ./java-solutions/0042-trapping-rain-water/src/Solution.java
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
+[java-0045]: ./java-solutions/0045-jump-game-ii/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0048]: ./java-solutions/0048-rotate-image/src/Solution.java

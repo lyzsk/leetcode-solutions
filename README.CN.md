@@ -64,6 +64,7 @@
 | 0040 |                组合总和 II                 | [Java][java-0040] |                    |                       | [back to top] |
 | 0042 |                   接雨水                   | [Java][java-0042] |                    |                       | [back to top] |
 | 0043 |                 字符串相乘                 | [Java][java-0043] |                    |                       | [back to top] |
+| 0045 |                跳跃游戏 II                 | [Java][java-0045] |                    |                       | [back to top] |
 | 0046 |                   全排列                   | [Java][java-0046] |                    |                       | [back to top] |
 | 0047 |                 全排列 II                  | [Java][java-0047] |                    |                       | [back to top] |
 | 0048 |                  旋转图像                  | [Java][java-0048] |                    |                       | [back to top] |
@@ -301,6 +302,7 @@
 [java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
 [java-0042]: ./java-solutions/0042-trapping-rain-water/src/Solution.java
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
+[java-0045]: ./java-solutions/0045-jump-game-ii/src/Solution.java
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0048]: ./java-solutions/0048-rotate-image/src/Solution.java
