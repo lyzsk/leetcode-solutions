@@ -130,6 +130,7 @@
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
+| 0171 |               Excel 表列序号               | [Java][java-0171] |                    |                       | [back to top] |
 | 0172 |                 阶乘后的零                 | [Java][java-0172] |                    |                       | [back to top] |
 | 0179 |                   最大数                   | [Java][java-0179] |                    |                       | [back to top] |
 | 0187 |              重复的 DNA 序列               | [Java][java-0187] |                    |                       | [back to top] |
@@ -195,6 +196,7 @@
 | 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
 | 0692 |              前 K 个高频单词               | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
+| 0696 |               计数二进制子串               | [Java][java-0696] |                    |                       | [back to top] |
 | 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
 | 0718 |               最长重复子数组               | [Java][java-0718] |                    |                       | [back to top] |
 | 0729 |              我的日程安排表 I              | [Java][java-0729] |                    |                       | [back to top] |
@@ -215,6 +217,7 @@
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
+| 0905 |               按奇偶排序数组               | [Java][java-0905] |                    |                       | [back to top] |
 | 0907 |             子数组的最小值之和             | [Java][java-0907] |                    |                       | [back to top] |
 | 0912 |                  排序数组                  | [Java][java-0912] |                    |                       | [back to top] |
 | 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
@@ -371,6 +374,7 @@
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
@@ -440,6 +444,7 @@
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
+[java-0696]: ./java-solutions/0696-count-binary-substrings/src/Solution.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
@@ -463,6 +468,7 @@
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0905]: ./java-solutions/0905-sort-array-by-parity/src/Solution.java
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java

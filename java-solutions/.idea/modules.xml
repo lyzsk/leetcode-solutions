@@ -102,6 +102,7 @@
       <module fileurl="file://$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" filepath="$PROJECT_DIR$/0155-min-stack/0155-min-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" filepath="$PROJECT_DIR$/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" filepath="$PROJECT_DIR$/0165-compare-version-numbers/0165-compare-version-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0171-excel-sheet-column-number/0171-excel-sheet-column-number.iml" filepath="$PROJECT_DIR$/0171-excel-sheet-column-number/0171-excel-sheet-column-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.iml" filepath="$PROJECT_DIR$/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/0179-largest-number/0179-largest-number.iml" filepath="$PROJECT_DIR$/0179-largest-number/0179-largest-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" filepath="$PROJECT_DIR$/0187-repeated-dna-sequences/0187-repeated-dna-sequences.iml" />
@@ -167,6 +168,7 @@
       <module fileurl="file://$PROJECT_DIR$/0687-longest-univalue-path/0687-longest-univalue-path.iml" filepath="$PROJECT_DIR$/0687-longest-univalue-path/0687-longest-univalue-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/0692-top-k-frequent-words/0692-top-k-frequent-words.iml" filepath="$PROJECT_DIR$/0692-top-k-frequent-words/0692-top-k-frequent-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0695-max-area-of-island/0695-max-area-of-island.iml" filepath="$PROJECT_DIR$/0695-max-area-of-island/0695-max-area-of-island.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0696-count-binary-substrings/0696-count-binary-substrings.iml" filepath="$PROJECT_DIR$/0696-count-binary-substrings/0696-count-binary-substrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/0704-binary-search/0704-binary-search.iml" filepath="$PROJECT_DIR$/0704-binary-search/0704-binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.iml" filepath="$PROJECT_DIR$/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/0729-my-calendar-i/0729-my-calendar-i.iml" filepath="$PROJECT_DIR$/0729-my-calendar-i/0729-my-calendar-i.iml" />
@@ -187,6 +189,7 @@
       <module fileurl="file://$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" filepath="$PROJECT_DIR$/0870-advantage-shuffle/0870-advantage-shuffle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" filepath="$PROJECT_DIR$/0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.iml" />
       <module fileurl="file://$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0905-sort-array-by-parity/0905-sort-array-by-parity.iml" filepath="$PROJECT_DIR$/0905-sort-array-by-parity/0905-sort-array-by-parity.iml" />
       <module fileurl="file://$PROJECT_DIR$/0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.iml" filepath="$PROJECT_DIR$/0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.iml" />
       <module fileurl="file://$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" filepath="$PROJECT_DIR$/0912-sort-an-array/0912-sort-an-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0915-partition-array-into-disjoint-intervals/0915-partition-array-into-disjoint-intervals.iml" filepath="$PROJECT_DIR$/0915-partition-array-into-disjoint-intervals/0915-partition-array-into-disjoint-intervals.iml" />
