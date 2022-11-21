@@ -177,6 +177,7 @@
 | 0395 |       至少有 K 个重复字符的最长子串        | [Java][java-0395] |                    |                       | [back to top] |
 | 0402 |               移掉 K 位数字                | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                 最长回文串                 | [Java][java-0409] |                    |                       | [back to top] |
+| 0412 |                 Fizz Buzz                  | [Java][java-0412] |                    |                       | [back to top] |
 | 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
 | 0423 |              从英文中重建数字              | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            替换后的最长重复字符            | [Java][java-0424] |                    |                       | [back to top] |
@@ -257,6 +258,7 @@
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
+| 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
@@ -427,6 +429,7 @@
 [java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
+[java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
@@ -517,6 +520,7 @@
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
+[java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java

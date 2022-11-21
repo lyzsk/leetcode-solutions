@@ -177,6 +177,7 @@ Recording personal solutions for Leetcode problems.
 | 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |                    |                       | [back to top] |
 | 0402 |                        Remove K Digits                         | [Java][java-0402] |                    |                       | [back to top] |
 | 0409 |                       Longest Palindrome                       | [Java][java-0409] |                    |                       | [back to top] |
+| 0412 |                           Fizz Buzz                            | [Java][java-0412] |                    |                       | [back to top] |
 | 0415 |                          Add Strings                           | [Java][java-0415] |                    |                       | [back to top] |
 | 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |                    |                       | [back to top] |
@@ -257,6 +258,7 @@ Recording personal solutions for Leetcode problems.
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
+| 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
@@ -427,6 +429,7 @@ Recording personal solutions for Leetcode problems.
 [java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
+[java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
@@ -517,6 +520,7 @@ Recording personal solutions for Leetcode problems.
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
+[java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
