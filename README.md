@@ -256,6 +256,7 @@ Recording personal solutions for Leetcode problems.
 | 1694 |                     Reformat Phone Number                      | [Java][java-1694] |                    |                       | [back to top] |
 | 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |                    |                       | [back to top] |
+| 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -523,6 +524,7 @@ Recording personal solutions for Leetcode problems.
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
+[java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java

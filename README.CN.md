@@ -256,6 +256,7 @@
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
 | 1710 |             卡车上的最大单元数             | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                找到最高海拔                | [Java][java-1732] |                    |                       | [back to top] |
+| 1742 |            盒子中小球的最大数量            | [Java][java-1742] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
@@ -523,6 +524,7 @@
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
+[java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
