@@ -197,6 +197,7 @@ Recording personal solutions for Leetcode problems.
 | 0658 |                    Find K Closest Elements                     | [Java][java-0658] |                    |                       | [back to top] |
 | 0659 |           Split Array into Consecutive Subsequences            | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |                  Maximum Width of Binary Tree                  | [Java][java-0662] |                    |                       | [back to top] |
+| 0678 |                    Valid Parenthesis String                    | [Java][java-0678] |                    |                       | [back to top] |
 | 0680 |                      Valid Palindrome II                       | [Java][java-0680] |                    |                       | [back to top] |
 | 0687 |                     Longest Univalue Path                      | [Java][java-0687] |                    |                       | [back to top] |
 | 0692 |                      Top K Frequent Words                      | [Java][java-0692] |                    |                       | [back to top] |
@@ -455,6 +456,7 @@ Recording personal solutions for Leetcode problems.
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
+[java-0678]: ./java-solutions/0678-valid-parenthesis-string/src/Solution.java
 [java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java

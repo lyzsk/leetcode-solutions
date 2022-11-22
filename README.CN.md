@@ -197,6 +197,7 @@
 | 0658 |           找到 K 个最接近的元素            | [Java][java-0658] |                    |                       | [back to top] |
 | 0659 |            分割数组为连续子序列            | [Java][java-0659] |                    |                       | [back to top] |
 | 0662 |               二叉树最大宽度               | [Java][java-0662] |                    |                       | [back to top] |
+| 0678 |              有效的括号字符串              | [Java][java-0678] |                    |                       | [back to top] |
 | 0680 |               验证回文串 II                | [Java][java-0680] |                    |                       | [back to top] |
 | 0687 |                最长同值路径                | [Java][java-0687] |                    |                       | [back to top] |
 | 0692 |              前 K 个高频单词               | [Java][java-0692] |                    |                       | [back to top] |
@@ -455,6 +456,7 @@
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/
+[java-0678]: ./java-solutions/0678-valid-parenthesis-string/src/Solution.java
 [java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
