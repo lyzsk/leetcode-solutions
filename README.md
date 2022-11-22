@@ -52,6 +52,7 @@ Recording personal solutions for Leetcode problems.
 | 0023 |                      Merge k Sorted Lists                      | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |                    Reverse Nodes in k-Group                    | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |              Remove Duplicates from Sorted Array               | [Java][java-0026] |                    |                       | [back to top] |
+| 0027 |                         Remove Element                         | [Java][java-0027] |                    |                       | [back to top] |
 | 0028 |       Find the Index of the First Occurrence in a String       | [Java][java-0028] |                    |                       | [back to top] |
 | 0029 |                      Divide Two Integers                       | [Java][java-0029] |                    |                       | [back to top] |
 | 0030 |           Substring with Concatenation of All Words            | [Java][java-0030] |                    |                       | [back to top] |
@@ -160,6 +161,7 @@ Recording personal solutions for Leetcode problems.
 | 0242 |                         Valid Anagram                          | [Java][java-0242] |                    |                       | [back to top] |
 | 0263 |                          Ugly Number                           | [Java][java-0263] |                    |                       | [back to top] |
 | 0268 |                         Missing Number                         | [Java][java-0268] |                    |                       | [back to top] |
+| 0279 |                        Perfect Squares                         | [Java][java-0279] |                    |                       | [back to top] |
 | 0283 |                          Move Zeroes                           | [Java][java-0283] |                    |                       | [back to top] |
 | 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |                    |                       | [back to top] |
@@ -208,6 +210,7 @@ Recording personal solutions for Leetcode problems.
 | 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |                    |                       | [back to top] |
 | 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
+| 0788 |                         Rotated Digits                         | [Java][java-0788] |                    |                       | [back to top] |
 | 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |                    |                       | [back to top] |
 | 0799 |                        Champagne Tower                         | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
@@ -258,6 +261,7 @@ Recording personal solutions for Leetcode problems.
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
+| 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
@@ -295,6 +299,7 @@ Recording personal solutions for Leetcode problems.
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
+[java-0027]: ./java-solutions/0027-remove-element/src/Solution.java
 [java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
 [java-0029]: ./java-solutions/0029-divide-two-integers/src/Solution.java
 [java-0030]: ./java-solutions/0030-substring-with-concatenation-of-all-words/src/Solution.java
@@ -411,6 +416,7 @@ Recording personal solutions for Leetcode problems.
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
+[java-0279]: ./java-solutions/0279-perfect-squares/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
@@ -462,6 +468,7 @@ Recording personal solutions for Leetcode problems.
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
 [java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
@@ -520,6 +527,7 @@ Recording personal solutions for Leetcode problems.
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
+[java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java

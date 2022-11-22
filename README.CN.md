@@ -52,6 +52,7 @@
 | 0023 |             合并 K 个升序链表              | [Java][java-0023] |                    |                       | [back to top] |
 | 0025 |              K 个一组翻转链表              | [Java][java-0025] |                    |                       | [back to top] |
 | 0026 |           删除有序数组中的重复项           | [Java][java-0026] |                    |                       | [back to top] |
+| 0027 |                  移除元素                  | [Java][java-0027] |                    |                       | [back to top] |
 | 0028 |       找出字符串中第一个匹配项的下标       | [Java][java-0028] |                    |                       | [back to top] |
 | 0029 |                  两数相除                  | [Java][java-0029] |                    |                       | [back to top] |
 | 0030 |             串联所有单词的子串             | [Java][java-0030] |                    |                       | [back to top] |
@@ -160,6 +161,7 @@
 | 0242 |              有效的字母异位词              | [Java][java-0242] |                    |                       | [back to top] |
 | 0263 |                    丑数                    | [Java][java-0263] |                    |                       | [back to top] |
 | 0268 |                 丢失的数字                 | [Java][java-0268] |                    |                       | [back to top] |
+| 0279 |                 完全平方数                 | [Java][java-0279] |                    |                       | [back to top] |
 | 0283 |                   移动零                   | [Java][java-0283] |                    |                       | [back to top] |
 | 0295 |               数据流的中位数               | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
@@ -208,6 +210,7 @@
 | 0769 |             最多能完成排序的块             | [Java][java-0769] |                    |                       | [back to top] |
 | 0775 |             全局倒置与局部倒置             | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
+| 0788 |                  旋转数字                  | [Java][java-0788] |                    |                       | [back to top] |
 | 0792 |             匹配子序列的单词数             | [Java][java-0792] |                    |                       | [back to top] |
 | 0799 |                   香槟塔                   | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |          使序列递增的最小交换次数          | [Java][java-0801] |                    |                       | [back to top] |
@@ -258,6 +261,7 @@
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
+| 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
@@ -295,6 +299,7 @@
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
+[java-0027]: ./java-solutions/0027-remove-element/src/Solution.java
 [java-0028]: ./java-solutions/0028-find-the-index-of-the-first-ocurrence-in-a-string/src/Solution.java
 [java-0029]: ./java-solutions/0029-divide-two-integers/src/Solution.java
 [java-0030]: ./java-solutions/0030-substring-with-concatenation-of-all-words/src/Solution.java
@@ -411,6 +416,7 @@
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
+[java-0279]: ./java-solutions/0279-perfect-squares/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
@@ -462,6 +468,7 @@
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
 [java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
@@ -520,6 +527,7 @@
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
+[java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
