@@ -137,8 +137,11 @@
       <module fileurl="file://$PROJECT_DIR$/0283-move-zeroes/0283-move-zeroes.iml" filepath="$PROJECT_DIR$/0283-move-zeroes/0283-move-zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/0295-find-median-from-data-stream/0295-find-median-from-data-stream.iml" filepath="$PROJECT_DIR$/0295-find-median-from-data-stream/0295-find-median-from-data-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" filepath="$PROJECT_DIR$/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0303-range-sum-query-immutable/0303-range-sum-query-immutable.iml" filepath="$PROJECT_DIR$/0303-range-sum-query-immutable/0303-range-sum-query-immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0307-range-sum-query-mutable/0307-range-sum-query-mutable.iml" filepath="$PROJECT_DIR$/0307-range-sum-query-mutable/0307-range-sum-query-mutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" filepath="$PROJECT_DIR$/0316-remove-duplicate-letters/0316-remove-duplicate-letters.iml" />
       <module fileurl="file://$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" filepath="$PROJECT_DIR$/0322-coin-change/0322-coin-change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0327-count-of-range-sum/0327-count-of-range-sum.iml" filepath="$PROJECT_DIR$/0327-count-of-range-sum/0327-count-of-range-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.iml" filepath="$PROJECT_DIR$/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/0344-reverse-string/0344-reverse-string.iml" filepath="$PROJECT_DIR$/0344-reverse-string/0344-reverse-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.iml" filepath="$PROJECT_DIR$/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.iml" />

@@ -165,8 +165,11 @@
 | 0283 |                   移动零                   | [Java][java-0283] |                    |                       | [back to top] |
 | 0295 |               数据流的中位数               | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
+| 0303 |          区域和检索 - 数组不可变           | [Java][java-0303] |                    |                       | [back to top] |
+| 0307 |          区域和检索 - 数组可修改           | [Java][java-0307] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
+| 0327 |                区间和的个数                | [Java][java-0327] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
 | 0344 |                 反转字符串                 | [Java][java-0344] |                    |                       | [back to top] |
 | 0345 |           反转字符串中的元音字母           | [Java][java-0345] |                    |                       | [back to top] |
@@ -424,8 +427,11 @@
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
+[java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
+[java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
+[java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
