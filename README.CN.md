@@ -250,6 +250,7 @@
 | 1460 |        通过翻转子数组使两个数组相等        | [Java][java-1460] |                    |                       | [back to top] |
 | 1464 |           数组中两元素的最大乘积           | [Java][java-1464] |                    |                       | [back to top] |
 | 1470 |                重新排列数组                | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
+| 1523 |          在区间范围内统计奇数数目          | [Java][java-1523] |                    |                       | [back to top] |
 | 1578 |          使绳子变成彩色的最短时间          | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
@@ -261,6 +262,7 @@
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
+| 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
@@ -517,6 +519,7 @@
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
@@ -529,6 +532,7 @@
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java

@@ -250,6 +250,7 @@ Recording personal solutions for Leetcode problems.
 | 1460 |         Make Two Arrays Equal by Reversing Sub-arrays          | [Java][java-1460] |                    |                       | [back to top] |
 | 1464 |          Maximum Product of Two Elements in an Array           | [Java][java-1464] |                    |                       | [back to top] |
 | 1470 |                       Shuffle the Array                        | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
+| 1523 |             Count Odd Numbers in an Interval Range             | [Java][java-1523] |                    |                       | [back to top] |
 | 1578 |               Minimum Time to Make Rope Colorful               | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |           Check If Two String Arrays are Equivalent            | [Java][java-1662] |                    |                       | [back to top] |
@@ -261,6 +262,7 @@ Recording personal solutions for Leetcode problems.
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
+| 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
@@ -517,6 +519,7 @@ Recording personal solutions for Leetcode problems.
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
@@ -529,6 +532,7 @@ Recording personal solutions for Leetcode problems.
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
