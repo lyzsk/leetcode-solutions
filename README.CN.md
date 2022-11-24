@@ -170,6 +170,7 @@
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
 | 0327 |                区间和的个数                | [Java][java-0327] |                    |                       | [back to top] |
+| 0328 |                  奇偶链表                  | [Java][java-0328] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
 | 0344 |                 反转字符串                 | [Java][java-0344] |                    |                       | [back to top] |
 | 0345 |           反转字符串中的元音字母           | [Java][java-0345] |                    |                       | [back to top] |
@@ -216,6 +217,7 @@
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
 | 0788 |                  旋转数字                  | [Java][java-0788] |                    |                       | [back to top] |
 | 0792 |             匹配子序列的单词数             | [Java][java-0792] |                    |                       | [back to top] |
+| 0795 |               区间子数组个数               | [Java][java-0795] |                    |                       | [back to top] |
 | 0799 |                   香槟塔                   | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |          使序列递增的最小交换次数          | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -234,6 +236,7 @@
 | 0915 |                  分割数组                  | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
 | 0929 |             独特的电子邮件地址             | [Java][java-0929] |                    |                       | [back to top] |
+| 0938 |             二叉搜索树的范围和             | [Java][java-0938] |                    |                       | [back to top] |
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
@@ -432,6 +435,7 @@
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
+[java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
@@ -481,6 +485,7 @@
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
+[java-0795]: ./java-solutions/0795-number-of-subarrays-with-bounded-maximum/src/Solution.java
 [java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
@@ -503,6 +508,7 @@
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
+[java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java

@@ -170,6 +170,7 @@ Recording personal solutions for Leetcode problems.
 | 0316 |                    Remove Duplicate Letters                    | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                          Coin Change                           | [Java][java-0322] |                    |                       | [back to top] |
 | 0327 |                       Count of Range Sum                       | [Java][java-0327] |                    |                       | [back to top] |
+| 0328 |                      Odd Even Linked List                      | [Java][java-0328] |                    |                       | [back to top] |
 | 0334 |                 Increasing Triplet Subsequence                 | [Java][java-0334] |                    |                       | [back to top] |
 | 0344 |                         Reverse String                         | [Java][java-0344] |                    |                       | [back to top] |
 | 0345 |                   Reverse Vowels of a String                   | [Java][java-0345] |                    |                       | [back to top] |
@@ -216,6 +217,7 @@ Recording personal solutions for Leetcode problems.
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
 | 0788 |                         Rotated Digits                         | [Java][java-0788] |                    |                       | [back to top] |
 | 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |                    |                       | [back to top] |
+| 0795 |            Number of Subarrays with Bounded Maximum            | [Java][java-0795] |                    |                       | [back to top] |
 | 0799 |                        Champagne Tower                         | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
@@ -234,6 +236,7 @@ Recording personal solutions for Leetcode problems.
 | 0915 |            Partition Array into Disjoint Intervals             | [Java][java-0915] |                    |                       | [back to top] |
 | 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |                    |                       | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [Java][java-0929] |                    |                       | [back to top] |
+| 0938 |                        Range Sum of BST                        | [Java][java-0938] |                    |                       | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
@@ -432,6 +435,7 @@ Recording personal solutions for Leetcode problems.
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
+[java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
@@ -481,6 +485,7 @@ Recording personal solutions for Leetcode problems.
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
+[java-0795]: ./java-solutions/0795-number-of-subarrays-with-bounded-maximum/src/Solution.java
 [java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
 [java-0801]: ./java-solutions/0801-minimum-swaps-to-make-sequences-increasing/src/Solution.java
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
@@ -503,6 +508,7 @@ Recording personal solutions for Leetcode problems.
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
+[java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
