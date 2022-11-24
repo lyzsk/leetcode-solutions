@@ -162,6 +162,7 @@
       <module fileurl="file://$PROJECT_DIR$/0443-string-compression/0443-string-compression.iml" filepath="$PROJECT_DIR$/0443-string-compression/0443-string-compression.iml" />
       <module fileurl="file://$PROJECT_DIR$/0445-add-two-number-ii/0445-add-two-number-ii.iml" filepath="$PROJECT_DIR$/0445-add-two-number-ii/0445-add-two-number-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0454-4sum-ii/0454-4sum-ii.iml" filepath="$PROJECT_DIR$/0454-4sum-ii/0454-4sum-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0493-reverse-pairs/0493-reverse-pairs.iml" filepath="$PROJECT_DIR$/0493-reverse-pairs/0493-reverse-pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/0507-perfect-number/0507-perfect-number.iml" filepath="$PROJECT_DIR$/0507-perfect-number/0507-perfect-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" filepath="$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" />
@@ -193,6 +194,7 @@
       <module fileurl="file://$PROJECT_DIR$/0799-champagne-tower/0799-champagne-tower.iml" filepath="$PROJECT_DIR$/0799-champagne-tower/0799-champagne-tower.iml" />
       <module fileurl="file://$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" filepath="$PROJECT_DIR$/0801-minimum-swaps-to-make-sequences-increasing/0801-minimum-swaps-to-make-sequences-increasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" filepath="$PROJECT_DIR$/0804-unique-morse-code-words/0804-unique-morse-code-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0809-expressive-words/0809-expressive-words.iml" filepath="$PROJECT_DIR$/0809-expressive-words/0809-expressive-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" filepath="$PROJECT_DIR$/0811-subdomain-visit-count/0811-subdomain-visit-count.iml" />
       <module fileurl="file://$PROJECT_DIR$/0817-linked-list-components/0817-linked-list-components.iml" filepath="$PROJECT_DIR$/0817-linked-list-components/0817-linked-list-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/0822-card-flipping-game/0822-card-flipping-game.iml" filepath="$PROJECT_DIR$/0822-card-flipping-game/0822-card-flipping-game.iml" />

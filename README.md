@@ -190,6 +190,7 @@ Recording personal solutions for Leetcode problems.
 | 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0445 |                       Add Two Numbers II                       | [Java][java-0445] |                    |                       | [back to top] |
 | 0454 |                            4Sum II                             | [Java][java-0454] |                    |                       | [back to top] |
+| 0493 |                         Reverse Pairs                          | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                         Perfect Number                         | [Java][java-0507] |                    |                       | [back to top] |
 | 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
@@ -221,6 +222,7 @@ Recording personal solutions for Leetcode problems.
 | 0799 |                        Champagne Tower                         | [Java][java-0799] |                    |                       | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
 | 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
+| 0809 |                        Expressive Words                        | [Java][java-0809] |                    |                       | [back to top] |
 | 0811 |                     Subdomain Visit Count                      | [Java][java-0811] |                    |                       | [back to top] |
 | 0817 |                     Linked List Components                     | [Java][java-0817] |                    |                       | [back to top] |
 | 0822 |                       Card Flipping Game                       | [Java][java-0822] |                    |                       | [back to top] |
@@ -460,6 +462,7 @@ Recording personal solutions for Leetcode problems.
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
@@ -491,6 +494,7 @@ Recording personal solutions for Leetcode problems.
 [java-0804]: ./java-solutions/0804-unique-morse-code-words/src/Solution.java
 [py-0804]: ./python-solutions/0804-unique-morse-code-words/solution.py
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
+[java-0809]: ./java-solutions/0809-expressive-words/src/Solution.java
 [java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
