@@ -258,6 +258,7 @@ Recording personal solutions for Leetcode problems.
 | 1460 |         Make Two Arrays Equal by Reversing Sub-arrays          | [Java][java-1460] |                    |                       | [back to top] |
 | 1464 |          Maximum Product of Two Elements in an Array           | [Java][java-1464] |                    |                       | [back to top] |
 | 1470 |                       Shuffle the Array                        | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
+| 1512 |                      Number of Good Pairs                      | [Java][java-1512] |                    |                       | [back to top] |
 | 1523 |             Count Odd Numbers in an Interval Range             | [Java][java-1523] |                    |                       | [back to top] |
 | 1578 |               Minimum Time to Make Rope Colorful               | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
@@ -535,6 +536,7 @@ Recording personal solutions for Leetcode problems.
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
