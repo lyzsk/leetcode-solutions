@@ -193,6 +193,7 @@ Recording personal solutions for Leetcode problems.
 | 0493 |                         Reverse Pairs                          | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                         Perfect Number                         | [Java][java-0507] |                    |                       | [back to top] |
 | 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
+| 0598 |                       Range Addition II                        | [Java][java-0598] |                    |                       | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                     Design Circular Deque                      | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |                    Find Duplicate Subtrees                     | [Java][java-0652] |                    |                       | [back to top] |
@@ -244,6 +245,7 @@ Recording personal solutions for Leetcode problems.
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
 | 1122 |                      Relative Sort Array                       | [Java][java-1122] |                    |                       | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
+| 1144 |             Decrease Elements To Make Array Zigzag             | [Java][java-1144] |                    |                       | [back to top] |
 | 1156 |         Swap For Longest Repeated Character Substring          | [Java][java-1156] |                    |                       | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [Java][java-1239] |                    |                       | [back to top] |
@@ -273,6 +275,7 @@ Recording personal solutions for Leetcode problems.
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
+| 1877 |               Minimize Maximum Pair Sum in Array               | [Java][java-1877] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
@@ -454,6 +457,7 @@ Recording personal solutions for Leetcode problems.
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
+[java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
@@ -518,6 +522,7 @@ Recording personal solutions for Leetcode problems.
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
+[java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
@@ -552,6 +557,7 @@ Recording personal solutions for Leetcode problems.
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
+[java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java

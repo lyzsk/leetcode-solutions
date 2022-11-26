@@ -193,6 +193,7 @@
 | 0493 |                   翻转对                   | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                   完美数                   | [Java][java-0507] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
+| 0598 |                范围求和 II                 | [Java][java-0598] |                    |                       | [back to top] |
 | 0623 |             在二叉树中增加一行             | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |              设计循环双端队列              | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
 | 0652 |               寻找重复的子树               | [Java][java-0652] |                    |                       | [back to top] |
@@ -244,6 +245,7 @@
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
 | 1122 |               数组的相对排序               | [Java][java-1122] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
+| 1144 |           递减元素使数组呈锯齿状           | [Java][java-1144] |                    |                       | [back to top] |
 | 1156 |          单字符重复子串的最大长度          | [Java][java-1156] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 |            串联字符串的最大长度            | [Java][java-1239] |                    |                       | [back to top] |
@@ -273,6 +275,7 @@
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
+| 1877 |          数组中最大数对和的最小值          | [Java][java-1877] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
@@ -454,6 +457,7 @@
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
+[java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
@@ -518,6 +522,7 @@
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
+[java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
@@ -552,6 +557,7 @@
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
+[java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java

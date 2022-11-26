@@ -165,6 +165,7 @@
       <module fileurl="file://$PROJECT_DIR$/0493-reverse-pairs/0493-reverse-pairs.iml" filepath="$PROJECT_DIR$/0493-reverse-pairs/0493-reverse-pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/0507-perfect-number/0507-perfect-number.iml" filepath="$PROJECT_DIR$/0507-perfect-number/0507-perfect-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" filepath="$PROJECT_DIR$/0525-contiguous-array/0525-contiguous-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0598-range-addition-ii/0598-range-addition-ii.iml" filepath="$PROJECT_DIR$/0598-range-addition-ii/0598-range-addition-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" filepath="$PROJECT_DIR$/0623-add-one-row-to-tree/0623-add-one-row-to-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" filepath="$PROJECT_DIR$/0641-design-circular-deque/0641-design-circular-deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" filepath="$PROJECT_DIR$/0652-find-duplicate-subtrees/0652-find-duplicate-subtrees.iml" />
@@ -216,6 +217,7 @@
       <module fileurl="file://$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" filepath="$PROJECT_DIR$/0998-maximum-binary-tree-ii/0998-maximum-binary-tree-ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" filepath="$PROJECT_DIR$/1122-relative-sort-array/1122-relative-sort-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" filepath="$PROJECT_DIR$/1143-longest-common-subsequence/1143-longest-common-subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1144-decrease-elements-to-make-array-zigzag/1144-decrease-elements-to-make-array-zigzag.iml" filepath="$PROJECT_DIR$/1144-decrease-elements-to-make-array-zigzag/1144-decrease-elements-to-make-array-zigzag.iml" />
       <module fileurl="file://$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" filepath="$PROJECT_DIR$/1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" filepath="$PROJECT_DIR$/1224-maximum-equal-frequency/1224-maximum-equal-frequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/1239-maximum-length-of-a-concatenated-string-with-characters/1239-maximum-length-of-a-concatenated-string-with-characters.iml" filepath="$PROJECT_DIR$/1239-maximum-length-of-a-concatenated-string-with-characters/1239-maximum-length-of-a-concatenated-string-with-characters.iml" />
@@ -245,6 +247,7 @@
       <module fileurl="file://$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" filepath="$PROJECT_DIR$/1800-maximum-ascending-subarray-sum/1800-maximum-ascending-subarray-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.iml" filepath="$PROJECT_DIR$/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.iml" />
       <module fileurl="file://$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" filepath="$PROJECT_DIR$/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.iml" filepath="$PROJECT_DIR$/1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" filepath="$PROJECT_DIR$/1905-count-sub-islands/1905-count-sub-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/1909-remove-one-element-to-make-the-array-strictly-increasing/1909-remove-one-element-to-make-the-array-strictly-increasing.iml" filepath="$PROJECT_DIR$/1909-remove-one-element-to-make-the-array-strictly-increasing/1909-remove-one-element-to-make-the-array-strictly-increasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.iml" filepath="$PROJECT_DIR$/1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.iml" />
