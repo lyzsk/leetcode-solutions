@@ -170,6 +170,7 @@
 | 0307 |          区域和检索 - 数组可修改           | [Java][java-0307] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
+| 0324 |                摆动排序 II                 | [Java][java-0324] |                    |                       | [bakc to top] |
 | 0327 |                区间和的个数                | [Java][java-0327] |                    |                       | [back to top] |
 | 0328 |                  奇偶链表                  | [Java][java-0328] |                    |                       | [back to top] |
 | 0334 |              递增的三元子序列              | [Java][java-0334] |                    |                       | [back to top] |
@@ -242,6 +243,7 @@
 | 0921 |            使括号有效的最少添加            | [Java][java-0921] |                    |                       | [back to top] |
 | 0929 |             独特的电子邮件地址             | [Java][java-0929] |                    |                       | [back to top] |
 | 0938 |             二叉搜索树的范围和             | [Java][java-0938] |                    |                       | [back to top] |
+| 0973 |            最接近原点的 K 个点             | [Java][java-0973] |                    |                       | [back to top] |
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
@@ -281,11 +283,18 @@
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
+| 1985 |          找出数组中的第 K 大整数           | [Java][java-1985] |                    |                       | [back to top] |
+| 2108 |        找出数组中的第一个回文字符串        | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
+
+# TODO
+
+-   0324 优化
+-   0973 优化
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -443,6 +452,7 @@
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
+[java-0324]: ./java-solutions/0324-wiggle-sort-ii/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
 [java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
@@ -522,6 +532,7 @@
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
+[java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
@@ -565,6 +576,8 @@
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java

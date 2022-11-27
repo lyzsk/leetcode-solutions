@@ -170,6 +170,7 @@ Recording personal solutions for Leetcode problems.
 | 0307 |                   Range Sum Query - Mutable                    | [Java][java-0307] |                    |                       | [back to top] |
 | 0316 |                    Remove Duplicate Letters                    | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                          Coin Change                           | [Java][java-0322] |                    |                       | [back to top] |
+| 0324 |                         Wiggle Sort II                         | [Java][java-0324] |                    |                       | [bakc to top] |
 | 0327 |                       Count of Range Sum                       | [Java][java-0327] |                    |                       | [back to top] |
 | 0328 |                      Odd Even Linked List                      | [Java][java-0328] |                    |                       | [back to top] |
 | 0334 |                 Increasing Triplet Subsequence                 | [Java][java-0334] |                    |                       | [back to top] |
@@ -242,6 +243,7 @@ Recording personal solutions for Leetcode problems.
 | 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |                    |                       | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [Java][java-0929] |                    |                       | [back to top] |
 | 0938 |                        Range Sum of BST                        | [Java][java-0938] |                    |                       | [back to top] |
+| 0973 |                   K Closest Points to Origin                   | [Java][java-0973] |                    |                       | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
@@ -281,11 +283,18 @@ Recording personal solutions for Leetcode problems.
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
+| 1985 |           Find the Kth Largest Integer in the Array            | [Java][java-1985] |                    |                       | [back to top] |
+| 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
+
+# TODO
+
+-   0324 优化
+-   0973 优化
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -443,6 +452,7 @@ Recording personal solutions for Leetcode problems.
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
+[java-0324]: ./java-solutions/0324-wiggle-sort-ii/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
 [java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
@@ -522,6 +532,7 @@ Recording personal solutions for Leetcode problems.
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
+[java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
@@ -565,6 +576,8 @@ Recording personal solutions for Leetcode problems.
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
