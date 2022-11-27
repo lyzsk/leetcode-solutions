@@ -226,6 +226,7 @@
 | 0804 |              唯一摩尔斯密码词              | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
 | 0809 |               情感丰富的文字               | [Java][java-0809] |                    |                       | [back to top] |
 | 0811 |               子域名访问计数               | [Java][java-0811] |                    |                       | [back to top] |
+| 0813 |             最大平均值和的分组             | [Java][java-0813] |                    |                       | [back to top] |
 | 0817 |                  链表组件                  | [Java][java-0817] |                    |                       | [back to top] |
 | 0822 |                翻转卡片游戏                | [Java][java-0822] |                    |                       | [back to top] |
 | 0856 |                 括号的分数                 | [Java][java-0856] |                    |                       | [back to top] |
@@ -503,6 +504,7 @@
 [js-0804]: ./javascript-solutions/0804-unique-morse-code-words/solution.js
 [java-0809]: ./java-solutions/0809-expressive-words/src/Solution.java
 [java-0811]: ./java-solutions/0811-subdomain-visit-count/src/Solution.java
+[java-0813]: ./java-solutions/0813-largest-sum-of-averages/src/Solution.java
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
