@@ -279,6 +279,7 @@
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
+| 1865 |           找出和为指定值的下标对           | [Java][java-1865] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
 | 1877 |          数组中最大数对和的最小值          | [Java][java-1877] |                    |                       | [back to top] |
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
@@ -575,6 +576,7 @@
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
+[java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java

@@ -279,6 +279,7 @@ Recording personal solutions for Leetcode problems.
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
+| 1865 |                Finding Pairs With a Certain Sum                | [Java][java-1865] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
 | 1877 |               Minimize Maximum Pair Sum in Array               | [Java][java-1877] |                    |                       | [back to top] |
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
@@ -575,6 +576,7 @@ Recording personal solutions for Leetcode problems.
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
+[java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
