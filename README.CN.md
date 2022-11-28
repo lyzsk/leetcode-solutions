@@ -211,6 +211,7 @@
 | 0692 |              前 K 个高频单词               | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |               岛屿的最大面积               | [Java][java-0695] |                    |                       | [back to top] |
 | 0696 |               计数二进制子串               | [Java][java-0696] |                    |                       | [back to top] |
+| 0703 |           数据流中的第 K 大元素            | [Java][java-0703] |                    |                       | [back to top] |
 | 0704 |                  二分查找                  | [Java][java-0704] |                    |                       | [back to top] |
 | 0718 |               最长重复子数组               | [Java][java-0718] |                    |                       | [back to top] |
 | 0729 |              我的日程安排表 I              | [Java][java-0729] |                    |                       | [back to top] |
@@ -287,6 +288,7 @@
 | 2108 |        找出数组中的第一个回文字符串        | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
+| 2225 |    Find Players With Zero or One Losses    | [Java][java-2225] |                    |                       | [back to top] |
 | 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
@@ -295,6 +297,7 @@
 
 -   0324 优化
 -   0973 优化
+-   2225 优化
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -496,6 +499,7 @@
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0696]: ./java-solutions/0696-count-binary-substrings/src/Solution.java
+[java-0703]: ./java-solutions/0703-kth-largest-element-in-a-stream/src/KthLargest.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
@@ -580,6 +584,7 @@
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
+[java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java

@@ -211,6 +211,7 @@ Recording personal solutions for Leetcode problems.
 | 0692 |                      Top K Frequent Words                      | [Java][java-0692] |                    |                       | [back to top] |
 | 0695 |                       Max Area of Island                       | [Java][java-0695] |                    |                       | [back to top] |
 | 0696 |                    Count Binary Substrings                     | [Java][java-0696] |                    |                       | [back to top] |
+| 0703 |                Kth Largest Element in a Stream                 | [Java][java-0703] |                    |                       | [back to top] |
 | 0704 |                         Binary Search                          | [Java][java-0704] |                    |                       | [back to top] |
 | 0718 |              Maximum Length of Repeated Subarray               | [Java][java-0718] |                    |                       | [back to top] |
 | 0729 |                         My Calendar I                          | [Java][java-0729] |                    |                       | [back to top] |
@@ -287,6 +288,7 @@ Recording personal solutions for Leetcode problems.
 | 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
+| 2225 |              Find Players With Zero or One Losses              | [Java][java-2225] |                    |                       | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
@@ -295,6 +297,7 @@ Recording personal solutions for Leetcode problems.
 
 -   0324 优化
 -   0973 优化
+-   2225 优化
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -496,6 +499,7 @@ Recording personal solutions for Leetcode problems.
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
 [java-0696]: ./java-solutions/0696-count-binary-substrings/src/Solution.java
+[java-0703]: ./java-solutions/0703-kth-largest-element-in-a-stream/src/KthLargest.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
@@ -580,6 +584,7 @@ Recording personal solutions for Leetcode problems.
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
+[java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
