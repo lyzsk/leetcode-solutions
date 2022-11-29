@@ -119,6 +119,7 @@ Recording personal solutions for Leetcode problems.
 | 0127 |                          Word Ladder                           | [Java][java-0127] |                    |                       | [back to top] |
 | 0128 |                  Longest Consecutive Sequence                  | [Java][java-0128] |                    |                       | [back to top] |
 | 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |                    |                       | [back to top] |
+| 0130 |                       Surrounded Regions                       | [Java][java-0130] |                    |                       | [back to top] |
 | 0134 |                          Gas Station                           | [Java][java-0134] |                    |                       | [back to top] |
 | 0136 |                         Single Number                          | [Java][java-0136] |                    |                       | [back to top] |
 | 0139 |                           Word Break                           | [Java][java-0139] |                    |                       | [back to top] |
@@ -143,6 +144,7 @@ Recording personal solutions for Leetcode problems.
 | 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                          Happy Number                          | [Java][java-0202] |                    |                       | [back to top] |
 | 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0207 |                        Course Schedule                         | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                         Word Search II                         | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |                Kth Largest Element in an Array                 | [Java][java-0215] |                    |                       | [back to top] |
@@ -180,6 +182,7 @@ Recording personal solutions for Leetcode problems.
 | 0349 |                   Intersection of Two Arrays                   | [Java][java-0349] |                    |                       | [back to top] |
 | 0371 |                      Sum of Two Integers                       | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |                    |                       | [back to top] |
+| 0380 |                  Insert Delete GetRandom O(1)                  | [Java][java-0380] |                    |                       | [back to top] |
 | 0387 |               First Unique Character in a String               | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0392 |                         Is Subsequence                         | [Java][java-0392] |                    |                       | [back to top] |
 | 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |                    |                       | [back to top] |
@@ -274,6 +277,7 @@ Recording personal solutions for Leetcode problems.
 | 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |                    |                       | [back to top] |
 | 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
+| 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -401,6 +405,7 @@ Recording personal solutions for Leetcode problems.
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0128]: ./java-solutions/0128-longest-consecutive-sequence/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
+[java-0130]: ./java-solutions/0130-surrounded-regions/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
@@ -429,6 +434,7 @@ Recording personal solutions for Leetcode problems.
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
+[java-0207]: ./java-solutions/0207-course-schedule/src/
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
@@ -466,6 +472,7 @@ Recording personal solutions for Leetcode problems.
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
 [java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
+[java-0380]: ./java-solutions/0380-insert-delete-getrandom-o1/src/RandomizedSet.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0392]: ./java-solutions/0392-is-subsequence/src/Solution.java
@@ -571,6 +578,7 @@ Recording personal solutions for Leetcode problems.
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
+[java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java

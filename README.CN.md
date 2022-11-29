@@ -119,6 +119,7 @@
 | 0127 |                  单词接龙                  | [Java][java-0127] |                    |                       | [back to top] |
 | 0128 |                最长连续序列                | [Java][java-0128] |                    |                       | [back to top] |
 | 0129 |          求根节点到叶节点数字之和          | [Java][java-0129] |                    |                       | [back to top] |
+| 0130 |                被围绕的区域                | [Java][java-0130] |                    |                       | [back to top] |
 | 0134 |                   加油站                   | [Java][java-0134] |                    |                       | [back to top] |
 | 0136 |              只出现一次的数字              | [Java][java-0136] |                    |                       | [back to top] |
 | 0139 |                  单词拆分                  | [Java][java-0139] |                    |                       | [back to top] |
@@ -143,6 +144,7 @@
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                   快乐数                   | [Java][java-0202] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
+| 0207 |                   课程表                   | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
 | 0212 |                单词搜索 II                 | [Java][java-0212] |                    |                       | [back to top] |
 | 0215 |          数组中的第 K 个最大元素           | [Java][java-0215] |                    |                       | [back to top] |
@@ -180,6 +182,7 @@
 | 0349 |               两个数组的交集               | [Java][java-0349] |                    |                       | [back to top] |
 | 0371 |                 两整数之和                 | [Java][java-0371] |                    |                       | [back to top] |
 | 0378 |          有序矩阵中第 K 小的元素           | [Java][java-0378] |                    |                       | [back to top] |
+| 0380 |     O(1) 时间插入、删除和获取随机元素      | [Java][java-0380] |                    |                       | [back to top] |
 | 0387 |          字符串中的第一个唯一字符          | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
 | 0392 |                 判断子序列                 | [Java][java-0392] |                    |                       | [back to top] |
 | 0395 |       至少有 K 个重复字符的最长子串        | [Java][java-0395] |                    |                       | [back to top] |
@@ -274,6 +277,7 @@
 | 1710 |             卡车上的最大单元数             | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                找到最高海拔                | [Java][java-1732] |                    |                       | [back to top] |
 | 1742 |            盒子中小球的最大数量            | [Java][java-1742] |                    |                       | [back to top] |
+| 1758 |      生成交替二进制字符串的最少操作数      | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
@@ -401,6 +405,7 @@
 [java-0127]: ./java-solutions/0127-word-ladder/src/Solution.java
 [java-0128]: ./java-solutions/0128-longest-consecutive-sequence/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
+[java-0130]: ./java-solutions/0130-surrounded-regions/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
@@ -429,6 +434,7 @@
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
+[java-0207]: ./java-solutions/0207-course-schedule/src/
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
@@ -466,6 +472,7 @@
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
 [java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
+[java-0380]: ./java-solutions/0380-insert-delete-getrandom-o1/src/RandomizedSet.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0392]: ./java-solutions/0392-is-subsequence/src/Solution.java
@@ -571,6 +578,7 @@
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
+[java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
