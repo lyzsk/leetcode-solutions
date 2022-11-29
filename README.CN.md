@@ -170,6 +170,7 @@
 | 0300 |               最长递增子序列               | [Java][java-0300] |                    |                       | [back to top] |
 | 0303 |          区域和检索 - 数组不可变           | [Java][java-0303] |                    |                       | [back to top] |
 | 0307 |          区域和检索 - 数组可修改           | [Java][java-0307] |                    |                       | [back to top] |
+| 0309 |          最佳买卖股票时机含冷冻期          | [Java][java-0309] |                    |                       | [back to top] |
 | 0316 |                去除重复字母                | [Java][java-0316] |                    |                       | [back to top] |
 | 0322 |                  零钱兑换                  | [Java][java-0322] |                    |                       | [back to top] |
 | 0324 |                摆动排序 II                 | [Java][java-0324] |                    |                       | [bakc to top] |
@@ -192,6 +193,7 @@
 | 0415 |                 字符串相加                 | [Java][java-0415] |                    |                       | [back to top] |
 | 0423 |              从英文中重建数字              | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            替换后的最长重复字符            | [Java][java-0424] |                    |                       | [back to top] |
+| 0442 |              数组中重复的数据              | [Java][java-0442] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0445 |                两数相加 II                 | [Java][java-0445] |                    |                       | [back to top] |
 | 0454 |                四数相加 II                 | [Java][java-0454] |                    |                       | [back to top] |
@@ -460,6 +462,7 @@
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
+[java-0309]: ./java-solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [java-0324]: ./java-solutions/0324-wiggle-sort-ii/src/Solution.java
@@ -487,6 +490,7 @@
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
+[java-0442]: ./java-solutions/0442-find-all-duplicates-in-array/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
