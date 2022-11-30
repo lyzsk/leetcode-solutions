@@ -78,8 +78,10 @@
 | 0055 |                  跳跃游戏                  | [Java][java-0055] |                    |                       | [back to top] |
 | 0056 |                  合并区间                  | [Java][java-0056] |                    |                       | [back to top] |
 | 0057 |                  插入区间                  | [Java][java-0057] |                    |                       | [back to top] |
+| 0058 |             最后一个单词的长度             | [Java][java-0058] |                    |                       | [back to top] |
 | 0061 |                  旋转链表                  | [Java][java-0061] |                    |                       | [back to top] |
 | 0066 |                    加一                    | [Java][java-0066] |                    |                       | [back to top] |
+| 0067 |                 二进制求和                 | [Java][java-0067] |                    |                       | [back to top] |
 | 0069 |                 x 的平方根                 | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                   爬楼梯                   | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0073 |                  矩阵置零                  | [Java][java-0073] |                    |                       | [back to top] |
@@ -108,6 +110,7 @@
 | 0104 |              二叉树的最大深度              | [Java][java-0104] |                    |                       | [back to top] |
 | 0105 |       从前序与中序遍历序列构造二叉树       | [Java][java-0105] |                    |                       | [back to top] |
 | 0107 |            二叉树的层序遍历 II             | [Java][java-0107] |                    |                       | [back to top] |
+| 0108 |         将有序数组转换为二叉搜索树         | [Java][java-0108] |                    |                       | [back to top] |
 | 0110 |                 平衡二叉树                 | [Java][java-0110] |                    |                       | [back to top] |
 | 0111 |              二叉树的最小深度              | [Java][java-0111] |                    |                       | [back to top] |
 | 0112 |                  路径总和                  | [Java][java-0112] |                    |                       | [back to top] |
@@ -257,6 +260,7 @@
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1144 |           递减元素使数组呈锯齿状           | [Java][java-1144] |                    |                       | [back to top] |
 | 1156 |          单字符重复子串的最大长度          | [Java][java-1156] |                    |                       | [back to top] |
+| 1207 |             独一无二的出现次数             | [Java][java-1207] |                    |                       | [back to top] |
 | 1224 |                最大相等频率                | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 |            串联字符串的最大长度            | [Java][java-1239] |                    |                       | [back to top] |
 | 1302 |            层数最深叶子节点的和            | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
@@ -363,8 +367,10 @@
 [java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
+[java-0058]: ./java-solutions/0058-length-of-last-word/src/Solution.java
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0066]: ./java-solutions/0066-plus-one/src/Solution.java
+[java-0067]: ./java-solutions/0067-add-binary/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
@@ -394,6 +400,7 @@
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
 [java-0105]: ./java-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java
 [java-0107]: ./java-solutions/0107-binary-tree-level-order-traversal-ii/src/Solution.java
+[java-0108]: ./java-solutions/0108-convert-sorted-array-to-binary-search-tree/src/Solution.java
 [java-0110]: ./java-solutions/0110-balanced-binary-tree/src/Solution.java
 [java-0111]: ./java-solutions/0111-minimum-depth-of-binary-tree/src/Solution.java
 [java-0112]: ./java-solutions/0112-path-sum/src/Solution.java
@@ -555,6 +562,7 @@
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
+[java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src

@@ -78,8 +78,10 @@ Recording personal solutions for Leetcode problems.
 | 0055 |                           Jump Game                            | [Java][java-0055] |                    |                       | [back to top] |
 | 0056 |                        Merge Intervals                         | [Java][java-0056] |                    |                       | [back to top] |
 | 0057 |                        Insert Interval                         | [Java][java-0057] |                    |                       | [back to top] |
+| 0058 |                      Length of Last Word                       | [Java][java-0058] |                    |                       | [back to top] |
 | 0061 |                          Rotate List                           | [Java][java-0061] |                    |                       | [back to top] |
 | 0066 |                            Plus One                            | [Java][java-0066] |                    |                       | [back to top] |
+| 0067 |                           Add Binary                           | [Java][java-0067] |                    |                       | [back to top] |
 | 0069 |                            Sqrt(x)                             | [Java][java-0069] |                    |                       | [back to top] |
 | 0070 |                        Climbing Stairs                         | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
 | 0073 |                       Set Matrix Zeroes                        | [Java][java-0073] |                    |                       | [back to top] |
@@ -108,6 +110,7 @@ Recording personal solutions for Leetcode problems.
 | 0104 |                  Maximum Depth of Binary Tree                  | [Java][java-0104] |                    |                       | [back to top] |
 | 0105 |   Construct Binary Tree from Preorder and Inorder Traversal    | [Java][java-0105] |                    |                       | [back to top] |
 | 0107 |              Binary Tree Level Order Traversal II              | [Java][java-0107] |                    |                       | [back to top] |
+| 0108 |           Convert Sorted Array to Binary Search Tree           | [Java][java-0108] |                    |                       | [back to top] |
 | 0110 |                      Balanced Binary Tree                      | [Java][java-0110] |                    |                       | [back to top] |
 | 0111 |                  Minimum Depth of Binary Tree                  | [Java][java-0111] |                    |                       | [back to top] |
 | 0112 |                            Path Sum                            | [Java][java-0112] |                    |                       | [back to top] |
@@ -257,6 +260,7 @@ Recording personal solutions for Leetcode problems.
 | 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
 | 1144 |             Decrease Elements To Make Array Zigzag             | [Java][java-1144] |                    |                       | [back to top] |
 | 1156 |         Swap For Longest Repeated Character Substring          | [Java][java-1156] |                    |                       | [back to top] |
+| 1207 |                  Unique Number of Occurrences                  | [Java][java-1207] |                    |                       | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |                    |                       | [back to top] |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [Java][java-1239] |                    |                       | [back to top] |
 | 1302 |                       Deepest Leaves Sum                       | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
@@ -363,8 +367,10 @@ Recording personal solutions for Leetcode problems.
 [java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
+[java-0058]: ./java-solutions/0058-length-of-last-word/src/Solution.java
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0066]: ./java-solutions/0066-plus-one/src/Solution.java
+[java-0067]: ./java-solutions/0067-add-binary/src/Solution.java
 [java-0069]: ./java-solutions/0069-sqrtx/src/Solution.java
 [java-0070]: ./java-solutions/0070-climbing-stairs/src/Solution.java
 [js-0070]: ./javascript-solutions/0070-climbing-stairs/solution.js
@@ -394,6 +400,7 @@ Recording personal solutions for Leetcode problems.
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
 [java-0105]: ./java-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java
 [java-0107]: ./java-solutions/0107-binary-tree-level-order-traversal-ii/src/Solution.java
+[java-0108]: ./java-solutions/0108-convert-sorted-array-to-binary-search-tree/src/Solution.java
 [java-0110]: ./java-solutions/0110-balanced-binary-tree/src/Solution.java
 [java-0111]: ./java-solutions/0111-minimum-depth-of-binary-tree/src/Solution.java
 [java-0112]: ./java-solutions/0112-path-sum/src/Solution.java
@@ -555,6 +562,7 @@ Recording personal solutions for Leetcode problems.
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
+[java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
