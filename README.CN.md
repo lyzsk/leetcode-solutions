@@ -280,14 +280,17 @@
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
+| 1704 |          判断字符串的两半是否相似          | [Java][java-1704] |                    |                       | [back to top] |
 | 1710 |             卡车上的最大单元数             | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                找到最高海拔                | [Java][java-1732] |                    |                       | [back to top] |
 | 1742 |            盒子中小球的最大数量            | [Java][java-1742] |                    |                       | [back to top] |
 | 1758 |      生成交替二进制字符串的最少操作数      | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
+| 1779 |      找到最近的有相同 X 或 Y 坐标的点      | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
+| 1818 |                 绝对差值和                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
 | 1865 |           找出和为指定值的下标对           | [Java][java-1865] |                    |                       | [back to top] |
 | 1876 |       长度为三且各字符不同的子字符串       | [Java][java-1876] |                    |                       | [back to top] |
@@ -587,14 +590,17 @@
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
+[java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java

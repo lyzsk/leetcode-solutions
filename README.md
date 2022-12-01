@@ -280,14 +280,17 @@ Recording personal solutions for Leetcode problems.
 | 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
 | 1662 |           Check If Two String Arrays are Equivalent            | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |                     Reformat Phone Number                      | [Java][java-1694] |                    |                       | [back to top] |
+| 1704 |              Determine if String Halves Are Alike              | [Java][java-1704] |                    |                       | [back to top] |
 | 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |                    |                       | [back to top] |
 | 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |                    |                       | [back to top] |
 | 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
 | 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
+| 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
+| 1818 |                Minimum Absolute Sum Difference                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
 | 1865 |                Finding Pairs With a Certain Sum                | [Java][java-1865] |                    |                       | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
@@ -587,14 +590,17 @@ Recording personal solutions for Leetcode problems.
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
+[java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
