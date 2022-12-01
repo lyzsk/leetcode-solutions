@@ -196,6 +196,7 @@ Recording personal solutions for Leetcode problems.
 | 0415 |                          Add Strings                           | [Java][java-0415] |                    |                       | [back to top] |
 | 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |                    |                       | [back to top] |
 | 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |                    |                       | [back to top] |
+| 0429 |                N-ary Tree Level Order Traversal                | [Java][java-0429] |                    |                       | [back to top] |
 | 0442 |                Find All Duplicates in an Array                 | [Java][java-0442] |                    |                       | [back to top] |
 | 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0445 |                       Add Two Numbers II                       | [Java][java-0445] |                    |                       | [back to top] |
@@ -203,6 +204,9 @@ Recording personal solutions for Leetcode problems.
 | 0493 |                         Reverse Pairs                          | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                         Perfect Number                         | [Java][java-0507] |                    |                       | [back to top] |
 | 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
+| 0559 |                  Maximum Depth of N-ary Tree                   | [Java][java-0559] |                    |                       | [back to top] |
+| 0589 |                 N-ary Tree Preorder Traversal                  | [Java][java-0589] |                    |                       | [back to top] |
+| 0590 |                 N-ary Tree Postorder Traversal                 | [Java][java-0590] |                    |                       | [back to top] |
 | 0598 |                       Range Addition II                        | [Java][java-0598] |                    |                       | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
 | 0641 |                     Design Circular Deque                      | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
@@ -286,6 +290,7 @@ Recording personal solutions for Leetcode problems.
 | 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
 | 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
+| 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |                    |                       | [back to top] |
 | 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -494,12 +499,16 @@ Recording personal solutions for Leetcode problems.
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
+[java-0559]: ./java-solutions/0559-maximum-depth-of-n-ary-tree/src/Solution.java
+[java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
+[java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
+[java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
 [java-0442]: ./java-solutions/0442-find-all-duplicates-in-array/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
@@ -596,6 +605,7 @@ Recording personal solutions for Leetcode problems.
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
+[java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
