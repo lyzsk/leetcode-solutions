@@ -203,6 +203,7 @@
 | 0454 |                四数相加 II                 | [Java][java-0454] |                    |                       | [back to top] |
 | 0493 |                   翻转对                   | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                   完美数                   | [Java][java-0507] |                    |                       | [back to top] |
+| 0509 |                 斐波那契数                 | [Java][java-0509] |                    |                       | [back to top] |
 | 0525 |                  连续数组                  | [Java][java-0525] |                    |                       | [back to top] |
 | 0559 |              N 叉树的最大深度              | [Java][java-0559] |                    |                       | [back to top] |
 | 0589 |              N 叉树的前序遍历              | [Java][java-0589] |                    |                       | [back to top] |
@@ -243,10 +244,12 @@
 | 0813 |             最大平均值和的分组             | [Java][java-0813] |                    |                       | [back to top] |
 | 0817 |                  链表组件                  | [Java][java-0817] |                    |                       | [back to top] |
 | 0822 |                翻转卡片游戏                | [Java][java-0822] |                    |                       | [back to top] |
+| 0842 |          将数组拆分成斐波那契序列          | [Java][java-0842] |                    |                       | [back to top] |
 | 0856 |                 括号的分数                 | [Java][java-0856] |                    |                       | [back to top] |
 | 0869 |            重新排序得到 2 的幂             | [Java][java-0869] |                    |                       | [back to top] |
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
+| 0873 |         最长的斐波那契子序列的长度         | [Java][java-0873] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0904 |                  水果成篮                  | [Java][java-0904] |                    |                       | [back to top] |
 | 0905 |               按奇偶排序数组               | [Java][java-0905] |                    |                       | [back to top] |
@@ -271,6 +274,7 @@
 | 1304 |           和为零的 N 个不同整数            | [Java][java-1304] |                    |                       | [back to top] |
 | 1328 |                 破坏回文串                 | [Java][java-1328] |                    |                       | [back to top] |
 | 1389 |           按既定顺序创建目标数组           | [Java][java-1389] |                    |                       | [back to top] |
+| 1414 |       和为 K 的最少斐波那契数字数目        | [Java][java-1414] |                    |                       | [back to top] |
 | 1422 |            分割字符串的最大得分            | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
 | 1448 |          统计二叉树中好节点的数目          | [Java][java-1448] |                    |                       | [back to top] |
 | 1450 |         在既定时间做作业的学生人数         | [Java][java-1450] |                    |                       | [back to top] |
@@ -282,6 +286,7 @@
 | 1523 |          在区间范围内统计奇数数目          | [Java][java-1523] |                    |                       | [back to top] |
 | 1578 |          使绳子变成彩色的最短时间          | [Java][java-1578] |                    |                       | [back to top] |
 | 1656 |                 设计有序流                 | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
+| 1657 |           确定两个字符串是否接近           | [Java][java-1657] |                    |                       | [back to top] |
 | 1662 |         检查两个字符串数组是否相等         | [Java][java-1662] |                    |                       | [back to top] |
 | 1694 |             重新格式化电话号码             | [Java][java-1694] |                    |                       | [back to top] |
 | 1704 |          判断字符串的两半是否相似          | [Java][java-1704] |                    |                       | [back to top] |
@@ -294,6 +299,7 @@
 | 1779 |      找到最近的有相同 X 或 Y 坐标的点      | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
+| 1796 |            字符串中第二大的数字            | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
 | 1818 |                 绝对差值和                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
@@ -516,6 +522,7 @@
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
+[java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
@@ -552,10 +559,12 @@
 [java-0813]: ./java-solutions/0813-largest-sum-of-averages/src/Solution.java
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
+[java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
+[java-0873]: ./java-solutions/0873-length-of-longest-fibonacci-subsequence/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0904]: ./java-solutions/0904-fruit-into-baskets/src/Solution.java
@@ -582,6 +591,7 @@
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
+[java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
@@ -597,6 +607,7 @@
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
+[java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
@@ -609,6 +620,7 @@
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
+[java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
