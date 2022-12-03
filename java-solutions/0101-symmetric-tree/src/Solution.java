@@ -10,10 +10,12 @@ public class Solution {
     private boolean helper(TreeNode p, TreeNode q) {
         if (p == null && q == null) {
             return true;
-        }
-        if (p == null || q == null) {
+        } else if (p == null || q == null) {
             return false;
+        } else if (p.val != q.val) {
+            return false;
+        } else {
+            return helper(p.left, q.right) && helper(p.right, q.left);
         }
-        return p.val == q.val && helper(p.left, q.right) && helper(p.right, q.left);
     }
 }
