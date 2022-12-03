@@ -200,6 +200,7 @@
 | 0442 |              数组中重复的数据              | [Java][java-0442] |                    |                       | [back to top] |
 | 0443 |                 压缩字符串                 | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0445 |                两数相加 II                 | [Java][java-0445] |                    |                       | [back to top] |
+| 0451 |            根据字符出现频率排序            | [Java][java-0451] |                    |                       | [back to top] |
 | 0454 |                四数相加 II                 | [Java][java-0454] |                    |                       | [back to top] |
 | 0493 |                   翻转对                   | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                   完美数                   | [Java][java-0507] |                    |                       | [back to top] |
@@ -263,6 +264,8 @@
 | 0976 |              三角形的最大周长              | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |             数组形式的整数加法             | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |               最大二叉树 II                | [Java][java-0998] |                    |                       | [back to top] |
+| 1026 |         节点与其祖先之间的最大差值         | [Java][java-1026] |                    |                       | [back to top] |
+| 1029 |                  两地调度                  | [Java][java-1029] |                    |                       | [back to top] |
 | 1122 |               数组的相对排序               | [Java][java-1122] |                    |                       | [back to top] |
 | 1143 |               最长公共子序列               | [Java][java-1143] |                    |                       | [back to top] |
 | 1144 |           递减元素使数组呈锯齿状           | [Java][java-1144] |                    |                       | [back to top] |
@@ -519,6 +522,7 @@
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
+[java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
@@ -579,6 +583,8 @@
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
+[java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
+[java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java

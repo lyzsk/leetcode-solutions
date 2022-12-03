@@ -200,6 +200,7 @@ Recording personal solutions for Leetcode problems.
 | 0442 |                Find All Duplicates in an Array                 | [Java][java-0442] |                    |                       | [back to top] |
 | 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
 | 0445 |                       Add Two Numbers II                       | [Java][java-0445] |                    |                       | [back to top] |
+| 0451 |                  Sort Characters By Frequency                  | [Java][java-0451] |                    |                       | [back to top] |
 | 0454 |                            4Sum II                             | [Java][java-0454] |                    |                       | [back to top] |
 | 0493 |                         Reverse Pairs                          | [Java][java-0493] |                    |                       | [back to top] |
 | 0507 |                         Perfect Number                         | [Java][java-0507] |                    |                       | [back to top] |
@@ -263,6 +264,8 @@ Recording personal solutions for Leetcode problems.
 | 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
+| 1026 |          Maximum Difference Between Node and Ancestor          | [Java][java-1026] |                    |                       | [back to top] |
+| 1029 |                      Two City Scheduling                       | [Java][java-1029] |                    |                       | [back to top] |
 | 1122 |                      Relative Sort Array                       | [Java][java-1122] |                    |                       | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
 | 1144 |             Decrease Elements To Make Array Zigzag             | [Java][java-1144] |                    |                       | [back to top] |
@@ -519,6 +522,7 @@ Recording personal solutions for Leetcode problems.
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
+[java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
@@ -579,6 +583,8 @@ Recording personal solutions for Leetcode problems.
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
+[java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
+[java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
