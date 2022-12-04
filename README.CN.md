@@ -146,6 +146,7 @@
 | 0199 |               二叉树的右视图               | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                   快乐数                   | [Java][java-0202] |                    |                       | [back to top] |
+| 0203 |                移除链表元素                | [Java][java-0203] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0207 |                   课程表                   | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
@@ -299,6 +300,7 @@
 | 1758 |      生成交替二进制字符串的最少操作数      | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |               交替合并字符串               | [Java][java-1768] |                    |                       | [back to top] |
 | 1769 |    移动所有球到每个盒子所需的最小操作数    | [Java][java-1769] |                    |                       | [back to top] |
+| 1774 |          最接近目标价格的甜点成本          | [Java][java-1774] |                    |                       | [back to top] |
 | 1779 |      找到最近的有相同 X 或 Y 坐标的点      | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
@@ -316,7 +318,8 @@
 | 2108 |        找出数组中的第一个回文字符串        | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
-| 2225 |    Find Players With Zero or One Losses    | [Java][java-2225] |                    |                       | [back to top] |
+| 2225 |        找出输掉零场或一场比赛的玩家        | [Java][java-2225] |                    |                       | [back to top] |
+| 2256 |                 最小平均差                 | [Java][java-2256] |                    |                       | [back to top] |
 | 2342 |           数位和相等数对的最大和           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |               合并相似的物品               | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |        得到 K 个黑块的最少涂色次数         | [Java][java-2379] |                    |                       | [back to top] |
@@ -458,6 +461,7 @@
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
+[java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -623,6 +627,7 @@
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
+[java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
@@ -641,6 +646,7 @@
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
+[java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java

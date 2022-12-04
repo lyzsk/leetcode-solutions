@@ -146,6 +146,7 @@ Recording personal solutions for Leetcode problems.
 | 0199 |                  Binary Tree Right Side View                   | [Java][java-0199] |                    |                       | [back to top] |
 | 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                          Happy Number                          | [Java][java-0202] |                    |                       | [back to top] |
+| 0203 |                  Remove Linked List Elements                   | [Java][java-0203] |                    |                       | [back to top] |
 | 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0207 |                        Course Schedule                         | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
@@ -299,6 +300,7 @@ Recording personal solutions for Leetcode problems.
 | 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |                    |                       | [back to top] |
+| 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |                    |                       | [back to top] |
 | 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -317,6 +319,7 @@ Recording personal solutions for Leetcode problems.
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [Java][java-2225] |                    |                       | [back to top] |
+| 2256 |                   Minimum Average Difference                   | [Java][java-2256] |                    |                       | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
 | 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
@@ -458,6 +461,7 @@ Recording personal solutions for Leetcode problems.
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
+[java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -623,6 +627,7 @@ Recording personal solutions for Leetcode problems.
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
+[java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
@@ -641,6 +646,7 @@ Recording personal solutions for Leetcode problems.
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
+[java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
