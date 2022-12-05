@@ -82,7 +82,7 @@ public class Solution {
             if (digits[index] == '0' && i > index) {
                 break;
             }
-            long num = 0;
+            int num = 0;
             for (int j = index; j < i + 1; j++) {
                 num = num * 10 + digits[j] - '0';
             }
@@ -94,7 +94,7 @@ public class Solution {
                 continue;
             }
             if (size < 2 || num == res.get(size - 2) + res.get(size - 1)) {
-                res.add((int)num);
+                res.add(num);
                 if (backtrack(res, digits, i + 1)) {
                     return true;
                 }
