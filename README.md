@@ -147,6 +147,7 @@ Recording personal solutions for Leetcode problems.
 | 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                          Happy Number                          | [Java][java-0202] |                    |                       | [back to top] |
 | 0203 |                  Remove Linked List Elements                   | [Java][java-0203] |                    |                       | [back to top] |
+| 0205 |                       Isomorphic Strings                       | [Java][java-0205] |                    |                       | [back to top] |
 | 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0207 |                        Course Schedule                         | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
@@ -306,6 +307,7 @@ Recording personal solutions for Leetcode problems.
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
+| 1814 |                  Count Nice Pairs in an Array                  | [Java][java-1814] |                    |                       | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
 | 1865 |                Finding Pairs With a Certain Sum                | [Java][java-1865] |                    |                       | [back to top] |
@@ -315,6 +317,7 @@ Recording personal solutions for Leetcode problems.
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
 | 1985 |           Find the Kth Largest Integer in the Array            | [Java][java-1985] |                    |                       | [back to top] |
+| 2095 |            Delete the Middle Node of a Linked List             | [Java][java-2095] |                    |                       | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
@@ -462,6 +465,7 @@ Recording personal solutions for Leetcode problems.
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
+[java-0205]: ./java-solutions/0205-isomorphic-strings/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -633,6 +637,7 @@ Recording personal solutions for Leetcode problems.
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
@@ -642,6 +647,7 @@ Recording personal solutions for Leetcode problems.
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java

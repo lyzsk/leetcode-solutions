@@ -147,6 +147,7 @@
 | 0200 |                  岛屿数量                  | [Java][java-0200] |                    |                       | [back to top] |
 | 0202 |                   快乐数                   | [Java][java-0202] |                    |                       | [back to top] |
 | 0203 |                移除链表元素                | [Java][java-0203] |                    |                       | [back to top] |
+| 0205 |                 同构字符串                 | [Java][java-0205] |                    |                       | [back to top] |
 | 0206 |                  反转链表                  | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
 | 0207 |                   课程表                   | [Java][java-0207] |                    |                       | [back to top] |
 | 0209 |              长度最小的子数组              | [Java][java-0209] |                    |                       | [back to top] |
@@ -306,6 +307,7 @@
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |            字符串中第二大的数字            | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
+| 1814 |         统计一个数组中好对子的数目         | [Java][java-1814] |                    |                       | [back to top] |
 | 1818 |                 绝对差值和                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
 | 1865 |           找出和为指定值的下标对           | [Java][java-1865] |                    |                       | [back to top] |
@@ -315,6 +317,7 @@
 | 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
 | 1985 |          找出数组中的第 K 大整数           | [Java][java-1985] |                    |                       | [back to top] |
+| 2095 |             删除链表的中间节点             | [Java][java-2095] |                    |                       | [back to top] |
 | 2108 |        找出数组中的第一个回文字符串        | [Java][java-2108] |                    |                       | [back to top] |
 | 2131 |       连接两字母单词得到的最长回文串       | [Java][java-2131] |                    |                       | [back to top] |
 | 2216 |            美化数组的最少删除数            | [Java][java-2216] |                    |                       | [back to top] |
@@ -462,6 +465,7 @@
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
+[java-0205]: ./java-solutions/0205-isomorphic-strings/src/Solution.java
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -633,6 +637,7 @@
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
@@ -642,6 +647,7 @@
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
