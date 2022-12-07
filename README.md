@@ -133,6 +133,7 @@ Recording personal solutions for Leetcode problems.
 | 0144 |                 Binary Tree Preorder Traversal                 | [Java][java-0144] |                    |                       | [back to top] |
 | 0145 |                Binary Tree Postorder Traversal                 | [Java][java-0145] |                    |                       | [back to top] |
 | 0146 |                           LRU Cache                            | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
+| 0147 |                      Insertion Sort List                       | [Java][java-0147] |                    |                       | [back to top] |
 | 0148 |                           Sort List                            | [Java][java-0148] |                    |                       | [back to top] |
 | 0151 |                   Reverse Words in a String                    | [Java][java-0151] |                    |                       | [back to top] |
 | 0155 |                           Min Stack                            | [Java][java-0155] |                    |                       | [back to top] |
@@ -171,6 +172,7 @@ Recording personal solutions for Leetcode problems.
 | 0268 |                         Missing Number                         | [Java][java-0268] |                    |                       | [back to top] |
 | 0279 |                        Perfect Squares                         | [Java][java-0279] |                    |                       | [back to top] |
 | 0283 |                          Move Zeroes                           | [Java][java-0283] |                    |                       | [back to top] |
+| 0290 |                          Word Pattern                          | [Java][java-0290] |                    |                       | [back to top] |
 | 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |                    |                       | [back to top] |
 | 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |                    |                       | [back to top] |
 | 0303 |                  Range Sum Query - Immutable                   | [Java][java-0303] |                    |                       | [back to top] |
@@ -262,6 +264,7 @@ Recording personal solutions for Leetcode problems.
 | 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |                    |                       | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [Java][java-0929] |                    |                       | [back to top] |
 | 0938 |                        Range Sum of BST                        | [Java][java-0938] |                    |                       | [back to top] |
+| 0939 |                     Minimum Area Rectangle                     | [Java][java-0939] |                    |                       | [back to top] |
 | 0973 |                   K Closest Points to Origin                   | [Java][java-0973] |                    |                       | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
@@ -302,6 +305,7 @@ Recording personal solutions for Leetcode problems.
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |                    |                       | [back to top] |
 | 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |                    |                       | [back to top] |
+| 1775 |       Equal Sum Arrays With Minimum Number of Operations       | [Java][java-1775] |                    |                       | [back to top] |
 | 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
@@ -451,6 +455,7 @@ Recording personal solutions for Leetcode problems.
 [java-0145]: ./java-solutions/0145-binary-tree-postorder-traversal/src/Solution.java
 [java-0146]: ./java-solutions/0146-lru-cache/src/LRUCache.java
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
+[java-0147]: ./java-solutions/0147-insertion-sort-list/src/Solution.java
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
 [java-0151]: ./java-solutions/0151-reverse-words-in-a-string/src/Solution.java
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
@@ -490,6 +495,7 @@ Recording personal solutions for Leetcode problems.
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [java-0279]: ./java-solutions/0279-perfect-squares/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
+[java-0290]: ./java-solutions/0290-word-pattern/src/Solution.java
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
@@ -588,6 +594,7 @@ Recording personal solutions for Leetcode problems.
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
+[java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
@@ -632,6 +639,7 @@ Recording personal solutions for Leetcode problems.
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
 [java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
+[java-1775]: ./java-solutions/1775-equal-sum-arrays-with-minimum-number-of-operations/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
