@@ -254,6 +254,7 @@
 | 0869 |            重新排序得到 2 的幂             | [Java][java-0869] |                    |                       | [back to top] |
 | 0870 |                  优势洗牌                  | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |                最低加油次数                | [Java][java-0871] |                    |                       | [back to top] |
+| 0872 |                叶子相似的树                | [Java][java-0872] |                    |                       | [back to top] |
 | 0873 |         最长的斐波那契子序列的长度         | [Java][java-0873] |                    |                       | [back to top] |
 | 0876 |               链表的中间结点               | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0904 |                  水果成篮                  | [Java][java-0904] |                    |                       | [back to top] |
@@ -311,6 +312,7 @@
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |            字符串中第二大的数字            | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |              最大升序子数组和              | [Java][java-1800] |                    |                       | [back to top] |
+| 1812 |      判断国际象棋棋盘中一个格子的颜色      | [Java][java-1812] |                    |                       | [back to top] |
 | 1814 |         统计一个数组中好对子的数目         | [Java][java-1814] |                    |                       | [back to top] |
 | 1818 |                 绝对差值和                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |           判断句子是否为全字母句           | [Java][java-1832] |                    |                       | [back to top] |
@@ -582,6 +584,7 @@
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
+[java-0872]: ./java-solutions/0872-leaf-similar-trees/src/Solution.java
 [java-0873]: ./java-solutions/0873-length-of-longest-fibonacci-subsequence/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
@@ -645,6 +648,7 @@
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java

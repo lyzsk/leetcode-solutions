@@ -254,6 +254,7 @@ Recording personal solutions for Leetcode problems.
 | 0869 |                      Reordered Power of 2                      | [Java][java-0869] |                    |                       | [back to top] |
 | 0870 |                       Advantage Shuffle                        | [Java][java-0870] |                    |                       | [back to top] |
 | 0871 |               Minimum Number of Refueling Stops                | [Java][java-0871] |                    |                       | [back to top] |
+| 0872 |                       Leaf-Similar Trees                       | [Java][java-0872] |                    |                       | [back to top] |
 | 0873 |            Length of Longest Fibonacci Subsequence             | [Java][java-0873] |                    |                       | [back to top] |
 | 0876 |                   Middle of the Linked List                    | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
 | 0904 |                       Fruit Into Baskets                       | [Java][java-0904] |                    |                       | [back to top] |
@@ -311,6 +312,7 @@ Recording personal solutions for Leetcode problems.
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
+| 1812 |             Determine Color of a Chessboard Square             | [Java][java-1812] |                    |                       | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [Java][java-1814] |                    |                       | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [Java][java-1818] |                    |                       | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
@@ -582,6 +584,7 @@ Recording personal solutions for Leetcode problems.
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
+[java-0872]: ./java-solutions/0872-leaf-similar-trees/src/Solution.java
 [java-0873]: ./java-solutions/0873-length-of-longest-fibonacci-subsequence/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
@@ -645,6 +648,7 @@ Recording personal solutions for Leetcode problems.
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
