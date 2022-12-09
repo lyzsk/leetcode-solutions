@@ -139,6 +139,7 @@ Recording personal solutions for Leetcode problems.
 | 0155 |                           Min Stack                            | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                Intersection of Two Linked Lists                | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                    Compare Version Numbers                     | [Java][java-0165] |                    |                       | [back to top] |
+| 0167 |               Two Sum II - Input Array Is Sorted               | [Java][java-0167] |                    |                       | [back to top] |
 | 0171 |                   Excel Sheet Column Number                    | [Java][java-0171] |                    |                       | [back to top] |
 | 0172 |                   Factorial Trailing Zeroes                    | [Java][java-0172] |                    |                       | [back to top] |
 | 0179 |                         Largest Number                         | [Java][java-0179] |                    |                       | [back to top] |
@@ -308,6 +309,7 @@ Recording personal solutions for Leetcode problems.
 | 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |                    |                       | [back to top] |
 | 1775 |       Equal Sum Arrays With Minimum Number of Operations       | [Java][java-1775] |                    |                       | [back to top] |
 | 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
+| 1780 |          Check if Number is a Sum of Powers of Three           | [Java][java-1780] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [Java][java-1796] |                    |                       | [back to top] |
@@ -463,6 +465,7 @@ Recording personal solutions for Leetcode problems.
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0167]: ./java-solutions/0167-two-sum-ii-input-array-is-sorted/src/Solution.java
 [java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
@@ -644,6 +647,7 @@ Recording personal solutions for Leetcode problems.
 [java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
 [java-1775]: ./java-solutions/1775-equal-sum-arrays-with-minimum-number-of-operations/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
+[java-1780]: ./java-solutions/1780-check-if-number-is-a-sum-of-powers-of-three/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java

@@ -139,6 +139,7 @@
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
 | 0165 |                 比较版本号                 | [Java][java-0165] |                    |                       | [back to top] |
+| 0167 |         两数之和 II - 输入有序数组         | [Java][java-0167] |                    |                       | [back to top] |
 | 0171 |               Excel 表列序号               | [Java][java-0171] |                    |                       | [back to top] |
 | 0172 |                 阶乘后的零                 | [Java][java-0172] |                    |                       | [back to top] |
 | 0179 |                   最大数                   | [Java][java-0179] |                    |                       | [back to top] |
@@ -308,6 +309,7 @@
 | 1774 |          最接近目标价格的甜点成本          | [Java][java-1774] |                    |                       | [back to top] |
 | 1775 |       通过最少操作次数使数组的和相等       | [Java][java-1775] |                    |                       | [back to top] |
 | 1779 |      找到最近的有相同 X 或 Y 坐标的点      | [Java][java-1779] |                    |                       | [back to top] |
+| 1780 |    判断一个数字是否可以表示成三的幂的和    | [Java][java-1780] |                    |                       | [back to top] |
 | 1784 |            检查二进制字符串字段            | [Java][java-1784] |                    |                       | [back to top] |
 | 1790 |  仅执行一次字符串交换能否使两个字符串相等  | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |            字符串中第二大的数字            | [Java][java-1796] |                    |                       | [back to top] |
@@ -463,6 +465,7 @@
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
+[java-0167]: ./java-solutions/0167-two-sum-ii-input-array-is-sorted/src/Solution.java
 [java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
@@ -644,6 +647,7 @@
 [java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
 [java-1775]: ./java-solutions/1775-equal-sum-arrays-with-minimum-number-of-operations/src/Solution.java
 [java-1779]: ./java-solutions/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/src/Solution.java
+[java-1780]: ./java-solutions/1780-check-if-number-is-a-sum-of-powers-of-three/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
