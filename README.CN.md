@@ -325,6 +325,7 @@
 | 1905 |                 统计子岛屿                 | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |         删除一个元素使数组严格递增         | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |           迷宫中离入口最近的出口           | [Java][java-1926] |                    |                       | [back to top] |
+| 1945 |         字符串转化后的各位数字之和         | [Java][java-1945] |                    |                       | [back to top] |
 | 1985 |          找出数组中的第 K 大整数           | [Java][java-1985] |                    |                       | [back to top] |
 | 2095 |             删除链表的中间节点             | [Java][java-2095] |                    |                       | [back to top] |
 | 2108 |        找出数组中的第一个回文字符串        | [Java][java-2108] |                    |                       | [back to top] |
@@ -664,6 +665,7 @@
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java

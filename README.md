@@ -325,6 +325,7 @@ Recording personal solutions for Leetcode problems.
 | 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
+| 1945 |             Sum of Digits of String After Convert              | [Java][java-1945] |                    |                       | [back to top] |
 | 1985 |           Find the Kth Largest Integer in the Array            | [Java][java-1985] |                    |                       | [back to top] |
 | 2095 |            Delete the Middle Node of a Linked List             | [Java][java-2095] |                    |                       | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |                    |                       | [back to top] |
@@ -664,6 +665,7 @@ Recording personal solutions for Leetcode problems.
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
