@@ -312,6 +312,7 @@ Recording personal solutions for Leetcode problems.
 | 1780 |          Check if Number is a Sum of Powers of Three           | [Java][java-1780] |                    |                       | [back to top] |
 | 1781 |                Sum of Beauty of All Substrings                 | [Java][java-1781] |                    |                       | [back to top] |
 | 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
+| 1785 |          Minimum Elements to Add to Form a Given Sum           | [Java][java-1785] |                    |                       | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [Java][java-1796] |                    |                       | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
@@ -652,6 +653,7 @@ Recording personal solutions for Leetcode problems.
 [java-1780]: ./java-solutions/1780-check-if-number-is-a-sum-of-powers-of-three/src/Solution.java
 [java-1781]: ./java-solutions/1781-sum-of-beauty-of-all-substrings/src/Solution.java
 [java-1784]: ./java-solutions/1784-check-if-binary-string-has-at-most-one-segment-of-ones/src/Solution.java
+[java-1785]: ./java-solutions/1785-minimum-elements-to-add-to-form-a-given-sum/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
