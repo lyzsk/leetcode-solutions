@@ -40,7 +40,7 @@ Recording personal solutions for Leetcode problems.
 | 0009 |                       Palindrome Number                        | [Java][java-0009] |                    |                       | [back to top] |
 | 0011 |                   Container With Most Water                    | [Java][java-0011] |                    |                       | [back to top] |
 | 0012 |                        Integer to Roman                        | [Java][java-0012] |                    |                       | [back to top] |
-| 0013 |                        Roman to Integer                        | [Java][java-0013] |                    |                       | [back to top] |
+| 0013 |                        Roman to Integer                        | [Java][java-0013] |                    | [javaScript][js-0013] | [back to top] |
 | 0014 |                     Longest Common Prefix                      | [Java][java-0014] |                    |                       | [back to top] |
 | 0015 |                              3Sum                              | [Java][java-0015] |                    |                       | [back to top] |
 | 0016 |                          3Sum Closest                          | [Java][java-0016] |                    |                       | [back to top] |
@@ -304,6 +304,7 @@ Recording personal solutions for Leetcode problems.
 | 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |                    |                       | [back to top] |
 | 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
 | 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
+| 1764 |     Form Array by Concatenating Subarrays of Another Array     | [Java][java-1764] |                    |                       | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
 | 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |                    |                       | [back to top] |
 | 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |                    |                       | [back to top] |
@@ -363,6 +364,7 @@ Recording personal solutions for Leetcode problems.
 [java-0011]: ./java-solutions/0011-container-with-most-water/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
+[js-0013]: ./javascript-solutions/0013-roman-to-integer/solution.js
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
@@ -645,6 +647,7 @@ Recording personal solutions for Leetcode problems.
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
+[java-1764]: ./java-solutions/1764-form-array-by-concatenating-subarrays-of-another-array/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
 [java-1774]: ./java-solutions/1774-closest-dessert-cost/src/Solution.java
