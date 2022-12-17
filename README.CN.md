@@ -135,6 +135,7 @@
 | 0146 |                  LRU 缓存                  | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
 | 0147 |             对链表进行插入排序             | [Java][java-0147] |                    |                       | [back to top] |
 | 0148 |                  排序链表                  | [Java][java-0148] |                    |                       | [back to top] |
+| 0150 |              逆波兰表达式求值              | [Java][java-0150] |                    |                       | [back to top] |
 | 0151 |             反转字符串中的单词             | [Java][java-0151] |                    |                       | [back to top] |
 | 0155 |                   最小栈                   | [Java][java-0155] |                    |                       | [back to top] |
 | 0160 |                  相交链表                  | [Java][java-0160] |                    |                       | [back to top] |
@@ -466,6 +467,7 @@
 [py-0146]: ./python-solutions/0146-lru-cache/solution.py
 [java-0147]: ./java-solutions/0147-insertion-sort-list/src/Solution.java
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
+[java-0150]: ./java-solutions/0150-evaluate-reverse-polish-notation/src/Solution.java
 [java-0151]: ./java-solutions/0151-reverse-words-in-a-string/src/Solution.java
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
