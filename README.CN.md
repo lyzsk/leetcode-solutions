@@ -237,6 +237,7 @@
 | 0729 |              我的日程安排表 I              | [Java][java-0729] |                    |                       | [back to top] |
 | 0731 |             我的日程安排表 II              | [Java][java-0731] |                    |                       | [back to top] |
 | 0732 |             我的日程安排表 III             | [Java][java-0732] |                    |                       | [back to top] |
+| 0739 |                  每日温度                  | [Java][java-0739] |                    |                       | [back to top] |
 | 0769 |             最多能完成排序的块             | [Java][java-0769] |                    |                       | [back to top] |
 | 0775 |             全局倒置与局部倒置             | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |         在 LR 字符串中交换相邻字符         | [Java][java-0777] |                    |                       | [back to top] |
@@ -573,6 +574,7 @@
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
+[java-0739]: ./java-solutions/0739-daily-temperatures/src/Solution.java
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java

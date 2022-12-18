@@ -237,6 +237,7 @@ Recording personal solutions for Leetcode problems.
 | 0729 |                         My Calendar I                          | [Java][java-0729] |                    |                       | [back to top] |
 | 0731 |                         My Calendar II                         | [Java][java-0731] |                    |                       | [back to top] |
 | 0732 |                        My Calendar III                         | [Java][java-0732] |                    |                       | [back to top] |
+| 0739 |                       Daily Temperatures                       | [Java][java-0739] |                    |                       | [back to top] |
 | 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |                    |                       | [back to top] |
 | 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
@@ -573,6 +574,7 @@ Recording personal solutions for Leetcode problems.
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
+[java-0739]: ./java-solutions/0739-daily-temperatures/src/Solution.java
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
