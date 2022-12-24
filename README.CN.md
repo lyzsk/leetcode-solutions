@@ -26,13 +26,13 @@
 
 > TODO: add C/C++ solutions.
 
-# <p id="solutions">题解</p>
+# <h1 id="solutions">题解</h1>
 
 |  #   |                             Title                              |        Java        |    Python3     |   JavaScript   |               |
 | :--: | :------------------------------------------------------------: | :----------------: | :------------: | :------------: | :-----------: |
-| 0001 |                            Two Sum                             | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [back to top] |
-| 0002 |                        Add Two Numbers                         | [.java][java-0002] |                |                | [back to top] |
-| 0003 |         Longest Substring Without Repeating Characters         | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [back to top] |
+| 0001 |                            两数之和                            | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [back to top] |
+| 0002 |                            两数相加                            | [.java][java-0002] |                |                | [back to top] |
+| 0003 |                      无重复字符的最长子串                      | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [back to top] |
 | 0004 |                  Median of Two Sorted Arrays                   | [.java][java-0004] |                |                | [back to top] |
 | 0005 |                 Longest Palindromic Substring                  | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] | [back to top] |
 | 0007 |                        Reverse Integer                         | [.java][java-0007] | [.py][py-0007] |                | [back to top] |
@@ -342,6 +342,12 @@
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                | [back to top] |
+
+# <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
+
+|       #       |      Title       |          Java          | Python3 |     JavaScript     |                                 |
+| :-----------: | :--------------: | :--------------------: | :-----: | :----------------: | :-----------------------------: |
+| 剑指 Offer 03 | 数组中重复的数字 | [.java][java-offer-03] |         | [.js][js-offer-03] | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -690,3 +696,5 @@
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
+[java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
+[js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
