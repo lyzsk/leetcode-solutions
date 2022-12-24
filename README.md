@@ -28,318 +28,319 @@ Recording personal solutions for Leetcode problems.
 
 # Solutions
 
-|  #   |                             Title                              |       Java        |      Python3       |      JavaScript       |               |
-| :--: | :------------------------------------------------------------: | :---------------: | :----------------: | :-------------------: | :-----------: |
-| 0001 |                            Two Sum                             | [Java][java-0001] | [Python3][py-0001] | [JavaScript][js-0001] | [back to top] |
-| 0002 |                        Add Two Numbers                         | [Java][java-0002] |                    |                       | [back to top] |
-| 0003 |         Longest Substring Without Repeating Characters         | [Java][java-0003] | [Python3][py-0003] | [JavaScript][js-0003] | [back to top] |
-| 0004 |                  Median of Two Sorted Arrays                   | [Java][java-0004] |                    |                       | [back to top] |
-| 0005 |                 Longest Palindromic Substring                  | [Java][java-0005] | [Python3][py-0005] | [JavaScript][js-0005] | [back to top] |
-| 0007 |                        Reverse Integer                         | [Java][java-0007] | [Python3][py-0007] |                       | [back to top] |
-| 0008 |                    String to Integer (atoi)                    | [Java][java-0008] |                    |                       | [back to top] |
-| 0009 |                       Palindrome Number                        | [Java][java-0009] |                    |                       | [back to top] |
-| 0011 |                   Container With Most Water                    | [Java][java-0011] |                    |                       | [back to top] |
-| 0012 |                        Integer to Roman                        | [Java][java-0012] |                    |                       | [back to top] |
-| 0013 |                        Roman to Integer                        | [Java][java-0013] |                    | [javaScript][js-0013] | [back to top] |
-| 0014 |                     Longest Common Prefix                      | [Java][java-0014] |                    |                       | [back to top] |
-| 0015 |                              3Sum                              | [Java][java-0015] |                    |                       | [back to top] |
-| 0016 |                          3Sum Closest                          | [Java][java-0016] |                    |                       | [back to top] |
-| 0017 |             Letter Combinations of a Phone Number              | [Java][java-0017] |                    |                       | [back to top] |
-| 0019 |                Remove Nth Node From End of List                | [Java][java-0019] |                    |                       | [back to top] |
-| 0020 |                       Valid Parentheses                        | [Java][java-0020] |                    |                       | [back to top] |
-| 0021 |                     Merge Two Sorted Lists                     | [Java][java-0021] |                    |                       | [back to top] |
-| 0022 |                      Generate Parentheses                      | [Java][java-0022] |                    |                       | [back to top] |
-| 0023 |                      Merge k Sorted Lists                      | [Java][java-0023] |                    |                       | [back to top] |
-| 0025 |                    Reverse Nodes in k-Group                    | [Java][java-0025] |                    |                       | [back to top] |
-| 0026 |              Remove Duplicates from Sorted Array               | [Java][java-0026] |                    |                       | [back to top] |
-| 0027 |                         Remove Element                         | [Java][java-0027] |                    |                       | [back to top] |
-| 0028 |       Find the Index of the First Occurrence in a String       | [Java][java-0028] |                    |                       | [back to top] |
-| 0029 |                      Divide Two Integers                       | [Java][java-0029] |                    |                       | [back to top] |
-| 0030 |           Substring with Concatenation of All Words            | [Java][java-0030] |                    |                       | [back to top] |
-| 0031 |                        Next Permutation                        | [Java][java-0031] |                    |                       | [back to top] |
-| 0033 |                 Search in Rotated Sorted Array                 | [Java][java-0033] |                    |                       | [back to top] |
-| 0034 |    Find First and Last Position of Element in Sorted Array     | [Java][java-0034] |                    |                       | [back to top] |
-| 0035 |                     Search Insert Position                     | [Java][java-0035] |                    |                       | [back to top] |
-| 0036 |                          Valid Sudoku                          | [Java][java-0036] |                    |                       | [back to top] |
-| 0038 |                         Count and Say                          | [Java][java-0038] |                    |                       | [back to top] |
-| 0039 |                        Combination Sum                         | [Java][java-0039] |                    |                       | [back to top] |
-| 0040 |                       Combination Sum II                       | [Java][java-0040] |                    |                       | [back to top] |
-| 0042 |                      Trapping Rain Water                       | [Java][java-0042] |                    |                       | [back to top] |
-| 0043 |                        Multiply Strings                        | [Java][java-0043] |                    |                       | [back to top] |
-| 0045 |                          Jump Game II                          | [Java][java-0045] |                    |                       | [back to top] |
-| 0046 |                          Permutations                          | [Java][java-0046] |                    |                       | [back to top] |
-| 0047 |                        Permutations II                         | [Java][java-0047] |                    |                       | [back to top] |
-| 0048 |                          Rotate Image                          | [Java][java-0048] |                    |                       | [back to top] |
-| 0050 |                           Pow(x, n)                            | [Java][java-0050] |                    |                       | [back to top] |
-| 0051 |                            N-Queens                            | [Java][java-0051] |                    |                       | [back to top] |
-| 0052 |                          N-Queens II                           | [Java][java-0052] |                    |                       | [back to top] |
-| 0053 |                        Maximum Subarray                        | [Java][java-0053] |                    | [JavaScript][js-0053] | [back to top] |
-| 0054 |                         Spiral Matrix                          | [Java][java-0054] |                    |                       | [back to top] |
-| 0055 |                           Jump Game                            | [Java][java-0055] |                    |                       | [back to top] |
-| 0056 |                        Merge Intervals                         | [Java][java-0056] |                    |                       | [back to top] |
-| 0057 |                        Insert Interval                         | [Java][java-0057] |                    |                       | [back to top] |
-| 0058 |                      Length of Last Word                       | [Java][java-0058] |                    |                       | [back to top] |
-| 0061 |                          Rotate List                           | [Java][java-0061] |                    |                       | [back to top] |
-| 0066 |                            Plus One                            | [Java][java-0066] |                    |                       | [back to top] |
-| 0067 |                           Add Binary                           | [Java][java-0067] |                    |                       | [back to top] |
-| 0069 |                            Sqrt(x)                             | [Java][java-0069] |                    |                       | [back to top] |
-| 0070 |                        Climbing Stairs                         | [Java][java-0070] |                    | [JavaScript][js-0070] | [back to top] |
-| 0073 |                       Set Matrix Zeroes                        | [Java][java-0073] |                    |                       | [back to top] |
-| 0074 |                       Search a 2D Matrix                       | [Java][java-0074] |                    |                       | [back to top] |
-| 0075 |                          Sort Colors                           | [Java][java-0075] |                    |                       | [back to top] |
-| 0076 |                    Minimum Window Substring                    | [Java][java-0076] |                    |                       | [back to top] |
-| 0077 |                          Combinations                          | [Java][java-0077] |                    |                       | [back to top] |
-| 0078 |                            Subsets                             | [Java][java-0078] |                    |                       | [back to top] |
-| 0079 |                          Word Search                           | [Java][java-0079] |                    |                       | [back to top] |
-| 0080 |             Remove Duplicates from Sorted Array II             | [Java][java-0080] |                    |                       | [back to top] |
-| 0081 |               Search in Rotated Sorted Array II                | [Java][java-0081] |                    |                       | [back to top] |
-| 0082 |             Remove Duplicates from Sorted List II              | [Java][java-0082] |                    |                       | [back to top] |
-| 0083 |               Remove Duplicates from Sorted List               | [Java][java-0083] |                    |                       | [back to top] |
-| 0088 |                       Merge Sorted Array                       | [Java][java-0088] |                    |                       | [back to top] |
-| 0089 |                           Gray Code                            | [Java][java-0089] |                    |                       | [back to top] |
-| 0090 |                           Subsets II                           | [Java][java-0090] |                    |                       | [back to top] |
-| 0091 |                          Decode Ways                           | [Java][java-0091] |                    |                       | [back to top] |
-| 0092 |                     Reverse Linked List II                     | [Java][java-0092] |                    |                       | [back to top] |
-| 0093 |                      Restore IP Addresses                      | [Java][java-0093] |                    |                       | [back to top] |
-| 0094 |                 Binary Tree Inorder Traversal                  | [Java][java-0094] |                    |                       | [back to top] |
-| 0098 |                  Validate Binary Search Tree                   | [Java][java-0098] |                    |                       | [back to top] |
-| 0100 |                           Same Tree                            | [Java][java-0100] |                    |                       | [back to top] |
-| 0101 |                         Symmetric Tree                         | [Java][java-0101] |                    |                       | [back to top] |
-| 0102 |               Binary Tree Level Order Traversal                | [Java][java-0102] |                    |                       | [back to top] |
-| 0103 |            Binary Tree Zigzag Level Order Traversal            | [Java][java-0103] |                    |                       | [back to top] |
-| 0104 |                  Maximum Depth of Binary Tree                  | [Java][java-0104] |                    |                       | [back to top] |
-| 0105 |   Construct Binary Tree from Preorder and Inorder Traversal    | [Java][java-0105] |                    |                       | [back to top] |
-| 0107 |              Binary Tree Level Order Traversal II              | [Java][java-0107] |                    |                       | [back to top] |
-| 0108 |           Convert Sorted Array to Binary Search Tree           | [Java][java-0108] |                    |                       | [back to top] |
-| 0110 |                      Balanced Binary Tree                      | [Java][java-0110] |                    |                       | [back to top] |
-| 0111 |                  Minimum Depth of Binary Tree                  | [Java][java-0111] |                    |                       | [back to top] |
-| 0112 |                            Path Sum                            | [Java][java-0112] |                    |                       | [back to top] |
-| 0113 |                          Path Sum II                           | [Java][java-0113] |                    |                       | [back to top] |
-| 0121 |                Best Time to Buy and Sell Stock                 | [Java][java-0121] | [Python3][py-0121] | [JavaScript][js-0121] | [back to top] |
-| 0124 |                  Binary Tree Maximum Path Sum                  | [Java][java-0124] |                    |                       | [back to top] |
-| 0125 |                        Valid Palindrome                        | [Java][java-0125] |                    |                       | [back to top] |
-| 0126 |                         Word Ladder II                         | [Java][java-0126] |                    |                       | [back to top] |
-| 0127 |                          Word Ladder                           | [Java][java-0127] |                    |                       | [back to top] |
-| 0128 |                  Longest Consecutive Sequence                  | [Java][java-0128] |                    |                       | [back to top] |
-| 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |                    |                       | [back to top] |
-| 0130 |                       Surrounded Regions                       | [Java][java-0130] |                    |                       | [back to top] |
-| 0134 |                          Gas Station                           | [Java][java-0134] |                    |                       | [back to top] |
-| 0136 |                         Single Number                          | [Java][java-0136] |                    |                       | [back to top] |
-| 0139 |                           Word Break                           | [Java][java-0139] |                    |                       | [back to top] |
-| 0140 |                         Word Break II                          | [Java][java-0140] |                    |                       | [back to top] |
-| 0141 |                       Linked List Cycle                        | [Java][java-0141] |                    | [JavaScript][js-0141] | [back to top] |
-| 0142 |                      Linked List Cycle II                      | [Java][java-0142] |                    | [JavaScript][js-0142] | [back to top] |
-| 0143 |                          Reorder List                          | [Java][java-0143] |                    |                       | [back to top] |
-| 0144 |                 Binary Tree Preorder Traversal                 | [Java][java-0144] |                    |                       | [back to top] |
-| 0145 |                Binary Tree Postorder Traversal                 | [Java][java-0145] |                    |                       | [back to top] |
-| 0146 |                           LRU Cache                            | [Java][java-0146] | [Python3][py-0146] |                       | [back to top] |
-| 0147 |                      Insertion Sort List                       | [Java][java-0147] |                    |                       | [back to top] |
-| 0148 |                           Sort List                            | [Java][java-0148] |                    |                       | [back to top] |
-| 0150 |                Evaluate Reverse Polish Notation                | [Java][java-0150] |                    |                       | [back to top] |
-| 0151 |                   Reverse Words in a String                    | [Java][java-0151] |                    |                       | [back to top] |
-| 0155 |                           Min Stack                            | [Java][java-0155] |                    |                       | [back to top] |
-| 0160 |                Intersection of Two Linked Lists                | [Java][java-0160] |                    |                       | [back to top] |
-| 0165 |                    Compare Version Numbers                     | [Java][java-0165] |                    |                       | [back to top] |
-| 0167 |               Two Sum II - Input Array Is Sorted               | [Java][java-0167] |                    |                       | [back to top] |
-| 0171 |                   Excel Sheet Column Number                    | [Java][java-0171] |                    |                       | [back to top] |
-| 0172 |                   Factorial Trailing Zeroes                    | [Java][java-0172] |                    |                       | [back to top] |
-| 0179 |                         Largest Number                         | [Java][java-0179] |                    |                       | [back to top] |
-| 0187 |                     Repeated DNA Sequences                     | [Java][java-0187] |                    |                       | [back to top] |
-| 0198 |                          House Robber                          | [Java][java-0198] |                    |                       | [back to top] |
-| 0199 |                  Binary Tree Right Side View                   | [Java][java-0199] |                    |                       | [back to top] |
-| 0200 |                       Number of Islands                        | [Java][java-0200] |                    |                       | [back to top] |
-| 0202 |                          Happy Number                          | [Java][java-0202] |                    |                       | [back to top] |
-| 0203 |                  Remove Linked List Elements                   | [Java][java-0203] |                    |                       | [back to top] |
-| 0205 |                       Isomorphic Strings                       | [Java][java-0205] |                    |                       | [back to top] |
-| 0206 |                      Reverse Linked List                       | [Java][java-0206] |                    | [JavaScript][js-0206] | [back to top] |
-| 0207 |                        Course Schedule                         | [Java][java-0207] |                    |                       | [back to top] |
-| 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |                    |                       | [back to top] |
-| 0212 |                         Word Search II                         | [Java][java-0212] |                    |                       | [back to top] |
-| 0215 |                Kth Largest Element in an Array                 | [Java][java-0215] |                    |                       | [back to top] |
-| 0217 |                       Contains Duplicate                       | [Java][java-0217] |                    |                       | [back to top] |
-| 0218 |                      The Skyline Problem                       | [Java][java-0218] |                    |                       | [back to top] |
-| 0219 |                     Contains Duplicate II                      | [Java][java-0219] |                    |                       | [back to top] |
-| 0222 |                   Count Complete Tree Nodes                    | [Java][java-0222] |                    |                       | [back to top] |
-| 0223 |                         Rectangle Area                         | [Java][java-0223] |                    |                       | [back to top] |
-| 0226 |                       Invert Binary Tree                       | [Java][java-0226] |                    |                       | [back to top] |
-| 0230 |                 Kth Smallest Element in a BST                  | [Java][java-0230] |                    |                       | [back to top] |
-| 0232 |                  Implement Queue using Stacks                  | [Java][java-0232] |                    |                       | [back to top] |
-| 0234 |                     Palindrome Linked List                     | [Java][java-0234] |                    |                       | [back to top] |
-| 0236 |            Lowest Common Ancestor of a Binary Tree             | [Java][java-0236] |                    |                       | [back to top] |
-| 0237 |                  Delete Node in a Linked List                  | [Java][java-0237] |                    |                       | [back to top] |
-| 0239 |                     Sliding Window Maximum                     | [Java][java-0239] |                    |                       | [back to top] |
-| 0240 |                     Search a 2D Matrix II                      | [Java][java-0240] |                    |                       | [back to top] |
-| 0242 |                         Valid Anagram                          | [Java][java-0242] |                    |                       | [back to top] |
-| 0263 |                          Ugly Number                           | [Java][java-0263] |                    |                       | [back to top] |
-| 0268 |                         Missing Number                         | [Java][java-0268] |                    |                       | [back to top] |
-| 0279 |                        Perfect Squares                         | [Java][java-0279] |                    |                       | [back to top] |
-| 0283 |                          Move Zeroes                           | [Java][java-0283] |                    |                       | [back to top] |
-| 0290 |                          Word Pattern                          | [Java][java-0290] |                    |                       | [back to top] |
-| 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |                    |                       | [back to top] |
-| 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |                    |                       | [back to top] |
-| 0303 |                  Range Sum Query - Immutable                   | [Java][java-0303] |                    |                       | [back to top] |
-| 0307 |                   Range Sum Query - Mutable                    | [Java][java-0307] |                    |                       | [back to top] |
-| 0309 |         Best Time to Buy and Sell Stock with Cooldown          | [Java][java-0309] |                    |                       | [back to top] |
-| 0316 |                    Remove Duplicate Letters                    | [Java][java-0316] |                    |                       | [back to top] |
-| 0322 |                          Coin Change                           | [Java][java-0322] |                    |                       | [back to top] |
-| 0324 |                         Wiggle Sort II                         | [Java][java-0324] |                    |                       | [bakc to top] |
-| 0327 |                       Count of Range Sum                       | [Java][java-0327] |                    |                       | [back to top] |
-| 0328 |                      Odd Even Linked List                      | [Java][java-0328] |                    |                       | [back to top] |
-| 0334 |                 Increasing Triplet Subsequence                 | [Java][java-0334] |                    |                       | [back to top] |
-| 0344 |                         Reverse String                         | [Java][java-0344] |                    |                       | [back to top] |
-| 0345 |                   Reverse Vowels of a String                   | [Java][java-0345] |                    |                       | [back to top] |
-| 0347 |                    Top K Frequent Elements                     | [Java][java-0347] |                    |                       | [back to top] |
-| 0349 |                   Intersection of Two Arrays                   | [Java][java-0349] |                    |                       | [back to top] |
-| 0371 |                      Sum of Two Integers                       | [Java][java-0371] |                    |                       | [back to top] |
-| 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |                    |                       | [back to top] |
-| 0380 |                  Insert Delete GetRandom O(1)                  | [Java][java-0380] |                    |                       | [back to top] |
-| 0387 |               First Unique Character in a String               | [Java][java-0387] |                    | [JavaScript][js-0387] | [back to top] |
-| 0392 |                         Is Subsequence                         | [Java][java-0392] |                    |                       | [back to top] |
-| 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |                    |                       | [back to top] |
-| 0402 |                        Remove K Digits                         | [Java][java-0402] |                    |                       | [back to top] |
-| 0409 |                       Longest Palindrome                       | [Java][java-0409] |                    |                       | [back to top] |
-| 0412 |                           Fizz Buzz                            | [Java][java-0412] |                    |                       | [back to top] |
-| 0415 |                          Add Strings                           | [Java][java-0415] |                    |                       | [back to top] |
-| 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |                    |                       | [back to top] |
-| 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |                    |                       | [back to top] |
-| 0429 |                N-ary Tree Level Order Traversal                | [Java][java-0429] |                    |                       | [back to top] |
-| 0442 |                Find All Duplicates in an Array                 | [Java][java-0442] |                    |                       | [back to top] |
-| 0443 |                       String Compression                       | [Java][java-0443] |                    | [JavaScript][js-0443] | [back to top] |
-| 0445 |                       Add Two Numbers II                       | [Java][java-0445] |                    |                       | [back to top] |
-| 0451 |                  Sort Characters By Frequency                  | [Java][java-0451] |                    |                       | [back to top] |
-| 0454 |                            4Sum II                             | [Java][java-0454] |                    |                       | [back to top] |
-| 0493 |                         Reverse Pairs                          | [Java][java-0493] |                    |                       | [back to top] |
-| 0507 |                         Perfect Number                         | [Java][java-0507] |                    |                       | [back to top] |
-| 0509 |                        Fibonacci Number                        | [Java][java-0509] |                    |                       | [back to top] |
-| 0525 |                        Contiguous Array                        | [Java][java-0525] |                    |                       | [back to top] |
-| 0559 |                  Maximum Depth of N-ary Tree                   | [Java][java-0559] |                    |                       | [back to top] |
-| 0589 |                 N-ary Tree Preorder Traversal                  | [Java][java-0589] |                    |                       | [back to top] |
-| 0590 |                 N-ary Tree Postorder Traversal                 | [Java][java-0590] |                    |                       | [back to top] |
-| 0598 |                       Range Addition II                        | [Java][java-0598] |                    |                       | [back to top] |
-| 0623 |                      Add One Row to Tree                       | [Java][java-0623] |                    |                       | [back to top] |
-| 0641 |                     Design Circular Deque                      | [Java][java-0641] | [Python3][py-0641] |                       | [back to top] |
-| 0652 |                    Find Duplicate Subtrees                     | [Java][java-0652] |                    |                       | [back to top] |
-| 0653 |                  Two Sum IV - Input is a BST                   | [Java][java-0653] |                    |                       | [back to top] |
-| 0654 |                      Maximum Binary Tree                       | [Java][java-0654] |                    |                       | [back to top] |
-| 0655 |                       Print Binary Tree                        | [Java][java-0655] |                    |                       | [back to top] |
-| 0658 |                    Find K Closest Elements                     | [Java][java-0658] |                    |                       | [back to top] |
-| 0659 |           Split Array into Consecutive Subsequences            | [Java][java-0659] |                    |                       | [back to top] |
-| 0662 |                  Maximum Width of Binary Tree                  | [Java][java-0662] |                    |                       | [back to top] |
-| 0678 |                    Valid Parenthesis String                    | [Java][java-0678] |                    |                       | [back to top] |
-| 0680 |                      Valid Palindrome II                       | [Java][java-0680] |                    |                       | [back to top] |
-| 0687 |                     Longest Univalue Path                      | [Java][java-0687] |                    |                       | [back to top] |
-| 0692 |                      Top K Frequent Words                      | [Java][java-0692] |                    |                       | [back to top] |
-| 0695 |                       Max Area of Island                       | [Java][java-0695] |                    |                       | [back to top] |
-| 0696 |                    Count Binary Substrings                     | [Java][java-0696] |                    |                       | [back to top] |
-| 0703 |                Kth Largest Element in a Stream                 | [Java][java-0703] |                    |                       | [back to top] |
-| 0704 |                         Binary Search                          | [Java][java-0704] |                    |                       | [back to top] |
-| 0718 |              Maximum Length of Repeated Subarray               | [Java][java-0718] |                    |                       | [back to top] |
-| 0729 |                         My Calendar I                          | [Java][java-0729] |                    |                       | [back to top] |
-| 0731 |                         My Calendar II                         | [Java][java-0731] |                    |                       | [back to top] |
-| 0732 |                        My Calendar III                         | [Java][java-0732] |                    |                       | [back to top] |
-| 0739 |                       Daily Temperatures                       | [Java][java-0739] |                    |                       | [back to top] |
-| 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |                    |                       | [back to top] |
-| 0775 |                  Global and Local Inversions                   | [Java][java-0775] |                    |                       | [back to top] |
-| 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |                    |                       | [back to top] |
-| 0788 |                         Rotated Digits                         | [Java][java-0788] |                    |                       | [back to top] |
-| 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |                    |                       | [back to top] |
-| 0795 |            Number of Subarrays with Bounded Maximum            | [Java][java-0795] |                    |                       | [back to top] |
-| 0799 |                        Champagne Tower                         | [Java][java-0799] |                    |                       | [back to top] |
-| 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |                    |                       | [back to top] |
-| 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [Python3][py-0804] | [JavaScript][js-0804] | [back to top] |
-| 0809 |                        Expressive Words                        | [Java][java-0809] |                    |                       | [back to top] |
-| 0811 |                     Subdomain Visit Count                      | [Java][java-0811] |                    |                       | [back to top] |
-| 0813 |                    Largest Sum of Averages                     | [Java][java-0813] |                    |                       | [back to top] |
-| 0817 |                     Linked List Components                     | [Java][java-0817] |                    |                       | [back to top] |
-| 0822 |                       Card Flipping Game                       | [Java][java-0822] |                    |                       | [back to top] |
-| 0842 |              Split Array into Fibonacci Sequence               | [Java][java-0842] |                    |                       | [back to top] |
-| 0856 |                      Score of Parentheses                      | [Java][java-0856] |                    |                       | [back to top] |
-| 0869 |                      Reordered Power of 2                      | [Java][java-0869] |                    |                       | [back to top] |
-| 0870 |                       Advantage Shuffle                        | [Java][java-0870] |                    |                       | [back to top] |
-| 0871 |               Minimum Number of Refueling Stops                | [Java][java-0871] |                    |                       | [back to top] |
-| 0872 |                       Leaf-Similar Trees                       | [Java][java-0872] |                    |                       | [back to top] |
-| 0873 |            Length of Longest Fibonacci Subsequence             | [Java][java-0873] |                    |                       | [back to top] |
-| 0876 |                   Middle of the Linked List                    | [Java][java-0876] |                    | [JavaScript][js-0876] | [back to top] |
-| 0904 |                       Fruit Into Baskets                       | [Java][java-0904] |                    |                       | [back to top] |
-| 0905 |                      Sort Array By Parity                      | [Java][java-0905] |                    |                       | [back to top] |
-| 0907 |                    Sum of Subarray Minimums                    | [Java][java-0907] |                    |                       | [back to top] |
-| 0912 |                         Sort an Array                          | [Java][java-0912] |                    |                       | [back to top] |
-| 0915 |            Partition Array into Disjoint Intervals             | [Java][java-0915] |                    |                       | [back to top] |
-| 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |                    |                       | [back to top] |
-| 0929 |                     Unique Email Addresses                     | [Java][java-0929] |                    |                       | [back to top] |
-| 0938 |                        Range Sum of BST                        | [Java][java-0938] |                    |                       | [back to top] |
-| 0939 |                     Minimum Area Rectangle                     | [Java][java-0939] |                    |                       | [back to top] |
-| 0973 |                   K Closest Points to Origin                   | [Java][java-0973] |                    |                       | [back to top] |
-| 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |                    |                       | [back to top] |
-| 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |                    |                       | [back to top] |
-| 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |                    |                       | [back to top] |
-| 1026 |          Maximum Difference Between Node and Ancestor          | [Java][java-1026] |                    |                       | [back to top] |
-| 1029 |                      Two City Scheduling                       | [Java][java-1029] |                    |                       | [back to top] |
-| 1122 |                      Relative Sort Array                       | [Java][java-1122] |                    |                       | [back to top] |
-| 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |                    |                       | [back to top] |
-| 1144 |             Decrease Elements To Make Array Zigzag             | [Java][java-1144] |                    |                       | [back to top] |
-| 1156 |         Swap For Longest Repeated Character Substring          | [Java][java-1156] |                    |                       | [back to top] |
-| 1207 |                  Unique Number of Occurrences                  | [Java][java-1207] |                    |                       | [back to top] |
-| 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |                    |                       | [back to top] |
-| 1239 | Maximum Length of a Concatenated String with Unique Characters | [Java][java-1239] |                    |                       | [back to top] |
-| 1302 |                       Deepest Leaves Sum                       | [Java][java-1302] | [Python3][py-1302] |                       | [back to top] |
-| 1304 |             Find N Unique Integers Sum up to Zero              | [Java][java-1304] |                    |                       | [back to top] |
-| 1328 |                       Break a Palindrome                       | [Java][java-1328] |                    |                       | [back to top] |
-| 1389 |             Create Target Array in the Given Order             | [Java][java-1389] |                    |                       | [back to top] |
-| 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [Java][java-1414] |                    |                       | [back to top] |
-| 1422 |             Maximum Score After Splitting a String             | [Java][java-1422] | [Python3][py-1422] | [JavaScript][js-1422] | [back to top] |
-| 1448 |                Count Good Nodes in Binary Tree                 | [Java][java-1448] |                    |                       | [back to top] |
-| 1450 |       Number of Students Doing Homework at a Given Time        | [Java][java-1450] |                    |                       | [back to top] |
-| 1455 |  Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [Java][java-1455] |                    |                       | [back to top] |
-| 1460 |         Make Two Arrays Equal by Reversing Sub-arrays          | [Java][java-1460] |                    |                       | [back to top] |
-| 1464 |          Maximum Product of Two Elements in an Array           | [Java][java-1464] |                    |                       | [back to top] |
-| 1470 |                       Shuffle the Array                        | [Java][java-1470] | [Python3][py-1470] |                       | [back to top] |
-| 1512 |                      Number of Good Pairs                      | [Java][java-1512] |                    |                       | [back to top] |
-| 1523 |             Count Odd Numbers in an Interval Range             | [Java][java-1523] |                    |                       | [back to top] |
-| 1578 |               Minimum Time to Make Rope Colorful               | [Java][java-1578] |                    |                       | [back to top] |
-| 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [Python3][py-1656] |                       | [back to top] |
-| 1657 |               Determine if Two Strings Are Close               | [Java][java-1657] |                    |                       | [back to top] |
-| 1662 |           Check If Two String Arrays are Equivalent            | [Java][java-1662] |                    |                       | [back to top] |
-| 1694 |                     Reformat Phone Number                      | [Java][java-1694] |                    |                       | [back to top] |
-| 1704 |              Determine if String Halves Are Alike              | [Java][java-1704] |                    |                       | [back to top] |
-| 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |                    |                       | [back to top] |
-| 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |                    |                       | [back to top] |
-| 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |                    |                       | [back to top] |
-| 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |                    |                       | [back to top] |
-| 1764 |     Form Array by Concatenating Subarrays of Another Array     | [Java][java-1764] |                    |                       | [back to top] |
-| 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |                    |                       | [back to top] |
-| 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |                    |                       | [back to top] |
-| 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |                    |                       | [back to top] |
-| 1775 |       Equal Sum Arrays With Minimum Number of Operations       | [Java][java-1775] |                    |                       | [back to top] |
-| 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |                    |                       | [back to top] |
-| 1780 |          Check if Number is a Sum of Powers of Three           | [Java][java-1780] |                    |                       | [back to top] |
-| 1781 |                Sum of Beauty of All Substrings                 | [Java][java-1781] |                    |                       | [back to top] |
-| 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |                    |                       | [back to top] |
-| 1785 |          Minimum Elements to Add to Form a Given Sum           | [Java][java-1785] |                    |                       | [back to top] |
-| 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |                    |                       | [back to top] |
-| 1796 |                Second Largest Digit in a String                | [Java][java-1796] |                    |                       | [back to top] |
-| 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |                    |                       | [back to top] |
-| 1812 |             Determine Color of a Chessboard Square             | [Java][java-1812] |                    |                       | [back to top] |
-| 1814 |                  Count Nice Pairs in an Array                  | [Java][java-1814] |                    |                       | [back to top] |
-| 1818 |                Minimum Absolute Sum Difference                 | [Java][java-1818] |                    |                       | [back to top] |
-| 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |                    |                       | [back to top] |
-| 1865 |                Finding Pairs With a Certain Sum                | [Java][java-1865] |                    |                       | [back to top] |
-| 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |                    |                       | [back to top] |
-| 1877 |               Minimize Maximum Pair Sum in Array               | [Java][java-1877] |                    |                       | [back to top] |
-| 1905 |                       Count Sub Islands                        | [Java][java-1905] |                    |                       | [back to top] |
-| 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |                    |                       | [back to top] |
-| 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |                    |                       | [back to top] |
-| 1945 |             Sum of Digits of String After Convert              | [Java][java-1945] |                    |                       | [back to top] |
-| 1985 |           Find the Kth Largest Integer in the Array            | [Java][java-1985] |                    |                       | [back to top] |
-| 2095 |            Delete the Middle Node of a Linked List             | [Java][java-2095] |                    |                       | [back to top] |
-| 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |                    |                       | [back to top] |
-| 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |                    |                       | [back to top] |
-| 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |                    |                       | [back to top] |
-| 2225 |              Find Players With Zero or One Losses              | [Java][java-2225] |                    |                       | [back to top] |
-| 2256 |                   Minimum Average Difference                   | [Java][java-2256] |                    |                       | [back to top] |
-| 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |                    |                       | [back to top] |
-| 2363 |                      Merge Similar Items                       | [Java][java-2363] |                    |                       | [back to top] |
-| 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |                    |                       | [back to top] |
+|  #   |                             Title                              |       Java        |    Python3    |  JavaScript   |               |
+| :--: | :------------------------------------------------------------: | :---------------: | :-----------: | :-----------: | :-----------: |
+| 0001 |                            Two Sum                             | [Java][java-0001] | [py][py-0001] | [js][js-0001] | [back to top] |
+| 0002 |                        Add Two Numbers                         | [Java][java-0002] |               |               | [back to top] |
+| 0003 |         Longest Substring Without Repeating Characters         | [Java][java-0003] | [py][py-0003] | [js][js-0003] | [back to top] |
+| 0004 |                  Median of Two Sorted Arrays                   | [Java][java-0004] |               |               | [back to top] |
+| 0005 |                 Longest Palindromic Substring                  | [Java][java-0005] | [py][py-0005] | [js][js-0005] | [back to top] |
+| 0007 |                        Reverse Integer                         | [Java][java-0007] | [py][py-0007] |               | [back to top] |
+| 0008 |                    String to Integer (atoi)                    | [Java][java-0008] |               |               | [back to top] |
+| 0009 |                       Palindrome Number                        | [Java][java-0009] |               |               | [back to top] |
+| 0011 |                   Container With Most Water                    | [Java][java-0011] |               |               | [back to top] |
+| 0012 |                        Integer to Roman                        | [Java][java-0012] |               |               | [back to top] |
+| 0013 |                        Roman to Integer                        | [Java][java-0013] |               | [js][js-0013] | [back to top] |
+| 0014 |                     Longest Common Prefix                      | [Java][java-0014] |               |               | [back to top] |
+| 0015 |                              3Sum                              | [Java][java-0015] |               |               | [back to top] |
+| 0016 |                          3Sum Closest                          | [Java][java-0016] |               |               | [back to top] |
+| 0017 |             Letter Combinations of a Phone Number              | [Java][java-0017] |               |               | [back to top] |
+| 0019 |                Remove Nth Node From End of List                | [Java][java-0019] |               |               | [back to top] |
+| 0020 |                       Valid Parentheses                        | [Java][java-0020] |               |               | [back to top] |
+| 0021 |                     Merge Two Sorted Lists                     | [Java][java-0021] |               |               | [back to top] |
+| 0022 |                      Generate Parentheses                      | [Java][java-0022] |               |               | [back to top] |
+| 0023 |                      Merge k Sorted Lists                      | [Java][java-0023] |               |               | [back to top] |
+| 0025 |                    Reverse Nodes in k-Group                    | [Java][java-0025] |               |               | [back to top] |
+| 0026 |              Remove Duplicates from Sorted Array               | [Java][java-0026] |               |               | [back to top] |
+| 0027 |                         Remove Element                         | [Java][java-0027] |               |               | [back to top] |
+| 0028 |       Find the Index of the First Occurrence in a String       | [Java][java-0028] |               |               | [back to top] |
+| 0029 |                      Divide Two Integers                       | [Java][java-0029] |               |               | [back to top] |
+| 0030 |           Substring with Concatenation of All Words            | [Java][java-0030] |               |               | [back to top] |
+| 0031 |                        Next Permutation                        | [Java][java-0031] |               |               | [back to top] |
+| 0033 |                 Search in Rotated Sorted Array                 | [Java][java-0033] |               |               | [back to top] |
+| 0034 |    Find First and Last Position of Element in Sorted Array     | [Java][java-0034] |               |               | [back to top] |
+| 0035 |                     Search Insert Position                     | [Java][java-0035] |               |               | [back to top] |
+| 0036 |                          Valid Sudoku                          | [Java][java-0036] |               |               | [back to top] |
+| 0038 |                         Count and Say                          | [Java][java-0038] |               |               | [back to top] |
+| 0039 |                        Combination Sum                         | [Java][java-0039] |               |               | [back to top] |
+| 0040 |                       Combination Sum II                       | [Java][java-0040] |               |               | [back to top] |
+| 0042 |                      Trapping Rain Water                       | [Java][java-0042] |               |               | [back to top] |
+| 0043 |                        Multiply Strings                        | [Java][java-0043] |               |               | [back to top] |
+| 0045 |                          Jump Game II                          | [Java][java-0045] |               |               | [back to top] |
+| 0046 |                          Permutations                          | [Java][java-0046] |               |               | [back to top] |
+| 0047 |                        Permutations II                         | [Java][java-0047] |               |               | [back to top] |
+| 0048 |                          Rotate Image                          | [Java][java-0048] |               |               | [back to top] |
+| 0050 |                           Pow(x, n)                            | [Java][java-0050] |               |               | [back to top] |
+| 0051 |                            N-Queens                            | [Java][java-0051] |               |               | [back to top] |
+| 0052 |                          N-Queens II                           | [Java][java-0052] |               |               | [back to top] |
+| 0053 |                        Maximum Subarray                        | [Java][java-0053] |               | [js][js-0053] | [back to top] |
+| 0054 |                         Spiral Matrix                          | [Java][java-0054] |               |               | [back to top] |
+| 0055 |                           Jump Game                            | [Java][java-0055] |               |               | [back to top] |
+| 0056 |                        Merge Intervals                         | [Java][java-0056] |               |               | [back to top] |
+| 0057 |                        Insert Interval                         | [Java][java-0057] |               |               | [back to top] |
+| 0058 |                      Length of Last Word                       | [Java][java-0058] |               |               | [back to top] |
+| 0061 |                          Rotate List                           | [Java][java-0061] |               |               | [back to top] |
+| 0066 |                            Plus One                            | [Java][java-0066] |               |               | [back to top] |
+| 0067 |                           Add Binary                           | [Java][java-0067] |               |               | [back to top] |
+| 0069 |                            Sqrt(x)                             | [Java][java-0069] |               |               | [back to top] |
+| 0070 |                        Climbing Stairs                         | [Java][java-0070] |               | [js][js-0070] | [back to top] |
+| 0073 |                       Set Matrix Zeroes                        | [Java][java-0073] |               |               | [back to top] |
+| 0074 |                       Search a 2D Matrix                       | [Java][java-0074] |               |               | [back to top] |
+| 0075 |                          Sort Colors                           | [Java][java-0075] |               |               | [back to top] |
+| 0076 |                    Minimum Window Substring                    | [Java][java-0076] |               |               | [back to top] |
+| 0077 |                          Combinations                          | [Java][java-0077] |               |               | [back to top] |
+| 0078 |                            Subsets                             | [Java][java-0078] |               |               | [back to top] |
+| 0079 |                          Word Search                           | [Java][java-0079] |               |               | [back to top] |
+| 0080 |             Remove Duplicates from Sorted Array II             | [Java][java-0080] |               |               | [back to top] |
+| 0081 |               Search in Rotated Sorted Array II                | [Java][java-0081] |               |               | [back to top] |
+| 0082 |             Remove Duplicates from Sorted List II              | [Java][java-0082] |               |               | [back to top] |
+| 0083 |               Remove Duplicates from Sorted List               | [Java][java-0083] |               |               | [back to top] |
+| 0088 |                       Merge Sorted Array                       | [Java][java-0088] |               |               | [back to top] |
+| 0089 |                           Gray Code                            | [Java][java-0089] |               |               | [back to top] |
+| 0090 |                           Subsets II                           | [Java][java-0090] |               |               | [back to top] |
+| 0091 |                          Decode Ways                           | [Java][java-0091] |               |               | [back to top] |
+| 0092 |                     Reverse Linked List II                     | [Java][java-0092] |               |               | [back to top] |
+| 0093 |                      Restore IP Addresses                      | [Java][java-0093] |               |               | [back to top] |
+| 0094 |                 Binary Tree Inorder Traversal                  | [Java][java-0094] |               |               | [back to top] |
+| 0098 |                  Validate Binary Search Tree                   | [Java][java-0098] |               |               | [back to top] |
+| 0100 |                           Same Tree                            | [Java][java-0100] |               |               | [back to top] |
+| 0101 |                         Symmetric Tree                         | [Java][java-0101] |               |               | [back to top] |
+| 0102 |               Binary Tree Level Order Traversal                | [Java][java-0102] |               |               | [back to top] |
+| 0103 |            Binary Tree Zigzag Level Order Traversal            | [Java][java-0103] |               |               | [back to top] |
+| 0104 |                  Maximum Depth of Binary Tree                  | [Java][java-0104] |               |               | [back to top] |
+| 0105 |   Construct Binary Tree from Preorder and Inorder Traversal    | [Java][java-0105] |               |               | [back to top] |
+| 0107 |              Binary Tree Level Order Traversal II              | [Java][java-0107] |               |               | [back to top] |
+| 0108 |           Convert Sorted Array to Binary Search Tree           | [Java][java-0108] |               |               | [back to top] |
+| 0110 |                      Balanced Binary Tree                      | [Java][java-0110] |               |               | [back to top] |
+| 0111 |                  Minimum Depth of Binary Tree                  | [Java][java-0111] |               |               | [back to top] |
+| 0112 |                            Path Sum                            | [Java][java-0112] |               |               | [back to top] |
+| 0113 |                          Path Sum II                           | [Java][java-0113] |               |               | [back to top] |
+| 0121 |                Best Time to Buy and Sell Stock                 | [Java][java-0121] | [py][py-0121] | [js][js-0121] | [back to top] |
+| 0124 |                  Binary Tree Maximum Path Sum                  | [Java][java-0124] |               |               | [back to top] |
+| 0125 |                        Valid Palindrome                        | [Java][java-0125] |               |               | [back to top] |
+| 0126 |                         Word Ladder II                         | [Java][java-0126] |               |               | [back to top] |
+| 0127 |                          Word Ladder                           | [Java][java-0127] |               |               | [back to top] |
+| 0128 |                  Longest Consecutive Sequence                  | [Java][java-0128] |               |               | [back to top] |
+| 0129 |                    Sum Root to Leaf Numbers                    | [Java][java-0129] |               |               | [back to top] |
+| 0130 |                       Surrounded Regions                       | [Java][java-0130] |               |               | [back to top] |
+| 0134 |                          Gas Station                           | [Java][java-0134] |               |               | [back to top] |
+| 0136 |                         Single Number                          | [Java][java-0136] |               |               | [back to top] |
+| 0139 |                           Word Break                           | [Java][java-0139] |               |               | [back to top] |
+| 0140 |                         Word Break II                          | [Java][java-0140] |               |               | [back to top] |
+| 0141 |                       Linked List Cycle                        | [Java][java-0141] |               | [js][js-0141] | [back to top] |
+| 0142 |                      Linked List Cycle II                      | [Java][java-0142] |               | [js][js-0142] | [back to top] |
+| 0143 |                          Reorder List                          | [Java][java-0143] |               |               | [back to top] |
+| 0144 |                 Binary Tree Preorder Traversal                 | [Java][java-0144] |               |               | [back to top] |
+| 0145 |                Binary Tree Postorder Traversal                 | [Java][java-0145] |               |               | [back to top] |
+| 0146 |                           LRU Cache                            | [Java][java-0146] | [py][py-0146] |               | [back to top] |
+| 0147 |                      Insertion Sort List                       | [Java][java-0147] |               |               | [back to top] |
+| 0148 |                           Sort List                            | [Java][java-0148] |               |               | [back to top] |
+| 0150 |                Evaluate Reverse Polish Notation                | [Java][java-0150] |               |               | [back to top] |
+| 0151 |                   Reverse Words in a String                    | [Java][java-0151] |               |               | [back to top] |
+| 0155 |                           Min Stack                            | [Java][java-0155] |               |               | [back to top] |
+| 0160 |                Intersection of Two Linked Lists                | [Java][java-0160] |               |               | [back to top] |
+| 0165 |                    Compare Version Numbers                     | [Java][java-0165] |               |               | [back to top] |
+| 0167 |               Two Sum II - Input Array Is Sorted               | [Java][java-0167] |               |               | [back to top] |
+| 0171 |                   Excel Sheet Column Number                    | [Java][java-0171] |               |               | [back to top] |
+| 0172 |                   Factorial Trailing Zeroes                    | [Java][java-0172] |               |               | [back to top] |
+| 0179 |                         Largest Number                         | [Java][java-0179] |               |               | [back to top] |
+| 0187 |                     Repeated DNA Sequences                     | [Java][java-0187] |               |               | [back to top] |
+| 0198 |                          House Robber                          | [Java][java-0198] |               |               | [back to top] |
+| 0199 |                  Binary Tree Right Side View                   | [Java][java-0199] |               |               | [back to top] |
+| 0200 |                       Number of Islands                        | [Java][java-0200] |               |               | [back to top] |
+| 0202 |                          Happy Number                          | [Java][java-0202] |               |               | [back to top] |
+| 0203 |                  Remove Linked List Elements                   | [Java][java-0203] |               |               | [back to top] |
+| 0205 |                       Isomorphic Strings                       | [Java][java-0205] |               |               | [back to top] |
+| 0206 |                      Reverse Linked List                       | [Java][java-0206] |               | [js][js-0206] | [back to top] |
+| 0207 |                        Course Schedule                         | [Java][java-0207] |               |               | [back to top] |
+| 0209 |                   Minimum Size Subarray Sum                    | [Java][java-0209] |               |               | [back to top] |
+| 0212 |                         Word Search II                         | [Java][java-0212] |               |               | [back to top] |
+| 0215 |                Kth Largest Element in an Array                 | [Java][java-0215] |               |               | [back to top] |
+| 0217 |                       Contains Duplicate                       | [Java][java-0217] |               |               | [back to top] |
+| 0218 |                      The Skyline Problem                       | [Java][java-0218] |               |               | [back to top] |
+| 0219 |                     Contains Duplicate II                      | [Java][java-0219] |               |               | [back to top] |
+| 0222 |                   Count Complete Tree Nodes                    | [Java][java-0222] |               |               | [back to top] |
+| 0223 |                         Rectangle Area                         | [Java][java-0223] |               |               | [back to top] |
+| 0226 |                       Invert Binary Tree                       | [Java][java-0226] |               |               | [back to top] |
+| 0230 |                 Kth Smallest Element in a BST                  | [Java][java-0230] |               |               | [back to top] |
+| 0232 |                  Implement Queue using Stacks                  | [Java][java-0232] |               |               | [back to top] |
+| 0234 |                     Palindrome Linked List                     | [Java][java-0234] |               |               | [back to top] |
+| 0236 |            Lowest Common Ancestor of a Binary Tree             | [Java][java-0236] |               |               | [back to top] |
+| 0237 |                  Delete Node in a Linked List                  | [Java][java-0237] |               |               | [back to top] |
+| 0239 |                     Sliding Window Maximum                     | [Java][java-0239] |               |               | [back to top] |
+| 0240 |                     Search a 2D Matrix II                      | [Java][java-0240] |               |               | [back to top] |
+| 0242 |                         Valid Anagram                          | [Java][java-0242] |               |               | [back to top] |
+| 0263 |                          Ugly Number                           | [Java][java-0263] |               |               | [back to top] |
+| 0268 |                         Missing Number                         | [Java][java-0268] |               |               | [back to top] |
+| 0279 |                        Perfect Squares                         | [Java][java-0279] |               |               | [back to top] |
+| 0283 |                          Move Zeroes                           | [Java][java-0283] |               |               | [back to top] |
+| 0290 |                          Word Pattern                          | [Java][java-0290] |               |               | [back to top] |
+| 0295 |                  Find Median from Data Stream                  | [Java][java-0295] |               |               | [back to top] |
+| 0300 |                 Longest Increasing Subsequence                 | [Java][java-0300] |               |               | [back to top] |
+| 0303 |                  Range Sum Query - Immutable                   | [Java][java-0303] |               |               | [back to top] |
+| 0307 |                   Range Sum Query - Mutable                    | [Java][java-0307] |               |               | [back to top] |
+| 0309 |         Best Time to Buy and Sell Stock with Cooldown          | [Java][java-0309] |               |               | [back to top] |
+| 0316 |                    Remove Duplicate Letters                    | [Java][java-0316] |               |               | [back to top] |
+| 0322 |                          Coin Change                           | [Java][java-0322] |               |               | [back to top] |
+| 0324 |                         Wiggle Sort II                         | [Java][java-0324] |               |               | [bakc to top] |
+| 0327 |                       Count of Range Sum                       | [Java][java-0327] |               |               | [back to top] |
+| 0328 |                      Odd Even Linked List                      | [Java][java-0328] |               |               | [back to top] |
+| 0334 |                 Increasing Triplet Subsequence                 | [Java][java-0334] |               |               | [back to top] |
+| 0344 |                         Reverse String                         | [Java][java-0344] |               |               | [back to top] |
+| 0345 |                   Reverse Vowels of a String                   | [Java][java-0345] |               |               | [back to top] |
+| 0347 |                    Top K Frequent Elements                     | [Java][java-0347] |               |               | [back to top] |
+| 0349 |                   Intersection of Two Arrays                   | [Java][java-0349] |               |               | [back to top] |
+| 0371 |                      Sum of Two Integers                       | [Java][java-0371] |               |               | [back to top] |
+| 0378 |            Kth Smallest Element in a Sorted Matrix             | [Java][java-0378] |               |               | [back to top] |
+| 0380 |                  Insert Delete GetRandom O(1)                  | [Java][java-0380] |               |               | [back to top] |
+| 0387 |               First Unique Character in a String               | [Java][java-0387] |               | [js][js-0387] | [back to top] |
+| 0392 |                         Is Subsequence                         | [Java][java-0392] |               |               | [back to top] |
+| 0395 |     Longest Substring with At Least K Repeating Characters     | [Java][java-0395] |               |               | [back to top] |
+| 0402 |                        Remove K Digits                         | [Java][java-0402] |               |               | [back to top] |
+| 0409 |                       Longest Palindrome                       | [Java][java-0409] |               |               | [back to top] |
+| 0412 |                           Fizz Buzz                            | [Java][java-0412] |               |               | [back to top] |
+| 0415 |                          Add Strings                           | [Java][java-0415] |               |               | [back to top] |
+| 0423 |            Reconstruct Original Digits from English            | [Java][java-0423] |               |               | [back to top] |
+| 0424 |            Longest Repeating Character Replacement             | [Java][java-0424] |               |               | [back to top] |
+| 0429 |                N-ary Tree Level Order Traversal                | [Java][java-0429] |               |               | [back to top] |
+| 0442 |                Find All Duplicates in an Array                 | [Java][java-0442] |               |               | [back to top] |
+| 0443 |                       String Compression                       | [Java][java-0443] |               | [js][js-0443] | [back to top] |
+| 0445 |                       Add Two Numbers II                       | [Java][java-0445] |               |               | [back to top] |
+| 0451 |                  Sort Characters By Frequency                  | [Java][java-0451] |               |               | [back to top] |
+| 0454 |                            4Sum II                             | [Java][java-0454] |               |               | [back to top] |
+| 0493 |                         Reverse Pairs                          | [Java][java-0493] |               |               | [back to top] |
+| 0507 |                         Perfect Number                         | [Java][java-0507] |               |               | [back to top] |
+| 0509 |                        Fibonacci Number                        | [Java][java-0509] |               |               | [back to top] |
+| 0525 |                        Contiguous Array                        | [Java][java-0525] |               |               | [back to top] |
+| 0559 |                  Maximum Depth of N-ary Tree                   | [Java][java-0559] |               |               | [back to top] |
+| 0589 |                 N-ary Tree Preorder Traversal                  | [Java][java-0589] |               |               | [back to top] |
+| 0590 |                 N-ary Tree Postorder Traversal                 | [Java][java-0590] |               |               | [back to top] |
+| 0598 |                       Range Addition II                        | [Java][java-0598] |               |               | [back to top] |
+| 0623 |                      Add One Row to Tree                       | [Java][java-0623] |               |               | [back to top] |
+| 0641 |                     Design Circular Deque                      | [Java][java-0641] | [py][py-0641] |               | [back to top] |
+| 0652 |                    Find Duplicate Subtrees                     | [Java][java-0652] |               |               | [back to top] |
+| 0653 |                  Two Sum IV - Input is a BST                   | [Java][java-0653] |               |               | [back to top] |
+| 0654 |                      Maximum Binary Tree                       | [Java][java-0654] |               |               | [back to top] |
+| 0655 |                       Print Binary Tree                        | [Java][java-0655] |               |               | [back to top] |
+| 0658 |                    Find K Closest Elements                     | [Java][java-0658] |               |               | [back to top] |
+| 0659 |           Split Array into Consecutive Subsequences            | [Java][java-0659] |               |               | [back to top] |
+| 0662 |                  Maximum Width of Binary Tree                  | [Java][java-0662] |               |               | [back to top] |
+| 0678 |                    Valid Parenthesis String                    | [Java][java-0678] |               |               | [back to top] |
+| 0680 |                      Valid Palindrome II                       | [Java][java-0680] |               |               | [back to top] |
+| 0687 |                     Longest Univalue Path                      | [Java][java-0687] |               |               | [back to top] |
+| 0692 |                      Top K Frequent Words                      | [Java][java-0692] |               |               | [back to top] |
+| 0695 |                       Max Area of Island                       | [Java][java-0695] |               |               | [back to top] |
+| 0696 |                    Count Binary Substrings                     | [Java][java-0696] |               |               | [back to top] |
+| 0703 |                Kth Largest Element in a Stream                 | [Java][java-0703] |               |               | [back to top] |
+| 0704 |                         Binary Search                          | [Java][java-0704] |               |               | [back to top] |
+| 0718 |              Maximum Length of Repeated Subarray               | [Java][java-0718] |               |               | [back to top] |
+| 0729 |                         My Calendar I                          | [Java][java-0729] |               |               | [back to top] |
+| 0731 |                         My Calendar II                         | [Java][java-0731] |               |               | [back to top] |
+| 0732 |                        My Calendar III                         | [Java][java-0732] |               |               | [back to top] |
+| 0739 |                       Daily Temperatures                       | [Java][java-0739] |               |               | [back to top] |
+| 0769 |                   Max Chunks To Make Sorted                    | [Java][java-0769] |               |               | [back to top] |
+| 0775 |                  Global and Local Inversions                   | [Java][java-0775] |               |               | [back to top] |
+| 0777 |                   Swap Adjacent in LR String                   | [Java][java-0777] |               |               | [back to top] |
+| 0788 |                         Rotated Digits                         | [Java][java-0788] |               |               | [back to top] |
+| 0792 |                Number of Matching Subsequences                 | [Java][java-0792] |               |               | [back to top] |
+| 0795 |            Number of Subarrays with Bounded Maximum            | [Java][java-0795] |               |               | [back to top] |
+| 0799 |                        Champagne Tower                         | [Java][java-0799] |               |               | [back to top] |
+| 0801 |           Minimum Swaps To Make Sequences Increasing           | [Java][java-0801] |               |               | [back to top] |
+| 0804 |                    Unique Morse Code Words                     | [Java][java-0804] | [py][py-0804] | [js][js-0804] | [back to top] |
+| 0809 |                        Expressive Words                        | [Java][java-0809] |               |               | [back to top] |
+| 0811 |                     Subdomain Visit Count                      | [Java][java-0811] |               |               | [back to top] |
+| 0813 |                    Largest Sum of Averages                     | [Java][java-0813] |               |               | [back to top] |
+| 0817 |                     Linked List Components                     | [Java][java-0817] |               |               | [back to top] |
+| 0822 |                       Card Flipping Game                       | [Java][java-0822] |               |               | [back to top] |
+| 0842 |              Split Array into Fibonacci Sequence               | [Java][java-0842] |               |               | [back to top] |
+| 0856 |                      Score of Parentheses                      | [Java][java-0856] |               |               | [back to top] |
+| 0869 |                      Reordered Power of 2                      | [Java][java-0869] |               |               | [back to top] |
+| 0870 |                       Advantage Shuffle                        | [Java][java-0870] |               |               | [back to top] |
+| 0871 |               Minimum Number of Refueling Stops                | [Java][java-0871] |               |               | [back to top] |
+| 0872 |                       Leaf-Similar Trees                       | [Java][java-0872] |               |               | [back to top] |
+| 0873 |            Length of Longest Fibonacci Subsequence             | [Java][java-0873] |               |               | [back to top] |
+| 0876 |                   Middle of the Linked List                    | [Java][java-0876] |               | [js][js-0876] | [back to top] |
+| 0904 |                       Fruit Into Baskets                       | [Java][java-0904] |               |               | [back to top] |
+| 0905 |                      Sort Array By Parity                      | [Java][java-0905] |               |               | [back to top] |
+| 0907 |                    Sum of Subarray Minimums                    | [Java][java-0907] |               |               | [back to top] |
+| 0912 |                         Sort an Array                          | [Java][java-0912] |               |               | [back to top] |
+| 0915 |            Partition Array into Disjoint Intervals             | [Java][java-0915] |               |               | [back to top] |
+| 0921 |             Minimum Add to Make Parentheses Valid              | [Java][java-0921] |               |               | [back to top] |
+| 0929 |                     Unique Email Addresses                     | [Java][java-0929] |               |               | [back to top] |
+| 0938 |                        Range Sum of BST                        | [Java][java-0938] |               |               | [back to top] |
+| 0939 |                     Minimum Area Rectangle                     | [Java][java-0939] |               |               | [back to top] |
+| 0973 |                   K Closest Points to Origin                   | [Java][java-0973] |               |               | [back to top] |
+| 0976 |                   Largest Perimeter Triangle                   | [Java][java-0976] |               |               | [back to top] |
+| 0989 |                  Add to Array-Form of Integer                  | [Java][java-0989] |               |               | [back to top] |
+| 0998 |                     Maximum Binary Tree II                     | [Java][java-0998] |               |               | [back to top] |
+| 1026 |          Maximum Difference Between Node and Ancestor          | [Java][java-1026] |               |               | [back to top] |
+| 1029 |                      Two City Scheduling                       | [Java][java-1029] |               |               | [back to top] |
+| 1122 |                      Relative Sort Array                       | [Java][java-1122] |               |               | [back to top] |
+| 1143 |                   Longest Common Subsequence                   | [Java][java-1143] |               |               | [back to top] |
+| 1144 |             Decrease Elements To Make Array Zigzag             | [Java][java-1144] |               |               | [back to top] |
+| 1156 |         Swap For Longest Repeated Character Substring          | [Java][java-1156] |               |               | [back to top] |
+| 1207 |                  Unique Number of Occurrences                  | [Java][java-1207] |               |               | [back to top] |
+| 1224 |                    Maximum Equal Frequency                     | [Java][java-1224] |               |               | [back to top] |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters | [Java][java-1239] |               |               | [back to top] |
+| 1302 |                       Deepest Leaves Sum                       | [Java][java-1302] | [py][py-1302] |               | [back to top] |
+| 1304 |             Find N Unique Integers Sum up to Zero              | [Java][java-1304] |               |               | [back to top] |
+| 1328 |                       Break a Palindrome                       | [Java][java-1328] |               |               | [back to top] |
+| 1389 |             Create Target Array in the Given Order             | [Java][java-1389] |               |               | [back to top] |
+| 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [Java][java-1414] |               |               | [back to top] |
+| 1422 |             Maximum Score After Splitting a String             | [Java][java-1422] | [py][py-1422] | [js][js-1422] | [back to top] |
+| 1448 |                Count Good Nodes in Binary Tree                 | [Java][java-1448] |               |               | [back to top] |
+| 1450 |       Number of Students Doing Homework at a Given Time        | [Java][java-1450] |               |               | [back to top] |
+| 1455 |  Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [Java][java-1455] |               |               | [back to top] |
+| 1460 |         Make Two Arrays Equal by Reversing Sub-arrays          | [Java][java-1460] |               |               | [back to top] |
+| 1464 |          Maximum Product of Two Elements in an Array           | [Java][java-1464] |               |               | [back to top] |
+| 1470 |                       Shuffle the Array                        | [Java][java-1470] | [py][py-1470] |               | [back to top] |
+| 1512 |                      Number of Good Pairs                      | [Java][java-1512] |               |               | [back to top] |
+| 1523 |             Count Odd Numbers in an Interval Range             | [Java][java-1523] |               |               | [back to top] |
+| 1578 |               Minimum Time to Make Rope Colorful               | [Java][java-1578] |               |               | [back to top] |
+| 1656 |                    Design an Ordered Stream                    | [Java][java-1656] | [py][py-1656] |               | [back to top] |
+| 1657 |               Determine if Two Strings Are Close               | [Java][java-1657] |               |               | [back to top] |
+| 1662 |           Check If Two String Arrays are Equivalent            | [Java][java-1662] |               |               | [back to top] |
+| 1694 |                     Reformat Phone Number                      | [Java][java-1694] |               |               | [back to top] |
+| 1704 |              Determine if String Halves Are Alike              | [Java][java-1704] |               |               | [back to top] |
+| 1710 |                    Maximum Units on a Truck                    | [Java][java-1710] |               |               | [back to top] |
+| 1732 |                   Find the Highest Altitude                    | [Java][java-1732] |               |               | [back to top] |
+| 1742 |                Maximum Number of Balls in a Box                | [Java][java-1742] |               |               | [back to top] |
+| 1754 |                  Largest Merge Of Two Strings                  | [Java][java-1754] |               | [js][js-1754] | [back to top] |
+| 1758 |       Minimum Changes To Make Alternating Binary String        | [Java][java-1758] |               |               | [back to top] |
+| 1764 |     Form Array by Concatenating Subarrays of Another Array     | [Java][java-1764] |               |               | [back to top] |
+| 1768 |                   Merge Strings Alternately                    | [Java][java-1768] |               |               | [back to top] |
+| 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [Java][java-1769] |               |               | [back to top] |
+| 1774 |                      Closest Dessert Cost                      | [Java][java-1774] |               |               | [back to top] |
+| 1775 |       Equal Sum Arrays With Minimum Number of Operations       | [Java][java-1775] |               |               | [back to top] |
+| 1779 |     Find Nearest Point That Has the Same X or Y Coordinate     | [Java][java-1779] |               |               | [back to top] |
+| 1780 |          Check if Number is a Sum of Powers of Three           | [Java][java-1780] |               |               | [back to top] |
+| 1781 |                Sum of Beauty of All Substrings                 | [Java][java-1781] |               |               | [back to top] |
+| 1784 |     Check if Binary String Has at Most One Segment of Ones     | [Java][java-1784] |               |               | [back to top] |
+| 1785 |          Minimum Elements to Add to Form a Given Sum           | [Java][java-1785] |               |               | [back to top] |
+| 1790 |        Check if One String Swap Can Make Strings Equal         | [Java][java-1790] |               |               | [back to top] |
+| 1796 |                Second Largest Digit in a String                | [Java][java-1796] |               |               | [back to top] |
+| 1800 |                 Maximum Ascending Subarray Sum                 | [Java][java-1800] |               |               | [back to top] |
+| 1812 |             Determine Color of a Chessboard Square             | [Java][java-1812] |               |               | [back to top] |
+| 1814 |                  Count Nice Pairs in an Array                  | [Java][java-1814] |               |               | [back to top] |
+| 1818 |                Minimum Absolute Sum Difference                 | [Java][java-1818] |               |               | [back to top] |
+| 1832 |                Check if the Sentence Is Pangram                | [Java][java-1832] |               |               | [back to top] |
+| 1865 |                Finding Pairs With a Certain Sum                | [Java][java-1865] |               |               | [back to top] |
+| 1876 |       Substrings of Size Three with Distinct Characters        | [Java][java-1876] |               |               | [back to top] |
+| 1877 |               Minimize Maximum Pair Sum in Array               | [Java][java-1877] |               |               | [back to top] |
+| 1905 |                       Count Sub Islands                        | [Java][java-1905] |               |               | [back to top] |
+| 1909 |    Remove One Element to Make the Array Strictly Increasing    | [Java][java-1909] |               |               | [back to top] |
+| 1926 |               Nearest Exit from Entrance in Maze               | [Java][java-1926] |               |               | [back to top] |
+| 1945 |             Sum of Digits of String After Convert              | [Java][java-1945] |               |               | [back to top] |
+| 1985 |           Find the Kth Largest Integer in the Array            | [Java][java-1985] |               |               | [back to top] |
+| 2095 |            Delete the Middle Node of a Linked List             | [Java][java-2095] |               |               | [back to top] |
+| 2108 |           Find First Palindromic String in the Array           | [Java][java-2108] |               |               | [back to top] |
+| 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [Java][java-2131] |               |               | [back to top] |
+| 2216 |           Minimum Deletions to Make Array Beautiful            | [Java][java-2216] |               |               | [back to top] |
+| 2225 |              Find Players With Zero or One Losses              | [Java][java-2225] |               |               | [back to top] |
+| 2256 |                   Minimum Average Difference                   | [Java][java-2256] |               |               | [back to top] |
+| 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [Java][java-2342] |               |               | [back to top] |
+| 2363 |                      Merge Similar Items                       | [Java][java-2363] |               |               | [back to top] |
+| 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [Java][java-2379] |               |               | [back to top] |
 
 # TODO
 
@@ -650,6 +651,8 @@ Recording personal solutions for Leetcode problems.
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
+[java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
+[js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1764]: ./java-solutions/1764-form-array-by-concatenating-subarrays-of-another-array/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
