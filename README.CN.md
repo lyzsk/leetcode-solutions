@@ -34,10 +34,10 @@
 | 0002 |                            两数相加                            | [.java][java-0002] |                |                | [back to top] |
 | 0003 |                      无重复字符的最长子串                      | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [back to top] |
 | 0004 |                  Median of Two Sorted Arrays                   | [.java][java-0004] |                |                | [back to top] |
-| 0005 |                 Longest Palindromic Substring                  | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] | [back to top] |
-| 0007 |                        Reverse Integer                         | [.java][java-0007] | [.py][py-0007] |                | [back to top] |
-| 0008 |                    String to Integer (atoi)                    | [.java][java-0008] |                |                | [back to top] |
-| 0009 |                       Palindrome Number                        | [.java][java-0009] |                |                | [back to top] |
+| 0005 |                          最长回文子串                          | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] | [back to top] |
+| 0007 |                            整数反转                            | [.java][java-0007] | [.py][py-0007] |                | [back to top] |
+| 0008 |                     字符串转换整数 (atoi)                      | [.java][java-0008] |                |                | [back to top] |
+| 0009 |                             回文数                             | [.java][java-0009] |                |                | [back to top] |
 | 0011 |                   Container With Most Water                    | [.java][java-0011] |                |                | [back to top] |
 | 0012 |                        Integer to Roman                        | [.java][java-0012] |                |                | [back to top] |
 | 0013 |                        Roman to Integer                        | [.java][java-0013] |                | [.js][js-0013] | [back to top] |
@@ -342,6 +342,7 @@
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                | [back to top] |
+| 2389 |                       和有限的最长子序列                       | [.java][java-2389] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -696,5 +697,6 @@
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
+[java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
