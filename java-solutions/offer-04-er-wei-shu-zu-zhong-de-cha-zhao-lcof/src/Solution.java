@@ -1,9 +1,9 @@
 /**
  * @author sichu
- * @date 2022/11/12
+ * @date 2022/12/26
  **/
 public class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
+    public boolean findNumberIn2DArray(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }

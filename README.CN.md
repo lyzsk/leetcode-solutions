@@ -73,9 +73,9 @@
 | 0050 |                           Pow(x, n)                            | [.java][java-0050] |                |                | [back to top] |
 | 0051 |                            N-Queens                            | [.java][java-0051] |                |                | [back to top] |
 | 0052 |                          N-Queens II                           | [.java][java-0052] |                |                | [back to top] |
-| 0053 |                        Maximum Subarray                        | [.java][java-0053] |                | [.js][js-0053] | [back to top] |
-| 0054 |                         Spiral Matrix                          | [.java][java-0054] |                |                | [back to top] |
-| 0055 |                           Jump Game                            | [.java][java-0055] |                |                | [back to top] |
+| 0053 |                          最大子数组和                          | [.java][java-0053] |                | [.js][js-0053] | [back to top] |
+| 0054 |                            螺旋矩阵                            | [.java][java-0054] |                |                | [back to top] |
+| 0055 |                            跳跃游戏                            | [.java][java-0055] |                |                | [back to top] |
 | 0056 |                        Merge Intervals                         | [.java][java-0056] |                |                | [back to top] |
 | 0057 |                        Insert Interval                         | [.java][java-0057] |                |                | [back to top] |
 | 0058 |                      Length of Last Word                       | [.java][java-0058] |                |                | [back to top] |
@@ -168,7 +168,7 @@
 | 0236 |            Lowest Common Ancestor of a Binary Tree             | [.java][java-0236] |                |                | [back to top] |
 | 0237 |                  Delete Node in a Linked List                  | [.java][java-0237] |                |                | [back to top] |
 | 0239 |                     Sliding Window Maximum                     | [.java][java-0239] |                |                | [back to top] |
-| 0240 |                     Search a 2D Matrix II                      | [.java][java-0240] |                |                | [back to top] |
+| 0240 |                        搜索二维矩阵 II                         | [.java][java-0240] |                | [.js][js-0240] | [back to top] |
 | 0242 |                         Valid Anagram                          | [.java][java-0242] |                |                | [back to top] |
 | 0263 |                          Ugly Number                           | [.java][java-0263] |                |                | [back to top] |
 | 0268 |                         Missing Number                         | [.java][java-0268] |                |                | [back to top] |
@@ -334,7 +334,8 @@
 | 1926 |               Nearest Exit from Entrance in Maze               | [.java][java-1926] |                |                | [back to top] |
 | 1945 |             Sum of Digits of String After Convert              | [.java][java-1945] |                |                | [back to top] |
 | 1985 |           Find the Kth Largest Integer in the Array            | [.java][java-1985] |                |                | [back to top] |
-| 2095 |            Delete the Middle Node of a Linked List             | [.java][java-2095] |                |                | [back to top] |
+| 2027 |                    转换字符串的最少操作次数                    | [.java][java-2027] |                | [.js][js-2027] | [back to top] |
+| 2095 |                       删除链表的中间节点                       | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
@@ -350,6 +351,7 @@
 |       #       |      Title       |          Java          | Python3 |     JavaScript     |                                 |
 | :-----------: | :--------------: | :--------------------: | :-----: | :----------------: | :-----------------------------: |
 | 剑指 Offer 03 | 数组中重复的数字 | [.java][java-offer-03] |         | [.js][js-offer-03] | [back to top](#offer-solutions) |
+| 剑指 Offer 04 | 二维数组中的查找 | [.java][java-offer-04] |         | [.js][js-offer-04] | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -512,6 +514,7 @@
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
 [java-0239]: ./java-solutions/0239-sliding-window-maximum/src/Solution.java
 [java-0240]: ./java-solutions/0240-search-a-2d-matrix-ii/src/Solution.java
+[js-0240]: ./javascript-solutions/0240-search-a-2d-matrix-ii/solution.js
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
@@ -690,6 +693,8 @@
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
+[js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
@@ -702,3 +707,4 @@
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
+[js-offer-04]: ./javascript-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution.js
