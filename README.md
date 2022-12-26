@@ -308,6 +308,7 @@ Recording personal solutions for Leetcode problems.
 | 1742 |                Maximum Number of Balls in a Box                | [.java][java-1742] |                |                | [back to top] |
 | 1754 |                  Largest Merge Of Two Strings                  | [.java][java-1754] |                | [.js][js-1754] | [back to top] |
 | 1758 |       Minimum Changes To Make Alternating Binary String        | [.java][java-1758] |                |                | [back to top] |
+| 1759 |             Count Number of Homogenous Substrings              | [.java][java-1759] |                |                | [back to top] |
 | 1764 |     Form Array by Concatenating Subarrays of Another Array     | [.java][java-1764] |                |                | [back to top] |
 | 1768 |                   Merge Strings Alternately                    | [.java][java-1768] |                |                | [back to top] |
 | 1769 |   Minimum Number of Operations to Move All Balls to Each Box   | [.java][java-1769] |                |                | [back to top] |
@@ -657,6 +658,7 @@ Recording personal solutions for Leetcode problems.
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
+[java-1759]: ./java-solutions/1759-count-number-of-homogenous-substrings/src/Solution.java
 [java-1764]: ./java-solutions/1764-form-array-by-concatenating-subarrays-of-another-array/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [java-1769]: ./java-solutions/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/src/Solution.java
