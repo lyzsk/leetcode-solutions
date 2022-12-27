@@ -39,7 +39,7 @@ Recording personal solutions for Leetcode problems.
 | 0008 |                    String to Integer (atoi)                    | [.java][java-0008] |                |                | [back to top] |
 | 0009 |                       Palindrome Number                        | [.java][java-0009] |                |                | [back to top] |
 | 0011 |                   Container With Most Water                    | [.java][java-0011] |                |                | [back to top] |
-| 0012 |                        Integer to Roman                        | [.java][java-0012] |                |                | [back to top] |
+| 0012 |                        Integer to Roman                        | [.java][java-0012] |                | [.js][js-0012] | [back to top] |
 | 0013 |                        Roman to Integer                        | [.java][java-0013] |                | [.js][js-0013] | [back to top] |
 | 0014 |                     Longest Common Prefix                      | [.java][java-0014] |                |                | [back to top] |
 | 0015 |                              3Sum                              | [.java][java-0015] |                |                | [back to top] |
@@ -370,6 +370,7 @@ Recording personal solutions for Leetcode problems.
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
 [java-0011]: ./java-solutions/0011-container-with-most-water/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
+[js-0012]: ./javascript-solutions/0012-integer-to-roman/solution.js
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [js-0013]: ./javascript-solutions/0013-roman-to-integer/solution.js
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
