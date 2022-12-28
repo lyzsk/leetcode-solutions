@@ -7,10 +7,10 @@ import java.util.Arrays;
 public class Solution {
     public String kthLargestNumber(String[] nums, int k) {
         Arrays.sort(nums, (o1, o2) -> {
-            int o1Len = o1.length();
-            int o2Len = o2.length();
-            if (o1Len != o2Len) {
-                return o2Len - o1Len;
+            int len1 = o1.length();
+            int len2 = o2.length();
+            if (len1 != len2) {
+                return len2 - len1;
             }
             return o2.compareTo(o1);
         });

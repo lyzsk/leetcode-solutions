@@ -41,7 +41,7 @@ Recording personal solutions for Leetcode problems.
 | 0011 |                   Container With Most Water                    | [.java][java-0011] |                |                | [back to top] |
 | 0012 |                        Integer to Roman                        | [.java][java-0012] |                | [.js][js-0012] | [back to top] |
 | 0013 |                        Roman to Integer                        | [.java][java-0013] |                | [.js][js-0013] | [back to top] |
-| 0014 |                     Longest Common Prefix                      | [.java][java-0014] |                |                | [back to top] |
+| 0014 |                     Longest Common Prefix                      | [.java][java-0014] |                | [.js][js-0014] | [back to top] |
 | 0015 |                              3Sum                              | [.java][java-0015] |                |                | [back to top] |
 | 0016 |                          3Sum Closest                          | [.java][java-0016] |                |                | [back to top] |
 | 0017 |             Letter Combinations of a Phone Number              | [.java][java-0017] |                |                | [back to top] |
@@ -333,8 +333,10 @@ Recording personal solutions for Leetcode problems.
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [.java][java-1909] |                |                | [back to top] |
 | 1926 |               Nearest Exit from Entrance in Maze               | [.java][java-1926] |                |                | [back to top] |
 | 1945 |             Sum of Digits of String After Convert              | [.java][java-1945] |                |                | [back to top] |
-| 1985 |           Find the Kth Largest Integer in the Array            | [.java][java-1985] |                |                | [back to top] |
+| 1962 |              Remove Stones to Minimize the Total               | [.java][java-1962] |                |                | [back to top] |
+| 1985 |           Find the Kth Largest Integer in the Array            | [.java][java-1985] |                | [.js][js-1985] | [back to top] |
 | 2027 |                Minimum Moves to Convert String                 | [.java][java-2027] |                | [.js][js-2027] | [back to top] |
+| 2032 |                        Two Out of Three                        | [.java][java-2032] |                | [.js][js-2032] | [back to top] |
 | 2095 |            Delete the Middle Node of a Linked List             | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
@@ -374,6 +376,7 @@ Recording personal solutions for Leetcode problems.
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [js-0013]: ./javascript-solutions/0013-roman-to-integer/solution.js
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
+[js-0014]: ./javascript-solutions/0014-longest-common-prefix/solution.js
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
 [java-0017]: ./java-solutions/0017-letter-combinations-of-a-phone-number/src/Solution.java
@@ -686,9 +689,13 @@ Recording personal solutions for Leetcode problems.
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
+[java-1962]: ./java-solutions/1962-remove-stones-to-minimize-the-total/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
+[js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
+[java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
+[js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
