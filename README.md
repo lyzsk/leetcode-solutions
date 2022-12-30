@@ -254,7 +254,8 @@ Recording personal solutions for Leetcode problems.
 | 0817 |                     Linked List Components                     | [.java][java-0817] |                |                | [back to top] |
 | 0822 |                       Card Flipping Game                       | [.java][java-0822] |                |                | [back to top] |
 | 0842 |              Split Array into Fibonacci Sequence               | [.java][java-0842] |                |                | [back to top] |
-| 0856 |                      Score of Parentheses                      | [.java][java-0856] |                |                | [back to top] |
+| 0855 |                           Exam Room                            | [.java][java-0855] |                |                | [back to top] |
+| 0856 |                      Score of Parentheses                      | [.java][java-0856] |                | [.js][js-0856] | [back to top] |
 | 0869 |                      Reordered Power of 2                      | [.java][java-0869] |                |                | [back to top] |
 | 0870 |                       Advantage Shuffle                        | [.java][java-0870] |                |                | [back to top] |
 | 0871 |               Minimum Number of Refueling Stops                | [.java][java-0871] |                |                | [back to top] |
@@ -603,7 +604,9 @@ Recording personal solutions for Leetcode problems.
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
+[java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
+[js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java

@@ -254,7 +254,8 @@
 | 0817 |                     Linked List Components                     | [.java][java-0817] |                |                | [back to top] |
 | 0822 |                       Card Flipping Game                       | [.java][java-0822] |                |                | [back to top] |
 | 0842 |              Split Array into Fibonacci Sequence               | [.java][java-0842] |                |                | [back to top] |
-| 0856 |                      Score of Parentheses                      | [.java][java-0856] |                |                | [back to top] |
+| 0855 |                            考场就座                            | [.java][java-0855] |                |                | [back to top] |
+| 0856 |                           括号的分数                           | [.java][java-0856] |                | [.js][js-0856] | [back to top] |
 | 0869 |                      Reordered Power of 2                      | [.java][java-0869] |                |                | [back to top] |
 | 0870 |                       Advantage Shuffle                        | [.java][java-0870] |                |                | [back to top] |
 | 0871 |               Minimum Number of Refueling Stops                | [.java][java-0871] |                |                | [back to top] |
@@ -355,6 +356,8 @@
 | 剑指 Offer 03 | 数组中重复的数字 | [.java][java-offer-03] |         | [.js][js-offer-03] | [back to top](#offer-solutions) |
 | 剑指 Offer 04 | 二维数组中的查找 | [.java][java-offer-04] |         | [.js][js-offer-04] | [back to top](#offer-solutions) |
 | 剑指 Offer 05 |     替换空格     | [.java][java-offer-05] |         | [.js][js-offer-05] | [back to top](#offer-solutions) |
+| 剑指 Offer 06 | 从尾到头打印链表 | [.java][java-offer-06] |         |                    | [back to top](#offer-solutions) |
+| 剑指 Offer 07 |    重建二叉树    | [.java][java-offer-07] |         |                    | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -611,7 +614,9 @@
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
+[java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
+[js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
@@ -720,3 +725,5 @@
 [js-offer-04]: ./javascript-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution.js
 [java-offer-05]: ./java-solutions/offer-05-ti-huan-kong-ge-lcof/src/Solution.java
 [js-offer-05]: ./javascript-solutions/offer-05-ti-huan-kong-ge-lcof/solution.js
+[java-offer-06]: ./java-solutions/offer-06-cong-wei-dao-tou-da-yin-lian-biao-lcof/src/Solution.java
+[java-offer-07]: ./java-solutions/offer-07-zhong-jian-er-cha-shu-lcof/src/Solution.java
