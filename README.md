@@ -338,6 +338,7 @@ Recording personal solutions for Leetcode problems.
 | 1985 |           Find the Kth Largest Integer in the Array            | [.java][java-1985] |                | [.js][js-1985] | [back to top] |
 | 2027 |                Minimum Moves to Convert String                 | [.java][java-2027] |                | [.js][js-2027] | [back to top] |
 | 2032 |                        Two Out of Three                        | [.java][java-2032] |                | [.js][js-2032] | [back to top] |
+| 2037 |            Minimum Number of Moves to Seat Everyone            | [.java][java-2037] |                | [.js][js-2037] | [back to top] |
 | 2095 |            Delete the Middle Node of a Linked List             | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
@@ -699,6 +700,8 @@ Recording personal solutions for Leetcode problems.
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
 [js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
+[java-2037]: ./java-solutions/2037-minimum-number-of-moves-to-seat-everyone/src/Solution.java
+[js-2037]: ./javascript-solutions/2037-minimum-number-of-moves-to-seat-everyone/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java

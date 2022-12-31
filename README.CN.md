@@ -332,12 +332,13 @@
 | 1877 |               Minimize Maximum Pair Sum in Array               | [.java][java-1877] |                |                | [back to top] |
 | 1905 |                       Count Sub Islands                        | [.java][java-1905] |                |                | [back to top] |
 | 1909 |    Remove One Element to Make the Array Strictly Increasing    | [.java][java-1909] |                |                | [back to top] |
-| 1926 |               Nearest Exit from Entrance in Maze               | [.java][java-1926] |                |                | [back to top] |
+| 1926 |                     迷宫中离入口最近的出口                     | [.java][java-1926] |                |                | [back to top] |
 | 1945 |                   字符串转化后的各位数字之和                   | [.java][java-1945] |                |                | [back to top] |
 | 1962 |                       移除石子使总数最小                       | [.java][java-1962] |                |                | [back to top] |
 | 1985 |                    找出数组中的第 K 大整数                     | [.java][java-1985] |                | [.js][js-1985] | [back to top] |
 | 2027 |                    转换字符串的最少操作次数                    | [.java][java-2027] |                | [.js][js-2027] | [back to top] |
 | 2032 |                    至少在两个数组中出现的值                    | [.java][java-2032] |                | [.js][js-2032] | [back to top] |
+| 2037 |                使每位学生都有座位的最少移动次数                | [.java][java-2037] |                | [.js][js-2037] | [back to top] |
 | 2095 |                       删除链表的中间节点                       | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
@@ -358,6 +359,7 @@
 | 剑指 Offer 05 |     替换空格     | [.java][java-offer-05] |         | [.js][js-offer-05] | [back to top](#offer-solutions) |
 | 剑指 Offer 06 | 从尾到头打印链表 | [.java][java-offer-06] |         |                    | [back to top](#offer-solutions) |
 | 剑指 Offer 07 |    重建二叉树    | [.java][java-offer-07] |         |                    | [back to top](#offer-solutions) |
+| 剑指 Offer 09 | 用两个栈实现队列 | [.java][java-offer-09] |         | [.js][js-offer-09] | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -707,6 +709,8 @@
 [js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
 [js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
+[java-2037]: ./java-solutions/2037-minimum-number-of-moves-to-seat-everyone/src/Solution.java
+[js-2037]: ./javascript-solutions/2037-minimum-number-of-moves-to-seat-everyone/solution.js
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
@@ -727,3 +731,5 @@
 [js-offer-05]: ./javascript-solutions/offer-05-ti-huan-kong-ge-lcof/solution.js
 [java-offer-06]: ./java-solutions/offer-06-cong-wei-dao-tou-da-yin-lian-biao-lcof/src/Solution.java
 [java-offer-07]: ./java-solutions/offer-07-zhong-jian-er-cha-shu-lcof/src/Solution.java
+[java-offer-09]: ./java-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/src/CQueue.java
+[js-offer-09]: ./javascript-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution.js
