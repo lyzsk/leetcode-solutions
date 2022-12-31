@@ -346,20 +346,22 @@
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
-| 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
+| 2351 |                      第一个出现两次的字母                      | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
+| 2363 |                         合并相似的物品                         | [.java][java-2363] |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                | [back to top] |
 | 2389 |                       和有限的最长子序列                       | [.java][java-2389] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
-|       #       |      Title       |          Java          | Python3 |     JavaScript     |                                 |
-| :-----------: | :--------------: | :--------------------: | :-----: | :----------------: | :-----------------------------: |
-| 剑指 Offer 03 | 数组中重复的数字 | [.java][java-offer-03] |         | [.js][js-offer-03] | [back to top](#offer-solutions) |
-| 剑指 Offer 04 | 二维数组中的查找 | [.java][java-offer-04] |         | [.js][js-offer-04] | [back to top](#offer-solutions) |
-| 剑指 Offer 05 |     替换空格     | [.java][java-offer-05] |         | [.js][js-offer-05] | [back to top](#offer-solutions) |
-| 剑指 Offer 06 | 从尾到头打印链表 | [.java][java-offer-06] |         |                    | [back to top](#offer-solutions) |
-| 剑指 Offer 07 |    重建二叉树    | [.java][java-offer-07] |         |                    | [back to top](#offer-solutions) |
-| 剑指 Offer 09 | 用两个栈实现队列 | [.java][java-offer-09] |         | [.js][js-offer-09] | [back to top](#offer-solutions) |
+|        #         |      Title       |           Java           | Python3 |      JavaScript      |                                 |
+| :--------------: | :--------------: | :----------------------: | :-----: | :------------------: | :-----------------------------: |
+|  剑指 Offer 03   | 数组中重复的数字 |  [.java][java-offer-03]  |         |  [.js][js-offer-03]  | [back to top](#offer-solutions) |
+|  剑指 Offer 04   | 二维数组中的查找 |  [.java][java-offer-04]  |         |  [.js][js-offer-04]  | [back to top](#offer-solutions) |
+|  剑指 Offer 05   |     替换空格     |  [.java][java-offer-05]  |         |  [.js][js-offer-05]  | [back to top](#offer-solutions) |
+|  剑指 Offer 06   | 从尾到头打印链表 |  [.java][java-offer-06]  |         |                      | [back to top](#offer-solutions) |
+|  剑指 Offer 07   |    重建二叉树    |  [.java][java-offer-07]  |         |                      | [back to top](#offer-solutions) |
+|  剑指 Offer 09   | 用两个栈实现队列 |  [.java][java-offer-09]  |         |  [.js][js-offer-09]  | [back to top](#offer-solutions) |
+| 剑指 Offer 10- I |   斐波那契数列   | [.java][java-offer-10-i] |         | [.js][js-offer-10-i] | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -721,6 +723,8 @@
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
+[java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
+[js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
@@ -733,3 +737,5 @@
 [java-offer-07]: ./java-solutions/offer-07-zhong-jian-er-cha-shu-lcof/src/Solution.java
 [java-offer-09]: ./java-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/src/CQueue.java
 [js-offer-09]: ./javascript-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution.js
+[java-offer-10-i]: ./java-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/src/Solution.java
+[js-offer-10-i]: ./javascript-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/solution.js

@@ -346,6 +346,7 @@ Recording personal solutions for Leetcode problems.
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
+| 2351 |                  First Letter to Appear Twice                  | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                | [back to top] |
 | 2389 |              Longest Subsequence With Limited Sum              | [.java][java-2389] |                |                | [back to top] |
@@ -709,6 +710,8 @@ Recording personal solutions for Leetcode problems.
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
+[java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
+[js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
