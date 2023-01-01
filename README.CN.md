@@ -171,10 +171,10 @@
 | 0240 |                        搜索二维矩阵 II                         | [.java][java-0240] |                | [.js][js-0240] | [back to top] |
 | 0242 |                         Valid Anagram                          | [.java][java-0242] |                |                | [back to top] |
 | 0263 |                          Ugly Number                           | [.java][java-0263] |                |                | [back to top] |
-| 0268 |                         Missing Number                         | [.java][java-0268] |                |                | [back to top] |
-| 0279 |                        Perfect Squares                         | [.java][java-0279] |                |                | [back to top] |
-| 0283 |                          Move Zeroes                           | [.java][java-0283] |                |                | [back to top] |
-| 0290 |                          Word Pattern                          | [.java][java-0290] |                |                | [back to top] |
+| 0268 |                           丢失的数字                           | [.java][java-0268] |                | [.js][js-0268] | [back to top] |
+| 0279 |                           完全平方数                           | [.java][java-0279] |                |                | [back to top] |
+| 0283 |                             移动零                             | [.java][java-0283] |                | [.js][js-0283] | [back to top] |
+| 0290 |                            单词规律                            | [.java][java-0290] |                | [.js][js-0290] | [back to top] |
 | 0295 |                  Find Median from Data Stream                  | [.java][java-0295] |                |                | [back to top] |
 | 0300 |                 Longest Increasing Subsequence                 | [.java][java-0300] |                |                | [back to top] |
 | 0303 |                  Range Sum Query - Immutable                   | [.java][java-0303] |                |                | [back to top] |
@@ -531,9 +531,12 @@
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
+[js-0268]: ./javascript-solutions/0268-missing-number/solution.js
 [java-0279]: ./java-solutions/0279-perfect-squares/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
+[js-0283]: ./javascript-solutions/0283-move-zeroes/solution.js
 [java-0290]: ./java-solutions/0290-word-pattern/src/Solution.java
+[js-0290]: ./javascript-solutions/0290-word-pattern/solution.js
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
 [java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
