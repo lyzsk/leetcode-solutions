@@ -353,15 +353,18 @@
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
-|        #         |      Title       |           Java           | Python3 |      JavaScript      |                                 |
-| :--------------: | :--------------: | :----------------------: | :-----: | :------------------: | :-----------------------------: |
-|  剑指 Offer 03   | 数组中重复的数字 |  [.java][java-offer-03]  |         |  [.js][js-offer-03]  | [back to top](#offer-solutions) |
-|  剑指 Offer 04   | 二维数组中的查找 |  [.java][java-offer-04]  |         |  [.js][js-offer-04]  | [back to top](#offer-solutions) |
-|  剑指 Offer 05   |     替换空格     |  [.java][java-offer-05]  |         |  [.js][js-offer-05]  | [back to top](#offer-solutions) |
-|  剑指 Offer 06   | 从尾到头打印链表 |  [.java][java-offer-06]  |         |                      | [back to top](#offer-solutions) |
-|  剑指 Offer 07   |    重建二叉树    |  [.java][java-offer-07]  |         |                      | [back to top](#offer-solutions) |
-|  剑指 Offer 09   | 用两个栈实现队列 |  [.java][java-offer-09]  |         |  [.js][js-offer-09]  | [back to top](#offer-solutions) |
-| 剑指 Offer 10- I |   斐波那契数列   | [.java][java-offer-10-i] |         | [.js][js-offer-10-i] | [back to top](#offer-solutions) |
+|         #         |       Title        |           Java            | Python3 |      JavaScript       |                                 |
+| :---------------: | :----------------: | :-----------------------: | :-----: | :-------------------: | :-----------------------------: |
+|   剑指 Offer 03   |  数组中重复的数字  |  [.java][java-offer-03]   |         |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
+|   剑指 Offer 04   |  二维数组中的查找  |  [.java][java-offer-04]   |         |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
+|   剑指 Offer 05   |      替换空格      |  [.java][java-offer-05]   |         |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
+|   剑指 Offer 06   |  从尾到头打印链表  |  [.java][java-offer-06]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 07   |     重建二叉树     |  [.java][java-offer-07]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 09   |  用两个栈实现队列  |  [.java][java-offer-09]   |         |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
+| 剑指 Offer 10- I  |    斐波那契数列    | [.java][java-offer-10-i]  |         | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
+| 剑指 Offer 10- II |   青蛙跳台阶问题   | [.java][java-offer-10-ii] |         | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
+|   剑指 Offer 11   | 旋转数组的最小数字 |  [.java][java-offer-11]   |         |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
+|   剑指 Offer 12   |    矩阵中的路径    |  [.java][java-offer-12]   |         |                       | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -742,3 +745,8 @@
 [js-offer-09]: ./javascript-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution.js
 [java-offer-10-i]: ./java-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/src/Solution.java
 [js-offer-10-i]: ./javascript-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/solution.js
+[java-offer-10-ii]: ./java-solutions/offer-10-ii-qing-wa-tiao-tai-jie-wen-ti-lcof/src/Solution.java
+[js-offer-10-ii]: ./javascript-solutions/offer-10-ii-qing-wa-tiao-tai-jie-wen-ti-lcof/solution.js
+[java-offer-11]: ./java-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/src/Solution.java
+[js-offer-11]: ./javascript-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution.js
+[java-offer-12]: ./java-solutions/offer-12-ju-zhen-zhong-de-lu-jing-lcof/src/Solution.java
