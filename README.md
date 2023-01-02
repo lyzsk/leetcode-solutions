@@ -215,6 +215,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0493 |                         Reverse Pairs                          | [.java][java-0493] |                |                | [back to top] |
 | 0507 |                         Perfect Number                         | [.java][java-0507] |                |                | [back to top] |
 | 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                | [back to top] |
+| 0520 |                         Detect Capital                         | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] | [back to top] |
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                | [back to top] |
 | 0559 |                  Maximum Depth of N-ary Tree                   | [.java][java-0559] |                |                | [back to top] |
 | 0589 |                 N-ary Tree Preorder Traversal                  | [.java][java-0589] |                |                | [back to top] |
@@ -327,6 +328,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [.java][java-1790] |                |                | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [.java][java-1796] |                |                | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [.java][java-1800] |                |                | [back to top] |
+| 1801 |                Number of Orders in the Backlog                 | [.java][java-1801] |                |                | [back to top] |
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
@@ -343,6 +345,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2027 |                Minimum Moves to Convert String                 | [.java][java-2027] |                | [.js][js-2027] | [back to top] |
 | 2032 |                        Two Out of Three                        | [.java][java-2032] |                | [.js][js-2032] | [back to top] |
 | 2037 |            Minimum Number of Moves to Seat Everyone            | [.java][java-2037] |                | [.js][js-2037] | [back to top] |
+| 2042 |          Check if Numbers Are Ascending in a Sentence          | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] | [back to top] |
 | 2095 |            Delete the Middle Node of a Linked List             | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
@@ -698,6 +701,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
+[java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
@@ -718,6 +722,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
 [java-2037]: ./java-solutions/2037-minimum-number-of-moves-to-seat-everyone/src/Solution.java
 [js-2037]: ./javascript-solutions/2037-minimum-number-of-moves-to-seat-everyone/solution.js
+[java-2042]: ./java-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/src/Solution.java
+[py-2042]: ./python-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.py
+[js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
