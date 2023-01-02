@@ -135,8 +135,10 @@
 | 0146 |                           LRU Cache                            | [.java][java-0146] | [.py][py-0146] |                | [back to top] |
 | 0147 |                      Insertion Sort List                       | [.java][java-0147] |                |                | [back to top] |
 | 0148 |                           Sort List                            | [.java][java-0148] |                |                | [back to top] |
-| 0150 |                Evaluate Reverse Polish Notation                | [.java][java-0150] |                |                | [back to top] |
-| 0151 |                   Reverse Words in a String                    | [.java][java-0151] |                |                | [back to top] |
+| 0150 |                        逆波兰表达式求值                        | [.java][java-0150] |                | [.js][js-0150] | [back to top] |
+| 0151 |                       反转字符串中的单词                       | [.java][java-0151] |                |                | [back to top] |
+| 0153 |                   寻找旋转排序数组中的最小值                   | [.java][java-0153] | [.py][py-0153] | [.js][js-0153] | [back to top] |
+| 0154 |                 寻找旋转排序数组中的最小值 II                  | [.java][java-0154] | [.py][py-0154] | [.js][js-0154] | [back to top] |
 | 0155 |                           Min Stack                            | [.java][java-0155] |                |                | [back to top] |
 | 0160 |                Intersection of Two Linked Lists                | [.java][java-0160] |                |                | [back to top] |
 | 0165 |                    Compare Version Numbers                     | [.java][java-0165] |                |                | [back to top] |
@@ -232,7 +234,7 @@
 | 0695 |                       Max Area of Island                       | [.java][java-0695] |                |                | [back to top] |
 | 0696 |                    Count Binary Substrings                     | [.java][java-0696] |                |                | [back to top] |
 | 0703 |                Kth Largest Element in a Stream                 | [.java][java-0703] |                |                | [back to top] |
-| 0704 |                         Binary Search                          | [.java][java-0704] |                |                | [back to top] |
+| 0704 |                            二分查找                            | [.java][java-0704] |                | [.js][js-0704] | [back to top] |
 | 0718 |              Maximum Length of Repeated Subarray               | [.java][java-0718] |                |                | [back to top] |
 | 0729 |                         My Calendar I                          | [.java][java-0729] |                |                | [back to top] |
 | 0731 |                         My Calendar II                         | [.java][java-0731] |                |                | [back to top] |
@@ -496,7 +498,14 @@
 [java-0147]: ./java-solutions/0147-insertion-sort-list/src/Solution.java
 [java-0148]: ./java-solutions/0148-sort-list/src/Solution.java
 [java-0150]: ./java-solutions/0150-evaluate-reverse-polish-notation/src/Solution.java
+[js-0150]: ./javascript-solutions/0150-evaluate-reverse-polish-notation/solution.js
 [java-0151]: ./java-solutions/0151-reverse-words-in-a-string/src/Solution.java
+[java-0153]: ./java-solutions/0153-find-minimum-in-rotated-sorted-array/src/Solution.java
+[py-0153]: ./python-solutions/0153-find-minimum-in-rotated-sorted-array/solution.py
+[js-0153]: ./javascript-solutions/0153-find-minimum-in-rotated-sorted-array/solution.js
+[java-0154]: ./java-solutions/0154-find-minimum-in-rotated-sorted-array-ii/src/Solution.java
+[py-0154]: ./python-solutions/0154-find-minimum-in-rotated-sorted-array-ii/solution.py
+[js-0154]: ./javascript-solutions/0154-find-minimum-in-rotated-sorted-array-ii/solution.js
 [java-0155]: ./java-solutions/0155-min-stack/src/MinStack.java
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
@@ -601,6 +610,7 @@
 [java-0696]: ./java-solutions/0696-count-binary-substrings/src/Solution.java
 [java-0703]: ./java-solutions/0703-kth-largest-element-in-a-stream/src/KthLargest.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
+[js-0704]: ./javascript-solutions/0704-binary-search/solution.js
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
