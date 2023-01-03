@@ -44,14 +44,15 @@
 | 0012 |                         整数转罗马数字                         | [.java][java-0012] |                | [.js][js-0012] | [back to top] |
 | 0013 |                         罗马数字转整数                         | [.java][java-0013] |                | [.js][js-0013] | [back to top] |
 | 0014 |                          最长公共前缀                          | [.java][java-0014] |                | [.js][js-0014] | [back to top] |
-| 0015 |                              3Sum                              | [.java][java-0015] |                |                | [back to top] |
-| 0016 |                          3Sum Closest                          | [.java][java-0016] |                |                | [back to top] |
+| 0015 |                            三数之和                            | [.java][java-0015] |                |                | [back to top] |
+| 0016 |                        最接近的三数之和                        | [.java][java-0016] |                |                | [back to top] |
 | 0017 |             Letter Combinations of a Phone Number              | [.java][java-0017] |                |                | [back to top] |
 | 0019 |                Remove Nth Node From End of List                | [.java][java-0019] |                |                | [back to top] |
 | 0020 |                       Valid Parentheses                        | [.java][java-0020] |                |                | [back to top] |
 | 0021 |                     Merge Two Sorted Lists                     | [.java][java-0021] |                |                | [back to top] |
 | 0022 |                      Generate Parentheses                      | [.java][java-0022] |                |                | [back to top] |
 | 0023 |                      Merge k Sorted Lists                      | [.java][java-0023] |                |                | [back to top] |
+| 0024 |                      两两交换链表中的节点                      | [.java][java-0024] |                |                | [back to top] |
 | 0025 |                    Reverse Nodes in k-Group                    | [.java][java-0025] |                |                | [back to top] |
 | 0026 |              Remove Duplicates from Sorted Array               | [.java][java-0026] |                |                | [back to top] |
 | 0027 |                         Remove Element                         | [.java][java-0027] |                |                | [back to top] |
@@ -376,6 +377,7 @@
 |   剑指 Offer 15   |   二进制中 1 的个数   |  [.java][java-offer-15]   |         |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
 |   剑指 Offer 22   | 链表中倒数第 k 个节点 |  [.java][java-offer-22]   |         |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
 |   剑指 Offer 24   |       反转链表        |  [.java][java-offer-24]   |         |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
+|   剑指 Offer 25   |  合并两个排序的链表   |  [.java][java-offer-25]   |         |                       | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -414,6 +416,7 @@
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
 [java-0022]: ./java-solutions/0022-generate-parentheses/src/Solution.java
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
+[java-0024]: ./java-solutions/0024-swap-nodes-in-pairs/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0027]: ./java-solutions/0027-remove-element/src/Solution.java
@@ -782,3 +785,4 @@
 [js-offer-22]: ./javascript-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution.js
 [java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
 [js-offer-24]: ./javascript-solutions/offer-24-fan-zhuan-lian-biao-lcof/solution.js
+[java-offer-25]: ./java-solutions/offer-25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof/src/Solution.java

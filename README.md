@@ -52,6 +52,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0021 |                     Merge Two Sorted Lists                     | [.java][java-0021] |                |                | [back to top] |
 | 0022 |                      Generate Parentheses                      | [.java][java-0022] |                |                | [back to top] |
 | 0023 |                      Merge k Sorted Lists                      | [.java][java-0023] |                |                | [back to top] |
+| 0024 |                      Swap Nodes in Pairs                       | [.java][java-0024] |                |                | [back to top] |
 | 0025 |                    Reverse Nodes in k-Group                    | [.java][java-0025] |                |                | [back to top] |
 | 0026 |              Remove Duplicates from Sorted Array               | [.java][java-0026] |                |                | [back to top] |
 | 0027 |                         Remove Element                         | [.java][java-0027] |                |                | [back to top] |
@@ -396,6 +397,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0021]: ./java-solutions/0021-merge-two-sorted-lists/src/Solution.java
 [java-0022]: ./java-solutions/0022-generate-parentheses/src/Solution.java
 [java-0023]: ./java-solutions/0023-merge-k-sorted-lists/src/Solution.java
+[java-0024]: ./java-solutions/0024-swap-nodes-in-pairs/src/Solution.java
 [java-0025]: ./java-solutions/0025-reverse-nodes-in-k-group/src/Solution.java
 [java-0026]: ./java-solutions/0026-remove-duplicates-from-sorted-array/src/Solution.java
 [java-0027]: ./java-solutions/0027-remove-element/src/Solution.java
