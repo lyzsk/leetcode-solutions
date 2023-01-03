@@ -10,6 +10,9 @@ public class Solution {
         // 定义一个矩阵只要左下角+右上角, 然后判断剩下两点是否在points中
         // 因为 0<=y<=40000, state = x * 40001 + y 可以唯一确定一个(x, y)
         // x = state / 40001, y = state % 40001
+        if (points.length < 4) {
+            return 0;
+        }
         Set<Integer> set = new HashSet<>();
         for (int[] point : points) {
             set.add(point[0] * 40001 + point[1]);

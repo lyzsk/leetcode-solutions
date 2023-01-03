@@ -20,9 +20,11 @@
 
 # leetcode-solutions
 
+**_喜欢的话，或者对你有帮助的话，记得点赞哦_** :star:
+
 记录个人 leetcode 题解
 
-**_喜欢的话，或者对你有帮助的话，记得点赞哦_** :star:
+查看 `剑指Offer` 系列题解，请拉至底部或点击 [跳转](#offer-solutions)
 
 > TODO: add C/C++ solutions.
 
@@ -152,8 +154,8 @@
 | 0200 |                       Number of Islands                        | [.java][java-0200] |                |                | [back to top] |
 | 0202 |                          Happy Number                          | [.java][java-0202] |                |                | [back to top] |
 | 0203 |                  Remove Linked List Elements                   | [.java][java-0203] |                |                | [back to top] |
-| 0205 |                       Isomorphic Strings                       | [.java][java-0205] |                |                | [back to top] |
-| 0206 |                      Reverse Linked List                       | [.java][java-0206] |                | [.js][js-0206] | [back to top] |
+| 0205 |                           同构字符串                           | [.java][java-0205] |                | [.js][js-0205] | [back to top] |
+| 0206 |                            反转链表                            | [.java][java-0206] |                | [.js][js-0206] | [back to top] |
 | 0207 |                        Course Schedule                         | [.java][java-0207] |                |                | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [.java][java-0209] |                |                | [back to top] |
 | 0212 |                         Word Search II                         | [.java][java-0212] |                |                | [back to top] |
@@ -273,7 +275,8 @@
 | 0921 |             Minimum Add to Make Parentheses Valid              | [.java][java-0921] |                |                | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [.java][java-0929] |                |                | [back to top] |
 | 0938 |                        Range Sum of BST                        | [.java][java-0938] |                |                | [back to top] |
-| 0939 |                     Minimum Area Rectangle                     | [.java][java-0939] |                |                | [back to top] |
+| 0939 |                          最小面积矩形                          | [.java][java-0939] |                | [.js][js-0939] | [back to top] |
+| 0944 |                            删列造序                            | [.java][java-0944] |                |                | [back to top] |
 | 0973 |                   K Closest Points to Origin                   | [.java][java-0973] |                |                | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [.java][java-0976] |                |                | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [.java][java-0989] |                |                | [back to top] |
@@ -358,18 +361,21 @@
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
-|         #         |       Title        |           Java            | Python3 |      JavaScript       |                                 |
-| :---------------: | :----------------: | :-----------------------: | :-----: | :-------------------: | :-----------------------------: |
-|   剑指 Offer 03   |  数组中重复的数字  |  [.java][java-offer-03]   |         |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
-|   剑指 Offer 04   |  二维数组中的查找  |  [.java][java-offer-04]   |         |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
-|   剑指 Offer 05   |      替换空格      |  [.java][java-offer-05]   |         |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
-|   剑指 Offer 06   |  从尾到头打印链表  |  [.java][java-offer-06]   |         |                       | [back to top](#offer-solutions) |
-|   剑指 Offer 07   |     重建二叉树     |  [.java][java-offer-07]   |         |                       | [back to top](#offer-solutions) |
-|   剑指 Offer 09   |  用两个栈实现队列  |  [.java][java-offer-09]   |         |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
-| 剑指 Offer 10- I  |    斐波那契数列    | [.java][java-offer-10-i]  |         | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
-| 剑指 Offer 10- II |   青蛙跳台阶问题   | [.java][java-offer-10-ii] |         | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
-|   剑指 Offer 11   | 旋转数组的最小数字 |  [.java][java-offer-11]   |         |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
-|   剑指 Offer 12   |    矩阵中的路径    |  [.java][java-offer-12]   |         |                       | [back to top](#offer-solutions) |
+|         #         |         Title         |           Java            | Python3 |      JavaScript       |                                 |
+| :---------------: | :-------------------: | :-----------------------: | :-----: | :-------------------: | :-----------------------------: |
+|   剑指 Offer 03   |   数组中重复的数字    |  [.java][java-offer-03]   |         |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
+|   剑指 Offer 04   |   二维数组中的查找    |  [.java][java-offer-04]   |         |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
+|   剑指 Offer 05   |       替换空格        |  [.java][java-offer-05]   |         |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
+|   剑指 Offer 06   |   从尾到头打印链表    |  [.java][java-offer-06]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 07   |      重建二叉树       |  [.java][java-offer-07]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 09   |   用两个栈实现队列    |  [.java][java-offer-09]   |         |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
+| 剑指 Offer 10- I  |     斐波那契数列      | [.java][java-offer-10-i]  |         | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
+| 剑指 Offer 10- II |    青蛙跳台阶问题     | [.java][java-offer-10-ii] |         | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
+|   剑指 Offer 11   |  旋转数组的最小数字   |  [.java][java-offer-11]   |         |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
+|   剑指 Offer 12   |     矩阵中的路径      |  [.java][java-offer-12]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 15   |   二进制中 1 的个数   |  [.java][java-offer-15]   |         |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
+|   剑指 Offer 22   | 链表中倒数第 k 个节点 |  [.java][java-offer-22]   |         |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
+|   剑指 Offer 24   |       反转链表        |  [.java][java-offer-24]   |         |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -523,6 +529,7 @@
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
 [java-0205]: ./java-solutions/0205-isomorphic-strings/src/Solution.java
+[js-0205]: ./javascript-solutions/0205-isomorphic-strings/solution.js
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -657,6 +664,8 @@
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
+[js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
+[java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
@@ -767,3 +776,9 @@
 [java-offer-11]: ./java-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/src/Solution.java
 [js-offer-11]: ./javascript-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution.js
 [java-offer-12]: ./java-solutions/offer-12-ju-zhen-zhong-de-lu-jing-lcof/src/Solution.java
+[java-offer-15]: ./java-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/src/Solution.java
+[js-offer-15]: ./javascript-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.js
+[java-offer-22]: ./java-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/src/Solution.java
+[js-offer-22]: ./javascript-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution.js
+[java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
+[js-offer-24]: ./javascript-solutions/offer-24-fan-zhuan-lian-biao-lcof/solution.js

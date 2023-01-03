@@ -20,11 +20,11 @@
 
 # leetcode-solutions
 
+**_If you like this project or it helps you in some way, don't forget to star._** :star:
+
 Recording personal solutions for Leetcode problems.
 
 If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./README.CN.md)
-
-**_If you like this project or it helps you in some way, don't forget to star._** :star:
 
 > TODO: add C/C++ solutions.
 
@@ -154,7 +154,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0200 |                       Number of Islands                        | [.java][java-0200] |                |                | [back to top] |
 | 0202 |                          Happy Number                          | [.java][java-0202] |                |                | [back to top] |
 | 0203 |                  Remove Linked List Elements                   | [.java][java-0203] |                |                | [back to top] |
-| 0205 |                       Isomorphic Strings                       | [.java][java-0205] |                |                | [back to top] |
+| 0205 |                       Isomorphic Strings                       | [.java][java-0205] |                | [.js][js-0205] | [back to top] |
 | 0206 |                      Reverse Linked List                       | [.java][java-0206] |                | [.js][js-0206] | [back to top] |
 | 0207 |                        Course Schedule                         | [.java][java-0207] |                |                | [back to top] |
 | 0209 |                   Minimum Size Subarray Sum                    | [.java][java-0209] |                |                | [back to top] |
@@ -275,7 +275,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0921 |             Minimum Add to Make Parentheses Valid              | [.java][java-0921] |                |                | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [.java][java-0929] |                |                | [back to top] |
 | 0938 |                        Range Sum of BST                        | [.java][java-0938] |                |                | [back to top] |
-| 0939 |                     Minimum Area Rectangle                     | [.java][java-0939] |                |                | [back to top] |
+| 0939 |                     Minimum Area Rectangle                     | [.java][java-0939] |                | [.js][js-0939] | [back to top] |
+| 0944 |                 Delete Columns to Make Sorted                  | [.java][java-0944] |                |                | [back to top] |
 | 0973 |                   K Closest Points to Origin                   | [.java][java-0973] |                |                | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [.java][java-0976] |                |                | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [.java][java-0989] |                |                | [back to top] |
@@ -510,6 +511,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
 [java-0205]: ./java-solutions/0205-isomorphic-strings/src/Solution.java
+[js-0205]: ./javascript-solutions/0205-isomorphic-strings/solution.js
 [java-0206]: ./java-solutions/0206-reverse-linked-list/src/Solution.java
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
@@ -644,6 +646,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
+[js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
+[java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
