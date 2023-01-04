@@ -331,6 +331,7 @@
 | 1796 |                Second Largest Digit in a String                | [.java][java-1796] |                |                | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [.java][java-1800] |                |                | [back to top] |
 | 1801 |                      积压订单中的订单总数                      | [.java][java-1801] |                |                | [back to top] |
+| 1802 |                  有界数组中指定下标处的最大值                  | [.java][java-1802] |                |                | [back to top] |
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
@@ -353,6 +354,7 @@
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
+| 2244 |                   完成所有任务需要的最少轮数                   | [.java][java-2244] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                      第一个出现两次的字母                      | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
@@ -362,22 +364,25 @@
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
-|         #         |         Title         |           Java            | Python3 |      JavaScript       |                                 |
-| :---------------: | :-------------------: | :-----------------------: | :-----: | :-------------------: | :-----------------------------: |
-|   剑指 Offer 03   |   数组中重复的数字    |  [.java][java-offer-03]   |         |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
-|   剑指 Offer 04   |   二维数组中的查找    |  [.java][java-offer-04]   |         |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
-|   剑指 Offer 05   |       替换空格        |  [.java][java-offer-05]   |         |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
-|   剑指 Offer 06   |   从尾到头打印链表    |  [.java][java-offer-06]   |         |                       | [back to top](#offer-solutions) |
-|   剑指 Offer 07   |      重建二叉树       |  [.java][java-offer-07]   |         |                       | [back to top](#offer-solutions) |
-|   剑指 Offer 09   |   用两个栈实现队列    |  [.java][java-offer-09]   |         |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
-| 剑指 Offer 10- I  |     斐波那契数列      | [.java][java-offer-10-i]  |         | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
-| 剑指 Offer 10- II |    青蛙跳台阶问题     | [.java][java-offer-10-ii] |         | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
-|   剑指 Offer 11   |  旋转数组的最小数字   |  [.java][java-offer-11]   |         |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
-|   剑指 Offer 12   |     矩阵中的路径      |  [.java][java-offer-12]   |         |                       | [back to top](#offer-solutions) |
-|   剑指 Offer 15   |   二进制中 1 的个数   |  [.java][java-offer-15]   |         |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
-|   剑指 Offer 22   | 链表中倒数第 k 个节点 |  [.java][java-offer-22]   |         |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
-|   剑指 Offer 24   |       反转链表        |  [.java][java-offer-24]   |         |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
-|   剑指 Offer 25   |  合并两个排序的链表   |  [.java][java-offer-25]   |         |                       | [back to top](#offer-solutions) |
+|         #         |           Title            |           Java            | Python3 |      JavaScript       |                                 |
+| :---------------: | :------------------------: | :-----------------------: | :-----: | :-------------------: | :-----------------------------: |
+|   剑指 Offer 03   |      数组中重复的数字      |  [.java][java-offer-03]   |         |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
+|   剑指 Offer 04   |      二维数组中的查找      |  [.java][java-offer-04]   |         |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
+|   剑指 Offer 05   |          替换空格          |  [.java][java-offer-05]   |         |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
+|   剑指 Offer 06   |      从尾到头打印链表      |  [.java][java-offer-06]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 07   |         重建二叉树         |  [.java][java-offer-07]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 09   |      用两个栈实现队列      |  [.java][java-offer-09]   |         |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
+| 剑指 Offer 10- I  |        斐波那契数列        | [.java][java-offer-10-i]  |         | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
+| 剑指 Offer 10- II |       青蛙跳台阶问题       | [.java][java-offer-10-ii] |         | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
+|   剑指 Offer 11   |     旋转数组的最小数字     |  [.java][java-offer-11]   |         |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
+|   剑指 Offer 12   |        矩阵中的路径        |  [.java][java-offer-12]   |         |                       | [back to top](#offer-solutions) |
+| 剑指 Offer 14- I  |           剪绳子           | [.java][java-offer-14-i]  |         |                       | [back to top](#offer-solutions) |
+| 剑指 Offer 14- II |         剪绳子 II          | [.java][java-offer-14-ii] |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 15   |     二进制中 1 的个数      |  [.java][java-offer-15]   |         |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
+|   剑指 Offer 22   |   链表中倒数第 k 个节点    |  [.java][java-offer-22]   |         |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
+|   剑指 Offer 24   |          反转链表          |  [.java][java-offer-24]   |         |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
+|   剑指 Offer 25   |     合并两个排序的链表     |  [.java][java-offer-25]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 48   | 最长不含重复字符的子字符串 |  [.java][java-offer-48]   |         |                       | [back to top](#offer-solutions) |
 
 # TODO
 
@@ -727,6 +732,7 @@
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
+[java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
@@ -755,6 +761,7 @@
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
+[java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
@@ -779,6 +786,8 @@
 [java-offer-11]: ./java-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/src/Solution.java
 [js-offer-11]: ./javascript-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution.js
 [java-offer-12]: ./java-solutions/offer-12-ju-zhen-zhong-de-lu-jing-lcof/src/Solution.java
+[java-offer-14-i]: ./java-solutions/offer-14-i-jian-sheng-zi-lcof/src/Solution.java
+[java-offer-14-ii]: ./java-solutions/offer-14-ii-jian-sheng-zi-ii-lcof/src/Solution.java
 [java-offer-15]: ./java-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/src/Solution.java
 [js-offer-15]: ./javascript-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.js
 [java-offer-22]: ./java-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/src/Solution.java
@@ -786,3 +795,4 @@
 [java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
 [js-offer-24]: ./javascript-solutions/offer-24-fan-zhuan-lian-biao-lcof/solution.js
 [java-offer-25]: ./java-solutions/offer-25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof/src/Solution.java
+[java-offer-48]: ./java-solutions/offer-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/src/Solution.java

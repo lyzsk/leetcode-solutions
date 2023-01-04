@@ -331,6 +331,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1796 |                Second Largest Digit in a String                | [.java][java-1796] |                |                | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [.java][java-1800] |                |                | [back to top] |
 | 1801 |                Number of Orders in the Backlog                 | [.java][java-1801] |                |                | [back to top] |
+| 1802 |       Maximum Value at a Given Index in a Bounded Array        | [.java][java-1802] |                |                | [back to top] |
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
@@ -353,6 +354,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
+| 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                  First Letter to Appear Twice                  | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
@@ -708,6 +710,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
+[java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
@@ -736,6 +739,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
+[java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java

@@ -4,7 +4,7 @@
  **/
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode dummyHead = new ListNode();
+        ListNode dummyHead = new ListNode(0);
         ListNode cur = dummyHead;
         while (l1 != null && l2 != null) {
             if (l1.val < l2.val) {
