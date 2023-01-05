@@ -212,6 +212,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0443 |                       String Compression                       | [.java][java-0443] |                | [.js][js-0443] | [back to top] |
 | 0445 |                       Add Two Numbers II                       | [.java][java-0445] |                |                | [back to top] |
 | 0451 |                  Sort Characters By Frequency                  | [.java][java-0451] |                |                | [back to top] |
+| 0452 |           Minimum Number of Arrows to Burst Balloons           | [.java][java-0452] |                |                | [back to top] |
 | 0454 |                            4Sum II                             | [.java][java-0454] |                |                | [back to top] |
 | 0493 |                         Reverse Pairs                          | [.java][java-0493] |                |                | [back to top] |
 | 0507 |                         Perfect Number                         | [.java][java-0507] |                |                | [back to top] |
@@ -352,6 +353,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2095 |            Delete the Middle Node of a Linked List             | [.java][java-2095] |                |                | [back to top] |
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
+| 2180 |               Count Integers With Even Digit Sum               | [.java][java-2180] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                | [back to top] |
@@ -586,10 +588,14 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
+[java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
+[java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
+[py-0520]: ./python-solutions/0520-detect-capital/solution.py
+[js-0520]: ./python-solutions/0520-detect-capital/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
@@ -737,6 +743,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
