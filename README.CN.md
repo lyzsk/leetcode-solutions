@@ -86,7 +86,7 @@
 | 0066 |                            Plus One                            | [.java][java-0066] |                |                | [back to top] |
 | 0067 |                           Add Binary                           | [.java][java-0067] |                |                | [back to top] |
 | 0069 |                            Sqrt(x)                             | [.java][java-0069] |                |                | [back to top] |
-| 0070 |                        Climbing Stairs                         | [.java][java-0070] |                | [.js][js-0070] | [back to top] |
+| 0070 |                             爬楼梯                             | [.java][java-0070] |                | [.js][js-0070] | [back to top] |
 | 0073 |                       Set Matrix Zeroes                        | [.java][java-0073] |                |                | [back to top] |
 | 0074 |                       Search a 2D Matrix                       | [.java][java-0074] |                |                | [back to top] |
 | 0075 |                          Sort Colors                           | [.java][java-0075] |                |                | [back to top] |
@@ -263,6 +263,7 @@
 | 0842 |              Split Array into Fibonacci Sequence               | [.java][java-0842] |                |                | [back to top] |
 | 0855 |                            考场就座                            | [.java][java-0855] |                |                | [back to top] |
 | 0856 |                           括号的分数                           | [.java][java-0856] |                | [.js][js-0856] | [back to top] |
+| 0859 |                           亲密字符串                           | [.java][java-0859] |                |                | [back to top] |
 | 0869 |                      Reordered Power of 2                      | [.java][java-0869] |                |                | [back to top] |
 | 0870 |                       Advantage Shuffle                        | [.java][java-0870] |                |                | [back to top] |
 | 0871 |               Minimum Number of Refueling Stops                | [.java][java-0871] |                |                | [back to top] |
@@ -337,6 +338,7 @@
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [.java][java-1832] |                |                | [back to top] |
+| 1833 |                         雪糕的最大数量                         | [.java][java-1833] |                |                | [back to top] |
 | 1865 |                Finding Pairs With a Certain Sum                | [.java][java-1865] |                |                | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [.java][java-1876] |                |                | [back to top] |
 | 1877 |               Minimize Maximum Pair Sum in Array               | [.java][java-1877] |                |                | [back to top] |
@@ -363,6 +365,8 @@
 | 2363 |                         合并相似的物品                         | [.java][java-2363] |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                | [back to top] |
 | 2389 |                       和有限的最长子序列                       | [.java][java-2389] |                |                | [back to top] |
+| 2465 |                        不同的平均值数目                        | [.java][java-2465] |                |                | [back to top] |
+| 2469 |                            温度转换                            | [.java][java-2469] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -661,6 +665,7 @@
 [java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
+[java-0859]: ./java-solutions/0859-buddy-strings/src/Solution.java
 [java-0869]: ./java-solutions/0869-reordered-power-of-2/src/Solution.java
 [java-0870]: ./java-solutions/0870-advantage-shuffle/src/Solution.java
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
@@ -743,6 +748,7 @@
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
+[java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
@@ -775,7 +781,9 @@
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
+[java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
+[java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
