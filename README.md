@@ -310,6 +310,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1578 |               Minimum Time to Make Rope Colorful               | [.java][java-1578] |                |                | [back to top] |
 | 1656 |                    Design an Ordered Stream                    | [.java][java-1656] | [.py][py-1656] |                | [back to top] |
 | 1657 |               Determine if Two Strings Are Close               | [.java][java-1657] |                |                | [back to top] |
+| 1658 |             Minimum Operations to Reduce X to Zero             | [.java][java-1658] |                |                | [back to top] |
 | 1662 |           Check If Two String Arrays are Equivalent            | [.java][java-1662] |                |                | [back to top] |
 | 1694 |                     Reformat Phone Number                      | [.java][java-1694] |                |                | [back to top] |
 | 1704 |              Determine if String Halves Are Alike              | [.java][java-1704] |                |                | [back to top] |
@@ -339,6 +340,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [.java][java-1832] |                |                | [back to top] |
 | 1833 |                     Maximum Ice Cream Bars                     | [.java][java-1833] |                |                | [back to top] |
+| 1834 |                      Single-Threaded CPU                       | [.java][java-1834] |                |                | [back to top] |
 | 1865 |                Finding Pairs With a Certain Sum                | [.java][java-1865] |                |                | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [.java][java-1876] |                |                | [back to top] |
 | 1877 |               Minimize Maximum Pair Sum in Array               | [.java][java-1877] |                |                | [back to top] |
@@ -697,6 +699,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
+[java-1658]: ./java-solutions/1658-minimum-operations-to-reduce-x-to-zero/src/Solution.java
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
@@ -727,6 +730,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
+[java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java

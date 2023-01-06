@@ -310,6 +310,7 @@
 | 1578 |               Minimum Time to Make Rope Colorful               | [.java][java-1578] |                |                | [back to top] |
 | 1656 |                    Design an Ordered Stream                    | [.java][java-1656] | [.py][py-1656] |                | [back to top] |
 | 1657 |               Determine if Two Strings Are Close               | [.java][java-1657] |                |                | [back to top] |
+| 1658 |                    将 x 减到 0 的最小操作数                    | [.java][java-1658] |                |                | [back to top] |
 | 1662 |           Check If Two String Arrays are Equivalent            | [.java][java-1662] |                |                | [back to top] |
 | 1694 |                     Reformat Phone Number                      | [.java][java-1694] |                |                | [back to top] |
 | 1704 |              Determine if String Halves Are Alike              | [.java][java-1704] |                |                | [back to top] |
@@ -337,8 +338,9 @@
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
-| 1832 |                Check if the Sentence Is Pangram                | [.java][java-1832] |                |                | [back to top] |
+| 1832 |                     判断句子是否为全字母句                     | [.java][java-1832] |                |                | [back to top] |
 | 1833 |                         雪糕的最大数量                         | [.java][java-1833] |                |                | [back to top] |
+| 1834 |                           单线程 CPU                           | [.java][java-1834] |                |                | [back to top] |
 | 1865 |                Finding Pairs With a Certain Sum                | [.java][java-1865] |                |                | [back to top] |
 | 1876 |       Substrings of Size Three with Distinct Characters        | [.java][java-1876] |                |                | [back to top] |
 | 1877 |               Minimize Maximum Pair Sum in Array               | [.java][java-1877] |                |                | [back to top] |
@@ -385,6 +387,8 @@
 | 剑指 Offer 14- I  |           剪绳子           | [.java][java-offer-14-i]  |         |                       | [back to top](#offer-solutions) |
 | 剑指 Offer 14- II |         剪绳子 II          | [.java][java-offer-14-ii] |         |                       | [back to top](#offer-solutions) |
 |   剑指 Offer 15   |     二进制中 1 的个数      |  [.java][java-offer-15]   |         |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
+|   剑指 Offer 16   |       数值的整数次方       |  [.java][java-offer-16]   |         |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 17   |  打印从 1 到最大的 n 位数  |  [.java][java-offer-17]   |         |                       | [back to top](#offer-solutions) |
 |   剑指 Offer 22   |   链表中倒数第 k 个节点    |  [.java][java-offer-22]   |         |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
 |   剑指 Offer 24   |          反转链表          |  [.java][java-offer-24]   |         |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
 |   剑指 Offer 25   |     合并两个排序的链表     |  [.java][java-offer-25]   |         |                       | [back to top](#offer-solutions) |
@@ -719,6 +723,7 @@
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
+[java-1658]: ./java-solutions/1658-minimum-operations-to-reduce-x-to-zero/src/Solution.java
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
@@ -749,6 +754,7 @@
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
+[java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
@@ -805,6 +811,8 @@
 [java-offer-14-ii]: ./java-solutions/offer-14-ii-jian-sheng-zi-ii-lcof/src/Solution.java
 [java-offer-15]: ./java-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/src/Solution.java
 [js-offer-15]: ./javascript-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.js
+[java-offer-16]: ./java-solutions/offer-16-shu-zhi-de-zheng-shu-ci-fang-lcof/src/Solution.java
+[java-offer-17]: ./java-solutions/offer-17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/src/Solution.java
 [java-offer-22]: ./java-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/src/Solution.java
 [js-offer-22]: ./javascript-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution.js
 [java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
