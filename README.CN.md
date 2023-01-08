@@ -358,6 +358,7 @@
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
 | 2180 |                统计各位数字之和为偶数的整数个数                | [.java][java-2180] |                |                | [back to top] |
+| 2185 |                    统计包含给定前缀的字符串                    | [.java][java-2185] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2244 |                   完成所有任务需要的最少轮数                   | [.java][java-2244] |                |                | [back to top] |
@@ -369,6 +370,12 @@
 | 2389 |                       和有限的最长子序列                       | [.java][java-2389] |                |                | [back to top] |
 | 2465 |                        不同的平均值数目                        | [.java][java-2465] |                |                | [back to top] |
 | 2469 |                            温度转换                            | [.java][java-2469] |                |                | [back to top] |
+| 2525 |                       根据规则将箱子分类                       | [.java][java-2525] |                |                | [back to top] |
+| 2526 |                     找到数据流中的连续整数                     | [.java][java-2526] |                |                | [back to top] |
+| 2527 |                      查询数组 Xor 美丽值                       | [.java][java-2527] |                |                | [back to top] |
+| 2529 |                    正整数和负整数的最大计数                    | [.java][java-2529] |                |                | [back to top] |
+| 2530 |                   执行 K 次操作后的最大分数                    | [.java][java-2530] |                |                | [back to top] |
+| 2531 |                  使字符串总不同字符的数目相等                  | [.java][java-2531] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -778,6 +785,7 @@
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
+[java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
@@ -790,6 +798,12 @@
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
+[java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
+[java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
+[java-2527]: ./java-solutions/2527-find-xor-beauty-of-array/src/Solution.java
+[java-2529]: ./java-solutions/2529-maximum-count-of-positive-integer-and-negative-integer/src/Solution.java
+[java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
+[java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java

@@ -358,6 +358,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2108 |           Find First Palindromic String in the Array           | [.java][java-2108] |                |                | [back to top] |
 | 2131 |      Longest Palindrome by Concatenating Two Letter Words      | [.java][java-2131] |                |                | [back to top] |
 | 2180 |               Count Integers With Even Digit Sum               | [.java][java-2180] |                |                | [back to top] |
+| 2185 |               Counting Words With a Given Prefix               | [.java][java-2185] |                |                | [back to top] |
 | 2216 |           Minimum Deletions to Make Array Beautiful            | [.java][java-2216] |                |                | [back to top] |
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                | [back to top] |
@@ -369,6 +370,12 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2389 |              Longest Subsequence With Limited Sum              | [.java][java-2389] |                |                | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                | [back to top] |
+| 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                | [back to top] |
+| 2526 |          Find Consecutive Integers from a Data Stream          | [.java][java-2526] |                |                | [back to top] |
+| 2527 |                    Find Xor-Beauty of Array                    | [.java][java-2527] |                |                | [back to top] |
+| 2529 |     Maximum Count of Positive Integer and Negative Integer     | [.java][java-2529] |                |                | [back to top] |
+| 2530 |           Maximal Score After Applying K Operations            | [.java][java-2530] |                |                | [back to top] |
+| 2531 |            Make Number of Distinct Characters Equal            | [.java][java-2531] |                |                | [back to top] |
 
 # TODO
 
@@ -754,6 +761,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
+[java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
@@ -766,3 +774,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
+[java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
+[java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
+[java-2527]: ./java-solutions/2527-find-xor-beauty-of-array/src/Solution.java
+[java-2529]: ./java-solutions/2529-maximum-count-of-positive-integer-and-negative-integer/src/Solution.java
+[java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
+[java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
