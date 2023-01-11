@@ -299,6 +299,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                | [back to top] |
 | 1422 |             Maximum Score After Splitting a String             | [.java][java-1422] | [.py][py-1422] | [.js][js-1422] | [back to top] |
+| 1443 |          Minimum Time to Collect All Apples in a Tree          | [.java][java-1443] |                |                | [back to top] |
 | 1448 |                Count Good Nodes in Binary Tree                 | [.java][java-1448] |                |                | [back to top] |
 | 1450 |       Number of Students Doing Homework at a Given Time        | [.java][java-1450] |                |                | [back to top] |
 | 1455 |  Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [.java][java-1455] |                |                | [back to top] |
@@ -363,6 +364,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                | [back to top] |
 | 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
+| 2283 |     Check if Number Has Equal Digit Count and Digit Value      | [.java][java-2283] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                  First Letter to Appear Twice                  | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
@@ -693,6 +695,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
+[java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
 [java-1455]: ./java-solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/src/Solution.java
@@ -766,6 +769,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
+[java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
