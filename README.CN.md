@@ -275,7 +275,8 @@
 | 0907 |                    Sum of Subarray Minimums                    | [.java][java-0907] |                |                | [back to top] |
 | 0912 |                         Sort an Array                          | [.java][java-0912] |                |                | [back to top] |
 | 0915 |            Partition Array into Disjoint Intervals             | [.java][java-0915] |                |                | [back to top] |
-| 0921 |             Minimum Add to Make Parentheses Valid              | [.java][java-0921] |                |                | [back to top] |
+| 0921 |                      使括号有效的最少添加                      | [.java][java-0921] |                |                | [back to top] |
+| 0926 |                     将字符串翻转到单调递增                     | [.java][java-0926] |                |                | [back to top] |
 | 0929 |                     Unique Email Addresses                     | [.java][java-0929] |                |                | [back to top] |
 | 0938 |                        Range Sum of BST                        | [.java][java-0938] |                |                | [back to top] |
 | 0939 |                          最小面积矩形                          | [.java][java-0939] |                | [.js][js-0939] | [back to top] |
@@ -692,6 +693,7 @@
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
+[java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
