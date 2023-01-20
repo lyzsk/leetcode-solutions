@@ -214,6 +214,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0451 |                  Sort Characters By Frequency                  | [.java][java-0451] |                |                | [back to top] |
 | 0452 |           Minimum Number of Arrows to Burst Balloons           | [.java][java-0452] |                |                | [back to top] |
 | 0454 |                            4Sum II                             | [.java][java-0454] |                |                | [back to top] |
+| 0491 |                  Non-decreasing Subsequences                   | [.java][java-0491] |                |                | [back to top] |
 | 0493 |                         Reverse Pairs                          | [.java][java-0493] |                |                | [back to top] |
 | 0507 |                         Perfect Number                         | [.java][java-0507] |                |                | [back to top] |
 | 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                | [back to top] |
@@ -608,6 +609,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0491]: ./java-solutions/0491-non-decreasing-subsequences/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
@@ -742,6 +744,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1813]: ./java-solutions/1813-sentence-similarity-iii/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
+[java-1817]: ./java-solutions/1817-finding-the-users-active-minutes/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java

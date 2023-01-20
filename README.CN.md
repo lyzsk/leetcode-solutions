@@ -214,6 +214,7 @@
 | 0451 |                  Sort Characters By Frequency                  | [.java][java-0451] |                |                | [back to top] |
 | 0452 |                     用最少数量的箭引爆气球                     | [.java][java-0452] |                |                | [back to top] |
 | 0454 |                            4Sum II                             | [.java][java-0454] |                |                | [back to top] |
+| 0491 |                           递增子序列                           | [.java][java-0491] |                |                | [back to top] |
 | 0493 |                         Reverse Pairs                          | [.java][java-0493] |                |                | [back to top] |
 | 0507 |                         Perfect Number                         | [.java][java-0507] |                |                | [back to top] |
 | 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                | [back to top] |
@@ -632,6 +633,7 @@
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0491]: ./java-solutions/0491-non-decreasing-subsequences/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
