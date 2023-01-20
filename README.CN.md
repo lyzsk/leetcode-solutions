@@ -338,7 +338,9 @@
 | 1801 |                      积压订单中的订单总数                      | [.java][java-1801] |                |                | [back to top] |
 | 1802 |                  有界数组中指定下标处的最大值                  | [.java][java-1802] |                |                | [back to top] |
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
+| 1813 |                         句子相似性 III                         | [.java][java-1813] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
+| 1817 |                       查找用户活跃分钟数                       | [.java][java-1817] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
 | 1832 |                     判断句子是否为全字母句                     | [.java][java-1832] |                |                | [back to top] |
 | 1833 |                         雪糕的最大数量                         | [.java][java-1833] |                |                | [back to top] |
@@ -762,7 +764,9 @@
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
 [java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
+[java-1813]: ./java-solutions/1813-sentence-similarity-iii/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
+[java-1817]: ./java-solutions/1817-finding-the-users-active-minutes/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java

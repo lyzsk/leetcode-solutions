@@ -338,7 +338,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1801 |                Number of Orders in the Backlog                 | [.java][java-1801] |                |                | [back to top] |
 | 1802 |       Maximum Value at a Given Index in a Bounded Array        | [.java][java-1802] |                |                | [back to top] |
 | 1812 |             Determine Color of a Chessboard Square             | [.java][java-1812] |                |                | [back to top] |
+| 1813 |                    Sentence Similarity III                     | [.java][java-1813] |                |                | [back to top] |
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                | [back to top] |
+| 1817 |                Finding the Users Active Minutes                | [.java][java-1817] |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [.java][java-1832] |                |                | [back to top] |
 | 1833 |                     Maximum Ice Cream Bars                     | [.java][java-1833] |                |                | [back to top] |
@@ -738,6 +740,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
 [java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
+[java-1813]: ./java-solutions/1813-sentence-similarity-iii/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
