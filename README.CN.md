@@ -369,6 +369,7 @@
 | 2244 |                   完成所有任务需要的最少轮数                   | [.java][java-2244] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2283 |              判断一个数的数字计数是否等于数位的值              | [.java][java-2283] |                |                | [back to top] |
+| 2303 |                        计算应缴税款总额                        | [.java][java-2303] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                      第一个出现两次的字母                      | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
 | 2363 |                         合并相似的物品                         | [.java][java-2363] |                |                | [back to top] |
@@ -382,6 +383,7 @@
 | 2529 |                    正整数和负整数的最大计数                    | [.java][java-2529] |                |                | [back to top] |
 | 2530 |                   执行 K 次操作后的最大分数                    | [.java][java-2530] |                |                | [back to top] |
 | 2531 |                  使字符串总不同字符的数目相等                  | [.java][java-2531] |                |                | [back to top] |
+| 2540 |                           最小公共值                           | [.java][java-2540] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -801,6 +803,7 @@
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
+[java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
@@ -816,6 +819,7 @@
 [java-2529]: ./java-solutions/2529-maximum-count-of-positive-integer-and-negative-integer/src/Solution.java
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
+[java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java

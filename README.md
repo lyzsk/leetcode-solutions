@@ -369,6 +369,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2283 |     Check if Number Has Equal Digit Count and Digit Value      | [.java][java-2283] |                |                | [back to top] |
+| 2303 |                 Calculate Amount Paid in Taxes                 | [.java][java-2303] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                  First Letter to Appear Twice                  | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                | [back to top] |
@@ -382,6 +383,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2529 |     Maximum Count of Positive Integer and Negative Integer     | [.java][java-2529] |                |                | [back to top] |
 | 2530 |           Maximal Score After Applying K Operations            | [.java][java-2530] |                |                | [back to top] |
 | 2531 |            Make Number of Distinct Characters Equal            | [.java][java-2531] |                |                | [back to top] |
+| 2540 |                      Minimum Common Value                      | [.java][java-2540] |                |                | [back to top] |
 
 # TODO
 
@@ -778,6 +780,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
+[java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
@@ -792,3 +795,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2529]: ./java-solutions/2529-maximum-count-of-positive-integer-and-negative-integer/src/Solution.java
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
+[java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
