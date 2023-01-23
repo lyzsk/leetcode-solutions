@@ -285,6 +285,7 @@
 | 0973 |                   K Closest Points to Origin                   | [.java][java-0973] |                |                | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [.java][java-0976] |                |                | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [.java][java-0989] |                |                | [back to top] |
+| 0997 |                         找到小镇的法官                         | [.java][java-0997] |                |                | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [.java][java-0998] |                |                | [back to top] |
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] |                |                | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                | [back to top] |
@@ -384,6 +385,7 @@
 | 2530 |                   执行 K 次操作后的最大分数                    | [.java][java-2530] |                |                | [back to top] |
 | 2531 |                  使字符串总不同字符的数目相等                  | [.java][java-2531] |                |                | [back to top] |
 | 2540 |                           最小公共值                           | [.java][java-2540] |                |                | [back to top] |
+| 2541 |              使数组中所有元素相等的最小操作数 II               | [.java][java-2541] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -701,13 +703,14 @@
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
-[java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
+[java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
+[java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
@@ -820,6 +823,7 @@
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
+[java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java

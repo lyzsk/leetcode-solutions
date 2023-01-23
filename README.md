@@ -285,6 +285,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0973 |                   K Closest Points to Origin                   | [.java][java-0973] |                |                | [back to top] |
 | 0976 |                   Largest Perimeter Triangle                   | [.java][java-0976] |                |                | [back to top] |
 | 0989 |                  Add to Array-Form of Integer                  | [.java][java-0989] |                |                | [back to top] |
+| 0997 |                      Find the Town Judge                       | [.java][java-0997] |                |                | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [.java][java-0998] |                |                | [back to top] |
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] |                |                | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                | [back to top] |
@@ -384,6 +385,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2530 |           Maximal Score After Applying K Operations            | [.java][java-2530] |                |                | [back to top] |
 | 2531 |            Make Number of Distinct Characters Equal            | [.java][java-2531] |                |                | [back to top] |
 | 2540 |                      Minimum Common Value                      | [.java][java-2540] |                |                | [back to top] |
+| 2541 |           Minimum Operations to Make Array Equal II            | [.java][java-2541] |                |                | [back to top] |
 
 # TODO
 
@@ -677,13 +679,14 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
-[java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
+[java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
+[java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
@@ -796,3 +799,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
+[java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
