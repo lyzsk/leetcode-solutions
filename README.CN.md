@@ -175,6 +175,7 @@
 | 0239 |                     Sliding Window Maximum                     | [.java][java-0239] |                |                | [back to top] |
 | 0240 |                        搜索二维矩阵 II                         | [.java][java-0240] |                | [.js][js-0240] | [back to top] |
 | 0242 |                         Valid Anagram                          | [.java][java-0242] |                |                | [back to top] |
+| 0257 |                        二叉树的所有路径                        | [.java][java-0257] |                |                | [back to top] |
 | 0263 |                          Ugly Number                           | [.java][java-0263] |                |                | [back to top] |
 | 0268 |                           丢失的数字                           | [.java][java-0268] |                | [.js][js-0268] | [back to top] |
 | 0279 |                           完全平方数                           | [.java][java-0279] |                |                | [back to top] |
@@ -586,6 +587,7 @@
 [js-0240]: ./javascript-solutions/0240-search-a-2d-matrix-ii/solution.js
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
+[java-0257]: ./java-solutions/0257-binary-tree-paths/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [js-0268]: ./javascript-solutions/0268-missing-number/solution.js
