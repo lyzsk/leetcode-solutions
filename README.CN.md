@@ -387,6 +387,7 @@
 | 2531 |                  使字符串总不同字符的数目相等                  | [.java][java-2531] |                |                | [back to top] |
 | 2540 |                           最小公共值                           | [.java][java-2540] |                |                | [back to top] |
 | 2541 |              使数组中所有元素相等的最小操作数 II               | [.java][java-2541] |                |                | [back to top] |
+| 2545 |                   根据第 K 场考试的分数排序                    | [.java][java-2545] |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -826,6 +827,7 @@
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
+[java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java

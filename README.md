@@ -387,6 +387,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2531 |            Make Number of Distinct Characters Equal            | [.java][java-2531] |                |                | [back to top] |
 | 2540 |                      Minimum Common Value                      | [.java][java-2540] |                |                | [back to top] |
 | 2541 |           Minimum Operations to Make Array Equal II            | [.java][java-2541] |                |                | [back to top] |
+| 2545 |              Sort the Students by Their Kth Score              | [.java][java-2545] |                |                | [back to top] |
 
 # TODO
 
@@ -802,3 +803,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
+[java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
