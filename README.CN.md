@@ -37,6 +37,7 @@
 | 0003 |                      无重复字符的最长子串                      | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [back to top] |
 | 0004 |                  Median of Two Sorted Arrays                   | [.java][java-0004] |                |                | [back to top] |
 | 0005 |                          最长回文子串                          | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] | [back to top] |
+| 0006 |                           N 字形变换                           | [.java][java-0006] |                |                | [back to top] |
 | 0007 |                            整数反转                            | [.java][java-0007] | [.py][py-0007] |                | [back to top] |
 | 0008 |                     字符串转换整数 (atoi)                      | [.java][java-0008] |                |                | [back to top] |
 | 0009 |                             回文数                             | [.java][java-0009] |                |                | [back to top] |
@@ -48,9 +49,9 @@
 | 0016 |                        最接近的三数之和                        | [.java][java-0016] |                |                | [back to top] |
 | 0017 |             Letter Combinations of a Phone Number              | [.java][java-0017] |                |                | [back to top] |
 | 0019 |                Remove Nth Node From End of List                | [.java][java-0019] |                |                | [back to top] |
-| 0020 |                       Valid Parentheses                        | [.java][java-0020] |                |                | [back to top] |
-| 0021 |                     Merge Two Sorted Lists                     | [.java][java-0021] |                |                | [back to top] |
-| 0022 |                      Generate Parentheses                      | [.java][java-0022] |                |                | [back to top] |
+| 0020 |                           有效的括号                           | [.java][java-0020] |                |                | [back to top] |
+| 0021 |                        合并两个有序链表                        | [.java][java-0021] |                |                | [back to top] |
+| 0022 |                            括号生成                            | [.java][java-0022] |                |                | [back to top] |
 | 0023 |                      Merge k Sorted Lists                      | [.java][java-0023] |                |                | [back to top] |
 | 0024 |                      两两交换链表中的节点                      | [.java][java-0024] |                |                | [back to top] |
 | 0025 |                    Reverse Nodes in k-Group                    | [.java][java-0025] |                |                | [back to top] |
@@ -65,8 +66,8 @@
 | 0035 |                     Search Insert Position                     | [.java][java-0035] |                |                | [back to top] |
 | 0036 |                          Valid Sudoku                          | [.java][java-0036] |                |                | [back to top] |
 | 0038 |                         Count and Say                          | [.java][java-0038] |                |                | [back to top] |
-| 0039 |                        Combination Sum                         | [.java][java-0039] |                |                | [back to top] |
-| 0040 |                       Combination Sum II                       | [.java][java-0040] |                |                | [back to top] |
+| 0039 |                            组合总和                            | [.java][java-0039] |                |                | [back to top] |
+| 0040 |                          组合总和 II                           | [.java][java-0040] |                |                | [back to top] |
 | 0042 |                      Trapping Rain Water                       | [.java][java-0042] |                |                | [back to top] |
 | 0043 |                        Multiply Strings                        | [.java][java-0043] |                |                | [back to top] |
 | 0045 |                          Jump Game II                          | [.java][java-0045] |                |                | [back to top] |
@@ -432,6 +433,7 @@
 [java-0005]: ./java-solutions/0005-longest-palindromic-substring/src/Solution.java
 [py-0005]: ./python-solutions/0005-longest-palindromic-substring/solution.py
 [js-0005]: ./javascript-solutions/0005-longest-palindromic-substring/solution.js
+[java-0006]: ./java-solutions/0006-zigzag-conversion/src/Solution.java
 [java-0007]: ./java-solutions/0007-reverse-integer/src/Solution.java
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
