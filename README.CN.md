@@ -208,7 +208,7 @@
 | 0402 |                        Remove K Digits                         | [.java][java-0402] |                |                | [back to top] |
 | 0409 |                       Longest Palindrome                       | [.java][java-0409] |                |                | [back to top] |
 | 0412 |                           Fizz Buzz                            | [.java][java-0412] |                |                | [back to top] |
-| 0415 |                          Add Strings                           | [.java][java-0415] |                |                | [back to top] |
+| 0415 |                           字符串相加                           | [.java][java-0415] |                |                | [back to top] |
 | 0423 |            Reconstruct Original Digits from English            | [.java][java-0423] |                |                | [back to top] |
 | 0424 |            Longest Repeating Character Replacement             | [.java][java-0424] |                |                | [back to top] |
 | 0429 |                N-ary Tree Level Order Traversal                | [.java][java-0429] |                |                | [back to top] |
@@ -224,11 +224,12 @@
 | 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                | [back to top] |
 | 0520 |                          检测大写字母                          | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] | [back to top] |
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                | [back to top] |
+| 0530 |                     二叉搜索树的最小绝对差                     | [.java][java-0530] |                |                | [back to top] |
 | 0559 |                  Maximum Depth of N-ary Tree                   | [.java][java-0559] |                |                | [back to top] |
 | 0589 |                 N-ary Tree Preorder Traversal                  | [.java][java-0589] |                |                | [back to top] |
 | 0590 |                 N-ary Tree Postorder Traversal                 | [.java][java-0590] |                |                | [back to top] |
 | 0598 |                       Range Addition II                        | [.java][java-0598] |                |                | [back to top] |
-| 0623 |                      Add One Row to Tree                       | [.java][java-0623] |                |                | [back to top] |
+| 0623 |                       在二叉树中增加一行                       | [.java][java-0623] |                |                | [back to top] |
 | 0641 |                     Design Circular Deque                      | [.java][java-0641] | [.py][py-0641] |                | [back to top] |
 | 0652 |                    Find Duplicate Subtrees                     | [.java][java-0652] |                |                | [back to top] |
 | 0653 |                  Two Sum IV - Input is a BST                   | [.java][java-0653] |                |                | [back to top] |
@@ -257,9 +258,9 @@
 | 0790 |                   Domino and Tromino Tiling                    | [.java][java-0790] |                |                | [back to top] |
 | 0792 |                Number of Matching Subsequences                 | [.java][java-0792] |                |                | [back to top] |
 | 0795 |            Number of Subarrays with Bounded Maximum            | [.java][java-0795] |                |                | [back to top] |
-| 0799 |                        Champagne Tower                         | [.java][java-0799] |                |                | [back to top] |
+| 0799 |                             香槟塔                             | [.java][java-0799] |                |                | [back to top] |
 | 0801 |           Minimum Swaps To Make Sequences Increasing           | [.java][java-0801] |                |                | [back to top] |
-| 0804 |                    Unique Morse Code Words                     | [.java][java-0804] | [.py][py-0804] | [.js][js-0804] | [back to top] |
+| 0804 |                        唯一摩尔斯密码词                        | [.java][java-0804] | [.py][py-0804] | [.js][js-0804] | [back to top] |
 | 0809 |                        Expressive Words                        | [.java][java-0809] |                |                | [back to top] |
 | 0811 |                     Subdomain Visit Count                      | [.java][java-0811] |                |                | [back to top] |
 | 0813 |                    Largest Sum of Averages                     | [.java][java-0813] |                |                | [back to top] |
@@ -654,6 +655,7 @@
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
+[java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/

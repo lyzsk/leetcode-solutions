@@ -224,6 +224,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                | [back to top] |
 | 0520 |                         Detect Capital                         | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] | [back to top] |
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                | [back to top] |
+| 0530 |               Minimum Absolute Difference in BST               | [.java][java-0530] |                |                | [back to top] |
 | 0559 |                  Maximum Depth of N-ary Tree                   | [.java][java-0559] |                |                | [back to top] |
 | 0589 |                 N-ary Tree Preorder Traversal                  | [.java][java-0589] |                |                | [back to top] |
 | 0590 |                 N-ary Tree Postorder Traversal                 | [.java][java-0590] |                |                | [back to top] |
@@ -630,6 +631,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
+[java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
