@@ -90,10 +90,10 @@
 | 0070 |                             爬楼梯                             | [.java][java-0070] |                | [.js][js-0070] | [back to top] |
 | 0073 |                       Set Matrix Zeroes                        | [.java][java-0073] |                |                | [back to top] |
 | 0074 |                       Search a 2D Matrix                       | [.java][java-0074] |                |                | [back to top] |
-| 0075 |                          Sort Colors                           | [.java][java-0075] |                |                | [back to top] |
+| 0075 |                            颜色分类                            | [.java][java-0075] |                |                | [back to top] |
 | 0076 |                    Minimum Window Substring                    | [.java][java-0076] |                |                | [back to top] |
-| 0077 |                          Combinations                          | [.java][java-0077] |                |                | [back to top] |
-| 0078 |                            Subsets                             | [.java][java-0078] |                |                | [back to top] |
+| 0077 |                              组合                              | [.java][java-0077] |                |                | [back to top] |
+| 0078 |                              子集                              | [.java][java-0078] |                |                | [back to top] |
 | 0079 |                          Word Search                           | [.java][java-0079] |                |                | [back to top] |
 | 0080 |             Remove Duplicates from Sorted Array II             | [.java][java-0080] |                |                | [back to top] |
 | 0081 |               Search in Rotated Sorted Array II                | [.java][java-0081] |                |                | [back to top] |
@@ -120,16 +120,17 @@
 | 0111 |                  Minimum Depth of Binary Tree                  | [.java][java-0111] |                |                | [back to top] |
 | 0112 |                            Path Sum                            | [.java][java-0112] |                |                | [back to top] |
 | 0113 |                          Path Sum II                           | [.java][java-0113] |                |                | [back to top] |
-| 0121 |                Best Time to Buy and Sell Stock                 | [.java][java-0121] | [.py][py-0121] | [.js][js-0121] | [back to top] |
+| 0121 |                       买卖股票的最佳时机                       | [.java][java-0121] | [.py][py-0121] | [.js][js-0121] | [back to top] |
+| 0122 |                     买卖股票的最佳时机 II                      | [.java][java-0122] |                |                | [back to top] |
 | 0124 |                  Binary Tree Maximum Path Sum                  | [.java][java-0124] |                |                | [back to top] |
-| 0125 |                        Valid Palindrome                        | [.java][java-0125] |                |                | [back to top] |
+| 0125 |                           验证回文串                           | [.java][java-0125] |                |                | [back to top] |
 | 0126 |                         Word Ladder II                         | [.java][java-0126] |                |                | [back to top] |
 | 0127 |                          Word Ladder                           | [.java][java-0127] |                |                | [back to top] |
-| 0128 |                  Longest Consecutive Sequence                  | [.java][java-0128] |                |                | [back to top] |
-| 0129 |                    Sum Root to Leaf Numbers                    | [.java][java-0129] |                |                | [back to top] |
+| 0128 |                          最长连续序列                          | [.java][java-0128] |                |                | [back to top] |
+| 0129 |                    求根节点到叶节点数字之和                    | [.java][java-0129] |                |                | [back to top] |
 | 0130 |                       Surrounded Regions                       | [.java][java-0130] |                |                | [back to top] |
 | 0134 |                          Gas Station                           | [.java][java-0134] |                |                | [back to top] |
-| 0136 |                         Single Number                          | [.java][java-0136] |                |                | [back to top] |
+| 0136 |                        只出现一次的数字                        | [.java][java-0136] |                |                | [back to top] |
 | 0139 |                           Word Break                           | [.java][java-0139] |                |                | [back to top] |
 | 0140 |                         Word Break II                          | [.java][java-0140] |                |                | [back to top] |
 | 0141 |                       Linked List Cycle                        | [.java][java-0141] |                | [.js][js-0141] | [back to top] |
@@ -308,11 +309,11 @@
 | 1443 |                   收集树上所有苹果的最少时间                   | [.java][java-1443] |                |                | [back to top] |
 | 1448 |                Count Good Nodes in Binary Tree                 | [.java][java-1448] |                |                | [back to top] |
 | 1450 |       Number of Students Doing Homework at a Given Time        | [.java][java-1450] |                |                | [back to top] |
-| 1455 |  Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [.java][java-1455] |                |                | [back to top] |
-| 1460 |         Make Two Arrays Equal by Reversing Sub-arrays          | [.java][java-1460] |                |                | [back to top] |
-| 1464 |          Maximum Product of Two Elements in an Array           | [.java][java-1464] |                |                | [back to top] |
-| 1470 |                       Shuffle the Array                        | [.java][java-1470] | [.py][py-1470] |                | [back to top] |
-| 1512 |                      Number of Good Pairs                      | [.java][java-1512] |                |                | [back to top] |
+| 1455 |                检查单词是否为句中其他单词的前缀                | [.java][java-1455] |                |                | [back to top] |
+| 1460 |                  通过翻转子数组使两个数组相等                  | [.java][java-1460] |                |                | [back to top] |
+| 1464 |                     数组中两元素的最大乘积                     | [.java][java-1464] |                |                | [back to top] |
+| 1470 |                          重新排列数组                          | [.java][java-1470] | [.py][py-1470] |                | [back to top] |
+| 1512 |                          好数对的数目                          | [.java][java-1512] |                |                | [back to top] |
 | 1523 |             Count Odd Numbers in an Interval Range             | [.java][java-1523] |                |                | [back to top] |
 | 1578 |               Minimum Time to Make Rope Colorful               | [.java][java-1578] |                |                | [back to top] |
 | 1656 |                    Design an Ordered Stream                    | [.java][java-1656] | [.py][py-1656] |                | [back to top] |
@@ -525,6 +526,7 @@
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
+[java-0122]: ./java-solutions/0122-best-time-to-buy-and-sell-stock-ii/src/Solution.java
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
 [java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java

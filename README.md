@@ -121,6 +121,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0112 |                            Path Sum                            | [.java][java-0112] |                |                | [back to top] |
 | 0113 |                          Path Sum II                           | [.java][java-0113] |                |                | [back to top] |
 | 0121 |                Best Time to Buy and Sell Stock                 | [.java][java-0121] | [.py][py-0121] | [.js][js-0121] | [back to top] |
+| 0122 |               Best Time to Buy and Sell Stock II               | [.java][java-0122] |                |                | [back to top] |
 | 0124 |                  Binary Tree Maximum Path Sum                  | [.java][java-0124] |                |                | [back to top] |
 | 0125 |                        Valid Palindrome                        | [.java][java-0125] |                |                | [back to top] |
 | 0126 |                         Word Ladder II                         | [.java][java-0126] |                |                | [back to top] |
@@ -501,6 +502,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
 [py-0121]: ./python-solutions/0121-best-time-to-buy-and-sell-stock/solution.py
 [js-0121]: ./javascript-solutions/0121-best-time-to-buy-and-sell-stock/solution.js
+[java-0122]: ./java-solutions/0122-best-time-to-buy-and-sell-stock-ii/src/Solution.java
 [java-0124]: ./java-solutions/0124-binary-tree-maximum-path-sum/src/Solution.java
 [java-0125]: ./java-solutions/0125-valid-palindrome/src/Solution.java
 [java-0126]: ./java-solutions/0126-word-ladder-ii/src/Solution.java
