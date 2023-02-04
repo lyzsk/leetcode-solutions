@@ -226,6 +226,7 @@
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                | [back to top] |
 | 0530 |                     二叉搜索树的最小绝对差                     | [.java][java-0530] |                |                | [back to top] |
 | 0559 |                  Maximum Depth of N-ary Tree                   | [.java][java-0559] |                |                | [back to top] |
+| 0567 |                          字符串的排列                          | [.java][java-0567] |                |                | [back to top] |
 | 0589 |                 N-ary Tree Preorder Traversal                  | [.java][java-0589] |                |                | [back to top] |
 | 0590 |                 N-ary Tree Postorder Traversal                 | [.java][java-0590] |                |                | [back to top] |
 | 0598 |                       Range Addition II                        | [.java][java-0598] |                |                | [back to top] |
@@ -631,6 +632,7 @@
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0559]: ./java-solutions/0559-maximum-depth-of-n-ary-tree/src/Solution.java
+[java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
