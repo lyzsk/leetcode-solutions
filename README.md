@@ -212,6 +212,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0423 |            Reconstruct Original Digits from English            | [.java][java-0423] |                |                | [back to top] |
 | 0424 |            Longest Repeating Character Replacement             | [.java][java-0424] |                |                | [back to top] |
 | 0429 |                N-ary Tree Level Order Traversal                | [.java][java-0429] |                |                | [back to top] |
+| 0438 |                 Find All Anagrams in a String                  | [.java][java-0438] |                |                | [back to top] |
 | 0442 |                Find All Duplicates in an Array                 | [.java][java-0442] |                |                | [back to top] |
 | 0443 |                       String Compression                       | [.java][java-0443] |                | [.js][js-0443] | [back to top] |
 | 0445 |                       Add Two Numbers II                       | [.java][java-0445] |                |                | [back to top] |
@@ -618,6 +619,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
+[java-0438]: ./java-solutions/0438-find-all-anagrams-in-a-string/src/Solution.java
 [java-0442]: ./java-solutions/0442-find-all-duplicates-in-array/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
