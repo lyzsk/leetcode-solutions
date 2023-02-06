@@ -378,6 +378,7 @@
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                | [back to top] |
 | 2283 |              判断一个数的数字计数是否等于数位的值              | [.java][java-2283] |                |                | [back to top] |
 | 2303 |                        计算应缴税款总额                        | [.java][java-2303] |                |                | [back to top] |
+| 2331 |                       计算布尔二叉树的值                       | [.java][java-2331] |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                | [back to top] |
 | 2351 |                      第一个出现两次的字母                      | [.java][java-2351] |                | [.js][js-2351] | [back to top] |
 | 2363 |                         合并相似的物品                         | [.java][java-2363] |                |                | [back to top] |
@@ -822,6 +823,7 @@
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
+[java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
