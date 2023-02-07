@@ -3,34 +3,6 @@
  * @date 2022/10/22
  **/
 public class Solution {
-    private static ListNode reverseList(ListNode head) {
-        if (head == null) {
-            return null;
-        }
-        ListNode slow = null;
-        ListNode fast = head;
-        while (fast != null) {
-            ListNode temp = fast.next;
-            fast.next = slow;
-            slow = fast;
-            fast = temp;
-        }
-        return slow;
-    }
-
-    private static ListNode endOfFirstHalf(ListNode head) {
-        if (head == null) {
-            return null;
-        }
-        ListNode slow = head;
-        ListNode fast = head;
-        while (fast.next != null && fast.next.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
-    }
-
     public boolean isPalindrome(ListNode head) {
         if (head == null) {
             return true;
@@ -46,5 +18,33 @@ public class Solution {
             p2 = p2.next;
         }
         return true;
+    }
+
+    private ListNode endOfFirstHalf(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    private ListNode reverseList(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+        ListNode slow = null;
+        ListNode fast = head;
+        while (fast != null) {
+            ListNode temp = fast.next;
+            fast.next = slow;
+            slow = fast;
+            fast = temp;
+        }
+        return slow;
     }
 }

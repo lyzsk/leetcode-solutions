@@ -173,8 +173,8 @@
 | 0226 |                       Invert Binary Tree                       | [.java][java-0226] |                |                | [back to top] |
 | 0230 |                 Kth Smallest Element in a BST                  | [.java][java-0230] |                |                | [back to top] |
 | 0232 |                  Implement Queue using Stacks                  | [.java][java-0232] |                |                | [back to top] |
-| 0234 |                     Palindrome Linked List                     | [.java][java-0234] |                |                | [back to top] |
-| 0236 |            Lowest Common Ancestor of a Binary Tree             | [.java][java-0236] |                |                | [back to top] |
+| 0234 |                            回文链表                            | [.java][java-0234] |                |                | [back to top] |
+| 0236 |                      二叉树的最近公共祖先                      | [.java][java-0236] |                |                | [back to top] |
 | 0237 |                  Delete Node in a Linked List                  | [.java][java-0237] |                |                | [back to top] |
 | 0239 |                     Sliding Window Maximum                     | [.java][java-0239] |                |                | [back to top] |
 | 0240 |                        搜索二维矩阵 II                         | [.java][java-0240] |                | [.js][js-0240] | [back to top] |
@@ -228,6 +228,7 @@
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                | [back to top] |
 | 0530 |                     二叉搜索树的最小绝对差                     | [.java][java-0530] |                |                | [back to top] |
 | 0559 |                  Maximum Depth of N-ary Tree                   | [.java][java-0559] |                |                | [back to top] |
+| 0561 |                            数组拆分                            | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] | [back to top] |
 | 0567 |                          字符串的排列                          | [.java][java-0567] |                |                | [back to top] |
 | 0589 |                 N-ary Tree Preorder Traversal                  | [.java][java-0589] |                |                | [back to top] |
 | 0590 |                 N-ary Tree Postorder Traversal                 | [.java][java-0590] |                |                | [back to top] |
@@ -636,6 +637,9 @@
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
 [java-0559]: ./java-solutions/0559-maximum-depth-of-n-ary-tree/src/Solution.java
+[java-0561]: ./java-solutions/0561-array-partition/src/Solution.java
+[py-0561]: ./python-solutions/0561-array-partition/solution.py
+[js-0561]: ./javascript-solutions/0561-array-partition/solution.js
 [java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
