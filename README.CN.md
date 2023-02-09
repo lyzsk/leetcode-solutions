@@ -346,6 +346,7 @@
 | 1785 |          Minimum Elements to Add to Form a Given Sum           | [.java][java-1785] |                |                |                | [back to top] |
 | 1790 |        Check if One String Swap Can Make Strings Equal         | [.java][java-1790] |                |                |                | [back to top] |
 | 1796 |                Second Largest Digit in a String                | [.java][java-1796] |                |                |                | [back to top] |
+| 1797 |                 Design Authentication Manager                  | [.java][java-1797] |                |                |                | [back to top] |
 | 1800 |                 Maximum Ascending Subarray Sum                 | [.java][java-1800] |                |                |                | [back to top] |
 | 1801 |                Number of Orders in the Backlog                 | [.java][java-1801] |                |                |                | [back to top] |
 | 1802 |       Maximum Value at a Given Index in a Bounded Array        | [.java][java-1802] |                |                |                | [back to top] |
@@ -793,6 +794,7 @@
 [java-1785]: ./java-solutions/1785-minimum-elements-to-add-to-form-a-given-sum/src/Solution.java
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
+[java-1797]: ./java-solutions/1797-design-authentication-manager/src/AuthenticationManager.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
 [java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
