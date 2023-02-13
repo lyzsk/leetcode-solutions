@@ -300,6 +300,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] |                |                |                | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                |                | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
+| 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
 | 1138 |                      Alphabet Board Path                       | [.java][java-1138] |                |                |                | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [.java][java-1143] |                |                |                | [back to top] |
 | 1144 |             Decrease Elements To Make Array Zigzag             | [.java][java-1144] |                |                |                | [back to top] |
@@ -721,6 +722,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
+[java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
