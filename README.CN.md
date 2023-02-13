@@ -193,7 +193,7 @@
 | 0309 |         Best Time to Buy and Sell Stock with Cooldown          | [.java][java-0309] |                |                |                | [back to top] |
 | 0316 |                    Remove Duplicate Letters                    | [.java][java-0316] |                |                |                | [back to top] |
 | 0322 |                          Coin Change                           | [.java][java-0322] |                |                |                | [back to top] |
-| 0324 |                         Wiggle Sort II                         | [.java][java-0324] |                |                |                | [bakc to top] |
+| 0324 |                         Wiggle Sort II                         | [.java][java-0324] |                |                |                | [back to top] |
 | 0327 |                       Count of Range Sum                       | [.java][java-0327] |                |                |                | [back to top] |
 | 0328 |                      Odd Even Linked List                      | [.java][java-0328] |                |                |                | [back to top] |
 | 0334 |                 Increasing Triplet Subsequence                 | [.java][java-0334] |                |                |                | [back to top] |
@@ -307,6 +307,7 @@
 | 1207 |                  Unique Number of Occurrences                  | [.java][java-1207] |                |                |                | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [.java][java-1224] |                |                |                | [back to top] |
 | 1233 |             Remove Sub-Folders from the Filesystem             | [.java][java-1233] |                |                |                | [back to top] |
+| 1234 |           Replace the Substring for Balanced String            | [.java][java-1234] |                |                |                | [back to top] |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [.java][java-1239] |                |                |                | [back to top] |
 | 1302 |                       Deepest Leaves Sum                       | [.java][java-1302] |                | [.py][py-1302] |                | [back to top] |
 | 1304 |             Find N Unique Integers Sum up to Zero              | [.java][java-1304] |                |                |                | [back to top] |
@@ -751,6 +752,7 @@
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
+[java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
