@@ -6,18 +6,18 @@ import java.util.List;
  * @date 2022/10/02
  **/
 public class Solution {
-    private static void inOrder(TreeNode root, List<Integer> res) {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        inorderTraversal(res, root);
+        return res;
+    }
+
+    private void inorderTraversal(List<Integer> res, TreeNode root) {
         if (root == null) {
             return;
         }
-        inOrder(root.left, res);
+        inorderTraversal(res, root.left);
         res.add(root.val);
-        inOrder(root.right, res);
-    }
-
-    public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        inOrder(root, res);
-        return res;
+        inorderTraversal(res, root.right);
     }
 }

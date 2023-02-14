@@ -108,6 +108,7 @@
 | 0093 |                      Restore IP Addresses                      | [.java][java-0093] |                |                |                | [back to top] |
 | 0094 |                 Binary Tree Inorder Traversal                  | [.java][java-0094] |                |                |                | [back to top] |
 | 0098 |                  Validate Binary Search Tree                   | [.java][java-0098] |                |                |                | [back to top] |
+| 0099 |                   Recover Binary Search Tree                   | [.java][java-0099] |                |                |                | [back to top] |
 | 0100 |                           Same Tree                            | [.java][java-0100] |                |                |                | [back to top] |
 | 0101 |                         Symmetric Tree                         | [.java][java-0101] |                |                |                | [back to top] |
 | 0102 |               Binary Tree Level Order Traversal                | [.java][java-0102] |                |                |                | [back to top] |
@@ -403,6 +404,7 @@
 | 2540 |                      Minimum Common Value                      | [.java][java-2540] |                |                |                | [back to top] |
 | 2541 |           Minimum Operations to Make Array Equal II            | [.java][java-2541] |                |                |                | [back to top] |
 | 2545 |              Sort the Students by Their Kth Score              | [.java][java-2545] |                |                |                | [back to top] |
+| 2562 |               Find the Array Concatenation Value               | [.java][java-2562] |                |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -525,6 +527,7 @@
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
 [java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
+[java-0099]: ./java-solutions/0099-recover-binary-search-tree/src/Solution.java
 [java-0100]: ./java-solutions/0100-same-tree/src/Solution.java
 [java-0101]: ./java-solutions/0101-symmetric-tree/src/Solution.java
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
@@ -862,6 +865,7 @@
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
+[java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
