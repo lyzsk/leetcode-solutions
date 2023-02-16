@@ -113,7 +113,7 @@
 | 0101 |                         Symmetric Tree                         | [.java][java-0101] |                |                |                | [back to top] |
 | 0102 |               Binary Tree Level Order Traversal                | [.java][java-0102] |                |                |                | [back to top] |
 | 0103 |            Binary Tree Zigzag Level Order Traversal            | [.java][java-0103] |                |                |                | [back to top] |
-| 0104 |                  Maximum Depth of Binary Tree                  | [.java][java-0104] |                |                |                | [back to top] |
+| 0104 |                  Maximum Depth of Binary Tree                  | [.java][java-0104] | [.go][go-0104] |                |                | [back to top] |
 | 0105 |   Construct Binary Tree from Preorder and Inorder Traversal    | [.java][java-0105] |                |                |                | [back to top] |
 | 0106 |   Construct Binary Tree from Inorder and Postorder Traversal   | [.java][java-0106] |                |                |                | [back to top] |
 | 0107 |              Binary Tree Level Order Traversal II              | [.java][java-0107] |                |                |                | [back to top] |
@@ -303,6 +303,7 @@
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
 | 1138 |                      Alphabet Board Path                       | [.java][java-1138] |                |                |                | [back to top] |
+| 1139 |                   Largest 1-Bordered Square                    | [.java][java-1139] |                |                |                | [back to top] |
 | 1143 |                   Longest Common Subsequence                   | [.java][java-1143] |                |                |                | [back to top] |
 | 1144 |             Decrease Elements To Make Array Zigzag             | [.java][java-1144] |                |                |                | [back to top] |
 | 1156 |         Swap For Longest Repeated Character Substring          | [.java][java-1156] |                |                |                | [back to top] |
@@ -385,7 +386,7 @@
 | 2225 |              Find Players With Zero or One Losses              | [.java][java-2225] |                |                |                | [back to top] |
 | 2244 |              Minimum Rounds to Complete All Tasks              | [.java][java-2244] |                |                |                | [back to top] |
 | 2256 |                   Minimum Average Difference                   | [.java][java-2256] |                |                |                | [back to top] |
-| 2283 |     Check if Number Has Equal Digit Count and Digit Value      | [.java][java-2283] |                |                |                | [back to top] |
+| 2283 |     Check if Number Has Equal Digit Count and Digit Value      | [.java][java-2283] | [.go][go-2283] |                |                | [back to top] |
 | 2303 |                 Calculate Amount Paid in Taxes                 | [.java][java-2303] |                |                |                | [back to top] |
 | 2331 |                  Evaluate Boolean Binary Tree                  | [.java][java-2331] |                |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                |                | [back to top] |
@@ -533,6 +534,7 @@
 [java-0102]: ./java-solutions/0102-binary-tree-level-order-traversal/src/Solution.java
 [java-0103]: ./java-solutions/0103-binary-tree-zigzag-level-order-traversal/src/Solution.java
 [java-0104]: ./java-solutions/0104-maximum-depth-of-binary-tree/src/Solution.java
+[go-0104]: ./golang-solutions/0104-maximum-depth-of-binary-tree/solution.go
 [java-0105]: ./java-solutions/0105-construct-binary-tree-from-preorder-and-inorder-traversal/src/Solution.java
 [java-0106]: ./java-solutions/0106-construct-binary-tree-from-inorder-and-postorder-traversal/src/Solution.java
 [java-0107]: ./java-solutions/0107-binary-tree-level-order-traversal-ii/src/Solution.java
@@ -751,6 +753,7 @@
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
+[java-1139]: ./java-solutions/1139-largest-1-bordered-square/src/Solution.java
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
@@ -848,6 +851,7 @@
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
+[go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
