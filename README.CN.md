@@ -171,7 +171,7 @@
 | 0219 |                     Contains Duplicate II                      | [.java][java-0219] |                |                |                | [back to top] |
 | 0222 |                   Count Complete Tree Nodes                    | [.java][java-0222] |                |                |                | [back to top] |
 | 0223 |                         Rectangle Area                         | [.java][java-0223] |                |                |                | [back to top] |
-| 0226 |                       Invert Binary Tree                       | [.java][java-0226] |                |                |                | [back to top] |
+| 0226 |                       Invert Binary Tree                       | [.java][java-0226] | [.go][go-0226] | [.py][py-0226] | [.js][js-0226] | [back to top] |
 | 0230 |                 Kth Smallest Element in a BST                  | [.java][java-0230] |                |                |                | [back to top] |
 | 0232 |                  Implement Queue using Stacks                  | [.java][java-0232] |                |                |                | [back to top] |
 | 0234 |                     Palindrome Linked List                     | [.java][java-0234] |                |                |                | [back to top] |
@@ -260,6 +260,7 @@
 | 0769 |                   Max Chunks To Make Sorted                    | [.java][java-0769] |                |                |                | [back to top] |
 | 0775 |                  Global and Local Inversions                   | [.java][java-0775] |                |                |                | [back to top] |
 | 0777 |                   Swap Adjacent in LR String                   | [.java][java-0777] |                |                |                | [back to top] |
+| 0783 |               Minimum Distance Between BST Nodes               | [.java][java-0783] | [.go][go-0783] |                | [.js][js-0783] | [back to top] |
 | 0788 |                         Rotated Digits                         | [.java][java-0788] |                |                |                | [back to top] |
 | 0790 |                   Domino and Tromino Tiling                    | [.java][java-0790] |                |                |                | [back to top] |
 | 0792 |                Number of Matching Subsequences                 | [.java][java-0792] |                |                |                | [back to top] |
@@ -605,6 +606,9 @@
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
 [java-0223]: ./java-solutions/0223-rectangle-area/src/Solution.java
 [java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
+[go-0226]: ./golang-solutions/0226-invert-binary-tree/solution.go
+[py-0226]: ./python-solutions/0226-invert-binary-tree/solution.py
+[js-0226]: ./javascript-solutions/0226-invert-binary-tree/solution.js
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
@@ -705,6 +709,9 @@
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0783]: ./java-solutions/0783-minimum-distance-between-bst-nodes/src/Solution.java
+[go-0783]: ./golang-solutions/0783-minimum-distance-between-bst-nodes/solution.go
+[js-0783]: ./javascript-solutions/0783-minimum-distance-between-bst-nodes/solution.js
 [java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0790]: ./java-solutions/0790-domino-and-tromino-tiling/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
