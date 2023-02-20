@@ -63,7 +63,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0031 |                        Next Permutation                        | [.java][java-0031] |                |                |                | [back to top] |
 | 0033 |                 Search in Rotated Sorted Array                 | [.java][java-0033] |                |                |                | [back to top] |
 | 0034 |    Find First and Last Position of Element in Sorted Array     | [.java][java-0034] |                |                |                | [back to top] |
-| 0035 |                     Search Insert Position                     | [.java][java-0035] |                |                |                | [back to top] |
+| 0035 |                     Search Insert Position                     | [.java][java-0035] | [.go][go-0035] | [.py][py-0035] | [.js][js-0035] | [back to top] |
 | 0036 |                          Valid Sudoku                          | [.java][java-0036] |                |                |                | [back to top] |
 | 0038 |                         Count and Say                          | [.java][java-0038] |                |                |                | [back to top] |
 | 0039 |                        Combination Sum                         | [.java][java-0039] |                |                |                | [back to top] |
@@ -237,6 +237,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0598 |                       Range Addition II                        | [.java][java-0598] |                |                |                | [back to top] |
 | 0623 |                      Add One Row to Tree                       | [.java][java-0623] |                |                |                | [back to top] |
 | 0641 |                     Design Circular Deque                      | [.java][java-0641] |                | [.py][py-0641] |                | [back to top] |
+| 0647 |                     Palindromic Substrings                     | [.java][java-0647] |                |                |                | [back to top] |
 | 0652 |                    Find Duplicate Subtrees                     | [.java][java-0652] |                |                |                | [back to top] |
 | 0653 |                  Two Sum IV - Input is a BST                   | [.java][java-0653] |                |                |                | [back to top] |
 | 0654 |                      Maximum Binary Tree                       | [.java][java-0654] |                |                |                | [back to top] |
@@ -459,6 +460,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0035]: ./java-solutions/0035-search-insert-position/src/Solution.java
+[go-0035]: ./golang-solutions/0035-search-insert-position/solution.go
+[py-0035]: ./python-solutions/0035-search-insert-position/solution.py
+[js-0035]: ./javascript-solutions/0035-search-insert-position/solution.js
 [java-0036]: ./java-solutions/0036-valid-sudoku/src/Solution.java
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
@@ -641,6 +645,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
+[java-0647]: ./java-solutions/0647-palindromic-substrings/src/Solution.java
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
