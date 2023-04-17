@@ -300,7 +300,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0989 |                  Add to Array-Form of Integer                  | [.java][java-0989] |                |                |                | [back to top] |
 | 0997 |                      Find the Town Judge                       | [.java][java-0997] |                |                |                | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [.java][java-0998] |                |                |                | [back to top] |
-| 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] |                |                |                | [back to top] |
+| 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] | [.go][go-1026] | [.py][py-1026] | [.js][js-1026] | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                |                | [back to top] |
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
@@ -321,7 +321,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                |                | [back to top] |
 | 1422 |             Maximum Score After Splitting a String             | [.java][java-1422] |                | [.py][py-1422] | [.js][js-1422] | [back to top] |
-| 1431 |            Kids With the Greatest Number of Candies            | [.java][java-1431] |                | [.py][py-1431] |                | [back to top] |
+| 1431 |            Kids With the Greatest Number of Candies            | [.java][java-1431] | [.go][go-1431] | [.py][py-1431] | [.js][js-1431] | [back to top] |
 | 1443 |          Minimum Time to Collect All Apples in a Tree          | [.java][java-1443] |                |                |                | [back to top] |
 | 1448 |                Count Good Nodes in Binary Tree                 | [.java][java-1448] |                |                |                | [back to top] |
 | 1450 |       Number of Students Doing Homework at a Given Time        | [.java][java-1450] |                |                |                | [back to top] |
@@ -740,6 +740,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
+[go-1026]: ./golang-solutions/1026-maximum-difference-between-node-and-ancestor/solution.go
+[py-1026]: ./python-solutions/1026-maximum-difference-between-node-and-ancestor/solution.py
+[js-1026]: ./javascript-solutions/1026-maximum-difference-between-node-and-ancestor/solution.js
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
 [java-1042]: ./java-solutions/1042-flower-planting-with-no-adjacent/src/Solution.java
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
@@ -764,7 +767,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
 [java-1431]: ./java-solutions/1431-kids-with-the-greatest-number-of-candies/src/Solution.java
+[go-1431]: ./golang-solutions/1431-kids-with-the-greatest-number-of-candies/solution.go
 [py-1431]: ./python-solutions/1431-kids-with-the-greatest-number-of-candies/solution.py
+[js-1431]: ./javascript-solutions/1431-kids-with-the-greatest-number-of-candies/solution.js
 [java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
