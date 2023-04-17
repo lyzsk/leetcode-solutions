@@ -321,6 +321,7 @@
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                |                | [back to top] |
 | 1422 |             Maximum Score After Splitting a String             | [.java][java-1422] |                | [.py][py-1422] | [.js][js-1422] | [back to top] |
+| 1431 |            Kids With the Greatest Number of Candies            | [.java][java-1431] |                | [.py][py-1431] |                | [back to top] |
 | 1443 |          Minimum Time to Collect All Apples in a Tree          | [.java][java-1443] |                |                |                | [back to top] |
 | 1448 |                Count Good Nodes in Binary Tree                 | [.java][java-1448] |                |                |                | [back to top] |
 | 1450 |       Number of Students Doing Homework at a Given Time        | [.java][java-1450] |                |                |                | [back to top] |
@@ -783,6 +784,8 @@
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
+[java-1431]: ./java-solutions/1431-kids-with-the-greatest-number-of-candies/src/Solution.java
+[py-1431]: ./python-solutions/1431-kids-with-the-greatest-number-of-candies/solution.py
 [java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
