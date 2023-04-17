@@ -397,6 +397,7 @@
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                |                | [back to top] |
 | 2389 |              Longest Subsequence With Limited Sum              | [.java][java-2389] |                |                |                | [back to top] |
+| 2409 |                   Count Days Spent Together                    | [.java][java-2409] |                | [.py][py-2409] |                | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                |                | [back to top] |
 | 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                |                | [back to top] |
@@ -870,6 +871,8 @@
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
+[java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java
+[py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
 [java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
