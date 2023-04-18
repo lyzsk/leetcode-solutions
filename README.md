@@ -206,6 +206,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0378 |            Kth Smallest Element in a Sorted Matrix             | [.java][java-0378] |                |                |                | [back to top] |
 | 0380 |                  Insert Delete GetRandom O(1)                  | [.java][java-0380] |                |                |                | [back to top] |
 | 0387 |               First Unique Character in a String               | [.java][java-0387] |                |                | [.js][js-0387] | [back to top] |
+| 0389 |                      Find the Difference                       | [.java][java-0389] | [.go][go-0389] | [.py][py-0389] | [.js][js-0389] | [back to top] |
 | 0392 |                         Is Subsequence                         | [.java][java-0392] |                |                |                | [back to top] |
 | 0395 |     Longest Substring with At Least K Repeating Characters     | [.java][java-0395] |                |                |                | [back to top] |
 | 0402 |                        Remove K Digits                         | [.java][java-0402] |                |                |                | [back to top] |
@@ -634,6 +635,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0380]: ./java-solutions/0380-insert-delete-getrandom-o1/src/RandomizedSet.java
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
+[java-0389]: ./java-solutions/0389-find-the-difference/src/Solution.java
+[go-0389]: ./golang-solutions/0389-find-the-difference/solution.go
+[py-0389]: ./python-solutions/0389-find-the-difference/solution.py
+[js-0389]: ./javascript-solutions/0389-find-the-difference/solution.js
 [java-0392]: ./java-solutions/0392-is-subsequence/src/Solution.java
 [java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
