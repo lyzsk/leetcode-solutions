@@ -225,7 +225,7 @@
 | 0491 |                  Non-decreasing Subsequences                   | [.java][java-0491] |                |                |                | [back to top] |
 | 0493 |                         Reverse Pairs                          | [.java][java-0493] |                |                |                | [back to top] |
 | 0507 |                         Perfect Number                         | [.java][java-0507] |                |                |                | [back to top] |
-| 0509 |                        Fibonacci Number                        | [.java][java-0509] |                |                |                | [back to top] |
+| 0509 |                        Fibonacci Number                        | [.java][java-0509] | [.go][go-0509] | [.py][py-0509] | [.js][js-0509] | [back to top] |
 | 0520 |                         Detect Capital                         | [.java][java-0520] |                | [.py][py-0520] | [.js][js-0520] | [back to top] |
 | 0525 |                        Contiguous Array                        | [.java][java-0525] |                |                |                | [back to top] |
 | 0530 |               Minimum Absolute Difference in BST               | [.java][java-0530] |                |                |                | [back to top] |
@@ -685,6 +685,9 @@
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
+[go-0509]: ./golang-solutions/0509-fibonacci-number/solution.go
+[py-0509]: ./python-solutions/0509-fibonacci-number/solution.py
+[js-0509]: ./javascript-solutions/0509-fibonacci-number/solution.js
 [java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
