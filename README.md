@@ -193,7 +193,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0307 |                   Range Sum Query - Mutable                    | [.java][java-0307] |                |                |                | [back to top] |
 | 0309 |         Best Time to Buy and Sell Stock with Cooldown          | [.java][java-0309] |                |                |                | [back to top] |
 | 0316 |                    Remove Duplicate Letters                    | [.java][java-0316] |                |                |                | [back to top] |
-| 0322 |                          Coin Change                           | [.java][java-0322] |                |                |                | [back to top] |
+| 0322 |                          Coin Change                           | [.java][java-0322] | [.go][go-0322] | [.py][py-0322] | [.js][js-0322] | [back to top] |
 | 0324 |                         Wiggle Sort II                         | [.java][java-0324] |                |                |                | [back to top] |
 | 0327 |                       Count of Range Sum                       | [.java][java-0327] |                |                |                | [back to top] |
 | 0328 |                      Odd Even Linked List                      | [.java][java-0328] |                |                |                | [back to top] |
@@ -618,6 +618,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0309]: ./java-solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
+[go-0322]: ./golang-solutions/0322-coin-change/solution.go
+[py-0322]: ./python-solutions/0322-coin-change/solution.py
+[js-0322]: ./javascript-solutions/0322-coin-change/solution.js
 [java-0324]: ./java-solutions/0324-wiggle-sort-ii/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
 [java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
