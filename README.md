@@ -320,6 +320,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1302 |                       Deepest Leaves Sum                       | [.java][java-1302] |                | [.py][py-1302] |                | [back to top] |
 | 1304 |             Find N Unique Integers Sum up to Zero              | [.java][java-1304] |                |                |                | [back to top] |
 | 1328 |                       Break a Palindrome                       | [.java][java-1328] |                |                |                | [back to top] |
+| 1372 |              Longest ZigZag Path in a Binary Tree              | [.java][java-1372] | [.go][go-1372] | [.py][py-1372] | [.js][js-1372] | [back to top] |
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                |                | [back to top] |
 | 1422 |             Maximum Score After Splitting a String             | [.java][java-1422] |                | [.py][py-1422] | [.js][js-1422] | [back to top] |
@@ -776,6 +777,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
+[java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
+[go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
+[py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
+[js-1372]: ./javascript-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.js
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
