@@ -304,6 +304,7 @@
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] | [.go][go-1026] | [.py][py-1026] | [.js][js-1026] | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                |                | [back to top] |
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
+| 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
 | 1138 |                      Alphabet Board Path                       | [.java][java-1138] |                |                |                | [back to top] |
@@ -777,6 +778,9 @@
 [js-1026]: ./javascript-solutions/1026-maximum-difference-between-node-and-ancestor/solution.js
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
 [java-1042]: ./java-solutions/1042-flower-planting-with-no-adjacent/src/Solution.java
+[java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
+[py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
+[js-1043]: ./javascript-solutions/1043-partition-array-for-maximum-sum/solution.js
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
