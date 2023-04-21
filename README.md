@@ -397,11 +397,13 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2303 |                 Calculate Amount Paid in Taxes                 | [.java][java-2303] |                |                |                | [back to top] |
 | 2331 |                  Evaluate Boolean Binary Tree                  | [.java][java-2331] |                |                |                | [back to top] |
 | 2342 |           Max Sum of a Pair With Equal Sum of Digits           | [.java][java-2342] |                |                |                | [back to top] |
+| 2348 |                Number of Zero-Filled Subarrays                 | [.java][java-2348] | [.go][go-2348] | [.py][py-2348] | [.js][js-2348] | [back to top] |
 | 2351 |                  First Letter to Appear Twice                  | [.java][java-2351] |                |                | [.js][js-2351] | [back to top] |
 | 2363 |                      Merge Similar Items                       | [.java][java-2363] |                |                |                | [back to top] |
 | 2379 |       Minimum Recolors to Get K Consecutive Black Blocks       | [.java][java-2379] |                |                |                | [back to top] |
 | 2389 |              Longest Subsequence With Limited Sum              | [.java][java-2389] |                |                |                | [back to top] |
 | 2409 |                   Count Days Spent Together                    | [.java][java-2409] |                | [.py][py-2409] |                | [back to top] |
+| 2413 |                     Smallest Even Multiple                     | [.java][java-2413] | [.go][go-2413] | [.py][py-2413] | [.js][js-2413] | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                |                | [back to top] |
 | 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                |                | [back to top] |
@@ -877,6 +879,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
+[java-2348]: ./java-solutions/2348-number-of-zero-filled-subarrays/src/Solution.java
+[go-2348]: ./golang-solutions/2348-number-of-zero-filled-subarrays/solution.go
+[py-2348]: ./python-solutions/2348-number-of-zero-filled-subarrays/solution.py
+[js-2348]: ./javascript-solutions/2348-number-of-zero-filled-subarrays/solution.js
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
@@ -884,6 +890,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java
 [py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
+[java-2413]: ./java-solutions/2413-smallest-even-multiple/src/Solution.java
+[go-2413]: ./golang-solutions/2413-smallest-even-multiple/solution.go
+[py-2413]: ./python-solutions/2413-smallest-even-multiple/solution.py
+[js-2413]: ./javascript-solutions/2413-smallest-even-multiple/solution.js
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
