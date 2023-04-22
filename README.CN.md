@@ -302,7 +302,8 @@
 | 0997 |                      Find the Town Judge                       | [.java][java-0997] |                |                |                | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [.java][java-0998] |                |                |                | [back to top] |
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] | [.go][go-1026] | [.py][py-1026] | [.js][js-1026] | [back to top] |
-| 1029 |                      Two City Scheduling                       | [.java][java-1029] |                |                |                | [back to top] |
+| 1027 |                 Longest Arithmetic Subsequence                 | [.java][java-1027] | [.go][go-1027] | [.py][py-1027] | [.js][js-1027] | [back to top] |
+| 1029 |                      Two City Scheduling                       | [.java][java-1029] |                | [.py][py-1029] | [.js][js-1029] | [back to top] |
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
 | 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
@@ -781,7 +782,13 @@
 [go-1026]: ./golang-solutions/1026-maximum-difference-between-node-and-ancestor/solution.go
 [py-1026]: ./python-solutions/1026-maximum-difference-between-node-and-ancestor/solution.py
 [js-1026]: ./javascript-solutions/1026-maximum-difference-between-node-and-ancestor/solution.js
+[java-1027]: ./java-solutions/1027-longest-arithmetic-subsequence/src/Solution.java
+[go-1027]: ./golang-solutions/1027-longest-arithmetic-subsequence/solution.go
+[py-1027]: ./python-solutions/1027-longest-arithmetic-subsequence/solution.py
+[js-1027]: ./javascript-solutions/1027-longest-arithmetic-subsequence/solution.js
 [java-1029]: ./java-solutions/1029-two-city-scheduling/src/Solution.java
+[py-1029]: ./python-solutions/1029-two-city-scheduling/solution.py
+[js-1029]: ./javascript-solutions/1029-two-city-scheduling/solution.js
 [java-1042]: ./java-solutions/1042-flower-planting-with-no-adjacent/src/Solution.java
 [java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
 [py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
