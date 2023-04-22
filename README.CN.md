@@ -318,6 +318,7 @@
 | 1233 |             Remove Sub-Folders from the Filesystem             | [.java][java-1233] |                |                |                | [back to top] |
 | 1234 |           Replace the Substring for Balanced String            | [.java][java-1234] |                |                |                | [back to top] |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [.java][java-1239] |                |                |                | [back to top] |
+| 1260 |                         Shift 2D Grid                          | [.java][java-1260] |                | [.py][py-1260] | [.js][js-1260] | [back to top] |
 | 1302 |                       Deepest Leaves Sum                       | [.java][java-1302] |                | [.py][py-1302] |                | [back to top] |
 | 1304 |             Find N Unique Integers Sum up to Zero              | [.java][java-1304] |                |                |                | [back to top] |
 | 1328 |                       Break a Palindrome                       | [.java][java-1328] |                |                |                | [back to top] |
@@ -805,6 +806,9 @@
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
 [java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
+[java-1260]: ./java-solutions/1260-shift-2d-grid/src/Solution.java
+[py-1260]: ./python-solutions/1260-shift-2d-grid/solution.py
+[js-1260]: ./javascript-solutions/1260-shift-2d-grid/solution.js
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
