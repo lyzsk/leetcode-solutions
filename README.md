@@ -251,7 +251,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0680 |                      Valid Palindrome II                       | [.java][java-0680] |                |                |                | [back to top] |
 | 0687 |                     Longest Univalue Path                      | [.java][java-0687] |                |                |                | [back to top] |
 | 0692 |                      Top K Frequent Words                      | [.java][java-0692] |                |                |                | [back to top] |
-| 0695 |                       Max Area of Island                       | [.java][java-0695] |                |                |                | [back to top] |
+| 0695 |                       Max Area of Island                       | [.java][java-0695] |                | [.py][py-0695] | [.js][js-0695] | [back to top] |
 | 0696 |                    Count Binary Substrings                     | [.java][java-0696] |                |                |                | [back to top] |
 | 0703 |                Kth Largest Element in a Stream                 | [.java][java-0703] |                |                |                | [back to top] |
 | 0704 |                         Binary Search                          | [.java][java-0704] |                |                | [.js][js-0704] | [back to top] |
@@ -704,6 +704,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
 [java-0692]: ./java-solutions/0692-top-k-frequent-words/src/Solution.java
 [java-0695]: ./java-solutions/0695-max-area-of-island/src/Solution.java
+[py-0695]: ./python-solutions/0695-max-area-of-island/solution.py
+[js-0695]: ./javascript-solutions/0695-max-area-of-island/solution.js
 [java-0696]: ./java-solutions/0696-count-binary-substrings/src/Solution.java
 [java-0703]: ./java-solutions/0703-kth-largest-element-in-a-stream/src/KthLargest.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
