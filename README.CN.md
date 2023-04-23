@@ -307,6 +307,7 @@
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                | [.py][py-1029] | [.js][js-1029] | [back to top] |
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
 | 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
+| 1105 |                    Filling Bookcase Shelves                    | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
 | 1138 |                      Alphabet Board Path                       | [.java][java-1138] |                |                |                | [back to top] |
@@ -326,6 +327,7 @@
 | 1372 |              Longest ZigZag Path in a Binary Tree              | [.java][java-1372] | [.go][go-1372] | [.py][py-1372] | [.js][js-1372] | [back to top] |
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                |                | [back to top] |
+| 1416 |                       Restore The Array                        | [.java][java-1416] |                | [.py][py-1416] | [.js][js-1416] | [back to top] |
 | 1422 |             Maximum Score After Splitting a String             | [.java][java-1422] |                | [.py][py-1422] | [.js][js-1422] | [back to top] |
 | 1431 |            Kids With the Greatest Number of Candies            | [.java][java-1431] | [.go][go-1431] | [.py][py-1431] | [.js][js-1431] | [back to top] |
 | 1443 |          Minimum Time to Collect All Apples in a Tree          | [.java][java-1443] |                |                |                | [back to top] |
@@ -800,6 +802,9 @@
 [java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
 [py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
 [js-1043]: ./javascript-solutions/1043-partition-array-for-maximum-sum/solution.js
+[java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
+[py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
+[js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
@@ -825,6 +830,9 @@
 [js-1372]: ./javascript-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.js
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
+[java-1416]: ./java-solutions/1416-restore-the-array/src/Solution.java
+[py-1416]: ./python-solutions/1416-restore-the-array/solution.py
+[js-1416]: ./javascript-solutions/1416-restore-the-array/solution.js
 [java-1422]: ./java-solutions/1422-maximum-score-after-splitting-a-string/src/Solution.java
 [py-1422]: ./python-solutions/1422-maximum-score-after-splitting-a-string/solution.py
 [js-1422]: ./javascript-solutions/1422-maximum-score-after-splitting-a-string/solution.js
