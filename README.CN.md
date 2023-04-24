@@ -307,6 +307,7 @@
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                | [.py][py-1029] | [.js][js-1029] | [back to top] |
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
 | 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
+| 1046 |                       Last Stone Weight                        | [.java][java-1046] |                | [.py][py-1046] | [.js][js-1046] | [back to top] |
 | 1105 |                    Filling Bookcase Shelves                    | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
@@ -315,6 +316,7 @@
 | 1143 |                   Longest Common Subsequence                   | [.java][java-1143] |                |                |                | [back to top] |
 | 1144 |             Decrease Elements To Make Array Zigzag             | [.java][java-1144] |                |                |                | [back to top] |
 | 1156 |         Swap For Longest Repeated Character Substring          | [.java][java-1156] |                |                |                | [back to top] |
+| 1163 |            Last Substring in Lexicographical Order             | [.java][java-1163] |                | [.py][py-1163] | [.js][js-1163] | [back to top] |
 | 1207 |                  Unique Number of Occurrences                  | [.java][java-1207] |                |                |                | [back to top] |
 | 1224 |                    Maximum Equal Frequency                     | [.java][java-1224] |                |                |                | [back to top] |
 | 1233 |             Remove Sub-Folders from the Filesystem             | [.java][java-1233] |                |                |                | [back to top] |
@@ -802,6 +804,9 @@
 [java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
 [py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
 [js-1043]: ./javascript-solutions/1043-partition-array-for-maximum-sum/solution.js
+[java-1046]: ./java-solutions/1046-last-stone-weight/src/Solution.java
+[py-1046]: ./python-solutions/1046-last-stone-weight/solution.py
+[js-1046]: ./javascript-solutions/1046-last-stone-weight/solution.js
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
@@ -812,6 +817,9 @@
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
+[java-1163]: ./java-solutions/1163-last-substring-in-lexicographical-order/src/Solution.java
+[py-1163]: ./python-solutions/1163-last-substring-in-lexicographical-order/solution.py
+[js-1163]: ./javascript-solutions/1163-last-substring-in-lexicographical-order/solution.js
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
