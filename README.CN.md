@@ -411,6 +411,7 @@
 | 2389 |              Longest Subsequence With Limited Sum              | [.java][java-2389] |                |                |                | [back to top] |
 | 2409 |                   Count Days Spent Together                    | [.java][java-2409] |                | [.py][py-2409] |                | [back to top] |
 | 2413 |                     Smallest Even Multiple                     | [.java][java-2413] | [.go][go-2413] | [.py][py-2413] | [.js][js-2413] | [back to top] |
+| 2418 |                        Sort the People                         | [.java][java-2418] |                | [.py][py-2418] | [.js][js-2418] | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                |                | [back to top] |
 | 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                |                | [back to top] |
@@ -949,6 +950,9 @@
 [go-2413]: ./golang-solutions/2413-smallest-even-multiple/solution.go
 [py-2413]: ./python-solutions/2413-smallest-even-multiple/solution.py
 [js-2413]: ./javascript-solutions/2413-smallest-even-multiple/solution.js
+[java-2418]: ./java-solutions/2418-sort-the-people/src/Solution.java
+[py-2418]: ./python-solutions/2418-sort-the-people/solution.py
+[js-2418]: ./javascript-solutions/2418-sort-the-people/solution.js
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
 [java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
