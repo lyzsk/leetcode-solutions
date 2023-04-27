@@ -181,6 +181,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0240 |                     Search a 2D Matrix II                      | [.java][java-0240] |                |                | [.js][js-0240] | [back to top] |
 | 0242 |                         Valid Anagram                          | [.java][java-0242] |                |                |                | [back to top] |
 | 0257 |                       Binary Tree Paths                        | [.java][java-0257] |                |                |                | [back to top] |
+| 0258 |                           Add Digits                           | [.java][java-0258] |                | [.py][py-0258] | [.js][js-0258] | [back to top] |
 | 0263 |                          Ugly Number                           | [.java][java-0263] |                |                |                | [back to top] |
 | 0268 |                         Missing Number                         | [.java][java-0268] |                |                | [.js][js-0268] | [back to top] |
 | 0279 |                        Perfect Squares                         | [.java][java-0279] |                |                |                | [back to top] |
@@ -616,6 +617,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
 [java-0257]: ./java-solutions/0257-binary-tree-paths/src/Solution.java
+[java-0258]: ./java-solutions/0258-add-digits/src/Solution.java
+[py-0258]: ./python-solutions/0258-add-digits/solution.py
+[js-0258]: ./javascript-solutions/0258-add-digits/solution.js
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [js-0268]: ./javascript-solutions/0268-missing-number/solution.js
