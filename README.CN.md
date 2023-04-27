@@ -194,6 +194,7 @@
 | 0307 |                   Range Sum Query - Mutable                    | [.java][java-0307] |                |                |                | [back to top] |
 | 0309 |         Best Time to Buy and Sell Stock with Cooldown          | [.java][java-0309] |                |                |                | [back to top] |
 | 0316 |                    Remove Duplicate Letters                    | [.java][java-0316] |                |                |                | [back to top] |
+| 0319 |                         Bulb Switcher                          | [.java][java-0319] |                | [.py][py-0319] | [.js][js-0319] | [back to top] |
 | 0322 |                          Coin Change                           | [.java][java-0322] | [.go][go-0322] | [.py][py-0322] | [.js][js-0322] | [back to top] |
 | 0324 |                         Wiggle Sort II                         | [.java][java-0324] |                |                |                | [back to top] |
 | 0327 |                       Count of Range Sum                       | [.java][java-0327] |                |                |                | [back to top] |
@@ -656,6 +657,9 @@
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0309]: ./java-solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
+[java-0319]: ./java-solutions/0319-bulb-switcher/src/Solution.java
+[py-0319]: ./python-solutions/0319-bulb-switcher/solution.py
+[js-0319]: ./javascript-solutions/0319-bulb-switcher/solution.js
 [java-0322]: ./java-solutions/0322-coin-change/src/Solution.java
 [go-0322]: ./golang-solutions/0322-coin-change/solution.go
 [py-0322]: ./python-solutions/0322-coin-change/solution.py
