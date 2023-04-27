@@ -308,6 +308,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1042 |                flower-planting-with-no-adjacent                | [.java][java-1042] |                |                |                | [back to top] |
 | 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
 | 1046 |                       Last Stone Weight                        | [.java][java-1046] |                | [.py][py-1046] | [.js][js-1046] | [back to top] |
+| 1048 |                      Longest String Chain                      | [.java][java-1048] |                | [.py][py-1048] | [.js][js-1048] | [back to top] |
 | 1105 |                    Filling Bookcase Shelves                    | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
@@ -787,6 +788,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1046]: ./java-solutions/1046-last-stone-weight/src/Solution.java
 [py-1046]: ./python-solutions/1046-last-stone-weight/solution.py
 [js-1046]: ./javascript-solutions/1046-last-stone-weight/solution.js
+[java-1048]: ./java-solutions/1048-longest-string-chain/src/Solution.java
+[py-1048]: ./python-solutions/1048-longest-string-chain/solution.py
+[js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
