@@ -415,6 +415,7 @@
 | 2409 |                   Count Days Spent Together                    | [.java][java-2409] |                | [.py][py-2409] |                | [back to top] |
 | 2413 |                     Smallest Even Multiple                     | [.java][java-2413] | [.go][go-2413] | [.py][py-2413] | [.js][js-2413] | [back to top] |
 | 2418 |                        Sort the People                         | [.java][java-2418] |                | [.py][py-2418] | [.js][js-2418] | [back to top] |
+| 2423 |              Remove Letter To Equalize Frequency               | [.java][java-2423] |                | [.py][py-2423] | [.js][js-2423] | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                |                | [back to top] |
 | 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                |                | [back to top] |
@@ -965,6 +966,9 @@
 [java-2418]: ./java-solutions/2418-sort-the-people/src/Solution.java
 [py-2418]: ./python-solutions/2418-sort-the-people/solution.py
 [js-2418]: ./javascript-solutions/2418-sort-the-people/solution.js
+[java-2423]: ./java-solutions/2423-remove-letter-to-equalize-frequency/src/Solution.java
+[py-2423]: ./python-solutions/2423-remove-letter-to-equalize-frequency/solution.py
+[js-2423]: ./javascript-solutions/2423-remove-letter-to-equalize-frequency/solution.js
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
 [java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
