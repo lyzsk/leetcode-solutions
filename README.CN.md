@@ -331,6 +331,7 @@
 | 1304 |             Find N Unique Integers Sum up to Zero              | [.java][java-1304] |                |                |                | [back to top] |
 | 1328 |                       Break a Palindrome                       | [.java][java-1328] |                |                |                | [back to top] |
 | 1372 |              Longest ZigZag Path in a Binary Tree              | [.java][java-1372] | [.go][go-1372] | [.py][py-1372] | [.js][js-1372] | [back to top] |
+| 1376 |              Time Needed to Inform All Employees               | [.java][java-1376] |                |                |                | [back to top] |
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
 | 1414 |  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K   | [.java][java-1414] |                |                |                | [back to top] |
 | 1416 |                       Restore The Array                        | [.java][java-1416] |                | [.py][py-1416] | [.js][js-1416] | [back to top] |
@@ -852,6 +853,7 @@
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
 [js-1372]: ./javascript-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.js
+[java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1416]: ./java-solutions/1416-restore-the-array/src/Solution.java
