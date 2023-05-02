@@ -381,6 +381,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1814 |                  Count Nice Pairs in an Array                  | [.java][java-1814] |                |                |                | [back to top] |
 | 1817 |                Finding the Users Active Minutes                | [.java][java-1817] |                |                |                | [back to top] |
 | 1818 |                Minimum Absolute Sum Difference                 | [.java][java-1818] |                |                |                | [back to top] |
+| 1822 |                Sign of the Product of an Array                 | [.java][java-1822] |                |                |                | [back to top] |
 | 1832 |                Check if the Sentence Is Pangram                | [.java][java-1832] |                |                |                | [back to top] |
 | 1833 |                     Maximum Ice Cream Bars                     | [.java][java-1833] |                |                |                | [back to top] |
 | 1834 |                      Single-Threaded CPU                       | [.java][java-1834] |                |                |                | [back to top] |
@@ -898,6 +899,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
 [java-1817]: ./java-solutions/1817-finding-the-users-active-minutes/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
+[java-1822]: ./java-solutions/1822-sign-of-the-product-of-an-array/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
 [java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
