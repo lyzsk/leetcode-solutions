@@ -151,6 +151,7 @@
 | 0160 |                Intersection of Two Linked Lists                | [.java][java-0160] |                |                |                | [back to top] |
 | 0165 |                    Compare Version Numbers                     | [.java][java-0165] |                |                |                | [back to top] |
 | 0167 |               Two Sum II - Input Array Is Sorted               | [.java][java-0167] |                |                |                | [back to top] |
+| 0169 |                        Majority Element                        | [.java][java-0169] |                |                |                | [back to top] |
 | 0171 |                   Excel Sheet Column Number                    | [.java][java-0171] |                |                |                | [back to top] |
 | 0172 |                   Factorial Trailing Zeroes                    | [.java][java-0172] |                |                |                | [back to top] |
 | 0179 |                         Largest Number                         | [.java][java-0179] |                |                |                | [back to top] |
@@ -608,6 +609,7 @@
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
 [java-0167]: ./java-solutions/0167-two-sum-ii-input-array-is-sorted/src/Solution.java
+[java-0169]: ./java-solutions/0169-majority-element/src/Solution.java
 [java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
