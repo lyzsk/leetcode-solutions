@@ -11,8 +11,7 @@ public class Solution {
         int fast = 1;
         while (fast < nums.length) {
             if (nums[slow - 1] != nums[fast]) {
-                nums[slow] = nums[fast];
-                ++slow;
+                nums[slow++] = nums[fast];
             }
             ++fast;
         }
