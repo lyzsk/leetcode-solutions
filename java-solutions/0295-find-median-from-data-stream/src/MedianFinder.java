@@ -1,4 +1,3 @@
-import java.util.Collections;
 import java.util.PriorityQueue;
 
 /**
@@ -10,7 +9,7 @@ public class MedianFinder {
     private PriorityQueue<Integer> right;
 
     public MedianFinder() {
-        this.left = new PriorityQueue<>(Collections.reverseOrder());
+        this.left = new PriorityQueue<>(c);
         this.right = new PriorityQueue<>();
     }
 
