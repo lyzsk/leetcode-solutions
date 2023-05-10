@@ -306,6 +306,7 @@
 | 0997 |                      Find the Town Judge                       | [.java][java-0997] |                |                |                | [back to top] |
 | 0998 |                     Maximum Binary Tree II                     | [.java][java-0998] |                |                |                | [back to top] |
 | 1003 |           Check If Word Is Valid After Substitutions           | [.java][java-1003] |                | [.py][py-1003] | [.js][js-1003] | [back to top] |
+| 1015 |                Smallest Integer Divisible by K                 | [.java][java-1015] |                |                |                | [back to top] |
 | 1026 |          Maximum Difference Between Node and Ancestor          | [.java][java-1026] | [.go][go-1026] | [.py][py-1026] | [.js][js-1026] | [back to top] |
 | 1027 |                 Longest Arithmetic Subsequence                 | [.java][java-1027] | [.go][go-1027] | [.py][py-1027] | [.js][js-1027] | [back to top] |
 | 1029 |                      Two City Scheduling                       | [.java][java-1029] |                | [.py][py-1029] | [.js][js-1029] | [back to top] |
@@ -812,6 +813,7 @@
 [java-1003]: ./java-solutions/1003-check-if-word-is-valid-after-substitutions/src/Solution.java
 [py-1003]: ./python-solutions/1003-check-if-word-is-valid-after-substitutions/solution.py
 [js-1003]: ./javascript-solutions/1003-check-if-word-is-valid-after-substitutions/solution.js
+[java-1015]: ./java-solutions/1015-smallest-integer-divisible-by-k/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [go-1026]: ./golang-solutions/1026-maximum-difference-between-node-and-ancestor/solution.go
 [py-1026]: ./python-solutions/1026-maximum-difference-between-node-and-ancestor/solution.py
