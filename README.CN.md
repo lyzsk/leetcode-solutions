@@ -83,7 +83,7 @@
 | 0056 |                        Merge Intervals                         | [.java][java-0056] |                |                |                | [back to top] |
 | 0057 |                        Insert Interval                         | [.java][java-0057] |                |                |                | [back to top] |
 | 0058 |                      Length of Last Word                       | [.java][java-0058] |                |                |                | [back to top] |
-| 0059 |                        Spiral Matrix II                        | [.java][java-0059] |                |                |                | [back to top] |
+| 0059 |                        Spiral Matrix II                        | [.java][java-0059] |                | [.py][py-0059] | [.js][js-0059] | [back to top] |
 | 0061 |                          Rotate List                           | [.java][java-0061] |                |                |                | [back to top] |
 | 0066 |                            Plus One                            | [.java][java-0066] |                |                |                | [back to top] |
 | 0067 |                           Add Binary                           | [.java][java-0067] |                |                |                | [back to top] |
@@ -534,6 +534,8 @@
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
 [java-0058]: ./java-solutions/0058-length-of-last-word/src/Solution.java
 [java-0059]: ./java-solutions/0059-spiral-matrix-ii/src/Solution.java
+[py-0059]: ./python-solutions/0059-spiral-matrix-ii/solution.py
+[js-0059]: ./javascript-solutions/0059-spiral-matrix-ii/solution.js
 [java-0061]: ./java-solutions/0061-rotate-list/src/Solution.java
 [java-0066]: ./java-solutions/0066-plus-one/src/Solution.java
 [java-0067]: ./java-solutions/0067-add-binary/src/Solution.java
