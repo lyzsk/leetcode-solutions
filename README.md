@@ -78,7 +78,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0051 |                            N-Queens                            | [.java][java-0051] |                |                |                | [back to top] |
 | 0052 |                          N-Queens II                           | [.java][java-0052] |                |                |                | [back to top] |
 | 0053 |                        Maximum Subarray                        | [.java][java-0053] |                |                | [.js][js-0053] | [back to top] |
-| 0054 |                         Spiral Matrix                          | [.java][java-0054] |                |                |                | [back to top] |
+| 0054 |                         Spiral Matrix                          | [.java][java-0054] |                | [.py][py-0054] |                | [back to top] |
 | 0055 |                           Jump Game                            | [.java][java-0055] |                |                |                | [back to top] |
 | 0056 |                        Merge Intervals                         | [.java][java-0056] |                |                |                | [back to top] |
 | 0057 |                        Insert Interval                         | [.java][java-0057] |                |                |                | [back to top] |
@@ -506,6 +506,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0053]: ./java-solutions/0053-maximum-subarray/src/Solution.java
 [js-0053]: ./javascript-solutions/0053-maximum-subarray/solution.js
 [java-0054]: ./java-solutions/0054-spiral-matrix/src/Solution.java
+[py-0054]: ./python-solutions/0054-spiral-matrix/solution.py
 [java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
