@@ -437,6 +437,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2545 |              Sort the Students by Their Kth Score              | [.java][java-2545] |                |                |                | [back to top] |
 | 2562 |               Find the Array Concatenation Value               | [.java][java-2562] |                |                |                | [back to top] |
 | 2656 |              Maximum Sum With Exactly K Elements               | [.java][java-2656] |                |                |                | [back to top] |
+| 2657 |           Find the Prefix Common Array of Two Arrays           | [.java][java-2657] |                |                |                | [back to top] |
 
 # TODO
 
@@ -986,3 +987,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
+[java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
