@@ -436,6 +436,7 @@
 | 2541 |           Minimum Operations to Make Array Equal II            | [.java][java-2541] |                |                |                | [back to top] |
 | 2545 |              Sort the Students by Their Kth Score              | [.java][java-2545] |                |                |                | [back to top] |
 | 2562 |               Find the Array Concatenation Value               | [.java][java-2562] |                |                |                | [back to top] |
+| 2656 |              Maximum Sum With Exactly K Elements               | [.java][java-2656] |                |                |                | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1005,6 +1006,7 @@
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
+[java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
