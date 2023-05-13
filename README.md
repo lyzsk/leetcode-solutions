@@ -426,6 +426,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2418 |                        Sort the People                         | [.java][java-2418] |                | [.py][py-2418] | [.js][js-2418] | [back to top] |
 | 2423 |              Remove Letter To Equalize Frequency               | [.java][java-2423] |                | [.py][py-2423] | [.js][js-2423] | [back to top] |
 | 2437 |                  Number of Valid Clock Times                   | [.java][java-2437] |                | [.py][py-2437] | [.js][js-2437] | [back to top] |
+| 2441 |     Largest Positive Integer That Exists With Its Negative     | [.java][java-2441] |                |                |                | [back to top] |
 | 2465 |                  Number of Distinct Averages                   | [.java][java-2465] |                |                |                | [back to top] |
 | 2469 |                    Convert the Temperature                     | [.java][java-2469] |                |                |                | [back to top] |
 | 2525 |              Categorize Box According to Criteria              | [.java][java-2525] |                |                |                | [back to top] |
@@ -441,6 +442,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2656 |              Maximum Sum With Exactly K Elements               | [.java][java-2656] |                |                |                | [back to top] |
 | 2657 |           Find the Prefix Common Array of Two Arrays           | [.java][java-2657] |                |                |                | [back to top] |
 | 2658 |                Maximum Number of Fish in a Grid                | [.java][java-2658] |                |                |                | [back to top] |
+| 2659 |                        Make Array Empty                        | [.java][java-2659] |                |                |                | [back to top] |
 
 # TODO
 
@@ -979,6 +981,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2437]: ./java-solutions/2437-number-of-valid-clock-times/src/Solution.java
 [py-2437]: ./python-solutions/2437-number-of-valid-clock-times/solution.py
 [js-2437]: ./javascript-solutions/2437-number-of-valid-clock-times/solution.js
+[java-2441]: ./java-solutions/2441-largest-positive-integer-that-exists-with-its-negative/src/Solution.java
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
@@ -994,3 +997,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
+[java-2659]: ./java-solutions/2659-make-array-empty/src/Solution.java
