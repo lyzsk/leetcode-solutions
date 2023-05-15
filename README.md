@@ -316,6 +316,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1043 |                Partition Array for Maximum Sum                 | [.java][java-1043] |                | [.py][py-1043] | [.js][js-1043] | [back to top] |
 | 1046 |                       Last Stone Weight                        | [.java][java-1046] |                | [.py][py-1046] | [.js][js-1046] | [back to top] |
 | 1048 |                      Longest String Chain                      | [.java][java-1048] |                | [.py][py-1048] | [.js][js-1048] | [back to top] |
+| 1054 |                        Distant Barcodes                        | [.java][java-1054] |                |                |                | [back to top] |
+| 1072 |         Flip Columns For Maximum Number of Equal Rows          | [.java][java-1072] |                |                |                | [back to top] |
 | 1105 |                    Filling Bookcase Shelves                    | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] | [back to top] |
 | 1122 |                      Relative Sort Array                       | [.java][java-1122] |                |                |                | [back to top] |
 | 1124 |                Longest Well-Performing Interval                | [.java][java-1124] |                |                |                | [back to top] |
@@ -360,6 +362,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1694 |                     Reformat Phone Number                      | [.java][java-1694] |                |                |                | [back to top] |
 | 1704 |              Determine if String Halves Are Alike              | [.java][java-1704] |                |                |                | [back to top] |
 | 1710 |                    Maximum Units on a Truck                    | [.java][java-1710] |                |                |                | [back to top] |
+| 1721 |                Swapping Nodes in a Linked List                 | [.java][java-1721] |                |                |                | [back to top] |
 | 1732 |                   Find the Highest Altitude                    | [.java][java-1732] |                |                |                | [back to top] |
 | 1742 |                Maximum Number of Balls in a Box                | [.java][java-1742] |                |                |                | [back to top] |
 | 1754 |                  Largest Merge Of Two Strings                  | [.java][java-1754] |                |                | [.js][js-1754] | [back to top] |
@@ -825,6 +828,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1048]: ./java-solutions/1048-longest-string-chain/src/Solution.java
 [py-1048]: ./python-solutions/1048-longest-string-chain/solution.py
 [js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
+[java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
+[java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
@@ -890,6 +895,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
+[java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
