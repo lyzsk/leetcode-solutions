@@ -337,6 +337,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1304 |             Find N Unique Integers Sum up to Zero              | [.java][java-1304] |                |                |                | [back to top] |
 | 1328 |                       Break a Palindrome                       | [.java][java-1328] |                |                |                | [back to top] |
 | 1330 |            Reverse Subarray To Maximize Array Value            | [.java][java-1330] |                |                |                | [back to top] |
+| 1335 |              Minimum Difficulty of a Job Schedule              | [.java][java-1335] |                |                |                | [back to top] |
 | 1372 |              Longest ZigZag Path in a Binary Tree              | [.java][java-1372] | [.go][go-1372] | [.py][py-1372] | [.js][js-1372] | [back to top] |
 | 1376 |              Time Needed to Inform All Employees               | [.java][java-1376] |                |                |                | [back to top] |
 | 1389 |             Create Target Array in the Given Order             | [.java][java-1389] |                |                |                | [back to top] |
@@ -856,6 +857,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
+[java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
