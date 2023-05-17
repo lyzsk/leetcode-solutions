@@ -412,6 +412,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2042 | [.java][java-2042] |                | [.py][py-2042] | [.js][js-2042] |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |                |                  | [back to top] |
 | 2108 | [.java][java-2108] |                |                |                |                  | [back to top] |
+| 2130 | [.java][java-2130] |                | [.py][py-2130] | [.js][js-2130] |                  | [back to top] |
 | 2131 | [.java][java-2131] |                |                |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |                |                  | [back to top] |
@@ -434,6 +435,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2423 | [.java][java-2423] |                | [.py][py-2423] | [.js][js-2423] |                  | [back to top] |
 | 2437 | [.java][java-2437] |                | [.py][py-2437] | [.js][js-2437] |                  | [back to top] |
 | 2441 | [.java][java-2441] |                |                |                |                  | [back to top] |
+| 2446 | [.java][java-2446] | [.go][go-2446] | [.py][py-2446] | [.js][js-2446] |                  | [back to top] |
 | 2465 | [.java][java-2465] |                |                |                |                  | [back to top] |
 | 2469 | [.java][java-2469] |                |                |                |                  | [back to top] |
 | 2525 | [.java][java-2525] |                |                |                |                  | [back to top] |
@@ -959,6 +961,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
+[java-2130]: ./java-solutions/2130-maximum-twin-sum-of-a-linked-list/src/Solution.java
+[py-2130]: ./python-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.py
+[js-2130]: ./javascript-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.js
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
@@ -996,6 +1001,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-2437]: ./python-solutions/2437-number-of-valid-clock-times/solution.py
 [js-2437]: ./javascript-solutions/2437-number-of-valid-clock-times/solution.js
 [java-2441]: ./java-solutions/2441-largest-positive-integer-that-exists-with-its-negative/src/Solution.java
+[java-2446]: ./java-solutions/2446-determine-if-two-events-have-conflict/src/Solution.java
+[go-2446]: ./golang-solutions/2446-determine-if-two-events-have-conflict/solution.go
+[py-2446]: ./python-solutions/2446-determine-if-two-events-have-conflict/solution.py
+[js-2446]: ./javascript-solutions/2446-determine-if-two-events-have-conflict/solution.js
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
