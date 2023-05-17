@@ -157,8 +157,15 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0175 |                    |                |                |                | [.sql][sql-0175] | [back to top] |
 | 0176 |                    |                |                |                | [.sql][sql-0176] | [back to top] |
 | 0177 |                    |                |                |                | [.sql][sql-0177] | [back to top] |
+| 0178 |                    |                |                |                | [.sql][sql-0178] | [back to top] |
 | 0179 | [.java][java-0179] |                |                |                |                  | [back to top] |
+| 0180 |                    |                |                |                | [.sql][sql-0180] | [back to top] |
+| 0181 |                    |                |                |                | [.sql][sql-0181] | [back to top] |
+| 0182 |                    |                |                |                | [.sql][sql-0182] | [back to top] |
+| 0183 |                    |                |                |                | [.sql][sql-0183] | [back to top] |
+| 0184 |                    |                |                |                | [.sql][sql-0184] | [back to top] |
 | 0187 | [.java][java-0187] |                |                |                |                  | [back to top] |
+| 0189 | [.java][java-0189] |                |                |                |                  | [back to top] |
 | 0198 | [.java][java-0198] |                |                |                |                  | [back to top] |
 | 0199 | [.java][java-0199] |                |                |                |                  | [back to top] |
 | 0200 | [.java][java-0200] |                |                |                |                  | [back to top] |
@@ -616,8 +623,15 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-0175]: ./sql-solutions/0175-combine-two-tables/solution.sql
 [sql-0176]: ./sql-solutions/0176-second-highest-salary/solution.sql
 [sql-0177]: ./sql-solutions/0177-nth-highest-salary/solution.sql
+[sql-0178]: ./sql-solutions/0178-rank-scores/solution.sql
 [java-0179]: ./java-solutions/0179-largest-number/src/Solution.java
+[sql-0180]: ./sql-solutions/0180-consecutive-numbers/solution.sql
+[sql-0181]: ./sql-solutions/0181-employees-earning-more-than-their-managers/solution.sql
+[sql-0182]: ./sql-solutions/0182-duplicate-emails/solution.sql
+[sql-0183]: ./sql-solutions/0183-customers-who-never-order/solution.sql
+[sql-0184]: ./sql-solutions/0184-department-highest-salary/solution.sql
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
+[java-0189]: ./java-solutions/0189-rotate-array/src/Solution.java
 [java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
