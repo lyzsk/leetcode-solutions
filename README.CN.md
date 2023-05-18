@@ -164,6 +164,7 @@
 | 0182 |                    |                |                |                | [.sql][sql-0182] | [back to top] |
 | 0183 |                    |                |                |                | [.sql][sql-0183] | [back to top] |
 | 0184 |                    |                |                |                | [.sql][sql-0184] | [back to top] |
+| 0185 |                    |                |                |                | [.sql][sql-0185] | [back to top] |
 | 0187 | [.java][java-0187] |                |                |                |                  | [back to top] |
 | 0189 | [.java][java-0189] |                |                |                |                  | [back to top] |
 | 0198 | [.java][java-0198] |                |                |                |                  | [back to top] |
@@ -365,6 +366,7 @@
 | 1491 | [.java][java-1491] |                | [.py][py-1491] | [.js][js-1491] |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                  | [back to top] |
+| 1557 | [.java][java-1557] |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                  | [back to top] |
 | 1656 | [.java][java-1656] |                | [.py][py-1656] |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |                |                  | [back to top] |
@@ -651,6 +653,7 @@
 [sql-0182]: ./sql-solutions/0182-duplicate-emails/solution.sql
 [sql-0183]: ./sql-solutions/0183-customers-who-never-order/solution.sql
 [sql-0184]: ./sql-solutions/0184-department-highest-salary/solution.sql
+[sql-0185]: ./sql-solutions/0185-department-top-three-salaries/solution.sql
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
 [java-0189]: ./java-solutions/0189-rotate-array/src/Solution.java
 [java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
@@ -931,6 +934,7 @@
 [js-1491]: ./javascript-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.js
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
+[java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
