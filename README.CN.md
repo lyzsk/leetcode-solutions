@@ -329,6 +329,7 @@
 | 1048 | [.java][java-1048] |                | [.py][py-1048] | [.js][js-1048] |                  | [back to top] |
 | 1054 | [.java][java-1054] |                |                |                |                  | [back to top] |
 | 1072 | [.java][java-1072] |                |                |                |                  | [back to top] |
+| 1079 | [.java][java-1079] |                |                |                |                  | [back to top] |
 | 1105 | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |                |                  | [back to top] |
@@ -350,6 +351,7 @@
 | 1330 | [.java][java-1330] |                |                |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |                |                  | [back to top] |
 | 1372 | [.java][java-1372] | [.go][go-1372] | [.py][py-1372] | [.js][js-1372] |                  | [back to top] |
+| 1373 | [.java][java-1373] |                |                |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                  | [back to top] |
 | 1414 | [.java][java-1414] |                |                |                |                  | [back to top] |
@@ -877,6 +879,7 @@
 [js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
 [java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
+[java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
@@ -908,6 +911,7 @@
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
 [js-1372]: ./javascript-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.js
+[java-1373]: ./java-solutions/1373-maximum-sum-bst-in-binary-tree/src/Solution.java
 [java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
