@@ -331,6 +331,7 @@
 | 1054 | [.java][java-1054] |                |                |                |                  | [back to top] |
 | 1072 | [.java][java-1072] |                |                |                |                  | [back to top] |
 | 1079 | [.java][java-1079] |                |                |                |                  | [back to top] |
+| 1080 | [.java][java-1080] |                | [.py][py-1080] |                |                  | [back to top] |
 | 1105 | [.java][java-1105] |                | [.py][py-1105] | [.js][js-1105] |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |                |                  | [back to top] |
@@ -882,6 +883,8 @@
 [java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
+[java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
+[py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
