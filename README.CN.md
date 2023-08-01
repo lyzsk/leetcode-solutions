@@ -466,6 +466,7 @@
 | 2657 | [.java][java-2657] |                |                |                |                  | [back to top] |
 | 2658 | [.java][java-2658] |                |                |                |                  | [back to top] |
 | 2659 | [.java][java-2659] |                |                |                |                  | [back to top] |
+| 2681 | [.java][java-2681] |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1071,6 +1072,7 @@
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
 [java-2659]: ./java-solutions/2659-make-array-empty/src/Solution.java
+[java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
