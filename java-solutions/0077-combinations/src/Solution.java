@@ -8,7 +8,7 @@ import java.util.List;
  * @date 2022/10/20
  **/
 public class Solution {
-    private static void backtrack(List<List<Integer>> res, Deque<Integer> path, int n, int k, int startIndex) {
+    private void backtrack(List<List<Integer>> res, Deque<Integer> path, int n, int k, int startIndex) {
         if (path.size() == k) {
             res.add(new ArrayList<>(path));
             return;
