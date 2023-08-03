@@ -271,6 +271,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0703 | [.java][java-0703] |                |                |                |                  | [back to top] |
 | 0704 | [.java][java-0704] |                |                | [.js][js-0704] |                  | [back to top] |
 | 0718 | [.java][java-0718] |                |                |                |                  | [back to top] |
+| 0722 | [.java][java-0722] |                |                |                |                  | [back to top] |
 | 0729 | [.java][java-0729] |                |                |                |                  | [back to top] |
 | 0731 | [.java][java-0731] |                |                |                |                  | [back to top] |
 | 0732 | [.java][java-0732] |                |                |                |                  | [back to top] |
@@ -782,6 +783,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [js-0704]: ./javascript-solutions/0704-binary-search/solution.js
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
+[java-0722]: ./java-solutions/0722-remove-comments/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
