@@ -316,6 +316,7 @@
 | 0944 | [.java][java-0944] |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |                |                  | [back to top] |
+| 0980 | [.java][java-0980] |                |                |                |                  | [back to top] |
 | 0989 | [.java][java-0989] |                |                |                |                  | [back to top] |
 | 0997 | [.java][java-0997] |                |                |                |                  | [back to top] |
 | 0998 | [.java][java-0998] |                |                |                |                  | [back to top] |
@@ -856,6 +857,7 @@
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
+[java-0980]: ./java-solutions/0980-unique-paths-iii/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
