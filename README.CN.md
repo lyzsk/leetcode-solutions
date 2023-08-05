@@ -107,6 +107,7 @@
 | 0092 | [.java][java-0092] |                |                |                |                  | [back to top] |
 | 0093 | [.java][java-0093] |                |                |                |                  | [back to top] |
 | 0094 | [.java][java-0094] |                |                |                |                  | [back to top] |
+| 0095 | [.java][java-0095] |                |                |                |                  | [back to top] |
 | 0098 | [.java][java-0098] |                |                |                |                  | [back to top] |
 | 0099 | [.java][java-0099] |                |                |                |                  | [back to top] |
 | 0100 | [.java][java-0100] |                |                |                |                  | [back to top] |
@@ -594,6 +595,7 @@
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
+[java-0095]: ./java-solutions/0095-unique-binary-search-trees-ii/src/Solution.java
 [java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
 [java-0099]: ./java-solutions/0099-recover-binary-search-tree/src/Solution.java
 [java-0100]: ./java-solutions/0100-same-tree/src/Solution.java
