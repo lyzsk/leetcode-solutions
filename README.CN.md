@@ -308,6 +308,7 @@
 | 0907 | [.java][java-0907] |                |                |                |                  | [back to top] |
 | 0912 | [.java][java-0912] |                |                |                |                  | [back to top] |
 | 0915 | [.java][java-0915] |                |                |                |                  | [back to top] |
+| 0920 | [.java][java-0920] |                |                |                |                  | [back to top] |
 | 0921 | [.java][java-0921] |                |                |                |                  | [back to top] |
 | 0926 | [.java][java-0926] |                |                |                |                  | [back to top] |
 | 0929 | [.java][java-0929] |                |                |                |                  | [back to top] |
@@ -386,6 +387,7 @@
 | 1721 | [.java][java-1721] |                |                |                |                  | [back to top] |
 | 1732 | [.java][java-1732] |                |                |                |                  | [back to top] |
 | 1742 | [.java][java-1742] |                |                |                |                  | [back to top] |
+| 1749 | [.java][java-1749] |                |                |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                |                | [.js][js-1754] |                  | [back to top] |
 | 1758 | [.java][java-1758] |                |                |                |                  | [back to top] |
 | 1759 | [.java][java-1759] |                |                |                |                  | [back to top] |
@@ -849,6 +851,7 @@
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
+[java-0920]: ./java-solutions/0920-number-of-music-playlists/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
@@ -966,6 +969,7 @@
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
+[java-1749]: ./java-solutions/1749-maximum-absolute-sum-of-any-subarray/src/Solution.java
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
