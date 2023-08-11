@@ -244,6 +244,7 @@
 | 0493 | [.java][java-0493] |                |                |                |                  | [back to top] |
 | 0507 | [.java][java-0507] |                |                |                |                  | [back to top] |
 | 0509 | [.java][java-0509] | [.go][go-0509] | [.py][py-0509] | [.js][js-0509] |                  | [back to top] |
+| 0518 | [.java][java-0518] |                |                |                |                  | [back to top] |
 | 0520 | [.java][java-0520] |                | [.py][py-0520] | [.js][js-0520] |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |                |                  | [back to top] |
 | 0530 | [.java][java-0530] |                |                |                |                  | [back to top] |
@@ -376,6 +377,7 @@
 | 1512 | [.java][java-1512] |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |                |                  | [back to top] |
+| 1572 | [.java][java-1572] |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                  | [back to top] |
 | 1656 | [.java][java-1656] |                | [.py][py-1656] |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |                |                  | [back to top] |
@@ -783,6 +785,7 @@
 [go-0509]: ./golang-solutions/0509-fibonacci-number/solution.go
 [py-0509]: ./python-solutions/0509-fibonacci-number/solution.py
 [js-0509]: ./javascript-solutions/0509-fibonacci-number/solution.js
+[java-0518]: ./java-solutions/0518-coin-change-ii/src/Solution.java
 [java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
@@ -957,6 +960,7 @@
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
+[java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
