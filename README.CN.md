@@ -448,6 +448,7 @@
 | 2348 | [.java][java-2348] | [.go][go-2348] | [.py][py-2348] | [.js][js-2348] |                  | [back to top] |
 | 2351 | [.java][java-2351] |                |                | [.js][js-2351] |                  | [back to top] |
 | 2363 | [.java][java-2363] |                |                |                |                  | [back to top] |
+| 2369 | [.java][java-2369] |                |                |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |                |                  | [back to top] |
 | 2409 | [.java][java-2409] |                | [.py][py-2409] |                |                  | [back to top] |
@@ -1047,6 +1048,7 @@
 [py-2348]: ./python-solutions/2348-number-of-zero-filled-subarrays/solution.py
 [js-2348]: ./javascript-solutions/2348-number-of-zero-filled-subarrays/solution.js
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
+[java-2369]: ./java-solutions/2369-check-if-there-is-a-valid-partition-for-the-array/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
