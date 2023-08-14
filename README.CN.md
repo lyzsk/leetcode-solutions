@@ -254,6 +254,7 @@
 | 0589 | [.java][java-0589] |                |                |                |                  | [back to top] |
 | 0590 | [.java][java-0590] |                |                |                |                  | [back to top] |
 | 0598 | [.java][java-0598] |                |                |                |                  | [back to top] |
+| 0617 | [.java][java-0617] |                |                |                |                  | [back to top] |
 | 0623 | [.java][java-0623] |                |                |                |                  | [back to top] |
 | 0641 | [.java][java-0641] |                | [.py][py-0641] |                |                  | [back to top] |
 | 0647 | [.java][java-0647] |                |                |                |                  | [back to top] |
@@ -761,6 +762,7 @@
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
+[java-0617]: ./java-solutions/0617-merge-two-binary-trees/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
