@@ -100,6 +100,7 @@
 | 0081 | [.java][java-0081] |                |                |                |                  | [back to top] |
 | 0082 | [.java][java-0082] |                |                |                |                  | [back to top] |
 | 0083 | [.java][java-0083] |                |                |                |                  | [back to top] |
+| 0086 | [.java][java-0086] |                |                |                |                  | [back to top] |
 | 0088 | [.java][java-0088] |                |                |                |                  | [back to top] |
 | 0089 | [.java][java-0089] |                |                |                |                  | [back to top] |
 | 0090 | [.java][java-0090] |                |                |                |                  | [back to top] |
@@ -295,6 +296,7 @@
 | 0813 | [.java][java-0813] |                |                |                |                  | [back to top] |
 | 0817 | [.java][java-0817] |                |                |                |                  | [back to top] |
 | 0822 | [.java][java-0822] |                |                |                |                  | [back to top] |
+| 0833 | [.java][java-0833] |                |                |                |                  | [back to top] |
 | 0842 | [.java][java-0842] |                |                |                |                  | [back to top] |
 | 0855 | [.java][java-0855] |                |                |                |                  | [back to top] |
 | 0856 | [.java][java-0856] |                |                | [.js][js-0856] |                  | [back to top] |
@@ -594,6 +596,7 @@
 [java-0081]: ./java-solutions/0081-search-in-rotated-sorted-array-ii/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
+[java-0086]: ./java-solutions/0086-partition-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
 [java-0089]: ./java-solutions/0089-gray-code/src/Solution.java
 [java-0090]: ./java-solutions/0090-subsets-ii/src/Solution.java
@@ -840,6 +843,7 @@
 [java-0813]: ./java-solutions/0813-largest-sum-of-averages/src/Solution.java
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
+[java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
 [java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
