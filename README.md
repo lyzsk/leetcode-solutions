@@ -479,6 +479,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2658 | [.java][java-2658] |                |                |                |                  | [back to top] |
 | 2659 | [.java][java-2659] |                |                |                |                  | [back to top] |
 | 2681 | [.java][java-2681] |                |                |                |                  | [back to top] |
+| 2682 | [.java][java-2682] |                |                |                |                  | [back to top] |
 
 # TODO
 
@@ -1076,3 +1077,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
 [java-2659]: ./java-solutions/2659-make-array-empty/src/Solution.java
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
+[java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
