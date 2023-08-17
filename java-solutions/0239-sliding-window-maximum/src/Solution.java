@@ -1,4 +1,3 @@
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
@@ -9,12 +8,7 @@ public class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         // int[] {num, idx}
-        PriorityQueue<int[]> maxheap = new PriorityQueue<>(new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                return o1[0] == o2[0] ? o2[1] - o1[1] : o2[0] - o1[0];
-            }
-        });
+        PriorityQueue<int[]> maxheap = new PriorityQueue<>((o1, o2) -> o1[0] == o2[0] ? o2[1] - o1[1] : o2[0] - o1[0]);
         for (int i = 0; i < k; i++) {
             maxheap.add(new int[] {nums[i], i});
         }

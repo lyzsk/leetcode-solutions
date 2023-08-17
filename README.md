@@ -249,6 +249,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0520 | [.java][java-0520] |                | [.py][py-0520] | [.js][js-0520] |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |                |                  | [back to top] |
 | 0530 | [.java][java-0530] |                |                |                |                  | [back to top] |
+| 0542 | [.java][java-0542] |                |                |                |                  | [back to top] |
 | 0559 | [.java][java-0559] |                |                |                |                  | [back to top] |
 | 0561 | [.java][java-0561] |                | [.py][py-0561] | [.js][js-0561] |                  | [back to top] |
 | 0567 | [.java][java-0567] |                |                |                |                  | [back to top] |
@@ -777,6 +778,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
+[java-0542]: ./java-solutions/0542-01-matrix/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
