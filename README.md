@@ -383,6 +383,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1557 | [.java][java-1557] |                |                |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                  | [back to top] |
+| 1615 | [.java][java-1615] |                |                |                |                  | [back to top] |
 | 1656 | [.java][java-1656] |                | [.py][py-1656] |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |                |                  | [back to top] |
@@ -951,6 +952,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
+[java-1615]: ./java-solutions/1615-maximal-network-rank/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
