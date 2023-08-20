@@ -444,6 +444,8 @@
 | 2185 | [.java][java-2185] |                |                |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |                |                  | [back to top] |
 | 2225 | [.java][java-2225] |                |                |                |                  | [back to top] |
+| 2235 | [.java][java-2235] |                | [.py][py-2235] |                |                  | [back to top] |
+| 2236 | [.java][java-2236] |                | [.py][py-2236] |                |                  | [back to top] |
 | 2244 | [.java][java-2244] |                |                |                |                  | [back to top] |
 | 2256 | [.java][java-2256] |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] | [.go][go-2283] |                |                |                  | [back to top] |
@@ -1047,6 +1049,10 @@
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
+[java-2235]: ./java-solutions/2235-add-two-integers/src/Solution.java
+[py-2235]: ./python-solutions/2235-add-two-integers/solution.py
+[java-2236]: ./java-solutions/2236-root-equals-sum-of-children/src/Solution.java
+[py-2236]: ./python-solutions/2236-root-equals-sum-of-children/solution.py
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
