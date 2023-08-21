@@ -240,6 +240,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0451 | [.java][java-0451] |                |                |                |                  | [back to top] |
 | 0452 | [.java][java-0452] |                |                |                |                  | [back to top] |
 | 0454 | [.java][java-0454] |                |                |                |                  | [back to top] |
+| 0459 | [.java][java-0459] |                |                |                |                  | [back to top] |
 | 0463 | [.java][java-0463] |                | [.py][py-0463] | [.js][js-0463] |                  | [back to top] |
 | 0491 | [.java][java-0491] |                |                |                |                  | [back to top] |
 | 0493 | [.java][java-0493] |                |                |                |                  | [back to top] |
@@ -451,6 +452,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2283 | [.java][java-2283] | [.go][go-2283] |                |                |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                  | [back to top] |
+| 2337 | [.java][java-2337] |                |                |                |                  | [back to top] |
 | 2342 | [.java][java-2342] |                |                |                |                  | [back to top] |
 | 2348 | [.java][java-2348] | [.go][go-2348] | [.py][py-2348] | [.js][js-2348] |                  | [back to top] |
 | 2351 | [.java][java-2351] |                |                | [.js][js-2351] |                  | [back to top] |
@@ -765,6 +767,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0459]: ./java-solutions/0459-repeated-substring-pattern/src/Solution.java
 [java-0463]: ./java-solutions/0463-island-perimeter/src/Solution.java
 [py-0463]: ./python-solutions/0463-island-perimeter/solution.py
 [js-0463]: ./javascript-solutions/0463-island-perimeter/solution.js
@@ -1038,6 +1041,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
+[java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2348]: ./java-solutions/2348-number-of-zero-filled-subarrays/src/Solution.java
 [go-2348]: ./golang-solutions/2348-number-of-zero-filled-subarrays/solution.go
