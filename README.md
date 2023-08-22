@@ -153,6 +153,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0160 | [.java][java-0160] |                |                |                |                  | [back to top] |
 | 0165 | [.java][java-0165] |                |                |                |                  | [back to top] |
 | 0167 | [.java][java-0167] |                |                |                |                  | [back to top] |
+| 0168 | [.java][java-0168] |                | [.py][py-0168] |                |                  | [back to top] |
 | 0169 | [.java][java-0169] |                |                |                |                  | [back to top] |
 | 0171 | [.java][java-0171] |                |                |                |                  | [back to top] |
 | 0172 | [.java][java-0172] |                |                |                |                  | [back to top] |
@@ -300,6 +301,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0822 | [.java][java-0822] |                |                |                |                  | [back to top] |
 | 0833 | [.java][java-0833] |                |                |                |                  | [back to top] |
 | 0842 | [.java][java-0842] |                |                |                |                  | [back to top] |
+| 0849 | [.java][java-0849] |                | [.py][py-0849] |                |                  | [back to top] |
 | 0855 | [.java][java-0855] |                |                |                |                  | [back to top] |
 | 0856 | [.java][java-0856] |                |                | [.js][js-0856] |                  | [back to top] |
 | 0859 | [.java][java-0859] |                |                |                |                  | [back to top] |
@@ -646,6 +648,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0160]: ./java-solutions/0160-intersection-of-two-linked-lists/src/Solution.java
 [java-0165]: ./java-solutions/0165-compare-version-numbers/src/Solution.java
 [java-0167]: ./java-solutions/0167-two-sum-ii-input-array-is-sorted/src/Solution.java
+[java-0168]: ./java-solutions/0168-excel-sheet-column-title/src/Solution.java
+[py-0168]: ./python-solutions/0168-excel-sheet-column-title/solution.py
 [java-0169]: ./java-solutions/0169-majority-element/src/Solution.java
 [java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
@@ -833,6 +837,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
+[java-0849]: ./java-solutions/0849-maximize-distance-to-closest-person/src/Solution.java
+[py-0849]: ./python-solutions/0849-maximize-distance-to-closest-person/solution.py
 [java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
