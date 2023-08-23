@@ -283,6 +283,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0731 | [.java][java-0731] |                |                |     |                |                  | [back to top] |
 | 0732 | [.java][java-0732] |                |                |     |                |                  | [back to top] |
 | 0739 | [.java][java-0739] |                |                |     |                |                  | [back to top] |
+| 0767 | [.java][java-0767] | [.py][py-0767] | [.js][js-0767] |     |                |                  | [back to top] |
 | 0769 | [.java][java-0769] |                |                |     |                |                  | [back to top] |
 | 0775 | [.java][java-0775] |                |                |     |                |                  | [back to top] |
 | 0777 | [.java][java-0777] |                |                |     |                |                  | [back to top] |
@@ -815,6 +816,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
 [java-0739]: ./java-solutions/0739-daily-temperatures/src/Solution.java
+[java-0767]: ./java-solutions/0767-reorganize-string/src/Solution.java
+[py-0767]: ./python-solutions/0767-reorganize-string/solution.py
+[js-0767]: ./javascript-solutions/0767-reorganize-string/solution.js
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
