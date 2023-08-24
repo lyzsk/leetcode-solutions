@@ -361,6 +361,7 @@
 | 1234 | [.java][java-1234] |                |                |     |                |                  | [back to top] |
 | 1239 | [.java][java-1239] |                |                |     |                |                  | [back to top] |
 | 1260 | [.java][java-1260] | [.py][py-1260] | [.js][js-1260] |     |                |                  | [back to top] |
+| 1267 | [.java][java-1267] | [.py][py-1267] |                |     |                |                  | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
@@ -455,7 +456,7 @@
 | 2283 | [.java][java-2283] |                |                |     | [.go][go-2283] |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |     |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |     |                |                  | [back to top] |
-| 2337 | [.java][java-2337] |                |                |     |                |                  | [back to top] |
+| 2337 | [.java][java-2337] | [.py][py-2337] |                |     |                |                  | [back to top] |
 | 2342 | [.java][java-2342] |                |                |     |                |                  | [back to top] |
 | 2348 | [.java][java-2348] | [.py][py-2348] | [.js][js-2348] |     | [.go][go-2348] |                  | [back to top] |
 | 2351 | [.java][java-2351] |                | [.js][js-2351] |     |                |                  | [back to top] |
@@ -948,6 +949,8 @@
 [java-1260]: ./java-solutions/1260-shift-2d-grid/src/Solution.java
 [py-1260]: ./python-solutions/1260-shift-2d-grid/solution.py
 [js-1260]: ./javascript-solutions/1260-shift-2d-grid/solution.js
+[java-1267]: ./java-solutions/1267-count-servers-that-communicate/src/Solution.java
+[py-1267]: ./python-solutions/1267-count-servers-that-communicate/solution.py
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
@@ -1071,6 +1074,7 @@
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java
+[py-2337]: ./python-solutions/2337-move-pieces-to-obtain-a-string/solution.py
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
