@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -9,8 +8,7 @@ import java.util.List;
  **/
 public class Solution {
     public int[][] merge(int[][] intervals) {
-        // Arrays.sort(intervals, (o1, o2) -> Integer.compare(o1[0], o2[0]));
-        Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));
+        Arrays.sort(intervals, (o1, o2) -> Integer.compare(o1[0], o2[0]));
         List<int[]> merged = new ArrayList<>();
         for (int i = 0; i < intervals.length; i++) {
             int left = intervals[i][0];

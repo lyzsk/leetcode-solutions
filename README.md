@@ -80,7 +80,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0053 | [.java][java-0053] |                | [.js][js-0053] |     |                |                  | [back to top] |
 | 0054 | [.java][java-0054] | [.py][py-0054] |                |     |                |                  | [back to top] |
 | 0055 | [.java][java-0055] |                |                |     |                |                  | [back to top] |
-| 0056 | [.java][java-0056] |                |                |     |                |                  | [back to top] |
+| 0056 | [.java][java-0056] | [.py][py-0056] |                |     |                |                  | [back to top] |
 | 0057 | [.java][java-0057] |                |                |     |                |                  | [back to top] |
 | 0058 | [.java][java-0058] |                |                |     |                |                  | [back to top] |
 | 0059 | [.java][java-0059] | [.py][py-0059] | [.js][js-0059] |     |                |                  | [back to top] |
@@ -564,6 +564,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-0054]: ./python-solutions/0054-spiral-matrix/solution.py
 [java-0055]: ./java-solutions/0055-jump-game/src/Solution.java
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
+[py-0056]: ./python-solutions/0056-merge-intervals/solution.py
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
 [java-0058]: ./java-solutions/0058-length-of-last-word/src/Solution.java
 [java-0059]: ./java-solutions/0059-spiral-matrix-ii/src/Solution.java
