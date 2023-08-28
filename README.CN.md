@@ -81,7 +81,7 @@
 | 0054 | [.java][java-0054] | [.py][py-0054] |                |     |                |                  | [back to top] |
 | 0055 | [.java][java-0055] |                |                |     |                |                  | [back to top] |
 | 0056 | [.java][java-0056] | [.py][py-0056] |                |     |                |                  | [back to top] |
-| 0057 | [.java][java-0057] |                |                |     |                |                  | [back to top] |
+| 0057 | [.java][java-0057] | [.py][py-0057] |                |     |                |                  | [back to top] |
 | 0058 | [.java][java-0058] |                |                |     |                |                  | [back to top] |
 | 0059 | [.java][java-0059] | [.py][py-0059] | [.js][js-0059] |     |                |                  | [back to top] |
 | 0061 | [.java][java-0061] |                |                |     |                |                  | [back to top] |
@@ -187,6 +187,7 @@
 | 0219 | [.java][java-0219] |                |                |     |                |                  | [back to top] |
 | 0222 | [.java][java-0222] |                |                |     |                |                  | [back to top] |
 | 0223 | [.java][java-0223] |                |                |     |                |                  | [back to top] |
+| 0225 | [.java][java-0225] |                |                |     |                |                  | [back to top] |
 | 0226 | [.java][java-0226] | [.py][py-0226] | [.js][js-0226] |     | [.go][go-0226] |                  | [back to top] |
 | 0230 | [.java][java-0230] |                |                |     |                |                  | [back to top] |
 | 0232 | [.java][java-0232] |                |                |     |                |                  | [back to top] |
@@ -587,6 +588,7 @@
 [java-0056]: ./java-solutions/0056-merge-intervals/src/Solution.java
 [py-0056]: ./python-solutions/0056-merge-intervals/solution.py
 [java-0057]: ./java-solutions/0057-insert-interval/src/Solution.java
+[py-0057]: ./python-solutions/0057-insert-interval/solution.py
 [java-0058]: ./java-solutions/0058-length-of-last-word/src/Solution.java
 [java-0059]: ./java-solutions/0059-spiral-matrix-ii/src/Solution.java
 [py-0059]: ./python-solutions/0059-spiral-matrix-ii/solution.py
@@ -709,6 +711,7 @@
 [java-0219]: ./java-solutions/0219-contains-duplicate-ii/src/Solution.java
 [java-0222]: ./java-solutions/0222-count-complete-tree-nodes/src/Solution.java
 [java-0223]: ./java-solutions/0223-rectangle-area/src/Solution.java
+[java-0225]: ./java-solutions/0225-implement-stack-using-queues/src/MyStack.java
 [java-0226]: ./java-solutions/0226-invert-binary-tree/src/Solution.java
 [go-0226]: ./golang-solutions/0226-invert-binary-tree/solution.go
 [py-0226]: ./python-solutions/0226-invert-binary-tree/solution.py

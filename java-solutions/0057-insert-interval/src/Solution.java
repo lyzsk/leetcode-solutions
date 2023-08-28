@@ -10,28 +10,24 @@ public class Solution {
         int left = newInterval[0];
         int right = newInterval[1];
         boolean placed = false;
-        List<int[]> list = new ArrayList<>();
+        List<int[]> res = new ArrayList<>();
         for (int[] interval : intervals) {
             if (interval[0] > right) {
                 if (!placed) {
-                    list.add(new int[] {left, right});
+                    res.add(new int[] {left, right});
                     placed = true;
                 }
-                list.add(interval);
+                res.add(interval);
             } else if (interval[1] < left) {
-                list.add(interval);
+                res.add(interval);
             } else {
-                left = Math.min(interval[0], left);
-                right = Math.max(interval[1], right);
+                left = Math.min(left, interval[0]);
+                right = Math.max(right, interval[1]);
             }
         }
         if (!placed) {
-            list.add(new int[] {left, right});
+            res.add(new int[] {left, right});
         }
-        int[][] res = new int[list.size()][2];
-        for (int i = 0; i < list.size(); i++) {
-            res[i] = list.get(i);
-        }
-        return res;
+        return res.toArray(new int[res.size()][2]);
     }
 }
