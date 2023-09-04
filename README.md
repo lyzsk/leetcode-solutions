@@ -249,6 +249,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0493 | [.java][java-0493] |                |                |     |                |                  | [back to top] |
 | 0507 | [.java][java-0507] |                |                |     |                |                  | [back to top] |
 | 0509 | [.java][java-0509] | [.py][py-0509] | [.js][js-0509] |     | [.go][go-0509] |                  | [back to top] |
+| 0511 |                    |                |                |     |                | [.sql][sql-0511] | [back to top] |
 | 0518 | [.java][java-0518] |                |                |     |                |                  | [back to top] |
 | 0520 | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] |     |                |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |     |                |                  | [back to top] |
@@ -257,6 +258,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0559 | [.java][java-0559] |                |                |     |                |                  | [back to top] |
 | 0561 | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] |     |                |                  | [back to top] |
 | 0567 | [.java][java-0567] |                |                |     |                |                  | [back to top] |
+| 0577 |                    |                |                |     |                | [.sql][sql-0577] | [back to top] |
+| 0584 |                    |                |                |     |                | [.sql][sql-0584] | [back to top] |
 | 0589 | [.java][java-0589] |                |                |     |                |                  | [back to top] |
 | 0590 | [.java][java-0590] |                |                |     |                |                  | [back to top] |
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
@@ -760,6 +763,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-0561]: ./python-solutions/0561-array-partition/solution.py
 [js-0561]: ./javascript-solutions/0561-array-partition/solution.js
 [java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
+[sql-0577]: ./sql-solutions/0577-employee-bonus/solution.sql
+[sql-0584]: ./sql-solutions/0584-find-customer-referee/solution.sql
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
@@ -787,9 +792,10 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
-[go-0509]: ./golang-solutions/0509-fibonacci-number/solution.go
 [py-0509]: ./python-solutions/0509-fibonacci-number/solution.py
 [js-0509]: ./javascript-solutions/0509-fibonacci-number/solution.js
+[go-0509]: ./golang-solutions/0509-fibonacci-number/solution.go
+[sql-0511]: ./sql-solutions/0511-game-play-analysis-i/solution.sql
 [java-0518]: ./java-solutions/0518-coin-change-ii/src/Solution.java
 [java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
