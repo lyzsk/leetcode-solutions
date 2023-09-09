@@ -255,14 +255,22 @@
 | 0525 | [.java][java-0525] |                |                |     |                |                  | [back to top] |
 | 0530 | [.java][java-0530] |                |                |     |                |                  | [back to top] |
 | 0542 | [.java][java-0542] |                |                |     |                |                  | [back to top] |
+| 0550 |                    |                |                |     |                | [.sql][sql-0550] | [back to top] |
 | 0559 | [.java][java-0559] |                |                |     |                |                  | [back to top] |
 | 0561 | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] |     |                |                  | [back to top] |
 | 0567 | [.java][java-0567] |                |                |     |                |                  | [back to top] |
+| 0570 |                    |                |                |     |                | [.sql][sql-0570] | [back to top] |
 | 0577 |                    |                |                |     |                | [.sql][sql-0577] | [back to top] |
 | 0584 |                    |                |                |     |                | [.sql][sql-0584] | [back to top] |
+| 0585 |                    |                |                |     |                | [.sql][sql-0585] | [back to top] |
+| 0586 |                    |                |                |     |                | [.sql][sql-0586] | [back to top] |
 | 0589 | [.java][java-0589] |                |                |     |                |                  | [back to top] |
 | 0590 | [.java][java-0590] |                |                |     |                |                  | [back to top] |
+| 0595 |                    |                |                |     |                | [.sql][sql-0595] | [back to top] |
+| 0596 |                    |                |                |     |                | [.sql][sql-0596] | [back to top] |
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
+| 0602 |                    |                |                |     |                | [.sql][sql-0602] | [back to top] |
+| 0607 |                    |                |                |     |                | [.sql][sql-0607] | [back to top] |
 | 0617 | [.java][java-0617] |                |                |     |                |                  | [back to top] |
 | 0623 | [.java][java-0623] |                |                |     |                |                  | [back to top] |
 | 0641 | [.java][java-0641] | [.py][py-0641] |                |     |                |                  | [back to top] |
@@ -372,6 +380,7 @@
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
+| 1341 |                    |                |                |     |                | [.sql][sql-1341] | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |     | [.go][go-1372] |                  | [back to top] |
 | 1373 | [.java][java-1373] |                |                |     |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |     |                |                  | [back to top] |
@@ -489,6 +498,7 @@
 | 2542 | [.java][java-2542] |                |                |     |                |                  | [back to top] |
 | 2545 | [.java][java-2545] |                |                |     |                |                  | [back to top] |
 | 2562 | [.java][java-2562] |                |                |     |                |                  | [back to top] |
+| 2594 | [.java][java-2594] |                |                |     |                |                  | [back to top] |
 | 2656 | [.java][java-2656] |                |                |     |                |                  | [back to top] |
 | 2657 | [.java][java-2657] |                |                |     |                |                  | [back to top] |
 | 2658 | [.java][java-2658] |                |                |     |                |                  | [back to top] |
@@ -784,11 +794,18 @@
 [py-0561]: ./python-solutions/0561-array-partition/solution.py
 [js-0561]: ./javascript-solutions/0561-array-partition/solution.js
 [java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
+[sql-0570]: ./sql-solutions/0570-managers-with-at-least-5-direct-reports/solution.sql
 [sql-0577]: ./sql-solutions/0577-employee-bonus/solution.sql
 [sql-0584]: ./sql-solutions/0584-find-customer-referee/solution.sql
+[sql-0585]: ./sql-solutions/0585-investments-in-2016/solution.sql
+[sql-0586]: ./sql-solutions/0586-customer-placing-the-largest-number-of-orders/solution.sql
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
+[sql-0595]: ./sql-solutions/0595-big-countries/solution.sql
+[sql-0596]: ./sql-solutions/0596-classes-more-than-5-students/solution.sql
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
+[sql-0602]: ./sql-solutions/0602-friend-requests-ii-who-has-the-most-friends/solution.sql
+[sql-0607]: ./sql-solutions/0607-sales-person/solution.sql
 [java-0617]: ./java-solutions/0617-merge-two-binary-trees/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
@@ -824,6 +841,7 @@
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
 [java-0542]: ./java-solutions/0542-01-matrix/src/Solution.java
+[sql-0550]: ./sql-solutions/0550-game-play-analysis-iv/solution.sql
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
@@ -969,6 +987,7 @@
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
+[sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
@@ -1133,6 +1152,7 @@
 [java-2542]: ./java-solutions/2542-maximum-subsequence-score/src/Solution.java
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
+[java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
