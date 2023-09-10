@@ -181,6 +181,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0206 | [.java][java-0206] |                | [.js][js-0206] |     |                |                  | [back to top] |
 | 0207 | [.java][java-0207] |                |                |     |                |                  | [back to top] |
 | 0209 | [.java][java-0209] |                |                |     |                |                  | [back to top] |
+| 0210 | [.java][java-0210] |                |                |     |                |                  | [back to top] |
 | 0212 | [.java][java-0212] |                |                |     |                |                  | [back to top] |
 | 0215 | [.java][java-0215] |                |                |     |                |                  | [back to top] |
 | 0217 | [.java][java-0217] |                |                |     |                |                  | [back to top] |
@@ -698,6 +699,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-0206]: ./javascript-solutions/0206-reverse-linked-list/solution.js
 [java-0207]: ./java-solutions/0207-course-schedule/src/
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
+[java-0210]: ./java-solutions/0210-course-schedule-ii/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0217]: ./java-solutions/0217-contains-duplicate/src/Solution.java
