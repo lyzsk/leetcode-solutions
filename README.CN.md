@@ -272,7 +272,10 @@
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
 | 0602 |                    |                |                |     |                | [.sql][sql-0602] | [back to top] |
 | 0607 |                    |                |                |     |                | [.sql][sql-0607] | [back to top] |
+| 0608 |                    |                |                |     |                | [.sql][sql-0608] | [back to top] |
+| 0610 |                    |                |                |     |                | [.sql][sql-0610] | [back to top] |
 | 0617 | [.java][java-0617] |                |                |     |                |                  | [back to top] |
+| 0619 |                    |                |                |     |                | [.sql][sql-0619] | [back to top] |
 | 0623 | [.java][java-0623] |                |                |     |                |                  | [back to top] |
 | 0641 | [.java][java-0641] | [.py][py-0641] |                |     |                |                  | [back to top] |
 | 0647 | [.java][java-0647] |                |                |     |                |                  | [back to top] |
@@ -356,6 +359,7 @@
 | 1043 | [.java][java-1043] | [.py][py-1043] | [.js][js-1043] |     |                |                  | [back to top] |
 | 1046 | [.java][java-1046] | [.py][py-1046] | [.js][js-1046] |     |                |                  | [back to top] |
 | 1048 | [.java][java-1048] | [.py][py-1048] | [.js][js-1048] |     |                |                  | [back to top] |
+| 1050 |                    |                |                |     |                | [.sql][sql-1050] | [back to top] |
 | 1054 | [.java][java-1054] |                |                |     |                |                  | [back to top] |
 | 1072 | [.java][java-1072] |                |                |     |                |                  | [back to top] |
 | 1079 | [.java][java-1079] |                |                |     |                |                  | [back to top] |
@@ -808,7 +812,10 @@
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [sql-0602]: ./sql-solutions/0602-friend-requests-ii-who-has-the-most-friends/solution.sql
 [sql-0607]: ./sql-solutions/0607-sales-person/solution.sql
+[sql-0608]: ./sql-solutions/0608-tree-node/solution.sql
+[sql-0610]: ./sql-solutions/0610-triangle-judgement/solution.sql
 [java-0617]: ./java-solutions/0617-merge-two-binary-trees/src/Solution.java
+[sql-0619]: ./sql-solutions/0619-biggest-single-number/solution.sql
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
@@ -955,6 +962,7 @@
 [java-1048]: ./java-solutions/1048-longest-string-chain/src/Solution.java
 [py-1048]: ./python-solutions/1048-longest-string-chain/solution.py
 [js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
+[sql-1050]: ./sql-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql
 [java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
