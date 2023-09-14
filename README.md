@@ -504,12 +504,15 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2545 | [.java][java-2545] |                |                |     |                |                  | [back to top] |
 | 2562 | [.java][java-2562] |                |                |     |                |                  | [back to top] |
 | 2594 | [.java][java-2594] |                |                |     |                |                  | [back to top] |
+| 2596 | [.java][java-2596] | [.py][py-2596] |                |     |                |                  | [back to top] |
 | 2656 | [.java][java-2656] |                |                |     |                |                  | [back to top] |
 | 2657 | [.java][java-2657] |                |                |     |                |                  | [back to top] |
 | 2658 | [.java][java-2658] |                |                |     |                |                  | [back to top] |
 | 2659 | [.java][java-2659] |                |                |     |                |                  | [back to top] |
 | 2681 | [.java][java-2681] |                |                |     |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |     |                |                  | [back to top] |
+| 2848 | [.java][java-2848] | [.py][py-2848] |                |     |                |                  | [back to top] |
+| 2849 | [.java][java-2849] | [.py][py-2849] |                |     |                |                  | [back to top] |
 
 # TODO
 
@@ -1142,9 +1145,15 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
 [java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
+[java-2596]: ./java-solutions/2596-check-knight-tour-configuration/src/Solution.java
+[py-2596]: ./python-solutions/2596-check-knight-tour-configuration/solution.py
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
 [java-2659]: ./java-solutions/2659-make-array-empty/src/Solution.java
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
+[java-2848]: ./java-solutions/2848-points-that-intersect-with-cars/src/Solution.java
+[py-2848]: ./python-solutions/2848-points-that-intersect-with-cars/solution.py
+[java-2849]: ./java-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/src/Solution.java
+[py-2849]: ./python-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/solution.py
