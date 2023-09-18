@@ -364,6 +364,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1048 | [.java][java-1048] | [.py][py-1048] | [.js][js-1048] |     |                |                  | [back to top] |
 | 1050 |                    |                |                |     |                | [.sql][sql-1050] | [back to top] |
 | 1054 | [.java][java-1054] |                |                |     |                |                  | [back to top] |
+| 1068 |                    |                |                |     |                | [.sql][sql-1068] | [back to top] |
+| 1070 |                    |                |                |     |                | [.sql][sql-1070] | [back to top] |
 | 1072 | [.java][java-1072] |                |                |     |                |                  | [back to top] |
 | 1079 | [.java][java-1079] |                |                |     |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |     |                |                  | [back to top] |
@@ -952,6 +954,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
 [sql-1050]: ./sql-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql
 [java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
+[sql-1068]: ./sql-solutions/1068-product-sales-analysis-i/solution.sql
+[sql-1070]: ./sql-solutions/1070-product-sales-analysis-iii/solution.sql
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
