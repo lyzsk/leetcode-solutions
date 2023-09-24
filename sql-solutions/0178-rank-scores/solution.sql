@@ -1,7 +1,6 @@
 -- mysql
-select a.score as score,
-(select count(distinct b.score)
-from scores b
-where b.score >= a.score) as `rank`
-from scores a
-order by a.score desc
+select s.score, 
+(
+    dense_rank() over(order by s.score desc)
+) as 'rank'
+from scores s;

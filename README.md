@@ -367,16 +367,21 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1068 |                    |                |                |     |                | [.sql][sql-1068] | [back to top] |
 | 1070 |                    |                |                |     |                | [.sql][sql-1070] | [back to top] |
 | 1072 | [.java][java-1072] |                |                |     |                |                  | [back to top] |
+| 1075 |                    |                |                |     |                | [.sql][sql-1075] | [back to top] |
 | 1079 | [.java][java-1079] |                |                |     |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |     |                |                  | [back to top] |
+| 1084 |                    |                |                |     |                | [.sql][sql-1084] | [back to top] |
 | 1105 | [.java][java-1105] | [.py][py-1105] | [.js][js-1105] |     |                |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |     |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |     |                |                  | [back to top] |
 | 1138 | [.java][java-1138] |                |                |     |                |                  | [back to top] |
 | 1139 | [.java][java-1139] |                |                |     |                |                  | [back to top] |
+| 1141 |                    |                |                |     |                | [.sql][sql-1141] | [back to top] |
 | 1143 | [.java][java-1143] |                |                |     |                |                  | [back to top] |
 | 1144 | [.java][java-1144] |                |                |     |                |                  | [back to top] |
+| 1148 |                    |                |                |     |                | [.sql][sql-1148] | [back to top] |
 | 1156 | [.java][java-1156] |                |                |     |                |                  | [back to top] |
+| 1158 |                    |                |                |     |                | [.sql][sql-1158] | [back to top] |
 | 1163 | [.java][java-1163] | [.py][py-1163] | [.js][js-1163] |     |                |                  | [back to top] |
 | 1207 | [.java][java-1207] |                |                |     |                |                  | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
@@ -461,6 +466,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1945 | [.java][java-1945] |                |                |     |                |                  | [back to top] |
 | 1962 | [.java][java-1962] |                |                |     |                |                  | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |     |                |                  | [back to top] |
+| 1993 | [.java][java-1993] |                |                |     |                |                  | [back to top] |
 | 2027 | [.java][java-2027] |                | [.js][js-2027] |     |                |                  | [back to top] |
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |     |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] |     |                |                  | [back to top] |
@@ -957,9 +963,11 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-1068]: ./sql-solutions/1068-product-sales-analysis-i/solution.sql
 [sql-1070]: ./sql-solutions/1070-product-sales-analysis-iii/solution.sql
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
+[sql-1075]: ./sql-solutions/1075-project-employees-i/solution.sql
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
 [py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
+[sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
@@ -967,9 +975,12 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
 [java-1139]: ./java-solutions/1139-largest-1-bordered-square/src/Solution.java
+[sql-1141]: ./sql-solutions/1141-user-activity-for-the-past-30-days-i/solution.sql
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
+[sql-1148]: ./sql-solutions/1148-article-views-i/solution.sql
 [java-1156]: ./java-solutions/1156-swap-for-longest-repeated-character-substring/src/Solution.java
+[sql-1158]: ./sql-solutions/1158-market-analysis-i/solution.sql
 [java-1163]: ./java-solutions/1163-last-substring-in-lexicographical-order/src/Solution.java
 [py-1163]: ./python-solutions/1163-last-substring-in-lexicographical-order/solution.py
 [js-1163]: ./javascript-solutions/1163-last-substring-in-lexicographical-order/solution.js
@@ -1079,6 +1090,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1962]: ./java-solutions/1962-remove-stones-to-minimize-the-total/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
+[java-1993]: ./java-solutions/1993-operations-on-tree/src/LockingTree.java
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
