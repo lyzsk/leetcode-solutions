@@ -271,6 +271,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0596 |                    |                |                |     |                | [.sql][sql-0596] | [back to top] |
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
 | 0602 |                    |                |                |     |                | [.sql][sql-0602] | [back to top] |
+| 0605 | [.java][java-0605] |                |                |     |                |                  | [back to top] |
 | 0607 |                    |                |                |     |                | [.sql][sql-0607] | [back to top] |
 | 0608 |                    |                |                |     |                | [.sql][sql-0608] | [back to top] |
 | 0610 |                    |                |                |     |                | [.sql][sql-0610] | [back to top] |
@@ -475,6 +476,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2108 | [.java][java-2108] |                |                |     |                |                  | [back to top] |
 | 2130 | [.java][java-2130] | [.py][py-2130] | [.js][js-2130] |     |                |                  | [back to top] |
 | 2131 | [.java][java-2131] |                |                |     |                |                  | [back to top] |
+| 2136 | [.java][java-2136] |                |                |     |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |     |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |     |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |     |                |                  | [back to top] |
@@ -804,6 +806,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-0596]: ./sql-solutions/0596-classes-more-than-5-students/solution.sql
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [sql-0602]: ./sql-solutions/0602-friend-requests-ii-who-has-the-most-friends/solution.sql
+[java-0605]: ./java-solutions/0605-can-place-flowers/src/Solution.java
 [sql-0607]: ./sql-solutions/0607-sales-person/solution.sql
 [sql-0608]: ./sql-solutions/0608-tree-node/solution.sql
 [sql-0610]: ./sql-solutions/0610-triangle-judgement/solution.sql
@@ -1106,6 +1109,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-2130]: ./python-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.py
 [js-2130]: ./javascript-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.js
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2136]: ./java-solutions/2136-earliest-possible-day-of-full-bloom/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
