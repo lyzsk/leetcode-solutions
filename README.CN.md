@@ -169,6 +169,7 @@
 | 0184 |                    |                |                |     |                | [.sql][sql-0184] | [back to top] |
 | 0185 |                    |                |                |     |                | [.sql][sql-0185] | [back to top] |
 | 0187 | [.java][java-0187] |                |                |     |                |                  | [back to top] |
+| 0188 | [.java][java-0188] |                |                |     |                |                  | [back to top] |
 | 0189 | [.java][java-0189] |                |                |     |                |                  | [back to top] |
 | 0196 |                    |                |                |     |                | [.sql][sql-0196] | [back to top] |
 | 0197 |                    |                |                |     |                | [.sql][sql-0197] | [back to top] |
@@ -729,6 +730,7 @@
 [sql-0184]: ./sql-solutions/0184-department-highest-salary/solution.sql
 [sql-0185]: ./sql-solutions/0185-department-top-three-salaries/solution.sql
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
+[java-0188]: ./java-solutions/0188-best-time-to-buy-and-sell-stock-iv/src/Solution.java
 [java-0189]: ./java-solutions/0189-rotate-array/src/Solution.java
 [sql-0196]: ./sql-solutions/0196-delete-duplicate-emails/solution.sql
 [sql-0197]: ./sql-solutions/0197-rising-temperature/solution.sql
