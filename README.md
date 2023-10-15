@@ -135,6 +135,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0130 | [.java][java-0130] |                |                |     |                |                  | [back to top] |
 | 0134 | [.java][java-0134] |                |                |     |                |                  | [back to top] |
 | 0136 | [.java][java-0136] |                |                |     |                |                  | [back to top] |
+| 0137 | [.java][java-0137] |                |                |     |                |                  | [back to top] |
 | 0139 | [.java][java-0139] |                |                |     |                |                  | [back to top] |
 | 0140 | [.java][java-0140] |                |                |     |                |                  | [back to top] |
 | 0141 | [.java][java-0141] |                | [.js][js-0141] |     |                |                  | [back to top] |
@@ -667,6 +668,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0130]: ./java-solutions/0130-surrounded-regions/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
+[java-0137]: ./java-solutions/0137-single-number-ii/src/Solution.java
 [java-0139]: ./java-solutions/0139-word-break/src/Solution.java
 [java-0140]: ./java-solutions/0140-word-break-ii/src/Solution.java
 [java-0141]: ./java-solutions/0141-linked-list-cycle/src/Solution.java
