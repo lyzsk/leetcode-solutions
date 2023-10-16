@@ -203,6 +203,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0242 | [.java][java-0242] |                |                |     |                |                  | [back to top] |
 | 0257 | [.java][java-0257] |                |                |     |                |                  | [back to top] |
 | 0258 | [.java][java-0258] | [.py][py-0258] | [.js][js-0258] |     |                |                  | [back to top] |
+| 0260 | [.java][java-0260] |                |                |     |                |                  | [back to top] |
 | 0263 | [.java][java-0263] |                |                |     |                |                  | [back to top] |
 | 0268 | [.java][java-0268] |                | [.js][js-0268] |     |                |                  | [back to top] |
 | 0279 | [.java][java-0279] |                |                |     |                |                  | [back to top] |
@@ -753,6 +754,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0258]: ./java-solutions/0258-add-digits/src/Solution.java
 [py-0258]: ./python-solutions/0258-add-digits/solution.py
 [js-0258]: ./javascript-solutions/0258-add-digits/solution.js
+[java-0260]: ./java-solutions/0260-single-number-iii/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [js-0268]: ./javascript-solutions/0268-missing-number/solution.js
