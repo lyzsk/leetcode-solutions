@@ -312,6 +312,7 @@
 | 0769 | [.java][java-0769] |                |                |     |                |                  | [back to top] |
 | 0775 | [.java][java-0775] |                |                |     |                |                  | [back to top] |
 | 0777 | [.java][java-0777] |                |                |     |                |                  | [back to top] |
+| 0779 | [.java][java-0779] |                |                |     |                |                  | [back to top] |
 | 0783 | [.java][java-0783] |                | [.js][js-0783] |     | [.go][go-0783] |                  | [back to top] |
 | 0788 | [.java][java-0788] |                |                |     |                |                  | [back to top] |
 | 0790 | [.java][java-0790] |                |                |     |                |                  | [back to top] |
@@ -914,6 +915,7 @@
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
+[java-0779]: ./java-solutions/0779-k-th-symbol-in-grammar/src/Solution.java
 [java-0783]: ./java-solutions/0783-minimum-distance-between-bst-nodes/src/Solution.java
 [go-0783]: ./golang-solutions/0783-minimum-distance-between-bst-nodes/solution.go
 [js-0783]: ./javascript-solutions/0783-minimum-distance-between-bst-nodes/solution.js
