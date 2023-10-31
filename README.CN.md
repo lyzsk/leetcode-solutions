@@ -505,6 +505,7 @@
 | 2413 | [.java][java-2413] | [.py][py-2413] | [.js][js-2413] |     | [.go][go-2413] |                  | [back to top] |
 | 2418 | [.java][java-2418] | [.py][py-2418] | [.js][js-2418] |     |                |                  | [back to top] |
 | 2423 | [.java][java-2423] | [.py][py-2423] | [.js][js-2423] |     |                |                  | [back to top] |
+| 2433 | [.java][java-2433] | [.py][py-2433] |                |     |                |                  | [back to top] |
 | 2437 | [.java][java-2437] | [.py][py-2437] | [.js][js-2437] |     |                |                  | [back to top] |
 | 2441 | [.java][java-2441] |                |                |     |                |                  | [back to top] |
 | 2446 | [.java][java-2446] | [.py][py-2446] | [.js][js-2446] |     | [.go][go-2446] |                  | [back to top] |
@@ -1184,6 +1185,8 @@
 [java-2423]: ./java-solutions/2423-remove-letter-to-equalize-frequency/src/Solution.java
 [py-2423]: ./python-solutions/2423-remove-letter-to-equalize-frequency/solution.py
 [js-2423]: ./javascript-solutions/2423-remove-letter-to-equalize-frequency/solution.js
+[java-2433]: ./java-solutions/2433-find-the-original-array-of-prefix-xor/src/Solution.java
+[py-2433]: ./python-solutions/2433-find-the-original-array-of-prefix-xor/solution.py
 [java-2437]: ./java-solutions/2437-number-of-valid-clock-times/src/Solution.java
 [py-2437]: ./python-solutions/2437-number-of-valid-clock-times/solution.py
 [js-2437]: ./javascript-solutions/2437-number-of-valid-clock-times/solution.js
