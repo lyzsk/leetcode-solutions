@@ -251,6 +251,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0463 | [.java][java-0463] | [.py][py-0463] | [.js][js-0463] |     |                |                  | [back to top] |
 | 0491 | [.java][java-0491] |                |                |     |                |                  | [back to top] |
 | 0493 | [.java][java-0493] |                |                |     |                |                  | [back to top] |
+| 0501 | [.java][java-0501] |                |                |     |                |                  | [back to top] |
 | 0507 | [.java][java-0507] |                |                |     |                |                  | [back to top] |
 | 0509 | [.java][java-0509] | [.py][py-0509] | [.js][js-0509] |     | [.go][go-0509] |                  | [back to top] |
 | 0511 |                    |                |                |     |                | [.sql][sql-0511] | [back to top] |
@@ -848,6 +849,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-0463]: ./javascript-solutions/0463-island-perimeter/solution.js
 [java-0491]: ./java-solutions/0491-non-decreasing-subsequences/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
+[java-0501]: ./java-solutions/0501-find-mode-in-binary-search-tree/src/Solution.java
 [java-0507]: ./java-solutions/0507-perfect-number/src/Solution.java
 [java-0509]: ./java-solutions/0509-fibonacci-number/src/Solution.java
 [py-0509]: ./python-solutions/0509-fibonacci-number/solution.py
