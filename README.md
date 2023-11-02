@@ -491,6 +491,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2236 | [.java][java-2236] | [.py][py-2236] |                |     |                |                  | [back to top] |
 | 2244 | [.java][java-2244] |                |                |     |                |                  | [back to top] |
 | 2256 | [.java][java-2256] |                |                |     |                |                  | [back to top] |
+| 2265 | [.java][java-2265] |                |                |     |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |     | [.go][go-2283] |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |     |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |     |                |                  | [back to top] |
@@ -1136,6 +1137,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-2236]: ./python-solutions/2236-root-equals-sum-of-children/solution.py
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
+[java-2265]: ./java-solutions/2265-count-nodes-equal-to-average-of-subtree/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java

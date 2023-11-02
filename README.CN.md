@@ -491,6 +491,7 @@
 | 2236 | [.java][java-2236] | [.py][py-2236] |                |     |                |                  | [back to top] |
 | 2244 | [.java][java-2244] |                |                |     |                |                  | [back to top] |
 | 2256 | [.java][java-2256] |                |                |     |                |                  | [back to top] |
+| 2265 | [.java][java-2265] |                |                |     |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |     | [.go][go-2283] |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |     |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |     |                |                  | [back to top] |
@@ -1157,6 +1158,7 @@
 [py-2236]: ./python-solutions/2236-root-equals-sum-of-children/solution.py
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
+[java-2265]: ./java-solutions/2265-count-nodes-equal-to-average-of-subtree/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java
