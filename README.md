@@ -591,9 +591,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0033]: ./java-solutions/0033-search-in-rotated-sorted-array/src/Solution.java
 [java-0034]: ./java-solutions/0034-find-first-and-last-position-of-element-in-sorted-array/src/Solution.java
 [java-0035]: ./java-solutions/0035-search-insert-position/src/Solution.java
-[go-0035]: ./golang-solutions/0035-search-insert-position/solution.go
 [py-0035]: ./python-solutions/0035-search-insert-position/solution.py
 [js-0035]: ./javascript-solutions/0035-search-insert-position/solution.js
+[go-0035]: ./golang-solutions/0035-search-insert-position/solution.go
 [java-0036]: ./java-solutions/0036-valid-sudoku/src/Solution.java
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
