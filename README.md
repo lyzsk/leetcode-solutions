@@ -293,7 +293,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0655 | [.java][java-0655] |                |                |     |                |                  | [back to top] |
 | 0658 | [.java][java-0658] |                |                |     |                |                  | [back to top] |
 | 0659 | [.java][java-0659] |                |                |     |                |                  | [back to top] |
-| 0662 | [.java][java-0662] | [.py][py-662]  |                |     | [.go][go-0662] |                  | [back to top] |
+| 0662 | [.java][java-0662] | [.py][py-0662] |                |     | [.go][go-0662] |                  | [back to top] |
 | 0678 | [.java][java-0678] |                |                |     |                |                  | [back to top] |
 | 0680 | [.java][java-0680] |                |                |     |                |                  | [back to top] |
 | 0687 | [.java][java-0687] |                |                |     |                |                  | [back to top] |
@@ -874,8 +874,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0658]: ./java-solutions/0658-find-k-closest-elements/src/Solution.java
 [java-0659]: ./java-solutions/0659-split-array-into-consecutive-subsequences/src/Solution.java
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/dfs/Solution.java
-[go-662]: ./golang-solutions/0662-maximum-width-of-binary-tree/solution.go
-[py-662]: ./python-solutions/0662-maximum-width-of-binary-tree/solution.py
+[py-0662]: ./python-solutions/0662-maximum-width-of-binary-tree/solution.py
+[go-0662]: ./golang-solutions/0662-maximum-width-of-binary-tree/solution.go
 [java-0678]: ./java-solutions/0678-valid-parenthesis-string/src/Solution.java
 [java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
