@@ -420,6 +420,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1464 | [.java][java-1464] |                |                |     |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |     |                |                  | [back to top] |
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |     |                |                  | [back to top] |
+| 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |     |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |     |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |     |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |     |                |                  | [back to top] |
@@ -1054,6 +1055,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1491]: ./java-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/src/Solution.java
 [py-1491]: ./python-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.py
 [js-1491]: ./javascript-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.js
+[java-1503]: ./java-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/src/Solution.java
+[py-1503]: ./python-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.py
+[js-1503]: ./javascript-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.js
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
