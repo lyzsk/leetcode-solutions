@@ -5,27 +5,23 @@ import java.util.PriorityQueue;
  * @date 2023/11/06
  **/
 public class SeatManager {
-    private int last;
-    private PriorityQueue<Integer> minheap;
+    private PriorityQueue<Integer> pq;
 
     public SeatManager(int n) {
-        this.last = 0;
-        this.minheap = new PriorityQueue<>();
+        this.pq = new PriorityQueue<>();
+        for (int i = 1; i <= n; i++) {
+            pq.offer(i);
+        }
     }
 
     public int reserve() {
-        if (minheap.isEmpty()) {
-            return ++last;
-        } else {
-            return minheap.poll();
+        if (pq.isEmpty()) {
+            return -1;
         }
+        return pq.poll();
     }
 
     public void unreserve(int seatNumber) {
-        if (seatNumber == last) {
-            --last;
-        } else {
-            minheap.offer(seatNumber);
-        }
+        pq.offer(seatNumber);
     }
 }
