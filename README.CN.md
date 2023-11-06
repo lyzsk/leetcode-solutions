@@ -467,6 +467,7 @@
 | 1832 | [.java][java-1832] |                |                |     |                |                  | [back to top] |
 | 1833 | [.java][java-1833] |                |                |     |                |                  | [back to top] |
 | 1834 | [.java][java-1834] |                |                |     |                |                  | [back to top] |
+| 1845 | [.java][java-1845] |                |                |     |                |                  | [back to top] |
 | 1865 | [.java][java-1865] |                |                |     |                |                  | [back to top] |
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
 | 1877 | [.java][java-1877] |                |                |     |                |                  | [back to top] |
@@ -1136,6 +1137,7 @@
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
 [java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
+[java-1845]: ./java-solutions/1845-seat-reservation-manager/src/SeatManager.java
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
