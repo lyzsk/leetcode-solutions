@@ -44,7 +44,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0011 | [.java][java-0011] |                |                |     |                |                  | [back to top] |
 | 0012 | [.java][java-0012] |                | [.js][js-0012] |     |                |                  | [back to top] |
 | 0013 | [.java][java-0013] |                | [.js][js-0013] |     |                |                  | [back to top] |
-| 0014 | [.java][java-0014] |                | [.js][js-0014] |     |                |                  | [back to top] |
+| 0014 | [.java][java-0014] | [.py][py-0014] | [.js][js-0014] |     |                |                  | [back to top] |
 | 0015 | [.java][java-0015] |                |                |     |                |                  | [back to top] |
 | 0016 | [.java][java-0016] |                |                |     |                |                  | [back to top] |
 | 0017 | [.java][java-0017] |                |                |     |                |                  | [back to top] |
@@ -574,6 +574,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0013]: ./java-solutions/0013-roman-to-integer/src/Solution.java
 [js-0013]: ./javascript-solutions/0013-roman-to-integer/solution.js
 [java-0014]: ./java-solutions/0014-longest-common-prefix/src/Solution.java
+[py-0014]: ./python-solutions/0014-longest-common-prefix/solution.py
 [js-0014]: ./javascript-solutions/0014-longest-common-prefix/solution.js
 [java-0015]: ./java-solutions/0015-3-sum/src/Solution.java
 [java-0016]: ./java-solutions/0016-3sum-closest/src/Solution.java
