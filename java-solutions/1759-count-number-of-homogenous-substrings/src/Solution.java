@@ -6,19 +6,15 @@ public class Solution {
     public int countHomogenous(String s) {
         final int MOD = (int)(1e9 + 7);
         long res = 0;
-        char prev = s.charAt(0);
-        int cnt = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (ch == prev) {
-                ++cnt;
+        int left = 0;
+        for (int right = 0; right < s.length(); right++) {
+            if (s.charAt(left) == s.charAt(right)) {
+                res += right - left + 1;
             } else {
-                res += (long)cnt * (cnt + 1) / 2;
-                cnt = 1;
-                prev = ch;
+                res += 1;
+                left = right;
             }
         }
-        res += (long)cnt * (cnt + 1) / 2;
         return (int)(res % MOD);
     }
 }

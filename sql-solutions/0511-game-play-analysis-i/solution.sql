@@ -1,10 +1,4 @@
 -- mysql
-select distinct
-    a.player_id,
-    FIRST_VALUE(a.event_date) OVER (
-        PARTITION BY
-            a.player_id
-        ORDER BY
-            a.event_date
-    ) AS first_login
-from activity a
+select player_id, min(event_date) as first_login
+from activity
+group by player_id;

@@ -441,7 +441,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1749 | [.java][java-1749] |                |                |     |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                | [.js][js-1754] |     |                |                  | [back to top] |
 | 1758 | [.java][java-1758] |                |                |     |                |                  | [back to top] |
-| 1759 | [.java][java-1759] |                |                |     |                |                  | [back to top] |
+| 1759 | [.java][java-1759] | [.py][py-1759] | [.js][js-1759] |     |                |                  | [back to top] |
 | 1764 | [.java][java-1764] |                |                |     |                |                  | [back to top] |
 | 1768 | [.java][java-1768] | [.py][py-1768] | [.js][js-1768] |     | [.go][go-1768] |                  | [back to top] |
 | 1769 | [.java][java-1769] |                |                |     |                |                  | [back to top] |
@@ -1087,6 +1087,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [java-1759]: ./java-solutions/1759-count-number-of-homogenous-substrings/src/Solution.java
+[py-1759]: ./python-solutions/1759-count-number-of-homogenous-substrings/solution.py
+[js-1759]: ./javascript-solutions/1759-count-number-of-homogenous-substrings/solution.js
 [java-1764]: ./java-solutions/1764-form-array-by-concatenating-subarrays-of-another-array/src/Solution.java
 [java-1768]: ./java-solutions/1768-merge-strings-alternately/src/Solution.java
 [go-1768]: ./golang-solutions/1768-merge-strings-alternately/solution.go
