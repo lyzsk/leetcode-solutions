@@ -1,5 +1,5 @@
 -- mysql
 select class
 from courses
-group by student
-having count(*) >= 5
+group by class
+having count(*) >= 5;
