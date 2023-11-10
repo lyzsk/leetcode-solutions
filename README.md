@@ -438,6 +438,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1721 | [.java][java-1721] |                |                |     |                |                  | [back to top] |
 | 1732 | [.java][java-1732] |                |                |     |                |                  | [back to top] |
 | 1742 | [.java][java-1742] |                |                |     |                |                  | [back to top] |
+| 1743 | [.java][java-1743] | [.py][py-1743] | [.js][js-1743] |     |                |                  | [back to top] |
 | 1749 | [.java][java-1749] |                |                |     |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                | [.js][js-1754] |     |                |                  | [back to top] |
 | 1758 | [.java][java-1758] |                |                |     |                |                  | [back to top] |
@@ -1082,6 +1083,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
+[java-1743]: ./java-solutions/1743-restore-the-array-from-adjacent-pairs/src/Solution.java
+[py-1743]: ./python-solutions/1743-restore-the-array-from-adjacent-pairs/solution.py
+[js-1743]: ./javascript-solutions/1743-restore-the-array-from-adjacent-pairs/solution.js
 [java-1749]: ./java-solutions/1749-maximum-absolute-sum-of-any-subarray/src/Solution.java
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js

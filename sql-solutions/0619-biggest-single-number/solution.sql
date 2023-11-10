@@ -1,6 +1,9 @@
 -- mysql
-select if(count(num) = 1, num, null) as num
-from mynumbers
-group by num
-order by count(num), num desc
-limit 1
+select max(num) as num
+from 
+(
+    select num 
+    from mynumbers
+    group by num
+    having count(*) = 1
+) a;
