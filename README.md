@@ -367,6 +367,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1035 | [.java][java-1035] |                |                |     |                |                  | [back to top] |
 | 1042 | [.java][java-1042] |                |                |     |                |                  | [back to top] |
 | 1043 | [.java][java-1043] | [.py][py-1043] | [.js][js-1043] |     |                |                  | [back to top] |
+| 1045 |                    |                |                |     |                | [.sql][sql-1045] | [back to top] |
 | 1046 | [.java][java-1046] | [.py][py-1046] | [.js][js-1046] |     |                |                  | [back to top] |
 | 1048 | [.java][java-1048] | [.py][py-1048] | [.js][js-1048] |     |                |                  | [back to top] |
 | 1050 |                    |                |                |     |                | [.sql][sql-1050] | [back to top] |
@@ -532,6 +533,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2562 | [.java][java-2562] |                |                |     |                |                  | [back to top] |
 | 2594 | [.java][java-2594] |                |                |     |                |                  | [back to top] |
 | 2596 | [.java][java-2596] | [.py][py-2596] |                |     |                |                  | [back to top] |
+| 2642 | [.java][java-2642] |                |                |     |                |                  | [back to top] |
 | 2656 | [.java][java-2656] |                |                |     |                |                  | [back to top] |
 | 2657 | [.java][java-2657] |                |                |     |                |                  | [back to top] |
 | 2658 | [.java][java-2658] |                |                |     |                |                  | [back to top] |
@@ -979,6 +981,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
 [py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
 [js-1043]: ./javascript-solutions/1043-partition-array-for-maximum-sum/solution.js
+[sql-1045]: ./sql-solutions/1045-customers-who-bought-all-products/solution.sql
 [java-1046]: ./java-solutions/1046-last-stone-weight/src/Solution.java
 [py-1046]: ./python-solutions/1046-last-stone-weight/solution.py
 [js-1046]: ./javascript-solutions/1046-last-stone-weight/solution.js
@@ -1216,6 +1219,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
 [java-2596]: ./java-solutions/2596-check-knight-tour-configuration/src/Solution.java
 [py-2596]: ./python-solutions/2596-check-knight-tour-configuration/solution.py
+[java-2642]: ./java-solutions/2642-design-graph-with-shortest-path-calculator/src/Graph.java
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
