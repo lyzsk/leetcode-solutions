@@ -391,6 +391,7 @@
 | 1156 | [.java][java-1156] |                |                |     |                |                  | [back to top] |
 | 1158 |                    |                |                |     |                | [.sql][sql-1158] | [back to top] |
 | 1163 | [.java][java-1163] | [.py][py-1163] | [.js][js-1163] |     |                |                  | [back to top] |
+| 1164 |                    |                |                |     |                | [.sql][sql-1164] | [back to top] |
 | 1207 | [.java][java-1207] |                |                |     |                |                  | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
@@ -1039,6 +1040,7 @@
 [java-1163]: ./java-solutions/1163-last-substring-in-lexicographical-order/src/Solution.java
 [py-1163]: ./python-solutions/1163-last-substring-in-lexicographical-order/solution.py
 [js-1163]: ./javascript-solutions/1163-last-substring-in-lexicographical-order/solution.js
+[sql-1164]: ./sql-solutions/1164-product-price-at-a-given-date/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
