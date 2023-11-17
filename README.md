@@ -392,6 +392,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1158 |                    |                |                |     |                | [.sql][sql-1158] | [back to top] |
 | 1163 | [.java][java-1163] | [.py][py-1163] | [.js][js-1163] |     |                |                  | [back to top] |
 | 1164 |                    |                |                |     |                | [.sql][sql-1164] | [back to top] |
+| 1174 |                    |                |                |     |                | [.sql][sql-1174] | [back to top] |
+| 1179 |                    |                |                |     |                | [.sql][sql-1179] | [back to top] |
 | 1207 | [.java][java-1207] |                |                |     |                |                  | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
@@ -474,7 +476,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |     |                |                  | [back to top] |
 | 1865 | [.java][java-1865] |                |                |     |                |                  | [back to top] |
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
-| 1877 | [.java][java-1877] |                |                |     |                |                  | [back to top] |
+| 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |     |                |                  | [back to top] |
 | 1905 | [.java][java-1905] |                |                |     |                |                  | [back to top] |
 | 1909 | [.java][java-1909] |                |                |     |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |     |                |                  | [back to top] |
@@ -1017,6 +1019,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-1163]: ./python-solutions/1163-last-substring-in-lexicographical-order/solution.py
 [js-1163]: ./javascript-solutions/1163-last-substring-in-lexicographical-order/solution.js
 [sql-1164]: ./sql-solutions/1164-product-price-at-a-given-date/solution.sql
+[sql-1174]: ./sql-solutions/1174-immediate-food-delivery-ii/solution.sql
+[sql-1179]: ./sql-solutions/1179-reformat-department-table/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
@@ -1134,6 +1138,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
+[py-1877]: ./python-solutions/1877-minimize-maximum-pair-sum-in-array/solution.py
+[js-1877]: ./javascript-solutions/1877-minimize-maximum-pair-sum-in-array/solution.js
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
