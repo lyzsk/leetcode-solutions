@@ -394,6 +394,7 @@
 | 1164 |                    |                |                |     |                | [.sql][sql-1164] | [back to top] |
 | 1174 |                    |                |                |     |                | [.sql][sql-1174] | [back to top] |
 | 1179 |                    |                |                |     |                | [.sql][sql-1179] | [back to top] |
+| 1193 |                    |                |                |     |                | [.sql][sql-1193] | [back to top] |
 | 1207 | [.java][java-1207] |                |                |     |                |                  | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
@@ -472,6 +473,7 @@
 | 1832 | [.java][java-1832] |                |                |     |                |                  | [back to top] |
 | 1833 | [.java][java-1833] |                |                |     |                |                  | [back to top] |
 | 1834 | [.java][java-1834] |                |                |     |                |                  | [back to top] |
+| 1838 | [.java][java-1838] | [.py][py-1838] | [.js][js-1838] |     |                |                  | [back to top] |
 | 1845 | [.java][java-1845] |                |                |     |                |                  | [back to top] |
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |     |                |                  | [back to top] |
 | 1865 | [.java][java-1865] |                |                |     |                |                  | [back to top] |
@@ -1045,6 +1047,7 @@
 [sql-1164]: ./sql-solutions/1164-product-price-at-a-given-date/solution.sql
 [sql-1174]: ./sql-solutions/1174-immediate-food-delivery-ii/solution.sql
 [sql-1179]: ./sql-solutions/1179-reformat-department-table/solution.sql
+[sql-1193]: ./sql-solutions/1193-monthly-transactions-i/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
@@ -1155,6 +1158,9 @@
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
 [java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
+[java-1838]: ./java-solutions/1838-frequency-of-the-most-frequent-element/src/Solution.java
+[py-1838]: ./python-solutions/1838-frequency-of-the-most-frequent-element/solution.py
+[js-1838]: ./javascript-solutions/1838-frequency-of-the-most-frequent-element/solution.js
 [java-1845]: ./java-solutions/1845-seat-reservation-manager/src/SeatManager.java
 [java-1846]: ./java-solutions/1846-maximum-element-after-decreasing-and-rearranging/src/Solution.java
 [py-1846]: ./python-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.py
