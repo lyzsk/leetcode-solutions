@@ -518,6 +518,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2369 | [.java][java-2369] |                |                |     |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
+| 2391 | [.java][java-2391] |                |                |     |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |     |                |                  | [back to top] |
 | 2413 | [.java][java-2413] | [.py][py-2413] | [.js][js-2413] |     | [.go][go-2413] |                  | [back to top] |
 | 2418 | [.java][java-2418] | [.py][py-2418] | [.js][js-2418] |     |                |                  | [back to top] |
@@ -1205,6 +1206,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2369]: ./java-solutions/2369-check-if-there-is-a-valid-partition-for-the-array/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
+[java-2391]: ./java-solutions/2391-minimum-amount-of-time-to-collect-garbage/src/Solution.java
 [java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java
 [py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
 [java-2413]: ./java-solutions/2413-smallest-even-multiple/src/Solution.java
