@@ -397,6 +397,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1193 |                    |                |                |     |                | [.sql][sql-1193] | [back to top] |
 | 1204 |                    |                |                |     |                | [.sql][sql-1204] | [back to top] |
 | 1207 | [.java][java-1207] |                |                |     |                |                  | [back to top] |
+| 1211 |                    |                |                |     |                | [.sql][sql-1211] | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
 | 1234 | [.java][java-1234] |                |                |     |                |                  | [back to top] |
@@ -1030,6 +1031,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-1193]: ./sql-solutions/1193-monthly-transactions-i/solution.sql
 [sql-1204]: ./sql-solutions/1204-last-person-to-fit-in-the-bus/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
+[sql-1211]: ./sql-solutions/1211-queries-quality-and-percentage/solution.sql
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
 [java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
