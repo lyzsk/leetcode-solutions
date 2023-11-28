@@ -402,6 +402,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
 | 1234 | [.java][java-1234] |                |                |     |                |                  | [back to top] |
 | 1239 | [.java][java-1239] |                |                |     |                |                  | [back to top] |
+| 1251 |                    |                |                |     |                | [.sql][sql-1251] | [back to top] |
 | 1260 | [.java][java-1260] | [.py][py-1260] | [.js][js-1260] |     |                |                  | [back to top] |
 | 1267 | [.java][java-1267] | [.py][py-1267] |                |     |                |                  | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
@@ -1036,6 +1037,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
 [java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
+[sql-1251]: ./sql-solutions/1251-average-selling-price/solution.sql
 [java-1260]: ./java-solutions/1260-shift-2d-grid/src/Solution.java
 [py-1260]: ./python-solutions/1260-shift-2d-grid/solution.py
 [js-1260]: ./javascript-solutions/1260-shift-2d-grid/solution.js
