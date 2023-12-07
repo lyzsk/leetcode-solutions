@@ -408,6 +408,7 @@
 | 1280 |                    |                |                |     |                | [.sql][sql-1280] | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
+| 1321 |                    |                |                |     |                | [.sql][sql-1321] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
@@ -485,6 +486,7 @@
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |     |                |                  | [back to top] |
 | 1887 | [.java][java-1887] | [.py][py-1887] | [.js][js-1887] |     |                |                  | [back to top] |
+| 1903 | [.java][java-1903] | [.py][py-1903] | [.js][js-1903] |     |                |                  | [back to top] |
 | 1905 | [.java][java-1905] |                |                |     |                |                  | [back to top] |
 | 1909 | [.java][java-1909] |                |                |     |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |     |                |                  | [back to top] |
@@ -1073,6 +1075,7 @@
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
+[sql-1321]: ./sql-solutions/1321-restaurant-growth/solution.sql
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
@@ -1186,6 +1189,9 @@
 [java-1887]: ./java-solutions/1887-reduction-operations-to-make-the-array-elements-equal/src/Solution.java
 [py-1887]: ./python-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.py
 [js-1887]: ./javascript-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.js
+[java-1903]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
+[py-1903]: ./python-solutions/1903-largest-odd-number-in-string/solution.py
+[js-1903]: ./javascript-solutions/1903-largest-odd-number-in-string/solution.js
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
