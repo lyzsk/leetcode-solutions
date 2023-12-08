@@ -276,6 +276,7 @@
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
 | 0602 |                    |                |                |     |                | [.sql][sql-0602] | [back to top] |
 | 0605 | [.java][java-0605] |                |                |     |                |                  | [back to top] |
+| 0606 | [.java][java-0606] |                |                |     |                |                  | [back to top] |
 | 0607 |                    |                |                |     |                | [.sql][sql-0607] | [back to top] |
 | 0608 |                    |                |                |     |                | [.sql][sql-0608] | [back to top] |
 | 0610 |                    |                |                |     |                | [.sql][sql-0610] | [back to top] |
@@ -409,6 +410,7 @@
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
 | 1321 |                    |                |                |     |                | [.sql][sql-1321] | [back to top] |
+| 1327 |                    |                |                |     |                | [.sql][sql-1327] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
@@ -870,6 +872,7 @@
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [sql-0602]: ./sql-solutions/0602-friend-requests-ii-who-has-the-most-friends/solution.sql
 [java-0605]: ./java-solutions/0605-can-place-flowers/src/Solution.java
+[java-0606]: ./java-solutions/0606-construct-string-from-binary-tree/src/Solution.java
 [sql-0607]: ./sql-solutions/0607-sales-person/solution.sql
 [sql-0608]: ./sql-solutions/0608-tree-node/solution.sql
 [sql-0610]: ./sql-solutions/0610-triangle-judgement/solution.sql
@@ -1076,6 +1079,7 @@
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [sql-1321]: ./sql-solutions/1321-restaurant-growth/solution.sql
+[sql-1327]: ./sql-solutions/1327-list-the-products-ordered-in-a-period/solution.sql
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java

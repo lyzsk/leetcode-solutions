@@ -276,6 +276,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0598 | [.java][java-0598] |                |                |     |                |                  | [back to top] |
 | 0602 |                    |                |                |     |                | [.sql][sql-0602] | [back to top] |
 | 0605 | [.java][java-0605] |                |                |     |                |                  | [back to top] |
+| 0606 | [.java][java-0606] |                |                |     |                |                  | [back to top] |
 | 0607 |                    |                |                |     |                | [.sql][sql-0607] | [back to top] |
 | 0608 |                    |                |                |     |                | [.sql][sql-0608] | [back to top] |
 | 0610 |                    |                |                |     |                | [.sql][sql-0610] | [back to top] |
@@ -409,6 +410,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
 | 1321 |                    |                |                |     |                | [.sql][sql-1321] | [back to top] |
+| 1327 |                    |                |                |     |                | [.sql][sql-1327] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
@@ -846,6 +848,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
 [sql-0602]: ./sql-solutions/0602-friend-requests-ii-who-has-the-most-friends/solution.sql
 [java-0605]: ./java-solutions/0605-can-place-flowers/src/Solution.java
+[java-0606]: ./java-solutions/0606-construct-string-from-binary-tree/src/Solution.java
 [sql-0607]: ./sql-solutions/0607-sales-person/solution.sql
 [sql-0608]: ./sql-solutions/0608-tree-node/solution.sql
 [sql-0610]: ./sql-solutions/0610-triangle-judgement/solution.sql
@@ -1076,6 +1079,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
 [java-1441]: ./java-solutions/1441-build-an-array-with-stack-operations/src/Solution.java
 [sql-1321]: ./sql-solutions/1321-restaurant-growth/solution.sql
+[sql-1327]: ./sql-solutions/1327-list-the-products-ordered-in-a-period/solution.sql
 [py-1441]: ./python-solutions/1441-build-an-array-with-stack-operations/solution.py
 [js-1441]: ./javascript-solutions/1441-build-an-array-with-stack-operations/solution.js
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
