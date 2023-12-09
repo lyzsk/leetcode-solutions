@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
     <img src="https://img.shields.io/badge/-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-CS-D61C4E?style=plastic&logo=csharp&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-Go-D61C4E?style=plastic&logo=go&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-MySQL-D61C4E?style=plastic&logo=mysql&logoColor=F7DF1E" />
 </p>
 
 # leetcode-solutions
