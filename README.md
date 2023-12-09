@@ -107,7 +107,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0091 | [.java][java-0091] |                |                |     |                |                  | [back to top] |
 | 0092 | [.java][java-0092] |                |                |     |                |                  | [back to top] |
 | 0093 | [.java][java-0093] |                |                |     |                |                  | [back to top] |
-| 0094 | [.java][java-0094] |                |                |     |                |                  | [back to top] |
+| 0094 | [.java][java-0094] |                | [.js][js-0094] |     |                |                  | [back to top] |
 | 0095 | [.java][java-0095] |                |                |     |                |                  | [back to top] |
 | 0098 | [.java][java-0098] |                |                |     |                |                  | [back to top] |
 | 0099 | [.java][java-0099] |                |                |     |                |                  | [back to top] |
@@ -418,6 +418,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |     | [.go][go-1372] |                  | [back to top] |
 | 1373 | [.java][java-1373] |                |                |     |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |     |                |                  | [back to top] |
+| 1378 |                    |                |                |     |                | [.sql][sql-1378] | [back to top] |
 | 1389 | [.java][java-1389] |                |                |     |                |                  | [back to top] |
 | 1414 | [.java][java-1414] |                |                |     |                |                  | [back to top] |
 | 1416 | [.java][java-1416] | [.py][py-1416] | [.js][js-1416] |     |                |                  | [back to top] |
@@ -670,6 +671,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
+[js-0094]: ./javascript-solutions/0094-binary-tree-inorder-traversal/solution.js
 [java-0095]: ./java-solutions/0095-unique-binary-search-trees-ii/src/Solution.java
 [java-0098]: ./java-solutions/0098-validate-binary-searh-tree/src/Solution.java
 [java-0099]: ./java-solutions/0099-recover-binary-search-tree/src/Solution.java
@@ -1064,6 +1066,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [js-1372]: ./javascript-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.js
 [java-1373]: ./java-solutions/1373-maximum-sum-bst-in-binary-tree/src/Solution.java
 [java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
+[sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1416]: ./java-solutions/1416-restore-the-array/src/Solution.java
