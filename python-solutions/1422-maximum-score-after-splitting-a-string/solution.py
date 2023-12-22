@@ -1,11 +1,11 @@
 class Solution:
     def maxScore(self, s: str) -> int:
+        res = 0
+        zeros = 0
         ones = 0
         for ch in s:
             if ch == '1':
                 ones += 1
-        zeros = 0
-        res = 0
         i = 0
         while i < len(s) - 1:
             if s[i] == '0':
