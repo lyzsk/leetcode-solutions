@@ -4,16 +4,24 @@
  **/
 public class Solution {
     public int minOperations(String s) {
-        int leadingZero = 0;
-        int leadingOne = 0;
+        int cntZeros = 0;
+        int cntOnes = 0;
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if (ch % 2 == i % 2) {
-                ++leadingZero;
+            if (i % 2 == 0) {
+                if (ch == '0') {
+                    ++cntOnes;
+                } else {
+                    ++cntZeros;
+                }
             } else {
-                ++leadingOne;
+                if (ch == '1') {
+                    ++cntOnes;
+                } else {
+                    ++cntZeros;
+                }
             }
         }
-        return Math.min(leadingZero, leadingOne);
+        return Math.min(cntZeros, cntOnes);
     }
 }

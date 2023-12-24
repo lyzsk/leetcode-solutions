@@ -419,6 +419,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
+| 1393 |                    |                |                |     |                | [.sql][sql-1393] | [back to top] |
 | 1341 |                    |                |                |     |                | [.sql][sql-1341] | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |     | [.go][go-1372] |                  | [back to top] |
 | 1373 | [.java][java-1373] |                |                |     |                |                  | [back to top] |
@@ -463,7 +464,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1743 | [.java][java-1743] | [.py][py-1743] | [.js][js-1743] |     |                |                  | [back to top] |
 | 1749 | [.java][java-1749] |                |                |     |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                | [.js][js-1754] |     |                |                  | [back to top] |
-| 1758 | [.java][java-1758] |                |                |     |                |                  | [back to top] |
+| 1758 | [.java][java-1758] | [.py][py-1758] | [.js][js-1758] |     |                |                  | [back to top] |
 | 1759 | [.java][java-1759] | [.py][py-1759] | [.js][js-1759] |     |                |                  | [back to top] |
 | 1764 | [.java][java-1764] |                |                |     |                |                  | [back to top] |
 | 1768 | [.java][java-1768] | [.py][py-1768] | [.js][js-1768] |     | [.go][go-1768] |                  | [back to top] |
@@ -1075,6 +1076,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
+[sql-1393]: ./sql-solutions/1393-capital-gainloss/solution.sql
 [sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
@@ -1147,6 +1149,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
+[py-1758]: ./python-solutions/1758-minimum-changes-to-make-alternating-binary-string/solution.py
+[js-1758]: ./javascript-solutions/1758-minimum-changes-to-make-alternating-binary-string/solution.js
 [java-1759]: ./java-solutions/1759-count-number-of-homogenous-substrings/src/Solution.java
 [py-1759]: ./python-solutions/1759-count-number-of-homogenous-substrings/solution.py
 [js-1759]: ./javascript-solutions/1759-count-number-of-homogenous-substrings/solution.js
