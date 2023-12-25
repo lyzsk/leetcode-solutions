@@ -107,7 +107,7 @@
 | 0088 | [.java][java-0088] |                |                |     |                |                  | [back to top] |
 | 0089 | [.java][java-0089] |                |                |     |                |                  | [back to top] |
 | 0090 | [.java][java-0090] |                |                |     |                |                  | [back to top] |
-| 0091 | [.java][java-0091] |                |                |     |                |                  | [back to top] |
+| 0091 | [.java][java-0091] | [.py][py-0091] | [.js][js-0091] |     |                |                  | [back to top] |
 | 0092 | [.java][java-0092] |                |                |     |                |                  | [back to top] |
 | 0093 | [.java][java-0093] |                |                |     |                |                  | [back to top] |
 | 0094 | [.java][java-0094] |                | [.js][js-0094] |     |                |                  | [back to top] |
@@ -440,6 +440,7 @@
 | 1460 | [.java][java-1460] |                |                |     |                |                  | [back to top] |
 | 1464 | [.java][java-1464] |                |                |     |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |     |                |                  | [back to top] |
+| 1484 |                    |                |                |     |                | [.sql][sql-1484] | [back to top] |
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |     |                |                  | [back to top] |
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |     |                |                  | [back to top] |
 | 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |     |                |                  | [back to top] |
@@ -703,6 +704,8 @@
 [java-0089]: ./java-solutions/0089-gray-code/src/Solution.java
 [java-0090]: ./java-solutions/0090-subsets-ii/src/Solution.java
 [java-0091]: ./java-solutions/0091-decode-ways/src/Solution.java
+[py-0091]: ./python-solutions/0091-decode-ways/solution.py
+[js-0091]: ./javascript-solutions/0091-decode-ways/solution.js
 [java-0092]: ./java-solutions/0092-reverse-linked-list-ii/src/Solution.java
 [java-0093]: ./java-solutions/0093-restore-ip-addresses/src/Solution.java
 [java-0094]: ./java-solutions/0094-binary-tree-inorder-traversal/src/Solution.java
@@ -1136,6 +1139,7 @@
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[sql-1484]: ./sql-solutions/1484-group-sold-products-by-the-date/solution.sql
 [java-1491]: ./java-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/src/Solution.java
 [py-1491]: ./python-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.py
 [js-1491]: ./javascript-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.js
