@@ -445,6 +445,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |     |                |                  | [back to top] |
 | 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |     |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |     |                |                  | [back to top] |
+| 1517 |                    |                |                |     |                | [.sql][sql-1517] | [back to top] |
 | 1523 | [.java][java-1523] |                |                |     |                |                  | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |     |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |     |                |                  | [back to top] |
@@ -1126,6 +1127,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-1503]: ./python-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.py
 [js-1503]: ./javascript-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.js
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
+[sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
