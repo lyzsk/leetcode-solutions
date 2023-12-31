@@ -447,11 +447,13 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1512 | [.java][java-1512] |                |                |     |                |                  | [back to top] |
 | 1517 |                    |                |                |     |                | [.sql][sql-1517] | [back to top] |
 | 1523 | [.java][java-1523] |                |                |     |                |                  | [back to top] |
+| 1527 |                    |                |                |     |                | [.sql][sql-1527] | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |     |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |     |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |     |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |     |                |                  | [back to top] |
 | 1615 | [.java][java-1615] |                |                |     |                |                  | [back to top] |
+| 1624 | [.java][java-1624] | [.py][py-1624] | [.js][js-1624] |     |                |                  | [back to top] |
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |     |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |     |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |     |                |                  | [back to top] |
@@ -1129,6 +1131,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
+[sql-1527]: ./sql-solutions/1527-patients-with-a-condition/solution.sql
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
 [js-1535]: ./javascript-solutions/1535-find-the-winner-of-an-array-game/solution.js
@@ -1136,6 +1139,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1615]: ./java-solutions/1615-maximal-network-rank/src/Solution.java
+[java-1624]: ./java-solutions/1624-largest-substring-between-two-equal-characters/src/Solution.java
+[py-1624]: ./python-solutions/1624-largest-substring-between-two-equal-characters/solution.py
+[js-1624]: ./javascript-solutions/1624-largest-substring-between-two-equal-characters/solution.js
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
