@@ -250,6 +250,7 @@
 | 0451 | [.java][java-0451] |                |                |     |                |                  | [back to top] |
 | 0452 | [.java][java-0452] |                |                |     |                |                  | [back to top] |
 | 0454 | [.java][java-0454] |                |                |     |                |                  | [back to top] |
+| 0455 | [.java][java-0455] |                |                |     |                |                  | [back to top] |
 | 0459 | [.java][java-0459] |                |                |     |                |                  | [back to top] |
 | 0463 | [.java][java-0463] | [.py][py-0463] | [.js][js-0463] |     |                |                  | [back to top] |
 | 0491 | [.java][java-0491] |                |                |     |                |                  | [back to top] |
@@ -452,6 +453,7 @@
 | 1557 | [.java][java-1557] |                |                |     |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |     |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |     |                |                  | [back to top] |
+| 1581 |                    |                |                |     |                | [.sql][sql-1581] | [back to top] |
 | 1615 | [.java][java-1615] |                |                |     |                |                  | [back to top] |
 | 1624 | [.java][java-1624] | [.py][py-1624] | [.js][js-1624] |     |                |                  | [back to top] |
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |     |                |                  | [back to top] |
@@ -917,6 +919,7 @@
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
+[java-0455]: ./java-solutions/0455-assign-cookies/src/Solution.java
 [java-0459]: ./java-solutions/0459-repeated-substring-pattern/src/Solution.java
 [java-0463]: ./java-solutions/0463-island-perimeter/src/Solution.java
 [py-0463]: ./python-solutions/0463-island-perimeter/solution.py
@@ -1162,6 +1165,7 @@
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
+[sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [java-1615]: ./java-solutions/1615-maximal-network-rank/src/Solution.java
 [java-1624]: ./java-solutions/1624-largest-substring-between-two-equal-characters/src/Solution.java
 [py-1624]: ./python-solutions/1624-largest-substring-between-two-equal-characters/solution.py
