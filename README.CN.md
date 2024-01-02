@@ -569,6 +569,7 @@
 | 2562 | [.java][java-2562] |                |                |     |                |                  | [back to top] |
 | 2594 | [.java][java-2594] |                |                |     |                |                  | [back to top] |
 | 2596 | [.java][java-2596] | [.py][py-2596] |                |     |                |                  | [back to top] |
+| 2610 | [.java][java-2610] |                |                |     |                |                  | [back to top] |
 | 2642 | [.java][java-2642] |                |                |     |                |                  | [back to top] |
 | 2656 | [.java][java-2656] |                |                |     |                |                  | [back to top] |
 | 2657 | [.java][java-2657] |                |                |     |                |                  | [back to top] |
@@ -1335,6 +1336,7 @@
 [java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
 [java-2596]: ./java-solutions/2596-check-knight-tour-configuration/src/Solution.java
 [py-2596]: ./python-solutions/2596-check-knight-tour-configuration/solution.py
+[java-2610]: ./java-solutions/2610-convert-an-array-into-a-2d-array-with-conditions/src/Solution.java
 [java-2642]: ./java-solutions/2642-design-graph-with-shortest-path-calculator/src/Graph.java
 [java-2656]: ./java-solutions/2656-maximum-sum-with-exactly-k-elements/src/Solution.java
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
