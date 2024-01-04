@@ -580,6 +580,7 @@
 | 2682 | [.java][java-2682] |                |                |     |                |                  | [back to top] |
 | 2848 | [.java][java-2848] | [.py][py-2848] |                |     |                |                  | [back to top] |
 | 2849 | [.java][java-2849] | [.py][py-2849] |                |     |                |                  | [back to top] |
+| 2870 | [.java][java-2870] |                |                |     |                |                  | [back to top] |
 | 2873 | [.java][java-2873] | [.py][py-2873] |                |     |                |                  | [back to top] |
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |     |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |     |                |                  | [back to top] |
@@ -1350,6 +1351,7 @@
 [py-2848]: ./python-solutions/2848-points-that-intersect-with-cars/solution.py
 [java-2849]: ./java-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/src/Solution.java
 [py-2849]: ./python-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/solution.py
+[java-2870]: ./java-solutions/2870-minimum-number-of-operations-to-make-array-empty/src/Solution.java
 [java-2873]: ./java-solutions/2873-minimum-size-subarray-in-infinite-array/src/Solution.java
 [py-2873]: ./python-solutions/2873-maximum-value-of-an-ordered-triplet-i/solution.py
 [java-2874]: ./java-solutions/2874-maximum-value-of-an-ordered-triplet-ii/src/Solution.java
