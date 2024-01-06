@@ -408,6 +408,7 @@
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
 | 1233 | [.java][java-1233] |                |                |     |                |                  | [back to top] |
 | 1234 | [.java][java-1234] |                |                |     |                |                  | [back to top] |
+| 1235 | [.java][java-1235] |                |                |     |                |                  | [back to top] |
 | 1239 | [.java][java-1239] |                |                |     |                |                  | [back to top] |
 | 1251 |                    |                |                |     |                | [.sql][sql-1251] | [back to top] |
 | 1260 | [.java][java-1260] | [.py][py-1260] | [.js][js-1260] |     |                |                  | [back to top] |
@@ -1099,6 +1100,7 @@
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
 [java-1233]: ./java-solutions/1233-remove-sub-folders-from-the-filesystem/src/Solution.java
 [java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
+[java-1235]: ./java-solutions/1235-maximum-profit-in-job-scheduling/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
 [sql-1251]: ./sql-solutions/1251-average-selling-price/solution.sql
 [java-1260]: ./java-solutions/1260-shift-2d-grid/src/Solution.java
