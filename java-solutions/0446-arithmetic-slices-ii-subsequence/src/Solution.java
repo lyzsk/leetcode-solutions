@@ -1,0 +1,32 @@
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * @author sichu
+ * @date 2024/01/07
+ **/
+public class Solution {
+    public int numberOfArithmeticSlices(int[] nums) {
+        int n = nums.length;
+        int res = 0;
+        Map<Integer, Integer>[] dp = new HashMap[n];
+        for (int i = 0; i < n; i++) {
+            dp[i] = new HashMap<>(16);
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                long diff = (long)nums[i] - nums[j];
+                if (diff > Integer.MAX_VALUE || diff < Integer.MIN_VALUE) {
+                    continue;
+                }
+                int diffInt = (int)diff;
+                dp[i].put(diffInt, dp[i].getOrDefault(diffInt, 0) + 1);
+                if (dp[j].containsKey(diffInt)) {
+                    dp[i].put(diffInt, dp[i].get(diffInt) + dp[j].get(diffInt));
+                    res += dp[j].get(diffInt);
+                }
+            }
+        }
+        return res;
+    }
+}

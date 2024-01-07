@@ -247,6 +247,7 @@
 | 0442 | [.java][java-0442] |                |                |     |                |                  | [back to top] |
 | 0443 | [.java][java-0443] |                | [.js][js-0443] |     |                |                  | [back to top] |
 | 0445 | [.java][java-0445] |                |                |     |                |                  | [back to top] |
+| 0446 | [.java][java-0446] |                |                |     |                |                  | [back to top] |
 | 0451 | [.java][java-0451] |                |                |     |                |                  | [back to top] |
 | 0452 | [.java][java-0452] |                |                |     |                |                  | [back to top] |
 | 0454 | [.java][java-0454] |                |                |     |                |                  | [back to top] |
@@ -921,6 +922,7 @@
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
 [js-0443]: ./javascript-solutions/0443-string-compression/solution.js
 [java-0445]: ./java-solutions/0445-add-two-number-ii/src/Solution.java
+[java-0446]: ./java-solutions/0446-arithmetic-slices-ii-subsequence/src/Solution.java
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
