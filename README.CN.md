@@ -459,6 +459,7 @@
 | 1587 |                    |                |                |     |                | [.sql][sql-1587] | [back to top] |
 | 1615 | [.java][java-1615] |                |                |     |                |                  | [back to top] |
 | 1624 | [.java][java-1624] | [.py][py-1624] | [.js][js-1624] |     |                |                  | [back to top] |
+| 1633 |                    |                |                |     |                | [.sql][sql-1633] | [back to top] |
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |     |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |     |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |     |                |                  | [back to top] |
@@ -1179,6 +1180,7 @@
 [java-1624]: ./java-solutions/1624-largest-substring-between-two-equal-characters/src/Solution.java
 [py-1624]: ./python-solutions/1624-largest-substring-between-two-equal-characters/solution.py
 [js-1624]: ./javascript-solutions/1624-largest-substring-between-two-equal-characters/solution.js
+[sql-1633]: ./sql-solutions/1633-percentage-of-users-attended-a-contest/solution.sql
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
