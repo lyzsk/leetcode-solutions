@@ -463,6 +463,7 @@
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |     |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |     |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |     |                |                  | [back to top] |
+| 1661 |                    |                |                |     |                | [.sql][sql-1661] | [back to top] |
 | 1662 | [.java][java-1662] |                |                |     |                |                  | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |     |                |                  | [back to top] |
@@ -1185,6 +1186,7 @@
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
 [java-1658]: ./java-solutions/1658-minimum-operations-to-reduce-x-to-zero/src/Solution.java
+[sql-1661]: ./sql-solutions/1661-average-time-of-process-per-machine/solution.sql
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java

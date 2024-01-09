@@ -463,6 +463,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |     |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |     |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |     |                |                  | [back to top] |
+| 1661 |                    |                |                |     |                | [.sql][sql-1661] | [back to top] |
 | 1662 | [.java][java-1662] |                |                |     |                |                  | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |     |                |                  | [back to top] |
