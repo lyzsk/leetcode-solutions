@@ -550,6 +550,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 2363 | [.java][java-2363] |                |                |     |                |                  | [back to top] |
 | 2369 | [.java][java-2369] |                |                |     |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |     |                |                  | [back to top] |
+| 2385 | [.java][java-2385] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
 | 2391 | [.java][java-2391] |                |                |     |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |     |                |                  | [back to top] |
@@ -1162,6 +1163,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
 [java-1658]: ./java-solutions/1658-minimum-operations-to-reduce-x-to-zero/src/Solution.java
+[sql-1661]: ./sql-solutions/1661-average-time-of-process-per-machine/solution.sql
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
@@ -1284,6 +1286,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2369]: ./java-solutions/2369-check-if-there-is-a-valid-partition-for-the-array/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
+[java-2385]: ./java-solutions/2385-amount-of-time-for-binary-tree-to-be-infected/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2391]: ./java-solutions/2391-minimum-amount-of-time-to-collect-garbage/src/Solution.java
 [java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java

@@ -550,6 +550,7 @@
 | 2363 | [.java][java-2363] |                |                |     |                |                  | [back to top] |
 | 2369 | [.java][java-2369] |                |                |     |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |     |                |                  | [back to top] |
+| 2385 | [.java][java-2385] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
 | 2391 | [.java][java-2391] |                |                |     |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |     |                |                  | [back to top] |
@@ -1309,6 +1310,7 @@
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2353]: ./java-solutions/2353-design-a-food-rating-system/src/FoodRatings.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
+[java-2385]: ./java-solutions/2385-amount-of-time-for-binary-tree-to-be-infected/src/Solution.java
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2391]: ./java-solutions/2391-minimum-amount-of-time-to-collect-garbage/src/Solution.java
