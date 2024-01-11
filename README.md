@@ -465,6 +465,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1658 | [.java][java-1658] |                |                |     |                |                  | [back to top] |
 | 1661 |                    |                |                |     |                | [.sql][sql-1661] | [back to top] |
 | 1662 | [.java][java-1662] |                |                |     |                |                  | [back to top] |
+| 1667 |                    |                |                |     |                | [.sql][sql-1667] | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |     |                |                  | [back to top] |
 | 1710 | [.java][java-1710] |                |                |     |                |                  | [back to top] |
@@ -1165,6 +1166,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1658]: ./java-solutions/1658-minimum-operations-to-reduce-x-to-zero/src/Solution.java
 [sql-1661]: ./sql-solutions/1661-average-time-of-process-per-machine/solution.sql
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
+[sql-1667]: ./sql-solutions/1667-fix-names-in-a-table/solution.sql
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
