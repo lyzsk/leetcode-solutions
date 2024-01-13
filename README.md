@@ -422,6 +422,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |     |                |                  | [back to top] |
+| 1347 | [.java][java-1347] | [.py][py-1347] | [.js][js-1347] |     |                |                  | [back to top] |
 | 1393 |                    |                |                |     |                | [.sql][sql-1393] | [back to top] |
 | 1341 |                    |                |                |     |                | [.sql][sql-1341] | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |     | [.go][go-1372] |                  | [back to top] |
@@ -1098,6 +1099,9 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
+[java-1347]: ./java-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/src/Solution.java
+[py-1347]: ./python-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.py
+[js-1347]: ./javascript-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.js
 [sql-1393]: ./sql-solutions/1393-capital-gainloss/solution.sql
 [sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
