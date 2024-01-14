@@ -468,6 +468,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1662 | [.java][java-1662] |                |                |     |                |                  | [back to top] |
 | 1667 |                    |                |                |     |                | [.sql][sql-1667] | [back to top] |
 | 1683 |                    |                |                |     |                | [.sql][sql-1683] | [back to top] |
+| 1693 |                    |                |                |     |                | [.sql][sql-1693] | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |     |                |                  | [back to top] |
 | 1710 | [.java][java-1710] |                |                |     |                |                  | [back to top] |
@@ -1173,6 +1174,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [sql-1667]: ./sql-solutions/1667-fix-names-in-a-table/solution.sql
 [sql-1683]: ./sql-solutions/1683-invalid-tweets/solution.sql
+[sql-1693]: ./sql-solutions/1693-daily-leads-and-partners/solution.sql
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
