@@ -475,6 +475,7 @@
 | 1721 | [.java][java-1721] |                |                |     |                |                  | [back to top] |
 | 1727 | [.java][java-1727] |                |                |     |                |                  | [back to top] |
 | 1729 |                    |                |                |     |                | [.sql][sql-1729] | [back to top] |
+| 1731 |                    |                |                |     |                | [.sql][sql-1731] | [back to top] |
 | 1732 | [.java][java-1732] |                |                |     |                |                  | [back to top] |
 | 1742 | [.java][java-1742] |                |                |     |                |                  | [back to top] |
 | 1743 | [.java][java-1743] | [.py][py-1743] | [.js][js-1743] |     |                |                  | [back to top] |
@@ -1206,6 +1207,7 @@
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
 [java-1727]: ./java-solutions/1727-largest-submatrix-with-rearrangements/src/Solution.java
 [sql-1729]: ./sql-solutions/1729-find-followers-count/solution.sql
+[sql-1731]: ./sql-solutions/1731-the-number-of-employees-which-report-to-each-employee/solution.sql
 [java-1732]: ./java-solutions/1732-find-the-highest-altitude/src/Solution.java
 [java-1742]: ./java-solutions/1742-maximum-number-of-balls-in-a-box/src/Solution.java
 [java-1743]: ./java-solutions/1743-restore-the-array-from-adjacent-pairs/src/Solution.java
