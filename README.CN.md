@@ -483,6 +483,7 @@
 | 1743 | [.java][java-1743] | [.py][py-1743] | [.js][js-1743] |     |                |                  | [back to top] |
 | 1749 | [.java][java-1749] |                |                |     |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                | [.js][js-1754] |     |                |                  | [back to top] |
+| 1757 |                    |                |                |     |                | [.sql][sql-1757] | [back to top] |
 | 1758 | [.java][java-1758] | [.py][py-1758] | [.js][js-1758] |     |                |                  | [back to top] |
 | 1759 | [.java][java-1759] | [.py][py-1759] | [.js][js-1759] |     |                |                  | [back to top] |
 | 1764 | [.java][java-1764] |                |                |     |                |                  | [back to top] |
@@ -1221,6 +1222,7 @@
 [java-1749]: ./java-solutions/1749-maximum-absolute-sum-of-any-subarray/src/Solution.java
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
+[sql-1757]: ./sql-solutions/1757-recyclable-and-low-fat-products/solution.sql
 [java-1758]: ./java-solutions/1758-minimum-changes-to-make-alternating-binary-string/src/Solution.java
 [py-1758]: ./python-solutions/1758-minimum-changes-to-make-alternating-binary-string/solution.py
 [js-1758]: ./javascript-solutions/1758-minimum-changes-to-make-alternating-binary-string/solution.js
