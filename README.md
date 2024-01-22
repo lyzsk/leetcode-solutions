@@ -292,6 +292,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0626 |                    |                |                |     |                | [.sql][sql-0626] | [back to top] |
 | 0627 |                    |                |                |     |                | [.sql][sql-0627] | [back to top] |
 | 0641 | [.java][java-0641] | [.py][py-0641] |                |     |                |                  | [back to top] |
+| 0645 | [.java][java-0645] |                |                |     |                |                  | [back to top] |
 | 0647 | [.java][java-0647] |                |                |     |                |                  | [back to top] |
 | 0652 | [.java][java-0652] |                |                |     |                |                  | [back to top] |
 | 0653 | [.java][java-0653] |                |                |     |                |                  | [back to top] |
@@ -902,6 +903,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-0627]: ./sql-solutions/0627-swap-salary/solution.sql
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
+[java-0645]: ./java-solutions/0645-set-mismatch/src/Solution.java
 [java-0647]: ./java-solutions/0647-palindromic-substrings/src/Solution.java
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
