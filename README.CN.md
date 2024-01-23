@@ -499,6 +499,7 @@
 | 1785 | [.java][java-1785] |                |                |     |                |                  | [back to top] |
 | 1789 |                    |                |                |     |                | [.sql][sql-1789] | [back to top] |
 | 1790 | [.java][java-1790] |                |                |     |                |                  | [back to top] |
+| 1795 |                    |                |                |     |                | [.sql][sql-1795] | [back to top] |
 | 1796 | [.java][java-1796] |                |                |     |                |                  | [back to top] |
 | 1797 | [.java][java-1797] |                |                |     |                |                  | [back to top] |
 | 1800 | [.java][java-1800] |                |                |     |                |                  | [back to top] |
@@ -1247,6 +1248,7 @@
 [java-1785]: ./java-solutions/1785-minimum-elements-to-add-to-form-a-given-sum/src/Solution.java
 [sql-1789]: ./sql-solutions/1789-primary-department-for-each-employee/solution.sql
 [java-1790]: ./java-solutions/1790-check-if-one-string-swap-can-make-strings-equal/src/Solution.java
+[sql-1795]: ./sql-solutions/1795-rearrange-products-table/solution.sql
 [java-1796]: ./java-solutions/1796-second-largest-digit-in-a-string/src/Solution.java
 [java-1797]: ./java-solutions/1797-design-authentication-manager/src/AuthenticationManager.java
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
