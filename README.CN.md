@@ -443,6 +443,7 @@
 | 1448 | [.java][java-1448] |                |                |     |                |                  | [back to top] |
 | 1450 | [.java][java-1450] |                |                |     |                |                  | [back to top] |
 | 1455 | [.java][java-1455] |                |                |     |                |                  | [back to top] |
+| 1457 | [.java][java-1457] |                |                |     |                |                  | [back to top] |
 | 1460 | [.java][java-1460] |                |                |     |                |                  | [back to top] |
 | 1464 | [.java][java-1464] |                |                |     |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |     |                |                  | [back to top] |
@@ -517,6 +518,7 @@
 | 1838 | [.java][java-1838] | [.py][py-1838] | [.js][js-1838] |     |                |                  | [back to top] |
 | 1845 | [.java][java-1845] |                |                |     |                |                  | [back to top] |
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |     |                |                  | [back to top] |
+| 1873 |                    |                |                |     |                | [.sql][sql-1873] | [back to top] |
 | 1865 | [.java][java-1865] |                |                |     |                |                  | [back to top] |
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |     |                |                  | [back to top] |
@@ -1170,6 +1172,7 @@
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
 [java-1455]: ./java-solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/src/Solution.java
+[java-1457]: ./java-solutions/1457-pseudo-palindromic-paths-in-a-binary-tree/src/Solution.java
 [java-1460]: ./java-solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays/src/Solution.java
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
@@ -1270,6 +1273,7 @@
 [java-1846]: ./java-solutions/1846-maximum-element-after-decreasing-and-rearranging/src/Solution.java
 [py-1846]: ./python-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.py
 [js-1846]: ./javascript-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.js
+[sql-1873]: ./sql-solutions/1873-calculate-special-bonus/solution.sql
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
