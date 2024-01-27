@@ -292,6 +292,7 @@
 | 0623 | [.java][java-0623] |                |                |     |                |                  | [back to top] |
 | 0626 |                    |                |                |     |                | [.sql][sql-0626] | [back to top] |
 | 0627 |                    |                |                |     |                | [.sql][sql-0627] | [back to top] |
+| 0629 | [.java][java-0629] |                |                |     |                |                  | [back to top] |
 | 0641 | [.java][java-0641] | [.py][py-0641] |                |     |                |                  | [back to top] |
 | 0645 | [.java][java-0645] |                |                |     |                |                  | [back to top] |
 | 0647 | [.java][java-0647] |                |                |     |                |                  | [back to top] |
@@ -930,6 +931,7 @@
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [sql-0626]: ./sql-solutions/0626-exchange-seats/solution.sql
 [sql-0627]: ./sql-solutions/0627-swap-salary/solution.sql
+[java-0629]: ./java-solutions/0629-k-inverse-pairs-array/src/Solution.java
 [java-0641]: ./java-solutions/0641-design-circular-deque/src/MyCircularDeque.java
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0645]: ./java-solutions/0645-set-mismatch/src/Solution.java
