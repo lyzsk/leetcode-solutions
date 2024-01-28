@@ -387,6 +387,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 1068 |                    |                |                |     |                | [.sql][sql-1068] | [back to top] |
 | 1070 |                    |                |                |     |                | [.sql][sql-1070] | [back to top] |
 | 1072 | [.java][java-1072] |                |                |     |                |                  | [back to top] |
+| 1074 | [.java][java-1074] |                |                |     |                |                  | [back to top] |
 | 1075 |                    |                |                |     |                | [.sql][sql-1075] | [back to top] |
 | 1079 | [.java][java-1079] |                |                |     |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |     |                |                  | [back to top] |
@@ -1070,6 +1071,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [sql-1068]: ./sql-solutions/1068-product-sales-analysis-i/solution.sql
 [sql-1070]: ./sql-solutions/1070-product-sales-analysis-iii/solution.sql
 [java-1072]: ./java-solutions/1072-flip-columns-for-maximum-number-of-equal-rows/src/Solution.java
+[java-1074]: ./java-solutions/1074-number-of-submatrices-that-sum-to-target/src/Solution.java
 [sql-1075]: ./sql-solutions/1075-project-employees-i/solution.sql
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
