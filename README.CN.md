@@ -526,6 +526,7 @@
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |     |                |                  | [back to top] |
 | 1887 | [.java][java-1887] | [.py][py-1887] | [.js][js-1887] |     |                |                  | [back to top] |
+| 1890 |                    |                |                |     |                | [.sql][sql-1890] | [back to top] |
 | 1903 | [.java][java-1903] | [.py][py-1903] | [.js][js-1903] |     |                |                  | [back to top] |
 | 1905 | [.java][java-1905] |                |                |     |                |                  | [back to top] |
 | 1909 | [.java][java-1909] |                |                |     |                |                  | [back to top] |
@@ -1288,6 +1289,7 @@
 [java-1887]: ./java-solutions/1887-reduction-operations-to-make-the-array-elements-equal/src/Solution.java
 [py-1887]: ./python-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.py
 [js-1887]: ./javascript-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.js
+[sql-1890]: ./sql-solutions/1890-the-latest-login-in-2020/solution.sql
 [java-1903]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
 [py-1903]: ./python-solutions/1903-largest-odd-number-in-string/solution.py
 [js-1903]: ./javascript-solutions/1903-largest-odd-number-in-string/solution.js
