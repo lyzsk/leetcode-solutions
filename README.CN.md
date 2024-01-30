@@ -529,6 +529,7 @@
 | 1890 |                    |                |                |     |                | [.sql][sql-1890] | [back to top] |
 | 1903 | [.java][java-1903] | [.py][py-1903] | [.js][js-1903] |     |                |                  | [back to top] |
 | 1905 | [.java][java-1905] |                |                |     |                |                  | [back to top] |
+| 1907 |                    |                |                |     |                | [.sql][sql-1907] | [back to top] |
 | 1909 | [.java][java-1909] |                |                |     |                |                  | [back to top] |
 | 1913 | [.java][java-1913] |                |                |     |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |     |                |                  | [back to top] |
@@ -1294,6 +1295,7 @@
 [py-1903]: ./python-solutions/1903-largest-odd-number-in-string/solution.py
 [js-1903]: ./javascript-solutions/1903-largest-odd-number-in-string/solution.js
 [java-1905]: ./java-solutions/1905-count-sub-islands/src/Solution.java
+[sql-1907]: ./sql-solutions/1907-count-salary-categories/solution.sql
 [java-1909]: ./java-solutions/1909-remove-one-element-to-make-the-array-strictly-increasing/src/Solution.java
 [java-1913]: ./java-solutions/1913-maximum-product-difference-between-two-pairs/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
