@@ -534,6 +534,7 @@
 | 1913 | [.java][java-1913] |                |                |     |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |     |                |                  | [back to top] |
 | 1926 | [.java][java-1926] |                |                |     |                |                  | [back to top] |
+| 1934 |                    |                |                |     |                | [.sql][sql-1934] | [back to top] |
 | 1945 | [.java][java-1945] |                |                |     |                |                  | [back to top] |
 | 1962 | [.java][java-1962] |                |                |     |                |                  | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |     |                |                  | [back to top] |
@@ -1300,6 +1301,7 @@
 [java-1913]: ./java-solutions/1913-maximum-product-difference-between-two-pairs/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[sql-1934]: ./sql-solutions/1934-confirmation-rate/solution.sql
 [java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
 [java-1962]: ./java-solutions/1962-remove-stones-to-minimize-the-total/src/Solution.java
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
