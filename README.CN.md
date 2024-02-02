@@ -420,6 +420,7 @@
 | 1260 | [.java][java-1260] | [.py][py-1260] | [.js][js-1260] |     |                |                  | [back to top] |
 | 1267 | [.java][java-1267] | [.py][py-1267] |                |     |                |                  | [back to top] |
 | 1280 |                    |                |                |     |                | [.sql][sql-1280] | [back to top] |
+| 1291 | [.java][java-1291] |                |                |     |                |                  | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
 | 1321 |                    |                |                |     |                | [.sql][sql-1321] | [back to top] |
@@ -1141,6 +1142,7 @@
 [java-1267]: ./java-solutions/1267-count-servers-that-communicate/src/Solution.java
 [py-1267]: ./python-solutions/1267-count-servers-that-communicate/solution.py
 [sql-1280]: ./sql-solutions/1280-students-and-examinations/solution.sql
+[java-1291]: ./java-solutions/1291-sequential-digits/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
