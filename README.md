@@ -77,6 +77,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 | 0046 | [.java][java-0046] |                |                |     |                |                  | [back to top] |
 | 0047 | [.java][java-0047] |                |                |     |                |                  | [back to top] |
 | 0048 | [.java][java-0048] |                |                |     |                |                  | [back to top] |
+| 0049 | [.java][java-0049] |                |                |     |                |                  | [back to top] |
 | 0050 | [.java][java-0050] |                |                |     |                |                  | [back to top] |
 | 0051 | [.java][java-0051] |                |                |     |                |                  | [back to top] |
 | 0052 | [.java][java-0052] |                |                |     |                |                  | [back to top] |
@@ -681,6 +682,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.CN.md](./RE
 [java-0046]: ./java-solutions/0046-permutations/src/Solution.java
 [java-0047]: ./java-solutions/0047-permutations-ii/src/Solution.java
 [java-0048]: ./java-solutions/0048-rotate-image/src/Solution.java
+[java-0049]: ./java-solutions/0049-group-anagrams/src/Solution.java
 [java-0050]: ./java-solutions/0050-powx-n/src/Solution.java
 [java-0051]: ./java-solutions/0051-n-queens/src/Solution.java
 [java-0052]: ./java-solutions/0052-n-queens-ii/src/Solution.java
