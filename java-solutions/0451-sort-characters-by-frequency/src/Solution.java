@@ -23,22 +23,4 @@ public class Solution {
         }
         return sb.toString();
     }
-    // public String frequencySort(String s) {
-    //     Map<Character, Integer> freq = new HashMap<>(36);
-    //     for (int i = 0; i < s.length(); i++) {
-    //         char ch = s.charAt(i);
-    //         freq.put(ch, freq.getOrDefault(ch, 0) + 1);
-    //     }
-    //     List<Character> list = new ArrayList<>(freq.keySet());
-    //     Collections.sort(list, (o1, o2) -> freq.get(o2) - freq.get(o1));
-    //     StringBuilder sb = new StringBuilder();
-    //     for (int i = 0; i < list.size(); i++) {
-    //         char ch = list.get(i);
-    //         int frequency = freq.get(ch);
-    //         for (int j = 0; j < frequency; j++) {
-    //             sb.append(ch);
-    //         }
-    //     }
-    //     return sb.toString();
-    // }
 }
