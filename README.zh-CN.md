@@ -36,7 +36,7 @@
 |  #   |        Java        |    Python3     |   JavaScript   | C#  |     Golang     |       SQL        |               |
 | :--: | :----------------: | :------------: | :------------: | :-: | :------------: | :--------------: | :-----------: |
 | 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] |     | [.go][go-0001] |                  | [back to top] |
-| 0002 | [.java][java-0002] |                |                |     | [.go][go-0002] |                  | [back to top] |
+| 0002 | [.java][java-0002] | [.py][py-0002] |                |     | [.go][go-0002] |                  | [back to top] |
 | 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] |     |                |                  | [back to top] |
 | 0004 | [.java][java-0004] |                |                |     |                |                  | [back to top] |
 | 0005 | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] |     |                |                  | [back to top] |
@@ -653,6 +653,7 @@
 [py-0001]: ./python-solutions/0001-two-sum/solution.py
 [js-0001]: ./javascript-solutions/0001-two-sum/solution.js
 [java-0002]: ./java-solutions/0002-add-two-numbers/src/Solution.java
+[py-0002]: ./python-solutions/0002-add-two-numbers/solution.py
 [go-0002]: ./golang-solutions/0002-add-two-numbers/solution.go
 [java-0003]: ./java-solutions/0003-longest-substring-without-repeating-characters/src/Solution.java
 [py-0003]: ./python-solutions/0003-longest-substring-without-repeating-characters/solution.py
