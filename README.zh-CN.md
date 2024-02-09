@@ -230,6 +230,7 @@
 | 0345 | [.java][java-0345] |                |                |     |                |                  | [back to top] |
 | 0347 | [.java][java-0347] |                |                |     |                |                  | [back to top] |
 | 0349 | [.java][java-0349] |                |                |     |                |                  | [back to top] |
+| 0368 | [.java][java-0368] |                |                |     |                |                  | [back to top] |
 | 0371 | [.java][java-0371] |                |                |     |                |                  | [back to top] |
 | 0378 | [.java][java-0378] |                |                |     |                |                  | [back to top] |
 | 0380 | [.java][java-0380] |                |                |     |                |                  | [back to top] |
@@ -900,6 +901,7 @@
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
 [java-0347]: ./java-solutions/0347-top-k-frequent-elements/src/Solution.java
 [java-0349]: ./java-solutions/0349-intersection-of-two-arrays/src/Solution.java
+[java-0368]: ./java-solutions/0368-largest-divisible-subset/src/Solution.java
 [java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0380]: ./java-solutions/0380-insert-delete-getrandom-o1/src/RandomizedSet.java
