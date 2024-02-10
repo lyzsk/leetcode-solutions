@@ -297,7 +297,7 @@
 | 0629 | [.java][java-0629] |                |                |     |                |                  | [back to top] |
 | 0641 | [.java][java-0641] | [.py][py-0641] |                |     |                |                  | [back to top] |
 | 0645 | [.java][java-0645] |                |                |     |                |                  | [back to top] |
-| 0647 | [.java][java-0647] |                |                |     |                |                  | [back to top] |
+| 0647 | [.java][java-0647] | [.py][py-0647] |                |     |                |                  | [back to top] |
 | 0652 | [.java][java-0652] |                |                |     |                |                  | [back to top] |
 | 0653 | [.java][java-0653] |                |                |     |                |                  | [back to top] |
 | 0654 | [.java][java-0654] |                |                |     |                |                  | [back to top] |
@@ -950,6 +950,7 @@
 [py-0641]: ./python-solutions/0641-design-circular-deque/solution.py
 [java-0645]: ./java-solutions/0645-set-mismatch/src/Solution.java
 [java-0647]: ./java-solutions/0647-palindromic-substrings/src/Solution.java
+[py-0647]: ./python-solutions/0647-palindromic-substrings/solution.py
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
