@@ -451,6 +451,7 @@
 | 1455 | [.java][java-1455] |                |                |     |                |                  | [back to top] |
 | 1457 | [.java][java-1457] |                |                |     |                |                  | [back to top] |
 | 1460 | [.java][java-1460] |                |                |     |                |                  | [back to top] |
+| 1463 | [.java][java-1463] |                |                |     |                |                  | [back to top] |
 | 1464 | [.java][java-1464] |                |                |     |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |     |                |                  | [back to top] |
 | 1484 |                    |                |                |     |                | [.sql][sql-1484] | [back to top] |
@@ -1195,6 +1196,7 @@
 [java-1455]: ./java-solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/src/Solution.java
 [java-1457]: ./java-solutions/1457-pseudo-palindromic-paths-in-a-binary-tree/src/Solution.java
 [java-1460]: ./java-solutions/1460-make-two-arrays-equal-by-reversing-sub-arrays/src/Solution.java
+[java-1463]: ./java-solutions/1463-cherry-pickup-ii/src/Solution.java
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
