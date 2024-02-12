@@ -159,7 +159,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0165 | [.java][java-0165] |                |                |     |                |                  | [back to top] |
 | 0167 | [.java][java-0167] |                |                |     |                |                  | [back to top] |
 | 0168 | [.java][java-0168] | [.py][py-0168] |                |     |                |                  | [back to top] |
-| 0169 | [.java][java-0169] |                |                |     |                |                  | [back to top] |
+| 0169 | [.java][java-0169] | [.py][py-0169] | [.js][js-0169] |     |                |                  | [back to top] |
 | 0171 | [.java][java-0171] |                |                |     |                |                  | [back to top] |
 | 0172 | [.java][java-0172] |                |                |     |                |                  | [back to top] |
 | 0175 |                    |                |                |     |                | [.sql][sql-0175] | [back to top] |
@@ -790,6 +790,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0168]: ./java-solutions/0168-excel-sheet-column-title/src/Solution.java
 [py-0168]: ./python-solutions/0168-excel-sheet-column-title/solution.py
 [java-0169]: ./java-solutions/0169-majority-element/src/Solution.java
+[py-0169]: ./python-solutions/0169-majority-element/solution.py
+[js-0169]: ./javascript-solutions/0169-majority-element/solution.js
 [java-0171]: ./java-solutions/0171-excel-sheet-column-number/src/Solution.java
 [java-0172]: ./java-solutions/0172-factorial-trailing-zeroes/src/Solution.java
 [sql-0175]: ./sql-solutions/0175-combine-two-tables/solution.sql
