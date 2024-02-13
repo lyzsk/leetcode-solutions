@@ -550,7 +550,7 @@
 | 2037 | [.java][java-2037] |                | [.js][js-2037] |     |                |                  | [back to top] |
 | 2042 | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] |     |                |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |     |                |                  | [back to top] |
-| 2108 | [.java][java-2108] |                |                |     |                |                  | [back to top] |
+| 2108 | [.java][java-2108] | [.py][py-2108] |                |     |                |                  | [back to top] |
 | 2125 | [.java][java-2125] |                |                |     |                |                  | [back to top] |
 | 2130 | [.java][java-2130] | [.py][py-2130] | [.js][js-2130] |     |                |                  | [back to top] |
 | 2131 | [.java][java-2131] |                |                |     |                |                  | [back to top] |
@@ -1336,6 +1336,7 @@
 [js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
+[py-2108]: ./python-solutions/2108-find-first-palindromic-string-in-the-array/solution.py
 [java-2125]: ./java-solutions/2125-number-of-laser-beams-in-a-bank/src/Solution.java
 [java-2130]: ./java-solutions/2130-maximum-twin-sum-of-a-linked-list/src/Solution.java
 [py-2130]: ./python-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.py
