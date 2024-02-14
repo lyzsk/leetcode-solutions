@@ -555,6 +555,7 @@
 | 2130 | [.java][java-2130] | [.py][py-2130] | [.js][js-2130] |     |                |                  | [back to top] |
 | 2131 | [.java][java-2131] |                |                |     |                |                  | [back to top] |
 | 2136 | [.java][java-2136] |                |                |     |                |                  | [back to top] |
+| 2149 | [.java][java-2149] |                |                |     |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |     |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |     |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |     |                |                  | [back to top] |
@@ -1343,6 +1344,7 @@
 [js-2130]: ./javascript-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.js
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
 [java-2136]: ./java-solutions/2136-earliest-possible-day-of-full-bloom/src/Solution.java
+[java-2149]: ./java-solutions/2149-rearrange-array-elements-by-sign/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
