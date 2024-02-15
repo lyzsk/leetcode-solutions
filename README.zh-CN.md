@@ -619,6 +619,7 @@
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |     |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |     |                |                  | [back to top] |
 | 2966 | [.java][java-2966] |                |                |     |                |                  | [back to top] |
+| 2971 | [.java][java-2971] |                |                |     |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1436,6 +1437,7 @@
 [java-2875]: ./java-solutions/2875-maximum-value-of-an-ordered-triplet-i/src/Solution.java
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
 [java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
+[java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
