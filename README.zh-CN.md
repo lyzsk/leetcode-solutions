@@ -454,6 +454,7 @@
 | 1463 | [.java][java-1463] |                |                |     |                |                  | [back to top] |
 | 1464 | [.java][java-1464] |                |                |     |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |     |                |                  | [back to top] |
+| 1481 | [.java][java-1481] |                |                |     |                |                  | [back to top] |
 | 1484 |                    |                |                |     |                | [.sql][sql-1484] | [back to top] |
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |     |                |                  | [back to top] |
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |     |                |                  | [back to top] |
@@ -1204,6 +1205,7 @@
 [java-1464]: ./java-solutions/1464-maximum-product-of-two-elements-in-an-array/src/Solution.java
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
+[java-1481]: ./java-solutions/1481-least-number-of-unique-integers-after-k-removals/src/Solution.java
 [sql-1484]: ./sql-solutions/1484-group-sold-products-by-the-date/solution.sql
 [java-1491]: ./java-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/src/Solution.java
 [py-1491]: ./python-solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary/solution.py
