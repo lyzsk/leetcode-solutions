@@ -583,6 +583,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2385 | [.java][java-2385] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
 | 2391 | [.java][java-2391] |                |                |     |                |                  | [back to top] |
+| 2402 | [.java][java-2402] |                |                |     |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |     |                |                  | [back to top] |
 | 2413 | [.java][java-2413] | [.py][py-2413] | [.js][js-2413] |     | [.go][go-2413] |                  | [back to top] |
 | 2418 | [.java][java-2418] | [.py][py-2418] | [.js][js-2418] |     |                |                  | [back to top] |
@@ -1359,6 +1360,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2385]: ./java-solutions/2385-amount-of-time-for-binary-tree-to-be-infected/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2391]: ./java-solutions/2391-minimum-amount-of-time-to-collect-garbage/src/Solution.java
+[java-2402]: ./java-solutions/2402-meeting-rooms-iii/src/Solution.java
 [java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java
 [py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
 [java-2413]: ./java-solutions/2413-smallest-even-multiple/src/Solution.java
