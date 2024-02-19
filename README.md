@@ -198,6 +198,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0225 | [.java][java-0225] |                |                |     |                |                  | [back to top] |
 | 0226 | [.java][java-0226] | [.py][py-0226] | [.js][js-0226] |     | [.go][go-0226] |                  | [back to top] |
 | 0230 | [.java][java-0230] |                |                |     |                |                  | [back to top] |
+| 0231 | [.java][java-0231] |                |                |     |                |                  | [back to top] |
 | 0232 | [.java][java-0232] |                |                |     |                |                  | [back to top] |
 | 0234 | [.java][java-0234] |                |                |     |                |                  | [back to top] |
 | 0236 | [.java][java-0236] |                |                |     |                |                  | [back to top] |
@@ -840,6 +841,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-0226]: ./python-solutions/0226-invert-binary-tree/solution.py
 [js-0226]: ./javascript-solutions/0226-invert-binary-tree/solution.js
 [java-0230]: ./java-solutions/0230-kth-smallest-element-in-a-bst/src/Solution.java
+[java-0231]: ./java-solutions/0231-power-of-two/src/Solution.java
 [java-0232]: ./java-solutions/0232-implement-queue-using-stacks/src/MyQueue.java
 [java-0234]: ./java-solutions/0234-palindrome-linked-list/src/Solution.java
 [java-0236]: ./java-solutions/0236-lowest-common-ancestor-of-a-binary-tree/src/Solution.java
