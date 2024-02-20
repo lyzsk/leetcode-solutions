@@ -271,7 +271,7 @@
 | 0550 |                    |                |                |     |                | [.sql][sql-0550] | [back to top] |
 | 0559 | [.java][java-0559] |                |                |     |                |                  | [back to top] |
 | 0561 | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] |     |                |                  | [back to top] |
-| 0567 | [.java][java-0567] |                |                |     |                |                  | [back to top] |
+| 0567 | [.java][java-0567] | [.py][py-0567] | [.js][js-0567] |     |                |                  | [back to top] |
 | 0570 |                    |                |                |     |                | [.sql][sql-0570] | [back to top] |
 | 0576 | [.java][java-0576] |                |                |     |                |                  | [back to top] |
 | 0577 |                    |                |                |     |                | [.sql][sql-0577] | [back to top] |
@@ -932,6 +932,8 @@
 [py-0561]: ./python-solutions/0561-array-partition/solution.py
 [js-0561]: ./javascript-solutions/0561-array-partition/solution.js
 [java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
+[py-0567]: ./python-solutions/0567-permutation-in-string/solution.py
+[js-0567]: ./javascript-solutions/0567-permutation-in-string/solution.js
 [sql-0570]: ./sql-solutions/0570-managers-with-at-least-5-direct-reports/solution.sql
 [java-0576]: ./java-solutions/0576-out-of-boundary-paths/src/Solution.java
 [sql-0577]: ./sql-solutions/0577-employee-bonus/solution.sql
