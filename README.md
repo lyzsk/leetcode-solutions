@@ -181,6 +181,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0198 | [.java][java-0198] |                |                |     |                |                  | [back to top] |
 | 0199 | [.java][java-0199] |                |                |     |                |                  | [back to top] |
 | 0200 | [.java][java-0200] |                |                |     |                |                  | [back to top] |
+| 0201 | [.java][java-0201] |                |                |     |                |                  | [back to top] |
 | 0202 | [.java][java-0202] |                |                |     |                |                  | [back to top] |
 | 0203 | [.java][java-0203] |                |                |     |                |                  | [back to top] |
 | 0205 | [.java][java-0205] |                | [.js][js-0205] |     |                |                  | [back to top] |
@@ -819,6 +820,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
 [java-0199]: ./java-solutions/0199-binary-tree-side-view/src/Solution.java
 [java-0200]: ./java-solutions/0200-number-of-islands/src/Solution.java
+[java-0201]: ./java-solutions/0201-bitwise-and-of-numbers-range/src/Solution.java
 [java-0202]: ./java-solutions/0202-happy-number/src/Solution.java
 [java-0203]: ./java-solutions/0203-remove-linked-list-elements/src/Solution.java
 [java-0205]: ./java-solutions/0205-isomorphic-strings/src/Solution.java
