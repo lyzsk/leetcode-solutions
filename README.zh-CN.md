@@ -329,6 +329,7 @@
 | 0777 | [.java][java-0777] |                |                |     |                |                  | [back to top] |
 | 0779 | [.java][java-0779] |                |                |     |                |                  | [back to top] |
 | 0783 | [.java][java-0783] |                | [.js][js-0783] |     | [.go][go-0783] |                  | [back to top] |
+| 0787 | [.java][java-0787] |                |                |     |                |                  | [back to top] |
 | 0788 | [.java][java-0788] |                |                |     |                |                  | [back to top] |
 | 0790 | [.java][java-0790] |                |                |     |                |                  | [back to top] |
 | 0792 | [.java][java-0792] |                |                |     |                |                  | [back to top] |
@@ -1036,6 +1037,7 @@
 [java-0779]: ./java-solutions/0779-k-th-symbol-in-grammar/src/Solution.java
 [java-0783]: ./java-solutions/0783-minimum-distance-between-bst-nodes/src/Solution.java
 [go-0783]: ./golang-solutions/0783-minimum-distance-between-bst-nodes/solution.go
+[java-0787]: ./java-solutions/0787-cheapest-flights-within-k-stops/src/Solution.java
 [js-0783]: ./javascript-solutions/0783-minimum-distance-between-bst-nodes/solution.js
 [java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0790]: ./java-solutions/0790-domino-and-tromino-tiling/src/Solution.java
