@@ -40,7 +40,7 @@
 | 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] |     |                |                  | [back to top] |
 | 0004 | [.java][java-0004] |                |                |     |                |                  | [back to top] |
 | 0005 | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] |     |                |                  | [back to top] |
-| 0006 | [.java][java-0006] |                |                |     |                |                  | [back to top] |
+| 0006 | [.java][java-0006] |                | [.js][js-0006] |     |                |                  | [back to top] |
 | 0007 | [.java][java-0007] | [.py][py-0007] |                |     |                |                  | [back to top] |
 | 0008 | [.java][java-0008] |                |                |     |                |                  | [back to top] |
 | 0009 | [.java][java-0009] |                |                |     |                |                  | [back to top] |
@@ -675,6 +675,7 @@
 [py-0005]: ./python-solutions/0005-longest-palindromic-substring/solution.py
 [js-0005]: ./javascript-solutions/0005-longest-palindromic-substring/solution.js
 [java-0006]: ./java-solutions/0006-zigzag-conversion/src/Solution.java
+[js-0006]: ./javascript-solutions/0006-zigzag-conversion/solution.js
 [java-0007]: ./java-solutions/0007-reverse-integer/src/Solution.java
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
