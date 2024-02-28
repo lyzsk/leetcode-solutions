@@ -264,6 +264,7 @@
 | 0507 | [.java][java-0507] |                |                |     |                |                  | [back to top] |
 | 0509 | [.java][java-0509] | [.py][py-0509] | [.js][js-0509] |     | [.go][go-0509] |                  | [back to top] |
 | 0511 |                    |                |                |     |                | [.sql][sql-0511] | [back to top] |
+| 0513 | [.java][java-0513] |                |                |     |                |                  | [back to top] |
 | 0518 | [.java][java-0518] |                |                |     |                |                  | [back to top] |
 | 0520 | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] |     |                |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |     |                |                  | [back to top] |
@@ -996,6 +997,7 @@
 [js-0509]: ./javascript-solutions/0509-fibonacci-number/solution.js
 [go-0509]: ./golang-solutions/0509-fibonacci-number/solution.go
 [sql-0511]: ./sql-solutions/0511-game-play-analysis-i/solution.sql
+[java-0513]: ./java-solutions/0513-find-bottom-left-tree-value/src/Solution.java
 [java-0518]: ./java-solutions/0518-coin-change-ii/src/Solution.java
 [java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
