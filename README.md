@@ -625,6 +625,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2709 | [.java][java-2709] |                |                |     |                |                  | [back to top] |
 | 2848 | [.java][java-2848] | [.py][py-2848] |                |     |                |                  | [back to top] |
 | 2849 | [.java][java-2849] | [.py][py-2849] |                |     |                |                  | [back to top] |
+| 2864 | [.java][java-2864] |                |                |     |                |                  | [back to top] |
 | 2870 | [.java][java-2870] |                |                |     |                |                  | [back to top] |
 | 2873 | [.java][java-2873] | [.py][py-2873] |                |     |                |                  | [back to top] |
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |     |                |                  | [back to top] |
@@ -1430,6 +1431,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-2848]: ./python-solutions/2848-points-that-intersect-with-cars/solution.py
 [java-2849]: ./java-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/src/Solution.java
 [py-2849]: ./python-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/solution.py
+[java-2864]: ./java-solutions/2864-maximum-odd-binary-number/src/Solution.java
 [java-2870]: ./java-solutions/2870-minimum-number-of-operations-to-make-array-empty/src/Solution.java
 [java-2873]: ./java-solutions/2873-minimum-size-subarray-in-infinite-array/src/Solution.java
 [py-2873]: ./python-solutions/2873-maximum-value-of-an-ordered-triplet-i/solution.py
