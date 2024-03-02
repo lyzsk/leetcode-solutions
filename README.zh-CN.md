@@ -372,6 +372,7 @@
 | 0944 | [.java][java-0944] |                |                |     |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |     |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |     |                |                  | [back to top] |
+| 0977 | [.java][java-0977] |                |                |     |                |                  | [back to top] |
 | 0980 | [.java][java-0980] |                |                |     |                |                  | [back to top] |
 | 0989 | [.java][java-0989] |                |                |     |                |                  | [back to top] |
 | 0931 | [.java][java-0931] |                |                |     |                |                  | [back to top] |
@@ -1096,6 +1097,7 @@
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
+[java-0977]: ./java-solutions/0977-squares-of-a-sorted-array/src/Solution.java
 [java-0980]: ./java-solutions/0980-unique-paths-iii/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0931]: ./java-solutions/0931-minimum-falling-path-sum/src/Solution.java
