@@ -43,7 +43,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0006 | [.java][java-0006] |                | [.js][js-0006] |     |                |                  | [back to top] |
 | 0007 | [.java][java-0007] | [.py][py-0007] |                |     |                |                  | [back to top] |
 | 0008 | [.java][java-0008] |                |                |     |                |                  | [back to top] |
-| 0009 | [.java][java-0009] |                |                |     |                |                  | [back to top] |
+| 0009 | [.java][java-0009] | [.py][py-0009] |                |     |                |                  | [back to top] |
 | 0011 | [.java][java-0011] |                |                |     |                |                  | [back to top] |
 | 0012 | [.java][java-0012] |                | [.js][js-0012] |     |                |                  | [back to top] |
 | 0013 | [.java][java-0013] |                | [.js][js-0013] |     |                |                  | [back to top] |
@@ -661,6 +661,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-0007]: ./python-solutions/0007-reverse-integer/solution.py
 [java-0008]: ./java-solutions/0008-string-to-integer-atoi/src/Solution.java
 [java-0009]: ./java-solutions/0009-palindrome-number/src/Solution.java
+[py-0009]: ./python-solutions/0009-palindrome-number/solution.py
 [java-0011]: ./java-solutions/0011-container-with-most-water/src/Solution.java
 [java-0012]: ./java-solutions/0012-integer-to-roman/src/Solution.java
 [js-0012]: ./javascript-solutions/0012-integer-to-roman/solution.js
