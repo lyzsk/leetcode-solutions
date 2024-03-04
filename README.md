@@ -370,6 +370,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0938 | [.java][java-0938] |                |                |     |                |                  | [back to top] |
 | 0939 | [.java][java-0939] |                | [.js][js-0939] |     |                |                  | [back to top] |
 | 0944 | [.java][java-0944] |                |                |     |                |                  | [back to top] |
+| 0948 | [.java][java-0948] |                |                |     |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |     |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |     |                |                  | [back to top] |
 | 0977 | [.java][java-0977] |                |                |     |                |                  | [back to top] |
@@ -1072,6 +1073,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
+[java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0977]: ./java-solutions/0977-squares-of-a-sorted-array/src/Solution.java
