@@ -501,6 +501,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1742 | [.java][java-1742] |                |                |     |                |                  | [back to top] |
 | 1743 | [.java][java-1743] | [.py][py-1743] | [.js][js-1743] |     |                |                  | [back to top] |
 | 1749 | [.java][java-1749] |                |                |     |                |                  | [back to top] |
+| 1750 | [.java][java-1750] |                |                |     |                |                  | [back to top] |
 | 1754 | [.java][java-1754] |                | [.js][js-1754] |     |                |                  | [back to top] |
 | 1757 |                    |                |                |     |                | [.sql][sql-1757] | [back to top] |
 | 1758 | [.java][java-1758] | [.py][py-1758] | [.js][js-1758] |     |                |                  | [back to top] |
@@ -1258,6 +1259,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-1743]: ./python-solutions/1743-restore-the-array-from-adjacent-pairs/solution.py
 [js-1743]: ./javascript-solutions/1743-restore-the-array-from-adjacent-pairs/solution.js
 [java-1749]: ./java-solutions/1749-maximum-absolute-sum-of-any-subarray/src/Solution.java
+[java-1750]: ./java-solutions/1750-minimum-length-of-string-after-deleting-similar-ends/src/Solution.java
 [java-1754]: ./java-solutions/1754-largest-merge-of-two-strings/src/Solution.java
 [js-1754]: ./javascript-solutions/1754-largest-merge-of-two-strings/solution.js
 [sql-1757]: ./sql-solutions/1757-recyclable-and-low-fat-products/solution.sql
