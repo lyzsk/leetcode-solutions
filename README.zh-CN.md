@@ -635,6 +635,7 @@
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |     |                |                  | [back to top] |
 | 2966 | [.java][java-2966] |                |                |     |                |                  | [back to top] |
 | 2971 | [.java][java-2971] |                |                |     |                |                  | [back to top] |
+| 3005 | [.java][java-3005] |                |                |     |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1472,6 +1473,7 @@
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
 [java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
 [java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java
+[java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
@@ -1500,4 +1502,4 @@
 [java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
 [js-offer-24]: ./javascript-solutions/offer-24-fan-zhuan-lian-biao-lcof/solution.js
 [java-offer-25]: ./java-solutions/offer-25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof/src/Solution.java
-[java-offer-48]: ./java-solutions/offer-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/src/Solution.java
+[java-offer-48]: ./java-solutions/offer-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/src/Solution.jav
