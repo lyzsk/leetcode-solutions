@@ -610,7 +610,7 @@
 | 2529 | [.java][java-2529] |                |                |     |                |                  | [back to top] |
 | 2530 | [.java][java-2530] |                |                |     |                |                  | [back to top] |
 | 2531 | [.java][java-2531] |                |                |     |                |                  | [back to top] |
-| 2540 | [.java][java-2540] |                |                |     |                |                  | [back to top] |
+| 2540 | [.java][java-2540] |                | [.js][js-2540] |     |                |                  | [back to top] |
 | 2541 | [.java][java-2541] |                |                |     |                |                  | [back to top] |
 | 2542 | [.java][java-2542] |                |                |     |                |                  | [back to top] |
 | 2545 | [.java][java-2545] |                |                |     |                |                  | [back to top] |
@@ -1443,6 +1443,7 @@
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
+[js-2540]: ./javascript-solutions/2540-minimum-common-value/solution.js
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
 [java-2542]: ./java-solutions/2542-maximum-subsequence-score/src/Solution.java
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
