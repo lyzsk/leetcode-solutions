@@ -334,6 +334,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0787 | [.java][java-0787] |                |                |     |                |                  | [back to top] |
 | 0788 | [.java][java-0788] |                |                |     |                |                  | [back to top] |
 | 0790 | [.java][java-0790] |                |                |     |                |                  | [back to top] |
+| 0791 | [.java][java-0791] |                |                |     |                |                  | [back to top] |
 | 0792 | [.java][java-0792] |                |                |     |                |                  | [back to top] |
 | 0795 | [.java][java-0795] |                |                |     |                |                  | [back to top] |
 | 0799 | [.java][java-0799] |                |                |     |                |                  | [back to top] |
@@ -1031,6 +1032,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-0783]: ./javascript-solutions/0783-minimum-distance-between-bst-nodes/solution.js
 [java-0788]: ./java-solutions/0788-rotated-digits/src/Solution.java
 [java-0790]: ./java-solutions/0790-domino-and-tromino-tiling/src/Solution.java
+[java-0791]: ./java-solutions/0791-custom-sort-string/src/Solution.java
 [java-0792]: ./java-solutions/0792-number-of-matching-subsequences/src/Solution.java
 [java-0795]: ./java-solutions/0795-number-of-subarrays-with-bounded-maximum/src/Solution.java
 [java-0799]: ./java-solutions/0799-champagne-tower/src/Solution.java
