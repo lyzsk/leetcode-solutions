@@ -415,6 +415,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1158 |                    |                |                |     |                | [.sql][sql-1158] | [back to top] |
 | 1163 | [.java][java-1163] | [.py][py-1163] | [.js][js-1163] |     |                |                  | [back to top] |
 | 1164 |                    |                |                |     |                | [.sql][sql-1164] | [back to top] |
+| 1171 | [.java][java-1171] |                |                |     |                |                  | [back to top] |
 | 1174 |                    |                |                |     |                | [.sql][sql-1174] | [back to top] |
 | 1179 |                    |                |                |     |                | [.sql][sql-1179] | [back to top] |
 | 1193 |                    |                |                |     |                | [.sql][sql-1193] | [back to top] |
@@ -1142,6 +1143,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-1163]: ./python-solutions/1163-last-substring-in-lexicographical-order/solution.py
 [js-1163]: ./javascript-solutions/1163-last-substring-in-lexicographical-order/solution.js
 [sql-1164]: ./sql-solutions/1164-product-price-at-a-given-date/solution.sql
+[java-1171]: ./java-solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list/src/Solution.java
 [sql-1174]: ./sql-solutions/1174-immediate-food-delivery-ii/solution.sql
 [sql-1179]: ./sql-solutions/1179-reformat-department-table/solution.sql
 [sql-1193]: ./sql-solutions/1193-monthly-transactions-i/solution.sql
