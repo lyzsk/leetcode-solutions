@@ -604,6 +604,7 @@
 | 2437 | [.java][java-2437] | [.py][py-2437] | [.js][js-2437] |     |                |                  | [back to top] |
 | 2441 | [.java][java-2441] |                |                |     |                |                  | [back to top] |
 | 2446 | [.java][java-2446] | [.py][py-2446] | [.js][js-2446] |     | [.go][go-2446] |                  | [back to top] |
+| 2458 | [.java][java-2458] |                |                |     |                |                  | [back to top] |
 | 2465 | [.java][java-2465] |                |                |     |                |                  | [back to top] |
 | 2469 | [.java][java-2469] |                |                |     |                |                  | [back to top] |
 | 2525 | [.java][java-2525] |                |                |     |                |                  | [back to top] |
@@ -1437,6 +1438,7 @@
 [java-2441]: ./java-solutions/2441-largest-positive-integer-that-exists-with-its-negative/src/Solution.java
 [java-2446]: ./java-solutions/2446-determine-if-two-events-have-conflict/src/Solution.java
 [go-2446]: ./golang-solutions/2446-determine-if-two-events-have-conflict/solution.go
+[java-2458]: ./java-solutions/2485-find-the-pivot-integer/src/Solution.java
 [py-2446]: ./python-solutions/2446-determine-if-two-events-have-conflict/solution.py
 [js-2446]: ./javascript-solutions/2446-determine-if-two-events-have-conflict/solution.js
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
