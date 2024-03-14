@@ -367,6 +367,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0921 | [.java][java-0921] |                |                |     |                |                  | [back to top] |
 | 0926 | [.java][java-0926] |                |                |     |                |                  | [back to top] |
 | 0929 | [.java][java-0929] |                |                |     |                |                  | [back to top] |
+| 0930 | [.java][java-0930] |                |                |     |                |                  | [back to top] |
 | 0934 | [.java][java-0934] |                |                |     |                |                  | [back to top] |
 | 0938 | [.java][java-0938] |                |                |     |                |                  | [back to top] |
 | 0939 | [.java][java-0939] |                | [.js][js-0939] |     |                |                  | [back to top] |
@@ -1074,6 +1075,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
 [java-0929]: ./java-solutions/0929-unique-email-addresses/src/Solution.java
+[java-0930]: ./java-solutions/0930-binary-subarrays-with-sum/src/Solution.java
 [java-0934]: ./java-solutions/0934-shortest-bridge/src/Solution.java
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
