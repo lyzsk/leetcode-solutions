@@ -296,6 +296,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0617 | [.java][java-0617] |                |                |     |                |                  | [back to top] |
 | 0619 |                    |                |                |     |                | [.sql][sql-0619] | [back to top] |
 | 0620 |                    |                |                |     |                | [.sql][sql-0620] | [back to top] |
+| 0621 | [.java][java-0621] |                |                |     |                |                  | [back to top] |
 | 0623 | [.java][java-0623] |                |                |     |                |                  | [back to top] |
 | 0626 |                    |                |                |     |                | [.sql][sql-0626] | [back to top] |
 | 0627 |                    |                |                |     |                | [.sql][sql-0627] | [back to top] |
@@ -951,6 +952,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0617]: ./java-solutions/0617-merge-two-binary-trees/src/Solution.java
 [sql-0619]: ./sql-solutions/0619-biggest-single-number/solution.sql
 [sql-0620]: ./sql-solutions/0620-not-boring-movies/solution.sql
+[java-0621]: ./java-solutions/0621-task-scheduler/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [sql-0626]: ./sql-solutions/0626-exchange-seats/solution.sql
 [sql-0627]: ./sql-solutions/0627-swap-salary/solution.sql
