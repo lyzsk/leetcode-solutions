@@ -492,6 +492,7 @@
 | 1661 |                    |                |                |     |                | [.sql][sql-1661] | [back to top] |
 | 1662 | [.java][java-1662] |                |                |     |                |                  | [back to top] |
 | 1667 |                    |                |                |     |                | [.sql][sql-1667] | [back to top] |
+| 1669 | [.java][java-1669] |                |                |     |                |                  | [back to top] |
 | 1683 |                    |                |                |     |                | [.sql][sql-1683] | [back to top] |
 | 1693 |                    |                |                |     |                | [.sql][sql-1693] | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
@@ -1279,6 +1280,7 @@
 [sql-1661]: ./sql-solutions/1661-average-time-of-process-per-machine/solution.sql
 [java-1662]: ./java-solutions/1662-check-if-two-string-arrays-are-equivalent/src/Solution.java
 [sql-1667]: ./sql-solutions/1667-fix-names-in-a-table/solution.sql
+[java-1669]: ./java-solutions/1669-merge-in-between-linked-lists/src/Solution.java
 [sql-1683]: ./sql-solutions/1683-invalid-tweets/solution.sql
 [sql-1693]: ./sql-solutions/1693-daily-leads-and-partners/solution.sql
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
