@@ -71,6 +71,7 @@
 | 0038 | [.java][java-0038] |                |                |     |                |                  | [back to top] |
 | 0039 | [.java][java-0039] |                |                |     |                |                  | [back to top] |
 | 0040 | [.java][java-0040] |                |                |     |                |                  | [back to top] |
+| 0041 | [.java][java-0041] |                |                |     |                |                  | [back to top] |
 | 0042 | [.java][java-0042] |                |                |     |                |                  | [back to top] |
 | 0043 | [.java][java-0043] |                |                |     |                |                  | [back to top] |
 | 0045 | [.java][java-0045] |                |                |     |                |                  | [back to top] |
@@ -730,6 +731,7 @@
 [java-0038]: ./java-solutions/0038-count-and-say/src/Solution.java
 [java-0039]: ./java-solutions/0039-combination-sum/src/Solution.java
 [java-0040]: ./java-solutions/0040-combination-sum-ii/src/Solution.java
+[java-0041]: ./java-solutions/0041-first-missing-positive/src/Solution.java
 [java-0042]: ./java-solutions/0042-trapping-rain-water/src/Solution.java
 [java-0043]: ./java-solutions/0043-multiply-strings/src/Solution.java
 [java-0045]: ./java-solutions/0045-jump-game-ii/src/Solution.java
