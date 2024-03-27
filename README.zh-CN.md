@@ -321,6 +321,7 @@
 | 0696 | [.java][java-0696] |                |                |     |                |                  | [back to top] |
 | 0703 | [.java][java-0703] |                |                |     |                |                  | [back to top] |
 | 0704 | [.java][java-0704] |                | [.js][js-0704] |     |                |                  | [back to top] |
+| 0713 | [.java][java-0713] |                |                |     |                |                  | [back to top] |
 | 0714 | [.java][java-0714] |                |                |     |                |                  | [back to top] |
 | 0718 | [.java][java-0718] |                |                |     |                |                  | [back to top] |
 | 0722 | [.java][java-0722] |                |                |     |                |                  | [back to top] |
@@ -1046,6 +1047,7 @@
 [java-0703]: ./java-solutions/0703-kth-largest-element-in-a-stream/src/KthLargest.java
 [java-0704]: ./java-solutions/0704-binary-search/src/Solution.java
 [js-0704]: ./javascript-solutions/0704-binary-search/solution.js
+[java-0713]: ./java-solutions/0713-subarray-product-less-than-k/src/Solution.java
 [java-0714]: ./java-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0722]: ./java-solutions/0722-remove-comments/src/Solution.java
