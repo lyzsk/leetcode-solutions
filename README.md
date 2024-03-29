@@ -643,6 +643,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |     |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |     |                |                  | [back to top] |
 | 2958 | [.java][java-2958] |                |                |     |                |                  | [back to top] |
+| 2962 | [.java][java-2962] |                |                |     |                |                  | [back to top] |
 | 2966 | [.java][java-2966] |                |                |     |                |                  | [back to top] |
 | 2971 | [.java][java-2971] |                |                |     |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |     |                |                  | [back to top] |
@@ -1468,6 +1469,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2875]: ./java-solutions/2875-maximum-value-of-an-ordered-triplet-i/src/Solution.java
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
 [java-2958]: ./java-solutions/2958-length-of-longest-subarray-with-at-most-k-frequency/src/Solution.java
+[java-2962]: ./java-solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times/src/Solution.java
 [java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
 [java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java:
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
