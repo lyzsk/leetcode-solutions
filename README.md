@@ -383,6 +383,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0980 | [.java][java-0980] |                |                |     |                |                  | [back to top] |
 | 0989 | [.java][java-0989] |                |                |     |                |                  | [back to top] |
 | 0931 | [.java][java-0931] |                |                |     |                |                  | [back to top] |
+| 0992 | [.java][java-0992] |                |                |     |                |                  | [back to top] |
 | 0997 | [.java][java-0997] |                |                |     |                |                  | [back to top] |
 | 0998 | [.java][java-0998] |                |                |     |                |                  | [back to top] |
 | 1003 | [.java][java-1003] | [.py][py-1003] | [.js][js-1003] |     |                |                  | [back to top] |
@@ -1099,6 +1100,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0980]: ./java-solutions/0980-unique-paths-iii/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0931]: ./java-solutions/0931-minimum-falling-path-sum/src/Solution.java
+[java-0992]: ./java-solutions/0992-subarrays-with-k-different-integers/src/Solution.java
 [java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1003]: ./java-solutions/1003-check-if-word-is-valid-after-substitutions/src/Solution.java
