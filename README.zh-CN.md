@@ -610,6 +610,7 @@
 | 2433 | [.java][java-2433] | [.py][py-2433] |                |     |                |                  | [back to top] |
 | 2437 | [.java][java-2437] | [.py][py-2437] | [.js][js-2437] |     |                |                  | [back to top] |
 | 2441 | [.java][java-2441] |                |                |     |                |                  | [back to top] |
+| 2444 | [.java][java-2444] |                |                |     |                |                  | [back to top] |
 | 2446 | [.java][java-2446] | [.py][py-2446] | [.js][js-2446] |     | [.go][go-2446] |                  | [back to top] |
 | 2458 | [.java][java-2458] |                |                |     |                |                  | [back to top] |
 | 2465 | [.java][java-2465] |                |                |     |                |                  | [back to top] |
@@ -1452,6 +1453,7 @@
 [py-2437]: ./python-solutions/2437-number-of-valid-clock-times/solution.py
 [js-2437]: ./javascript-solutions/2437-number-of-valid-clock-times/solution.js
 [java-2441]: ./java-solutions/2441-largest-positive-integer-that-exists-with-its-negative/src/Solution.java
+[java-2444]: ./java-solutions/2444-count-subarrays-with-fixed-bounds/src/Solution.java
 [java-2446]: ./java-solutions/2446-determine-if-two-events-have-conflict/src/Solution.java
 [go-2446]: ./golang-solutions/2446-determine-if-two-events-have-conflict/solution.go
 [java-2458]: ./java-solutions/2485-find-the-pivot-integer/src/Solution.java
