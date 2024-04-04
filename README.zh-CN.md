@@ -485,6 +485,7 @@
 | 1581 |                    |                |                |     |                | [.sql][sql-1581] | [back to top] |
 | 1587 |                    |                |                |     |                | [.sql][sql-1587] | [back to top] |
 | 1609 | [.java][java-1609] |                |                |     |                |                  | [back to top] |
+| 1614 | [.java][java-1614] |                |                |     |                |                  | [back to top] |
 | 1615 | [.java][java-1615] |                |                |     |                |                  | [back to top] |
 | 1624 | [.java][java-1624] | [.py][py-1624] | [.js][js-1624] |     |                |                  | [back to top] |
 | 1633 |                    |                |                |     |                | [.sql][sql-1633] | [back to top] |
@@ -1276,6 +1277,7 @@
 [sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [sql-1587]: ./sql-solutions/1587-bank-account-summary-ii/solution.sql
 [java-1609]: ./java-solutions/1609-even-odd-tree/src/Solution.java
+[java-1614]: ./java-solutions/1614-maximum-nesting-depth-of-the-parentheses/src/Solution.java
 [java-1615]: ./java-solutions/1615-maximal-network-rank/src/Solution.java
 [java-1624]: ./java-solutions/1624-largest-substring-between-two-equal-characters/src/Solution.java
 [py-1624]: ./python-solutions/1624-largest-substring-between-two-equal-characters/solution.py
