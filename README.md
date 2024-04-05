@@ -479,6 +479,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1523 | [.java][java-1523] |                |                |     |                |                  | [back to top] |
 | 1527 |                    |                |                |     |                | [.sql][sql-1527] | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |     |                |                  | [back to top] |
+| 1544 | [.java][java-1544] |                |                |     |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |     |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |     |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |     |                |                  | [back to top] |
@@ -1247,6 +1248,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
 [js-1535]: ./javascript-solutions/1535-find-the-winner-of-an-array-game/solution.js
+[java-1544]: ./java-solutions/1544-make-the-string-great/src/Solution.java
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
