@@ -502,6 +502,7 @@
 | 1683 |                    |                |                |     |                | [.sql][sql-1683] | [back to top] |
 | 1693 |                    |                |                |     |                | [.sql][sql-1693] | [back to top] |
 | 1694 | [.java][java-1694] |                |                |     |                |                  | [back to top] |
+| 1700 | [.java][java-1700] |                |                |     |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |     |                |                  | [back to top] |
 | 1710 | [.java][java-1710] |                |                |     |                |                  | [back to top] |
 | 1721 | [.java][java-1721] |                |                |     |                |                  | [back to top] |
@@ -1299,6 +1300,7 @@
 [sql-1683]: ./sql-solutions/1683-invalid-tweets/solution.sql
 [sql-1693]: ./sql-solutions/1693-daily-leads-and-partners/solution.sql
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
+[java-1700]: ./java-solutions/1700-number-of-students-unable-to-eat-lunch/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
