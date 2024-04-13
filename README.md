@@ -105,6 +105,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0081 | [.java][java-0081] |                |                |     |                |                  | [back to top] |
 | 0082 | [.java][java-0082] |                |                |     |                |                  | [back to top] |
 | 0083 | [.java][java-0083] |                |                |     |                |                  | [back to top] |
+| 0085 | [.java][java-0085] |                |                |     |                |                  | [back to top] |
 | 0086 | [.java][java-0086] |                |                |     |                |                  | [back to top] |
 | 0088 | [.java][java-0088] |                |                |     |                |                  | [back to top] |
 | 0089 | [.java][java-0089] |                |                |     |                |                  | [back to top] |
@@ -758,6 +759,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0081]: ./java-solutions/0081-search-in-rotated-sorted-array-ii/src/Solution.java
 [java-0082]: ./java-solutions/0082-remove-duplicates-from-sorted-list-ii/src/Solution.java
 [java-0083]: ./java-solutions/0083-remove-duplicates-from-sorted-list/src/Solution.java
+[java-0085]: ./java-solutions/0085-maximal-rectangle/src/Solution.java
 [java-0086]: ./java-solutions/0086-partition-list/src/Solution.java
 [java-0088]: ./java-solutions/0088-merge-sorted-array/src/Solution.java
 [java-0089]: ./java-solutions/0089-gray-code/src/Solution.java
