@@ -244,6 +244,7 @@
 | 0392 | [.java][java-0392] |                |                |     |                |                  | [back to top] |
 | 0395 | [.java][java-0395] |                |                |     |                |                  | [back to top] |
 | 0402 | [.java][java-0402] |                |                |     |                |                  | [back to top] |
+| 0404 | [.java][java-0404] |                |                |     |                |                  | [back to top] |
 | 0409 | [.java][java-0409] |                |                |     |                |                  | [back to top] |
 | 0412 | [.java][java-0412] |                |                |     |                |                  | [back to top] |
 | 0415 | [.java][java-0415] |                |                |     |                |                  | [back to top] |
@@ -961,6 +962,7 @@
 [java-0392]: ./java-solutions/0392-is-subsequence/src/Solution.java
 [java-0395]: ./java-solutions/0395-longest-substring-with-at-least-k-repeating-characters/src/Solution.java
 [java-0402]: ./java-solutions/0402-remove-k-digits/src/Solution.java
+[java-0404]: ./java-solutions/0404-sum-of-left-leaves/src/Solution.java
 [java-0409]: ./java-solutions/0409-longest-palindrome/src/Solution.java
 [java-0412]: ./java-solutions/0412-fizz-buzz/src/Solution.java
 [java-0415]: ./java-solutions/0415-add-strings/src/Solution.java
