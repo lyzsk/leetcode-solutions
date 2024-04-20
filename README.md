@@ -571,6 +571,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1965 |                    |                |                |     |                | [.sql][sql-1965] | [back to top] |
 | 1978 |                    |                |                |     |                | [.sql][sql-1978] | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |     |                |                  | [back to top] |
+| 1992 | [.java][java-1992] |                |                |     |                |                  | [back to top] |
 | 1993 | [.java][java-1993] |                |                |     |                |                  | [back to top] |
 | 2027 | [.java][java-2027] |                | [.js][js-2027] |     |                |                  | [back to top] |
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |     |                |                  | [back to top] |
@@ -1370,6 +1371,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [sql-1978]: ./sql-solutions/1978-employees-whose-manager-left-the-company/solution.sql
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
+[java-1992]: ./java-solutions/1992-find-all-groups-of-farmland/src/Solution.java
 [java-1993]: ./java-solutions/1993-operations-on-tree/src/LockingTree.java
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
