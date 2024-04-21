@@ -569,6 +569,7 @@
 | 1945 | [.java][java-1945] |                |                |     |                |                  | [back to top] |
 | 1962 | [.java][java-1962] |                |                |     |                |                  | [back to top] |
 | 1965 |                    |                |                |     |                | [.sql][sql-1965] | [back to top] |
+| 1971 | [.java][java-1971] |                |                |     |                |                  | [back to top] |
 | 1978 |                    |                |                |     |                | [.sql][sql-1978] | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |     |                |                  | [back to top] |
 | 1992 | [.java][java-1992] |                |                |     |                |                  | [back to top] |
@@ -1392,6 +1393,7 @@
 [java-1945]: ./java-solutions/1945-sum-of-digits-of-string-after-convert/src/Solution.java
 [java-1962]: ./java-solutions/1962-remove-stones-to-minimize-the-total/src/Solution.java
 [sql-1965]: ./sql-solutions/1965-employees-with-missing-information/solution.sql
+[java-1971]: ./java-solutions/1971-find-if-path-exists-in-graph/src/Solution.java
 [sql-1978]: ./sql-solutions/1978-employees-whose-manager-left-the-company/solution.sql
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
