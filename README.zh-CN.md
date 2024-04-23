@@ -224,6 +224,7 @@
 | 0303 | [.java][java-0303] |                |                |     |                |                  | [back to top] |
 | 0307 | [.java][java-0307] |                |                |     |                |                  | [back to top] |
 | 0309 | [.java][java-0309] |                |                |     |                |                  | [back to top] |
+| 0310 | [.java][java-0310] |                |                |     |                |                  | [back to top] |
 | 0316 | [.java][java-0316] |                |                |     |                |                  | [back to top] |
 | 0319 | [.java][java-0319] | [.py][py-0319] | [.js][js-0319] |     |                |                  | [back to top] |
 | 0322 | [.java][java-0322] | [.py][py-0322] | [.js][js-0322] |     | [.go][go-0322] |                  | [back to top] |
@@ -937,6 +938,7 @@
 [java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0309]: ./java-solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown/src/Solution.java
+[java-0310]: ./java-solutions/0310-minimum-height-trees/src/Solution.java
 [java-0316]: ./java-solutions/0316-remove-duplicate-letters/src/Solution.java
 [java-0319]: ./java-solutions/0319-bulb-switcher/src/Solution.java
 [py-0319]: ./python-solutions/0319-bulb-switcher/solution.py
