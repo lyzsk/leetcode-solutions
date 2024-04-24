@@ -416,6 +416,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1105 | [.java][java-1105] | [.py][py-1105] | [.js][js-1105] |     |                |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |     |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |     |                |                  | [back to top] |
+| 1137 | [.java][java-1137] |                |                |     |                |                  | [back to top] |
 | 1138 | [.java][java-1138] |                |                |     |                |                  | [back to top] |
 | 1139 | [.java][java-1139] |                |                |     |                |                  | [back to top] |
 | 1141 |                    |                |                |     |                | [.sql][sql-1141] | [back to top] |
@@ -1165,6 +1166,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
+[java-1137]: ./java-solutions/1137-n-th-tribonacci-number/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
 [java-1139]: ./java-solutions/1139-largest-1-bordered-square/src/Solution.java
 [sql-1141]: ./sql-solutions/1141-user-activity-for-the-past-30-days-i/solution.sql
