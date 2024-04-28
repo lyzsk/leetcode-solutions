@@ -355,6 +355,7 @@
 | 0817 | [.java][java-0817] |                |                |     |                |                  | [back to top] |
 | 0822 | [.java][java-0822] |                |                |     |                |                  | [back to top] |
 | 0833 | [.java][java-0833] |                |                |     |                |                  | [back to top] |
+| 0834 | [.java][java-0834] |                |                |     |                |                  | [back to top] |
 | 0842 | [.java][java-0842] |                |                |     |                |                  | [back to top] |
 | 0849 | [.java][java-0849] | [.py][py-0849] |                |     |                |                  | [back to top] |
 | 0855 | [.java][java-0855] |                |                |     |                |                  | [back to top] |
@@ -1107,6 +1108,7 @@
 [java-0817]: ./java-solutions/0817-linked-list-components/src/Solution.java
 [java-0822]: ./java-solutions/0822-card-flipping-game/src/Solution.java
 [java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
+[java-0834]: ./java-solutions/0834-sum-of-distances-in-tree/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
 [java-0849]: ./java-solutions/0849-maximize-distance-to-closest-person/src/Solution.java
 [py-0849]: ./python-solutions/0849-maximize-distance-to-closest-person/solution.py
