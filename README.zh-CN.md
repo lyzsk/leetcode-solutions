@@ -665,6 +665,7 @@
 | 2962 | [.java][java-2962] |                |                |     |                |                  | [back to top] |
 | 2966 | [.java][java-2966] |                |                |     |                |                  | [back to top] |
 | 2971 | [.java][java-2971] |                |                |     |                |                  | [back to top] |
+| 2997 | [.java][java-2997] |                |                |     |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |     |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
@@ -1534,6 +1535,7 @@
 [java-2962]: ./java-solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times/src/Solution.java
 [java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
 [java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java
+[java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
