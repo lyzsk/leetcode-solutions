@@ -368,6 +368,7 @@
 | 0872 | [.java][java-0872] |                |                |     |                |                  | [back to top] |
 | 0873 | [.java][java-0873] |                |                |     |                |                  | [back to top] |
 | 0876 | [.java][java-0876] |                | [.js][js-0876] |     |                |                  | [back to top] |
+| 0881 | [.java][java-0881] |                |                |     |                |                  | [back to top] |
 | 0904 | [.java][java-0904] |                |                |     |                |                  | [back to top] |
 | 0905 | [.java][java-0905] |                |                |     |                |                  | [back to top] |
 | 0907 | [.java][java-0907] |                |                |     |                |                  | [back to top] |
@@ -1129,6 +1130,7 @@
 [java-0873]: ./java-solutions/0873-length-of-longest-fibonacci-subsequence/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0881]: ./java-solutions/0881-boats-to-save-people/src/Solution.java
 [java-0904]: ./java-solutions/0904-fruit-into-baskets/src/Solution.java
 [java-0905]: ./java-solutions/0905-sort-array-by-parity/src/Solution.java
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
