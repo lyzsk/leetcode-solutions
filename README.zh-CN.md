@@ -658,6 +658,7 @@
 | 2681 | [.java][java-2681] |                |                |     |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |     |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |     |                |                  | [back to top] |
+| 2816 | [.java][java-2816] |                |                |     |                |                  | [back to top] |
 | 2848 | [.java][java-2848] | [.py][py-2848] |                |     |                |                  | [back to top] |
 | 2849 | [.java][java-2849] | [.py][py-2849] |                |     |                |                  | [back to top] |
 | 2864 | [.java][java-2864] |                |                |     |                |                  | [back to top] |
@@ -1527,6 +1528,7 @@
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
+[java-2816]: ./java-solutions/2816-double-a-number-represented-as-a-linked-list/src/Solution.java
 [java-2848]: ./java-solutions/2848-points-that-intersect-with-cars/src/Solution.java
 [py-2848]: ./python-solutions/2848-points-that-intersect-with-cars/solution.py
 [java-2849]: ./java-solutions/2849-determine-if-a-cell-is-reachable-at-a-given-time/src/Solution.java
