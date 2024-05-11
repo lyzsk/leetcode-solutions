@@ -362,6 +362,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0849 | [.java][java-0849] | [.py][py-0849] |                |     |                |                  | [back to top] |
 | 0855 | [.java][java-0855] |                |                |     |                |                  | [back to top] |
 | 0856 | [.java][java-0856] |                | [.js][js-0856] |     |                |                  | [back to top] |
+| 0857 | [.java][java-0857] |                |                |     |                |                  | [back to top] |
 | 0859 | [.java][java-0859] |                |                |     |                |                  | [back to top] |
 | 0867 | [.java][java-0867] | [.py][py-0867] | [.js][js-0867] |     |                |                  | [back to top] |
 | 0869 | [.java][java-0869] |                |                |     |                |                  | [back to top] |
@@ -1102,6 +1103,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
 [java-0856]: ./java-solutions/0856-score-of-parentheses/src/Solution.java
 [js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
+[java-0857]: ./java-solutions/0857-minimum-cost-to-hire-k-workers/src/Solution.java
 [java-0859]: ./java-solutions/0859-buddy-strings/src/Solution.java
 [java-0867]: ./java-solutions/0867-transpose-matrix/src/Solution.java
 [py-0867]: ./python-solutions/0867-transpose-matrix/solution.py
