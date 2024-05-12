@@ -621,6 +621,7 @@
 | 2363 | [.java][java-2363] |                |                |     |                |                  | [back to top] |
 | 2369 | [.java][java-2369] |                |                |     |                |                  | [back to top] |
 | 2370 | [.java][java-2370] |                |                |     |                |                  | [back to top] |
+| 2373 | [.java][java-2373] |                |                |     |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |     |                |                  | [back to top] |
 | 2385 | [.java][java-2385] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
@@ -1475,6 +1476,7 @@
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2369]: ./java-solutions/2369-check-if-there-is-a-valid-partition-for-the-array/src/Solution.java
 [java-2370]: ./java-solutions/2370-longest-ideal-subsequence/src/Solution.java
+[java-2373]: ./java-solutions/2373-largest-local-values-in-a-matrix/src/Solution.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2353]: ./java-solutions/2353-design-a-food-rating-system/src/FoodRatings.java

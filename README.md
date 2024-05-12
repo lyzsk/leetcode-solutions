@@ -621,6 +621,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2363 | [.java][java-2363] |                |                |     |                |                  | [back to top] |
 | 2369 | [.java][java-2369] |                |                |     |                |                  | [back to top] |
 | 2370 | [.java][java-2370] |                |                |     |                |                  | [back to top] |
+| 2373 | [.java][java-2373] |                |                |     |                |                  | [back to top] |
 | 2379 | [.java][java-2379] |                |                |     |                |                  | [back to top] |
 | 2385 | [.java][java-2385] |                |                |     |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |     |                |                  | [back to top] |
@@ -1455,6 +1456,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2363]: ./java-solutions/2363-merge-similar-items/src/Solution.java
 [java-2369]: ./java-solutions/2369-check-if-there-is-a-valid-partition-for-the-array/src/Solution.java
 [java-2370]: ./java-solutions/2370-longest-ideal-subsequence/src/Solution.java
+[java-2373]: ./java-solutions/2373-largest-local-values-in-a-matrix/src/Solution.java
 [java-2379]: ./java-solutions/2379-minimum-recolors-to-get-k-consecutive-black-blocks/src/Solution.java
 [java-2385]: ./java-solutions/2385-amount-of-time-for-binary-tree-to-be-infected/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
