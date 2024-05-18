@@ -391,6 +391,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0973 | [.java][java-0973] |                |                |     |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |     |                |                  | [back to top] |
 | 0977 | [.java][java-0977] |                |                |     |                |                  | [back to top] |
+| 0979 | [.java][java-0979] |                |                |     |                |                  | [back to top] |
 | 0980 | [.java][java-0980] |                |                |     |                |                  | [back to top] |
 | 0988 | [.java][java-0988] |                |                |     |                |                  | [back to top] |
 | 0989 | [.java][java-0989] |                |                |     |                |                  | [back to top] |
@@ -457,6 +458,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |     |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |     |                |                  | [back to top] |
 | 1321 |                    |                |                |     |                | [.sql][sql-1321] | [back to top] |
+| 1325 | [.java][java-1325] |                |                |     |                |                  | [back to top] |
 | 1327 |                    |                |                |     |                | [.sql][sql-1327] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |     |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |     |                |                  | [back to top] |
@@ -1140,6 +1142,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0977]: ./java-solutions/0977-squares-of-a-sorted-array/src/Solution.java
+[java-0979]: ./java-solutions/0979-distribute-coins-in-binary-tree/src/Solution.java
 [java-0980]: ./java-solutions/0980-unique-paths-iii/src/Solution.java
 [java-0988]: ./java-solutions/0988-smallest-string-starting-from-leaf/src/Solution.java
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
@@ -1263,6 +1266,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
 [java-1441]: ./java-solutions/1441-build-an-array-with-stack-operations/src/Solution.java
 [sql-1321]: ./sql-solutions/1321-restaurant-growth/solution.sql
+[java-1325]: ./java-solutions/1325-delete-leaves-with-a-given-value/src/Solution.java
 [sql-1327]: ./sql-solutions/1327-list-the-products-ordered-in-a-period/solution.sql
 [py-1441]: ./python-solutions/1441-build-an-array-with-stack-operations/solution.py
 [js-1441]: ./javascript-solutions/1441-build-an-array-with-stack-operations/solution.js
