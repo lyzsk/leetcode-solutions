@@ -681,6 +681,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2971 | [.java][java-2971] |                |                |     |                |                  | [back to top] |
 | 2997 | [.java][java-2997] |                |                |     |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |     |                |                  | [back to top] |
+| 3068 | [.java][java-3068] |                |                |     |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |     |                |                  | [back to top] |
 
 # TODO
@@ -1542,4 +1543,5 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java
 [java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
+[java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
