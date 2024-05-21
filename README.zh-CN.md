@@ -566,6 +566,7 @@
 | 1838 | [.java][java-1838] | [.py][py-1838] | [.js][js-1838] |     |                |                  | [back to top] |
 | 1845 | [.java][java-1845] |                |                |     |                |                  | [back to top] |
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |     |                |                  | [back to top] |
+| 1863 | [.java][java-1863] |                |                |     |                |                  | [back to top] |
 | 1873 |                    |                |                |     |                | [.sql][sql-1873] | [back to top] |
 | 1865 | [.java][java-1865] |                |                |     |                |                  | [back to top] |
 | 1876 | [.java][java-1876] |                |                |     |                |                  | [back to top] |
@@ -1408,6 +1409,7 @@
 [java-1846]: ./java-solutions/1846-maximum-element-after-decreasing-and-rearranging/src/Solution.java
 [py-1846]: ./python-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.py
 [js-1846]: ./javascript-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.js
+[java-1863]: ./java-solutions/1863-sum-of-all-subset-xor-totals/src/Solution.java
 [sql-1873]: ./sql-solutions/1873-calculate-special-bonus/solution.sql
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
