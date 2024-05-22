@@ -139,6 +139,7 @@
 | 0128 | [.java][java-0128] |                |                |     |                |                  | [back to top] |
 | 0129 | [.java][java-0129] |                |                |     |                |                  | [back to top] |
 | 0130 | [.java][java-0130] |                |                |     |                |                  | [back to top] |
+| 0131 | [.java][java-0131] |                |                |     |                |                  | [back to top] |
 | 0134 | [.java][java-0134] |                |                |     |                |                  | [back to top] |
 | 0136 | [.java][java-0136] |                |                |     |                |                  | [back to top] |
 | 0137 | [.java][java-0137] |                |                |     |                |                  | [back to top] |
@@ -852,6 +853,7 @@
 [java-0128]: ./java-solutions/0128-longest-consecutive-sequence/src/Solution.java
 [java-0129]: ./java-solutions/0129-sum-root-to-leaf-numbers/src/Solution.java
 [java-0130]: ./java-solutions/0130-surrounded-regions/src/Solution.java
+[java-0131]: ./java-solutions/0131-palindrome-partitioning/src/Solution.java
 [java-0134]: ./java-solutions/0134-gas-station/src/Solution.java
 [java-0136]: ./java-solutions/0136-single-number/src/Solution.java
 [java-0137]: ./java-solutions/0137-single-number-ii/src/Solution.java
