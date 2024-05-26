@@ -280,6 +280,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0542 | [.java][java-0542] |                |                |     |                |                  | [back to top] |
 | 0543 | [.java][java-0543] |                |                |     |                |                  | [back to top] |
 | 0550 |                    |                |                |     |                | [.sql][sql-0550] | [back to top] |
+| 0552 | [.java][java-0552] |                |                |     |                |                  | [back to top] |
 | 0559 | [.java][java-0559] |                |                |     |                |                  | [back to top] |
 | 0561 | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] |     |                |                  | [back to top] |
 | 0567 | [.java][java-0567] | [.py][py-0567] | [.js][js-0567] |     |                |                  | [back to top] |
@@ -1049,6 +1050,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0542]: ./java-solutions/0542-01-matrix/src/Solution.java
 [java-0543]: ./java-solutions/0543-diameter-of-binary-tree/src/Solution.java
 [sql-0550]: ./sql-solutions/0550-game-play-analysis-iv/solution.sql
+[java-0552]: ./java-solutions/0552-student-attendance-record-ii/src/Solution.java
 [java-0652]: ./java-solutions/0652-find-duplicate-subtrees/src/Solution.java
 [java-0653]: ./java-solutions/0653-two-sum-iv-input-is-a-bst/src/Solution.java
 [java-0654]: ./java-solutions/0654-maximum-binary-tree/src/
