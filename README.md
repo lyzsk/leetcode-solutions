@@ -443,6 +443,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1193 |                    |                |                |     |                | [.sql][sql-1193] | [back to top] |
 | 1204 |                    |                |                |     |                | [.sql][sql-1204] | [back to top] |
 | 1207 | [.java][java-1207] | [.py][py-1207] |                |     |                |                  | [back to top] |
+| 1208 | [.java][java-1208] |                |                |     |                |                  | [back to top] |
 | 1211 |                    |                |                |     |                | [.sql][sql-1211] | [back to top] |
 | 1219 | [.java][java-1219] |                |                |     |                |                  | [back to top] |
 | 1224 | [.java][java-1224] |                |                |     |                |                  | [back to top] |
@@ -1222,6 +1223,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [sql-1204]: ./sql-solutions/1204-last-person-to-fit-in-the-bus/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
 [py-1207]: ./python-solutions/1207-unique-number-of-occurrences/solution.py
+[java-1208]: ./java-solutions/1208-get-equal-substrings-within-budget/src/Solution.java
 [sql-1211]: ./sql-solutions/1211-queries-quality-and-percentage/solution.sql
 [java-1219]: ./java-solutions/1219-path-with-maximum-gold/src/Solution.java
 [java-1224]: ./java-solutions/1224-maximum-equal-frequency/src/Solution.java
