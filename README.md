@@ -475,6 +475,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1376 | [.java][java-1376] |                |                |     |                |                  | [back to top] |
 | 1378 |                    |                |                |     |                | [.sql][sql-1378] | [back to top] |
 | 1389 | [.java][java-1389] |                |                |     |                |                  | [back to top] |
+| 1404 | [.java][java-1404] |                |                |     |                |                  | [back to top] |
 | 1407 |                    |                |                |     |                | [.sql][sql-1407] | [back to top] |
 | 1414 | [.java][java-1414] |                |                |     |                |                  | [back to top] |
 | 1416 | [.java][java-1416] | [.py][py-1416] | [.js][js-1416] |     |                |                  | [back to top] |
@@ -1261,6 +1262,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
+[java-1404]: ./java-solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/src/Solution.java
 [sql-1407]: ./sql-solutions/1407-top-travellers/solution.sql
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1416]: ./java-solutions/1416-restore-the-array/src/Solution.java
