@@ -484,6 +484,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1436 | [.java][java-1436] |                |                |     |                |                  | [back to top] |
 | 1443 | [.java][java-1443] |                |                |     |                |                  | [back to top] |
 | 1441 | [.java][java-1441] | [.py][py-1441] | [.js][js-1441] |     |                |                  | [back to top] |
+| 1442 | [.java][java-1442] |                |                |     |                |                  | [back to top] |
 | 1448 | [.java][java-1448] |                |                |     |                |                  | [back to top] |
 | 1450 | [.java][java-1450] |                |                |     |                |                  | [back to top] |
 | 1455 | [.java][java-1455] |                |                |     |                |                  | [back to top] |
@@ -1283,6 +1284,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [sql-1327]: ./sql-solutions/1327-list-the-products-ordered-in-a-period/solution.sql
 [py-1441]: ./python-solutions/1441-build-an-array-with-stack-operations/solution.py
 [js-1441]: ./javascript-solutions/1441-build-an-array-with-stack-operations/solution.js
+[java-1442]: ./java-solutions/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/src/Solution.java
 [java-1448]: ./java-solutions/1448-count-good-nodes-in-binary-tree/src/Solution.java
 [java-1450]: ./java-solutions/1450-number-of-students-doing-homework-at-a-given-time/src
 [java-1455]: ./java-solutions/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/src/Solution.java
