@@ -691,6 +691,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 3005 | [.java][java-3005] |                |                |     |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |     |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |     |                |                  | [back to top] |
+| 3110 | [.java][java-3110] |                |                |     |                |                  | [back to top] |
 
 # TODO
 
@@ -1561,3 +1562,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
+[java-3110]: ./java-solutions/3110-score-of-a-string/src/Solution.java
