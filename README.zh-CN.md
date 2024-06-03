@@ -651,6 +651,7 @@
 | 2458 | [.java][java-2458] |                |                |     |                |                  | [back to top] |
 | 2465 | [.java][java-2465] |                |                |     |                |                  | [back to top] |
 | 2469 | [.java][java-2469] |                |                |     |                |                  | [back to top] |
+| 2486 | [.java][java-2486] |                |                |     |                |                  | [back to top] |
 | 2487 | [.java][java-2487] |                |                |     |                |                  | [back to top] |
 | 2525 | [.java][java-2525] |                |                |     |                |                  | [back to top] |
 | 2526 | [.java][java-2526] |                |                |     |                |                  | [back to top] |
@@ -1539,6 +1540,7 @@
 [py-2446]: ./python-solutions/2446-determine-if-two-events-have-conflict/solution.py
 [js-2446]: ./javascript-solutions/2446-determine-if-two-events-have-conflict/solution.js
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
+[java-2486]: ./java-solutions/2486-append-characters-to-string-to-make-subsequence/src/Solution.java
 [java-2487]: ./java-solutions/2487-remove-nodes-from-linked-list/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
 [java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
