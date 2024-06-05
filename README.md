@@ -401,6 +401,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0992 | [.java][java-0992] |                |                |     |                |                  | [back to top] |
 | 0997 | [.java][java-0997] |                |                |     |                |                  | [back to top] |
 | 0998 | [.java][java-0998] |                |                |     |                |                  | [back to top] |
+| 1002 | [.java][java-1002] |                |                |     |                |                  | [back to top] |
 | 1003 | [.java][java-1003] | [.py][py-1003] | [.js][js-1003] |     |                |                  | [back to top] |
 | 1015 | [.java][java-1015] |                |                |     |                |                  | [back to top] |
 | 1026 | [.java][java-1026] | [.py][py-1026] | [.js][js-1026] |     | [.go][go-1026] |                  | [back to top] |
@@ -1163,6 +1164,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0992]: ./java-solutions/0992-subarrays-with-k-different-integers/src/Solution.java
 [java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
+[java-1002]: ./java-solutions/1002-find-common-characters/src/Solution.java
 [java-1003]: ./java-solutions/1003-check-if-word-is-valid-after-substitutions/src/Solution.java
 [py-1003]: ./python-solutions/1003-check-if-word-is-valid-after-substitutions/solution.py
 [js-1003]: ./javascript-solutions/1003-check-if-word-is-valid-after-substitutions/solution.js
