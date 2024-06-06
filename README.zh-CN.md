@@ -361,6 +361,7 @@
 | 0833 | [.java][java-0833] |                |                |     |                |                  | [back to top] |
 | 0834 | [.java][java-0834] |                |                |     |                |                  | [back to top] |
 | 0842 | [.java][java-0842] |                |                |     |                |                  | [back to top] |
+| 0846 | [.java][java-0846] |                |                |     |                |                  | [back to top] |
 | 0849 | [.java][java-0849] | [.py][py-0849] |                |     |                |                  | [back to top] |
 | 0855 | [.java][java-0855] |                |                |     |                |                  | [back to top] |
 | 0856 | [.java][java-0856] |                | [.js][js-0856] |     |                |                  | [back to top] |
@@ -1142,6 +1143,7 @@
 [java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
 [java-0834]: ./java-solutions/0834-sum-of-distances-in-tree/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
+[java-0846]: ./java-solutions/0846-hand-of-straights/src/Solution.java
 [java-0849]: ./java-solutions/0849-maximize-distance-to-closest-person/src/Solution.java
 [py-0849]: ./python-solutions/0849-maximize-distance-to-closest-person/solution.py
 [java-0855]: ./java-solutions/0855-exam-room/src/ExamRoom.java
