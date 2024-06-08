@@ -275,6 +275,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0514 | [.java][java-0514] |                |                |     |                |                  | [back to top] |
 | 0518 | [.java][java-0518] |                |                |     |                |                  | [back to top] |
 | 0520 | [.java][java-0520] | [.py][py-0520] | [.js][js-0520] |     |                |                  | [back to top] |
+| 0523 | [.java][java-0523] |                |                |     |                |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |     |                |                  | [back to top] |
 | 0530 | [.java][java-0530] |                |                |     |                |                  | [back to top] |
 | 0542 | [.java][java-0542] |                |                |     |                |                  | [back to top] |
@@ -1055,6 +1056,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0520]: ./java-solutions/0520-detect-capital/src/Solution.java
 [py-0520]: ./python-solutions/0520-detect-capital/solution.py
 [js-0520]: ./python-solutions/0520-detect-capital/solution.py
+[java-0523]: ./java-solutions/0523-continuous-subarray-sum/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
 [java-0542]: ./java-solutions/0542-01-matrix/src/Solution.java
