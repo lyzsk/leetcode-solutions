@@ -394,6 +394,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0944 | [.java][java-0944] |                |                |     |                |                  | [back to top] |
 | 0948 | [.java][java-0948] |                |                |     |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |     |                |                  | [back to top] |
+| 0974 | [.java][java-0974] |                |                |     |                |                  | [bakc to top] |
 | 0976 | [.java][java-0976] |                |                |     |                |                  | [back to top] |
 | 0977 | [.java][java-0977] |                |                |     |                |                  | [back to top] |
 | 0979 | [.java][java-0979] |                |                |     |                |                  | [back to top] |
@@ -1160,6 +1161,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
+[java-0974]: ./java-solutions/0974-subarray-sums-divisible-by-k/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
 [java-0977]: ./java-solutions/0977-squares-of-a-sorted-array/src/Solution.java
 [java-0979]: ./java-solutions/0979-distribute-coins-in-binary-tree/src/Solution.java
