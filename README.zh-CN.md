@@ -392,6 +392,7 @@
 | 0938 | [.java][java-0938] |                |                |                |                |                  | [back to top] |
 | 0939 | [.java][java-0939] |                | [.js][js-0939] |                |                |                  | [back to top] |
 | 0944 | [.java][java-0944] |                |                |                |                |                  | [back to top] |
+| 0945 | [.java][java-0945] |                |                | [.ts][ts-0945] |                |                  | [back to top] |
 | 0948 | [.java][java-0948] |                |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                |                  | [back to top] |
 | 0974 | [.java][java-0974] |                |                |                |                |                  | [bakc to top] |
@@ -1183,6 +1184,8 @@
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
+[java-0945]: ./java-solutions/0945-minimum-increment-to-make-array-unique/src/Solution.java
+[ts-0945]: ./typescript-solutions/0945-minimum-increment-to-make-array-unique/solution.ts
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
