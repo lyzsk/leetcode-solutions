@@ -232,6 +232,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0324 | [.java][java-0324] |                |                |                |                |                  | [back to top] |
 | 0327 | [.java][java-0327] |                |                |                |                |                  | [back to top] |
 | 0328 | [.java][java-0328] |                |                |                |                |                  | [back to top] |
+| 0330 | [.java][java-0330] |                |                |                |                |                  | [back to top] |
 | 0334 | [.java][java-0334] |                |                |                |                |                  | [back to top] |
 | 0344 | [.java][java-0344] |                |                |                |                |                  | [back to top] |
 | 0345 | [.java][java-0345] |                |                |                |                |                  | [back to top] |
@@ -967,6 +968,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0324]: ./java-solutions/0324-wiggle-sort-ii/src/Solution.java
 [java-0327]: ./java-solutions/0327-count-of-range-sum/src/Solution.java
 [java-0328]: ./java-solutions/0328-odd-even-linked-list/src/Solution.java
+[java-0330]: ./java-solutions/0330-patching-array/src/Solution.java
 [java-0334]: ./java-solutions/0334-increasing-triplet-subsequence/src/Solution.java
 [java-0344]: ./java-solutions/0344-reverse-string/src/Solution.java
 [java-0345]: ./java-solutions/0345-reverse-vowels-of-a-string/src/Solution.java
