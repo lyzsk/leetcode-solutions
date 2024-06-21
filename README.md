@@ -425,6 +425,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1048 | [.java][java-1048] | [.py][py-1048] | [.js][js-1048] |                |                |                  | [back to top] |
 | 1050 |                    |                |                |                |                | [.sql][sql-1050] | [back to top] |
 | 1051 | [.java][java-1051] |                |                |                |                |                  | [back to top] |
+| 1052 | [.java][java-1052] |                |                |                |                |                  | [back to top] |
 | 1054 | [.java][java-1054] |                |                |                |                |                  | [back to top] |
 | 1068 |                    |                |                |                |                | [.sql][sql-1068] | [back to top] |
 | 1070 |                    |                |                |                |                | [.sql][sql-1070] | [back to top] |
@@ -1217,6 +1218,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-1048]: ./javascript-solutions/1048-longest-string-chain/solution.js
 [sql-1050]: ./sql-solutions/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql
 [java-1051]: ./java-solutions/1051-height-checker/src/Solution.java
+[java-1052]: ./java-solutions/1052-grumpy-bookstore-owner/src/Solution.java
 [java-1054]: ./java-solutions/1054-distant-barcodes/src/Solution.java
 [sql-1068]: ./sql-solutions/1068-product-sales-analysis-i/solution.sql
 [sql-1070]: ./sql-solutions/1070-product-sales-analysis-iii/solution.sql
