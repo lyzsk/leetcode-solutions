@@ -463,6 +463,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1234 | [.java][java-1234] |                |                |                |                |                  | [back to top] |
 | 1235 | [.java][java-1235] |                |                |                |                |                  | [back to top] |
 | 1239 | [.java][java-1239] |                |                |                |                |                  | [back to top] |
+| 1248 | [.java][java-1248] |                |                |                |                |                  | [back to top] |
 | 1249 | [.java][java-1249] |                |                |                |                |                  | [back to top] |
 | 1251 |                    |                |                |                |                | [.sql][sql-1251] | [back to top] |
 | 1255 | [.java][java-1255] |                |                |                |                |                  | [back to top] |
@@ -1262,6 +1263,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1234]: ./java-solutions/1234-replace-the-substring-for-balanced-string/src/Solution.java
 [java-1235]: ./java-solutions/1235-maximum-profit-in-job-scheduling/src/Solution.java
 [java-1239]: ./java-solutions/1239-maximum-length-of-a-concatenated-string-with-characters/src/Solution.java
+[java-1248]: ./java-solutions/1248-count-number-of-nice-subarrays/src/Solution.java
 [java-1249]: ./java-solutions/1249-minimum-remove-to-make-valid-parentheses/src/Solution.java
 [sql-1251]: ./sql-solutions/1251-average-selling-price/solution.sql
 [java-1255]: ./java-solutions/1255-maximum-score-words-formed-by-letters/src/Solution.java
