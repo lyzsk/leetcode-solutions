@@ -495,6 +495,7 @@
 | 1422 | [.java][java-1422] | [.py][py-1422] | [.js][js-1422] |                |                |                  | [back to top] |
 | 1431 | [.java][java-1431] | [.py][py-1431] | [.js][js-1431] |                | [.go][go-1431] |                  | [back to top] |
 | 1436 | [.java][java-1436] |                |                |                |                |                  | [back to top] |
+| 1438 | [.java][java-1438] |                |                |                |                |                  | [back to top] |
 | 1443 | [.java][java-1443] |                |                |                |                |                  | [back to top] |
 | 1441 | [.java][java-1441] | [.py][py-1441] | [.js][js-1441] |                |                |                  | [back to top] |
 | 1442 | [.java][java-1442] |                |                |                |                |                  | [back to top] |
@@ -1333,6 +1334,7 @@
 [java-1431]: ./java-solutions/1431-kids-with-the-greatest-number-of-candies/src/Solution.java
 [go-1431]: ./golang-solutions/1431-kids-with-the-greatest-number-of-candies/solution.go
 [java-1436]: ./java-solutions/1436-destination-city/src/Solution.java
+[java-1438]: ./java-solutions/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/src/Solution.java
 [py-1431]: ./python-solutions/1431-kids-with-the-greatest-number-of-candies/solution.py
 [js-1431]: ./javascript-solutions/1431-kids-with-the-greatest-number-of-candies/solution.js
 [java-1443]: ./java-solutions/1443-minimum-time-to-collect-all-apples-in-a-tree/src/Solution.java
