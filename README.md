@@ -408,6 +408,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0989 | [.java][java-0989] |                |                |                |                |                  | [back to top] |
 | 0931 | [.java][java-0931] |                |                |                |                |                  | [back to top] |
 | 0992 | [.java][java-0992] |                |                |                |                |                  | [back to top] |
+| 0995 | [.java][java-0995] |                |                |                |                |                  | [back to top] |
 | 0997 | [.java][java-0997] |                |                |                |                |                  | [back to top] |
 | 0998 | [.java][java-0998] |                |                |                |                |                  | [back to top] |
 | 1002 | [.java][java-1002] |                |                |                |                |                  | [back to top] |
@@ -1187,6 +1188,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0989]: ./java-solutions/0989-add-to-array-form-of-integer/src/Solution.java
 [java-0931]: ./java-solutions/0931-minimum-falling-path-sum/src/Solution.java
 [java-0992]: ./java-solutions/0992-subarrays-with-k-different-integers/src/Solution.java
+[java-0995]: ./java-solutions/0995-minimum-number-of-k-consecutive-bit-flips/src/Solution.java
 [java-0997]: ./java-solutions/0997-find-the-town-judge/src/Solution.java
 [java-0998]: ./java-solutions/0998-maximum-binary-tree-ii/src/Solution.java
 [java-1002]: ./java-solutions/1002-find-common-characters/src/Solution.java
