@@ -419,6 +419,7 @@
 | 1029 | [.java][java-1029] | [.py][py-1029] | [.js][js-1029] |                |                |                  | [back to top] |
 | 1033 | [.java][java-1033] |                |                |                |                |                  | [back to top] |
 | 1035 | [.java][java-1035] |                |                |                |                |                  | [back to top] |
+| 1038 | [.java][java-1038] |                |                |                |                |                  | [back to top] |
 | 1042 | [.java][java-1042] |                |                |                |                |                  | [back to top] |
 | 1043 | [.java][java-1043] | [.py][py-1043] | [.js][js-1043] |                |                |                  | [back to top] |
 | 1045 |                    |                |                |                |                | [.sql][sql-1045] | [back to top] |
@@ -1233,6 +1234,7 @@
 [js-1029]: ./javascript-solutions/1029-two-city-scheduling/solution.js
 [java-1033]: ./java-solutions/1033-moving-stones-until-consecutive/src/Solution.java
 [java-1035]: ./java-solutions/1035-uncrossed-lines/src/Solution.java
+[java-1038]: ./java-solutions/1038-binary-search-tree-to-greater-sum-tree/src/Solution.java
 [java-1042]: ./java-solutions/1042-flower-planting-with-no-adjacent/src/Solution.java
 [java-1043]: ./java-solutions/1043-partition-array-for-maximum-sum/src/Solution.java
 [py-1043]: ./python-solutions/1043-partition-array-for-maximum-sum/solution.py
