@@ -489,6 +489,7 @@
 | 1373 | [.java][java-1373] |                |                |                |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |                |                |                  | [back to top] |
 | 1378 |                    |                |                |                |                | [.sql][sql-1378] | [back to top] |
+| 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
 | 1404 | [.java][java-1404] |                |                |                |                |                  | [back to top] |
 | 1407 |                    |                |                |                |                | [.sql][sql-1407] | [back to top] |
@@ -1325,6 +1326,7 @@
 [java-1373]: ./java-solutions/1373-maximum-sum-bst-in-binary-tree/src/Solution.java
 [java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
+[java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1404]: ./java-solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/src/Solution.java
 [sql-1407]: ./sql-solutions/1407-top-travellers/solution.sql
