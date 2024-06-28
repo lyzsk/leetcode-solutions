@@ -642,6 +642,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2264 | [.java][java-2264] |                |                |                |                |                  | [back to top] |
 | 2265 | [.java][java-2265] |                |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
+| 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                |                  | [back to top] |
 | 2337 | [.java][java-2337] | [.py][py-2337] |                |                |                |                  | [back to top] |
@@ -1510,6 +1511,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2265]: ./java-solutions/2265-count-nodes-equal-to-average-of-subtree/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
+[java-2285]: ./java-solutions/2285-maximum-total-importance-of-roads/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java

@@ -642,6 +642,7 @@
 | 2264 | [.java][java-2264] |                |                |                |                |                  | [back to top] |
 | 2265 | [.java][java-2265] |                |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
+| 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                |                  | [back to top] |
 | 2337 | [.java][java-2337] | [.py][py-2337] |                |                |                |                  | [back to top] |
@@ -1538,6 +1539,7 @@
 [py-2337]: ./python-solutions/2337-move-pieces-to-obtain-a-string/solution.py
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
+[java-2285]: ./java-solutions/2285-maximum-total-importance-of-roads/src/Solution.java
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2348]: ./java-solutions/2348-number-of-zero-filled-subarrays/src/Solution.java
 [go-2348]: ./golang-solutions/2348-number-of-zero-filled-subarrays/solution.go
