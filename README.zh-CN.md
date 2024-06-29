@@ -633,6 +633,7 @@
 | 2149 | [.java][java-2149] |                |                |                |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |                |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |                |                |                  | [back to top] |
+| 2192 | [.java][java-2192] |                |                |                |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |                |                |                  | [back to top] |
 | 2225 | [.java][java-2225] |                |                |                |                |                  | [back to top] |
 | 2235 | [.java][java-2235] | [.py][py-2235] |                |                |                |                  | [back to top] |
@@ -1523,6 +1524,7 @@
 [java-2149]: ./java-solutions/2149-rearrange-array-elements-by-sign/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
+[java-2192]: ./java-solutions/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2235]: ./java-solutions/2235-add-two-integers/src/Solution.java
