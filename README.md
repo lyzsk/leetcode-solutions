@@ -526,6 +526,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1557 | [.java][java-1557] |                |                |                |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                |                  | [back to top] |
+| 1579 | [.java][java-1579] |                |                |                |                |                  | [back to top] |
 | 1581 |                    |                |                |                |                | [.sql][sql-1581] | [back to top] |
 | 1587 |                    |                |                |                |                | [.sql][sql-1587] | [back to top] |
 | 1608 | [.java][java-1608] |                |                |                |                |                  | [back to top] |
@@ -1360,6 +1361,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
+[java-1579]: ./java-solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/src/Solution.java
 [sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [sql-1587]: ./sql-solutions/1587-bank-account-summary-ii/solution.sql
 [java-1608]: ./java-solutions/1608-special-array-with-x-elements-greater-than-or-equal-x/src/Solution.java
