@@ -626,6 +626,7 @@
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |                |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
 | 2042 | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] |                |                |                  | [back to top] |
+| 2058 | [.java][java-2058] |                |                |                |                |                  | [back to top] |
 | 2073 | [.java][java-2073] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |                |                |                  | [back to top] |
@@ -1519,6 +1520,7 @@
 [java-2042]: ./java-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/src/Solution.java
 [py-2042]: ./python-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.py
 [js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
+[java-2058]: ./java-solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/src/Solution.java
 [java-2073]: ./java-solutions/2073-time-needed-to-buy-tickets/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
