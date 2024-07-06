@@ -692,6 +692,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2542 | [.java][java-2542] |                |                |                |                |                  | [back to top] |
 | 2545 | [.java][java-2545] |                |                |                |                |                  | [back to top] |
 | 2562 | [.java][java-2562] |                |                |                |                |                  | [back to top] |
+| 2582 | [.java][java-2582] |                |                |                |                |                  | [back to top] |
 | 2594 | [.java][java-2594] |                |                |                |                |                  | [back to top] |
 | 2596 | [.java][java-2596] | [.py][py-2596] |                |                |                |                  | [back to top] |
 | 2610 | [.java][java-2610] |                |                |                |                |                  | [back to top] |
@@ -1588,6 +1589,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2542]: ./java-solutions/2542-maximum-subsequence-score/src/Solution.java
 [java-2545]: ./java-solutions/2545-sort-the-students-by-their-kth-score/src/Solution.java
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
+[java-2582]: ./java-solutions/2582-pass-the-pillow/src/Solution.java
 [java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
 [java-2596]: ./java-solutions/2596-check-knight-tour-configuration/src/Solution.java
 [py-2596]: ./python-solutions/2596-check-knight-tour-configuration/solution.py
