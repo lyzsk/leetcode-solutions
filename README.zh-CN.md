@@ -520,6 +520,7 @@
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |                |                |                  | [back to top] |
 | 1517 |                    |                |                |                |                | [.sql][sql-1517] | [back to top] |
+| 1518 | [.java][java-1518] |                |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                |                  | [back to top] |
 | 1527 |                    |                |                |                |                | [.sql][sql-1527] | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |                |                |                  | [back to top] |
@@ -591,6 +592,7 @@
 | 1817 | [.java][java-1817] |                |                |                |                |                  | [back to top] |
 | 1818 | [.java][java-1818] |                |                |                |                |                  | [back to top] |
 | 1822 | [.java][java-1822] |                |                |                |                |                  | [back to top] |
+| 1823 | [.java][java-1823] |                |                |                |                |                  | [back to top] |
 | 1832 | [.java][java-1832] |                |                |                |                |                  | [back to top] |
 | 1833 | [.java][java-1833] |                |                |                |                |                  | [back to top] |
 | 1834 | [.java][java-1834] |                |                |                |                |                  | [back to top] |
@@ -1383,6 +1385,7 @@
 [java-1509]: ./java-solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/src/Solution.java
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
+[java-1518]: ./java-solutions/1518-water-bottles/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [sql-1527]: ./sql-solutions/1527-patients-with-a-condition/solution.sql
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
@@ -1469,6 +1472,7 @@
 [java-1817]: ./java-solutions/1817-finding-the-users-active-minutes/src/Solution.java
 [java-1818]: ./java-solutions/1818-minimum-absolute-sum-difference/src/Solution.java
 [java-1822]: ./java-solutions/1822-sign-of-the-product-of-an-array/src/Solution.java
+[java-1823]: ./java-solutions/1823-find-the-winner-of-the-circular-game/src/Solution.java
 [java-1832]: ./java-solutions/1832-check-if-the-sentence-is-pangram/src/Solution.java
 [java-1833]: ./java-solutions/1833-maximum-ice-cream-bars/src/Solution.java
 [java-1834]: ./java-solutions/1834-single-threaded-cpu/src/Solution.java
