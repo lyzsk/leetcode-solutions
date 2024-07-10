@@ -533,6 +533,7 @@
 | 1579 | [.java][java-1579] |                |                |                |                |                  | [back to top] |
 | 1581 |                    |                |                |                |                | [.sql][sql-1581] | [back to top] |
 | 1587 |                    |                |                |                |                | [.sql][sql-1587] | [back to top] |
+| 1598 | [.java][java-1598] |                |                |                |                |                  | [back to top] |
 | 1608 | [.java][java-1608] |                |                |                |                |                  | [back to top] |
 | 1609 | [.java][java-1609] |                |                |                |                |                  | [back to top] |
 | 1614 | [.java][java-1614] |                |                |                |                |                  | [back to top] |
@@ -551,6 +552,7 @@
 | 1693 |                    |                |                |                |                | [.sql][sql-1693] | [back to top] |
 | 1694 | [.java][java-1694] |                |                |                |                |                  | [back to top] |
 | 1700 | [.java][java-1700] |                |                |                |                |                  | [back to top] |
+| 1701 | [.java][java-1701] |                |                |                |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |                |                |                  | [back to top] |
 | 1710 | [.java][java-1710] |                |                |                |                |                  | [back to top] |
 | 1721 | [.java][java-1721] |                |                |                |                |                  | [back to top] |
@@ -1400,6 +1402,7 @@
 [java-1579]: ./java-solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/src/Solution.java
 [sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [sql-1587]: ./sql-solutions/1587-bank-account-summary-ii/solution.sql
+[java-1598]: ./java-solutions/1598-crawler-log-folder/src/Solution.java
 [java-1608]: ./java-solutions/1608-special-array-with-x-elements-greater-than-or-equal-x/src/Solution.java
 [java-1609]: ./java-solutions/1609-even-odd-tree/src/Solution.java
 [java-1614]: ./java-solutions/1614-maximum-nesting-depth-of-the-parentheses/src/Solution.java
@@ -1421,6 +1424,7 @@
 [sql-1693]: ./sql-solutions/1693-daily-leads-and-partners/solution.sql
 [java-1694]: ./java-solutions/1694-reformat-phone-number/src/Solution.java
 [java-1700]: ./java-solutions/1700-number-of-students-unable-to-eat-lunch/src/Solution.java
+[java-1701]: ./java-solutions/1701-average-waiting-time/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
