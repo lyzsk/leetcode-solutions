@@ -455,6 +455,7 @@
 | 1171 | [.java][java-1171] |                |                |                |                |                  | [back to top] |
 | 1174 |                    |                |                |                |                | [.sql][sql-1174] | [back to top] |
 | 1179 |                    |                |                |                |                | [.sql][sql-1179] | [back to top] |
+| 1190 | [.java][java-1190] |                |                |                |                |                  | [back to top] |
 | 1193 |                    |                |                |                |                | [.sql][sql-1193] | [back to top] |
 | 1204 |                    |                |                |                |                | [.sql][sql-1204] | [back to top] |
 | 1207 | [.java][java-1207] | [.py][py-1207] |                |                |                |                  | [back to top] |
@@ -555,6 +556,7 @@
 | 1701 | [.java][java-1701] |                |                |                |                |                  | [back to top] |
 | 1704 | [.java][java-1704] |                |                |                |                |                  | [back to top] |
 | 1710 | [.java][java-1710] |                |                |                |                |                  | [back to top] |
+| 1717 | [.java][java-1717] |                |                |                |                |                  | [back to top] |
 | 1721 | [.java][java-1721] |                |                |                |                |                  | [back to top] |
 | 1727 | [.java][java-1727] |                |                |                |                |                  | [back to top] |
 | 1729 |                    |                |                |                |                | [.sql][sql-1729] | [back to top] |
@@ -1296,6 +1298,7 @@
 [java-1171]: ./java-solutions/1171-remove-zero-sum-consecutive-nodes-from-linked-list/src/Solution.java
 [sql-1174]: ./sql-solutions/1174-immediate-food-delivery-ii/solution.sql
 [sql-1179]: ./sql-solutions/1179-reformat-department-table/solution.sql
+[java-1190]: ./java-solutions/1190-reverse-substrings-between-each-pair-of-parentheses/src/Solution.java
 [sql-1193]: ./sql-solutions/1193-monthly-transactions-i/solution.sql
 [sql-1204]: ./sql-solutions/1204-last-person-to-fit-in-the-bus/solution.sql
 [java-1207]: ./java-solutions/1207-unique-number-of-occurrences/src/Solution.java
@@ -1427,6 +1430,7 @@
 [java-1701]: ./java-solutions/1701-average-waiting-time/src/Solution.java
 [java-1704]: ./java-solutions/1704-determine-if-string-halves-are-alike/src/Solution.java
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
+[java-1717]: ./java-solutions/1717-maximum-score-from-removing-substrings/src/Solution.java
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
 [java-1727]: ./java-solutions/1727-largest-submatrix-with-rearrangements/src/Solution.java
 [sql-1729]: ./sql-solutions/1729-find-followers-count/solution.sql
