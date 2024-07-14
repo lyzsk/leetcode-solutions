@@ -338,6 +338,7 @@
 | 0714 | [.java][java-0714] |                |                |                |                |                  | [back to top] |
 | 0718 | [.java][java-0718] |                |                |                |                |                  | [back to top] |
 | 0722 | [.java][java-0722] |                |                |                |                |                  | [back to top] |
+| 0726 | [.java][java-0726] |                |                |                |                |                  | [back to top] |
 | 0729 | [.java][java-0729] |                |                |                |                |                  | [back to top] |
 | 0731 | [.java][java-0731] |                |                |                |                |                  | [back to top] |
 | 0732 | [.java][java-0732] |                |                |                |                |                  | [back to top] |
@@ -710,6 +711,7 @@
 | 2681 | [.java][java-2681] |                |                |                |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |                |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |                |                |                  | [back to top] |
+| 2751 | [.java][java-2751] |                |                |                |                |                  | [back to top] |
 | 2812 | [.java][java-2812] |                |                |                |                |                  | [back to top] |
 | 2816 | [.java][java-2816] |                |                |                |                |                  | [back to top] |
 | 2848 | [.java][java-2848] | [.py][py-2848] |                |                |                |                  | [back to top] |
@@ -1147,6 +1149,7 @@
 [java-0714]: ./java-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0722]: ./java-solutions/0722-remove-comments/src/Solution.java
+[java-0726]: ./java-solutions/0726-number-of-atoms/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
 [java-0732]: ./java-solutions/0732-my-calendar-iii/src/MyCalendarThree.java
@@ -1638,6 +1641,7 @@
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
+[java-2751]: ./java-solutions/2751-robot-collisions/src/Solution.java
 [java-2812]: ./java-solutions/2812-find-the-safest-path-in-a-grid/src/Solution.java
 [java-2816]: ./java-solutions/2816-double-a-number-represented-as-a-linked-list/src/Solution.java
 [java-2848]: ./java-solutions/2848-points-that-intersect-with-cars/src/Solution.java
