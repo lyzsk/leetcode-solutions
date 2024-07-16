@@ -637,6 +637,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2073 | [.java][java-2073] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |                |                |                  | [back to top] |
+| 2096 | [.java][java-2096] |                |                |                |                |                  | [back to top] |
 | 2108 | [.java][java-2108] | [.py][py-2108] |                |                |                |                  | [back to top] |
 | 2125 | [.java][java-2125] |                |                |                |                |                  | [back to top] |
 | 2130 | [.java][java-2130] | [.py][py-2130] | [.js][js-2130] |                |                |                  | [back to top] |
@@ -647,6 +648,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2181 | [.java][java-2181] |                |                |                |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |                |                |                  | [back to top] |
 | 2192 | [.java][java-2192] |                |                |                |                |                  | [back to top] |
+| 2196 | [.java][java-2196] |                |                |                |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |                |                |                  | [back to top] |
 | 2225 | [.java][java-2225] |                |                |                |                |                  | [back to top] |
 | 2235 | [.java][java-2235] | [.py][py-2235] |                |                |                |                  | [back to top] |
@@ -1516,6 +1518,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2073]: ./java-solutions/2073-time-needed-to-buy-tickets/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
+[java-2096]: ./java-solutions/2096-step-by-step-directions-from-a-binary-tree-node-to-another/src/Solution.java
 [java-2108]: ./java-solutions/2108-find-first-palindromic-string-in-the-array/src/Solution.java
 [py-2108]: ./python-solutions/2108-find-first-palindromic-string-in-the-array/solution.py
 [java-2125]: ./java-solutions/2125-number-of-laser-beams-in-a-bank/src/Solution.java
@@ -1529,6 +1532,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2181]: ./java-solutions/2181-merge-nodes-in-between-zeros/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
 [java-2192]: ./java-solutions/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/src/Solution.java
+[java-2196]: ./java-solutions/2196-create-binary-tree-from-descriptions/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
 [java-2225]: ./java-solutions/2225-find-players-with-zero-or-one-losses/src/Solution.java
 [java-2235]: ./java-solutions/2235-add-two-integers/src/Solution.java
