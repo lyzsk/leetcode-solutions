@@ -439,6 +439,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1079 | [.java][java-1079] |                |                |                |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |                |                |                  | [back to top] |
 | 1084 |                    |                |                |                |                | [.sql][sql-1084] | [back to top] |
+| 1110 | [.java][java-1110] |                |                |                |                |                  | [back to top] |
 | 1105 | [.java][java-1105] | [.py][py-1105] | [.js][js-1105] |                |                |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |                |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |                |                |                  | [back to top] |
@@ -525,6 +526,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1518 | [.java][java-1518] |                |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                |                  | [back to top] |
 | 1527 |                    |                |                |                |                | [.sql][sql-1527] | [back to top] |
+| 1530 | [.java][java-1530] |                |                |                |                |                  | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |                |                |                  | [back to top] |
 | 1544 | [.java][java-1544] |                |                |                |                |                  | [back to top] |
 | 1550 | [.java][java-1550] |                |                |                |                |                  | [back to top] |
@@ -1258,6 +1260,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
 [py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
 [sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
+[java-1110]: ./java-solutions/1110-delete-nodes-and-return-forest/src/Solution.java
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
@@ -1374,6 +1377,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1518]: ./java-solutions/1518-water-bottles/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [sql-1527]: ./sql-solutions/1527-patients-with-a-condition/solution.sql
+[java-1530]: ./java-solutions/1530-number-of-good-leaf-nodes-pairs/src/Solution.java
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
 [js-1535]: ./javascript-solutions/1535-find-the-winner-of-an-array-game/solution.js
