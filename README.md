@@ -487,6 +487,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1330 | [.java][java-1330] |                |                |                |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |                |                |                  | [back to top] |
 | 1347 | [.java][java-1347] | [.py][py-1347] | [.js][js-1347] |                |                |                  | [back to top] |
+| 1380 | [.java][java-1380] |                |                |                |                |                  | [back to top] |
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1341 |                    |                |                |                |                | [.sql][sql-1341] | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |                | [.go][go-1372] |                  | [back to top] |
@@ -538,6 +539,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1581 |                    |                |                |                |                | [.sql][sql-1581] | [back to top] |
 | 1587 |                    |                |                |                |                | [.sql][sql-1587] | [back to top] |
 | 1598 | [.java][java-1598] |                |                |                |                |                  | [back to top] |
+| 1605 | [.java][java-1605] |                |                |                |                |                  | [back to top] |
 | 1608 | [.java][java-1608] |                |                |                |                |                  | [back to top] |
 | 1609 | [.java][java-1609] |                |                |                |                |                  | [back to top] |
 | 1614 | [.java][java-1614] |                |                |                |                |                  | [back to top] |
@@ -1316,6 +1318,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1347]: ./java-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/src/Solution.java
 [py-1347]: ./python-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.py
 [js-1347]: ./javascript-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.js
+[java-1380]: ./java-solutions/1380-lucky-numbers-in-a-matrix/src/Solution.java
 [sql-1393]: ./sql-solutions/1393-capital-gainloss/solution.sql
 [sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
@@ -1391,6 +1394,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [sql-1587]: ./sql-solutions/1587-bank-account-summary-ii/solution.sql
 [java-1598]: ./java-solutions/1598-crawler-log-folder/src/Solution.java
+[java-1605]: ./java-solutions/1605-find-valid-matrix-given-row-and-column-sums/src/Solution.java
 [java-1608]: ./java-solutions/1608-special-array-with-x-elements-greater-than-or-equal-x/src/Solution.java
 [java-1609]: ./java-solutions/1609-even-odd-tree/src/Solution.java
 [java-1614]: ./java-solutions/1614-maximum-nesting-depth-of-the-parentheses/src/Solution.java
