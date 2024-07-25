@@ -651,6 +651,7 @@
 | 2180 | [.java][java-2180] |                |                |                |                |                  | [back to top] |
 | 2181 | [.java][java-2181] |                |                |                |                |                  | [back to top] |
 | 2185 | [.java][java-2185] |                |                |                |                |                  | [back to top] |
+| 2191 | [.java][java-2191] |                |                |                |                |                  | [back to top] |
 | 2192 | [.java][java-2192] |                |                |                |                |                  | [back to top] |
 | 2196 | [.java][java-2196] |                |                |                |                |                  | [back to top] |
 | 2216 | [.java][java-2216] |                |                |                |                |                  | [back to top] |
@@ -679,6 +680,7 @@
 | 2385 | [.java][java-2385] |                |                |                |                |                  | [back to top] |
 | 2389 | [.java][java-2389] |                |                |                |                |                  | [back to top] |
 | 2391 | [.java][java-2391] |                |                |                |                |                  | [back to top] |
+| 2392 | [.java][java-2392] |                |                |                |                |                  | [back to top] |
 | 2402 | [.java][java-2402] |                |                |                |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |                |                |                  | [back to top] |
 | 2413 | [.java][java-2413] | [.py][py-2413] | [.js][js-2413] |                | [.go][go-2413] |                  | [back to top] |
@@ -1563,6 +1565,7 @@
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2181]: ./java-solutions/2181-merge-nodes-in-between-zeros/src/Solution.java
 [java-2185]: ./java-solutions/2185-counting-words-with-a-given-prefix/src/Solution.java
+[java-2191]: ./java-solutions/2191-sort-the-jumbled-numbers/src/Solution.java
 [java-2192]: ./java-solutions/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/src/Solution.java
 [java-2196]: ./java-solutions/2196-create-binary-tree-from-descriptions/src/Solution.java
 [java-2216]: ./java-solutions/2216-minimum-deletions-to-make-array-beautiful/src/Solution.java
@@ -1600,6 +1603,7 @@
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
 [java-2389]: ./java-solutions/2389-longest-subsequence-with-limited-sum/src/Solution.java
 [java-2391]: ./java-solutions/2391-minimum-amount-of-time-to-collect-garbage/src/Solution.java
+[java-2392]: ./java-solutions/2392-build-a-matrix-with-conditions/src/Solution.java
 [java-2402]: ./java-solutions/2402-meeting-rooms-iii/src/Solution.java
 [java-2409]: ./java-solutions/2409-count-days-spent-together/src/Solution.java
 [py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
