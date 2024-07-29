@@ -485,6 +485,7 @@
 | 1327 |                    |                |                |                |                | [.sql][sql-1327] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |                |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |                |                |                  | [back to top] |
+| 1334 | [.java][java-1334] |                |                |                |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |                |                |                  | [back to top] |
 | 1347 | [.java][java-1347] | [.py][py-1347] | [.js][js-1347] |                |                |                  | [back to top] |
 | 1380 | [.java][java-1380] |                |                |                |                |                  | [back to top] |
@@ -496,6 +497,7 @@
 | 1378 |                    |                |                |                |                | [.sql][sql-1378] | [back to top] |
 | 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
+| 1395 | [.java][java-1395] |                |                |                |                |                  | [back to top] |
 | 1404 | [.java][java-1404] |                |                |                |                |                  | [back to top] |
 | 1407 |                    |                |                |                |                | [.sql][sql-1407] | [back to top] |
 | 1414 | [.java][java-1414] |                |                |                |                |                  | [back to top] |
@@ -637,6 +639,7 @@
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |                |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
 | 2042 | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] |                |                |                  | [back to top] |
+| 2045 | [.java][java-2045] |                |                |                |                |                  | [back to top] |
 | 2058 | [.java][java-2058] |                |                |                |                |                  | [back to top] |
 | 2073 | [.java][java-2073] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
@@ -733,6 +736,7 @@
 | 2962 | [.java][java-2962] |                |                |                |                |                  | [back to top] |
 | 2966 | [.java][java-2966] |                |                |                |                |                  | [back to top] |
 | 2971 | [.java][java-2971] |                |                |                |                |                  | [back to top] |
+| 2976 | [.java][java-2976] |                |                |                |                |                  | [back to top] |
 | 2997 | [.java][java-2997] |                |                |                |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |                |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
@@ -1343,6 +1347,7 @@
 [sql-1327]: ./sql-solutions/1327-list-the-products-ordered-in-a-period/solution.sql
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
+[java-1334]: ./java-solutions/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
 [java-1347]: ./java-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/src/Solution.java
 [py-1347]: ./python-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.py
@@ -1359,6 +1364,7 @@
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
 [java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
+[java-1395]: ./java-solutions/1395-count-number-of-teams/src/Solution.java
 [java-1404]: ./java-solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/src/Solution.java
 [sql-1407]: ./sql-solutions/1407-top-travellers/solution.sql
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
@@ -1548,6 +1554,7 @@
 [java-2042]: ./java-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/src/Solution.java
 [py-2042]: ./python-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.py
 [js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
+[java-2045]: ./java-solutions/2045-second-minimum-time-to-reach-destination/src/Solution.java
 [java-2058]: ./java-solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/src/Solution.java
 [java-2073]: ./java-solutions/2073-time-needed-to-buy-tickets/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
@@ -1676,6 +1683,7 @@
 [java-2962]: ./java-solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times/src/Solution.java
 [java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
 [java-2971]: ./java-solutions/2971-find-polygon-with-the-largest-perimeter/src/Solution.java
+[java-2976]: ./java-solutions/2976-minimum-cost-to-convert-string-i/src/Solution.java
 [java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
