@@ -549,6 +549,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1624 | [.java][java-1624] | [.py][py-1624] | [.js][js-1624] |                |                |                  | [back to top] |
 | 1633 |                    |                |                |                |                | [.sql][sql-1633] | [back to top] |
 | 1642 | [.java][java-1642] |                |                |                |                |                  | [back to top] |
+| 1653 | [.java][java-1653] |                |                |                |                |                  | [back to top] |
 | 1656 | [.java][java-1656] | [.py][py-1656] |                |                |                |                  | [back to top] |
 | 1657 | [.java][java-1657] |                |                |                |                |                  | [back to top] |
 | 1658 | [.java][java-1658] |                |                |                |                |                  | [back to top] |
@@ -649,6 +650,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2125 | [.java][java-2125] |                |                |                |                |                  | [back to top] |
 | 2130 | [.java][java-2130] | [.py][py-2130] | [.js][js-2130] |                |                |                  | [back to top] |
 | 2131 | [.java][java-2131] |                |                |                |                |                  | [back to top] |
+| 2134 | [.java][java-2134] |                |                |                |                |                  | [back to top] |
 | 2136 | [.java][java-2136] |                |                |                |                |                  | [back to top] |
 | 2149 | [.java][java-2149] |                |                |                |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |                |                |                  | [back to top] |
@@ -719,6 +721,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2657 | [.java][java-2657] |                |                |                |                |                  | [back to top] |
 | 2658 | [.java][java-2658] |                |                |                |                |                  | [back to top] |
 | 2659 | [.java][java-2659] |                |                |                |                |                  | [back to top] |
+| 2678 | [.java][java-2678] |                |                |                |                |                  | [back to top] |
 | 2681 | [.java][java-2681] |                |                |                |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |                |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |                |                |                  | [back to top] |
@@ -1412,6 +1415,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-1624]: ./javascript-solutions/1624-largest-substring-between-two-equal-characters/solution.js
 [sql-1633]: ./sql-solutions/1633-percentage-of-users-attended-a-contest/solution.sql
 [java-1642]: ./java-solutions/1642-furthest-building-you-can-reach/src/Solution.java
+[java-1653]: ./java-solutions/1653-minimum-deletions-to-make-string-balanced/src/Solution.java
 [java-1656]: ./java-solutions/1656-design-an-Ordered-stream/src/OrderedStream.java
 [py-1656]: ./python-solutions/1656-design-an-ordered-stream/solution.py
 [java-1657]: ./java-solutions/1657-determine-if-two-strings-are-close/src/Solution.java
@@ -1543,6 +1547,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-2130]: ./python-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.py
 [js-2130]: ./javascript-solutions/2130-maximum-twin-sum-of-a-linked-list/solution.js
 [java-2131]: ./java-solutions/2131-longest-palindrome-by-concatenating-two-letter-words/src/Solution.java
+[java-2134]: ./java-solutions/2134-minimum-swaps-to-group-all-1s-together-ii/src/Solution.java
 [java-2136]: ./java-solutions/2136-earliest-possible-day-of-full-bloom/src/Solution.java
 [java-2149]: ./java-solutions/2149-rearrange-array-elements-by-sign/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
@@ -1637,6 +1642,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2657]: ./java-solutions/2657-find-the-prefix-common-array-of-two-arrays/src/Solution.java
 [java-2658]: ./java-solutions/2658-maximum-number-of-fish-in-a-grid/src/Solution.java
 [java-2659]: ./java-solutions/2659-make-array-empty/src/Solution.java
+[java-2678]: ./java-solutions/2678-number-of-senior-citizens/src/Solution.java
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
