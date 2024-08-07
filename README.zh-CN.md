@@ -216,6 +216,7 @@
 | 0260 | [.java][java-0260] |                |                |                |                |                  | [back to top] |
 | 0263 | [.java][java-0263] |                |                |                |                |                  | [back to top] |
 | 0268 | [.java][java-0268] |                | [.js][js-0268] |                |                |                  | [back to top] |
+| 0273 | [.java][java-0273] |                |                |                |                |                  | [back to top] |
 | 0279 | [.java][java-0279] |                |                |                |                |                  | [back to top] |
 | 0283 | [.java][java-0283] |                | [.js][js-0283] |                |                |                  | [back to top] |
 | 0287 | [.java][java-0287] |                |                |                |                |                  | [back to top] |
@@ -523,6 +524,7 @@
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |                |                |                  | [back to top] |
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |                |                |                  | [back to top] |
 | 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |                |                |                  | [back to top] |
+| 1508 | [.java][java-1508] |                |                |                |                |                  | [back to top] |
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |                |                |                  | [back to top] |
 | 1517 |                    |                |                |                |                | [.sql][sql-1517] | [back to top] |
@@ -641,6 +643,7 @@
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
 | 2042 | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] |                |                |                  | [back to top] |
 | 2045 | [.java][java-2045] |                |                |                |                |                  | [back to top] |
+| 2053 | [.java][java-2053] |                |                |                |                |                  | [back to top] |
 | 2058 | [.java][java-2058] |                |                |                |                |                  | [back to top] |
 | 2073 | [.java][java-2073] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
@@ -742,6 +745,7 @@
 | 2976 | [.java][java-2976] |                |                |                |                |                  | [back to top] |
 | 2997 | [.java][java-2997] |                |                |                |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |                |                |                  | [back to top] |
+| 3016 | [.java][java-3016] |                |                |                |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3110 | [.java][java-3110] |                |                |                |                |                  | [back to top] |
@@ -1012,6 +1016,7 @@
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [js-0268]: ./javascript-solutions/0268-missing-number/solution.js
+[java-0273]: ./java-solutions/0273-integer-to-english-words/src/Solution.java
 [java-0279]: ./java-solutions/0279-perfect-squares/src/Solution.java
 [java-0283]: ./java-solutions/0283-move-zeroes/src/Solution.java
 [java-0287]: ./java-solutions/0287-find-the-duplicate-number/src/Solution.java
@@ -1409,6 +1414,7 @@
 [java-1503]: ./java-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/src/Solution.java
 [py-1503]: ./python-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.py
 [js-1503]: ./javascript-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.js
+[java-1508]: ./java-solutions/1508-range-sum-of-sorted-subarray-sums/src/Solution.java
 [java-1509]: ./java-solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/src/Solution.java
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
@@ -1559,6 +1565,7 @@
 [py-2042]: ./python-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.py
 [js-2042]: ./javascript-solutions/2042-check-if-numbers-are-ascending-in-a-sentence/solution.js
 [java-2045]: ./java-solutions/2045-second-minimum-time-to-reach-destination/src/Solution.java
+[java-2053]: ./java-solutions/2053-kth-distinct-string-in-an-array/src/Solution.java
 [java-2058]: ./java-solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/src/Solution.java
 [java-2073]: ./java-solutions/2073-time-needed-to-buy-tickets/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
@@ -1692,6 +1699,7 @@
 [java-2976]: ./java-solutions/2976-minimum-cost-to-convert-string-i/src/Solution.java
 [java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
+[java-3016]: ./java-solutions/3016-minimum-number-of-pushes-to-type-word-ii/src/Solution.java
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3110]: ./java-solutions/3110-score-of-a-string/src/Solution.java
