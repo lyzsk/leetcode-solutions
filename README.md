@@ -369,6 +369,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0826 | [.java][java-0826] |                |                |                |                |                  | [back to top] |
 | 0833 | [.java][java-0833] |                |                |                |                |                  | [back to top] |
 | 0834 | [.java][java-0834] |                |                |                |                |                  | [back to top] |
+| 0840 | [.java][java-0840] |                |                |                |                |                  | [back to top] |
 | 0842 | [.java][java-0842] |                |                |                |                |                  | [back to top] |
 | 0846 | [.java][java-0846] |                |                |                |                |                  | [back to top] |
 | 0849 | [.java][java-0849] | [.py][py-0849] |                |                |                |                  | [back to top] |
@@ -385,6 +386,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0873 | [.java][java-0873] |                |                |                |                |                  | [back to top] |
 | 0876 | [.java][java-0876] |                | [.js][js-0876] |                |                |                  | [back to top] |
 | 0881 | [.java][java-0881] |                |                |                |                |                  | [back to top] |
+| 0885 | [.java][java-0885] |                |                |                |                |                  | [back to top] |
 | 0904 | [.java][java-0904] |                |                |                |                |                  | [back to top] |
 | 0905 | [.java][java-0905] |                |                |                |                |                  | [back to top] |
 | 0907 | [.java][java-0907] |                |                |                |                |                  | [back to top] |
@@ -401,6 +403,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0944 | [.java][java-0944] |                |                |                |                |                  | [back to top] |
 | 0945 | [.java][java-0945] |                |                | [.ts][ts-0945] |                |                  | [back to top] |
 | 0948 | [.java][java-0948] |                |                |                |                |                  | [back to top] |
+| 0959 | [.java][java-0959] |                |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                |                  | [back to top] |
 | 0974 | [.java][java-0974] |                |                |                |                |                  | [bakc to top] |
 | 0976 | [.java][java-0976] |                |                |                |                |                  | [back to top] |
@@ -537,6 +540,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1550 | [.java][java-1550] |                |                |                |                |                  | [back to top] |
 | 1552 | [.java][java-1552] |                |                |                |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |                |                |                  | [back to top] |
+| 1568 | [.java][java-1568] |                |                |                |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                |                  | [back to top] |
 | 1579 | [.java][java-1579] |                |                |                |                |                  | [back to top] |
@@ -1181,6 +1185,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0826]: ./java-solutions/0826-most-profit-assigning-work/src/Solution.java
 [java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
 [java-0834]: ./java-solutions/0834-sum-of-distances-in-tree/src/Solution.java
+[java-0840]: ./java-solutions/0840-magic-squares-in-grid/src/Solution.java
 [java-0842]: ./java-solutions/0842-split-array-into-fibonacci-sequence/src/Solution.java
 [java-0846]: ./java-solutions/0846-hand-of-straights/src/Solution.java
 [java-0849]: ./java-solutions/0849-maximize-distance-to-closest-person/src/Solution.java
@@ -1202,6 +1207,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0881]: ./java-solutions/0881-boats-to-save-people/src/Solution.java
+[java-0885]: ./java-solutions/0885-spiral-matrix-iii/src/Solution.java
 [java-0904]: ./java-solutions/0904-fruit-into-baskets/src/Solution.java
 [java-0905]: ./java-solutions/0905-sort-array-by-parity/src/Solution.java
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
@@ -1220,6 +1226,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [ts-0945]: ./typescript-solutions/0945-minimum-increment-to-make-array-unique/solution.ts
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
+[java-0959]: ./java-solutions/0959-regions-cut-by-slashes/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0974]: ./java-solutions/0974-subarray-sums-divisible-by-k/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
@@ -1405,6 +1412,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1550]: ./java-solutions/1550-three-consecutive-odds/src/Solution.java
 [java-1552]: ./java-solutions/1552-magnetic-force-between-two-balls/src/Solution.java
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
+[java-1568]: ./java-solutions/1568-minimum-number-of-days-to-disconnect-island/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
 [java-1579]: ./java-solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/src/Solution.java
