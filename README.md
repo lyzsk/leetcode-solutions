@@ -311,6 +311,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0620 |                    |                |                |                |                | [.sql][sql-0620] | [back to top] |
 | 0621 | [.java][java-0621] |                |                |                |                |                  | [back to top] |
 | 0623 | [.java][java-0623] |                |                |                |                |                  | [back to top] |
+| 0624 | [.java][java-0624] |                |                |                |                |                  | [back to top] |
 | 0626 |                    |                |                |                |                | [.sql][sql-0626] | [back to top] |
 | 0627 |                    |                |                |                |                | [.sql][sql-0627] | [back to top] |
 | 0629 | [.java][java-0629] |                |                |                |                |                  | [back to top] |
@@ -338,6 +339,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0713 | [.java][java-0713] |                |                |                |                |                  | [back to top] |
 | 0714 | [.java][java-0714] |                |                |                |                |                  | [back to top] |
 | 0718 | [.java][java-0718] |                |                |                |                |                  | [back to top] |
+| 0719 | [.java][java-0719] |                |                |                |                |                  | [back to top] |
 | 0722 | [.java][java-0722] |                |                |                |                |                  | [back to top] |
 | 0726 | [.java][java-0726] |                |                |                |                |                  | [back to top] |
 | 0729 | [.java][java-0729] |                |                |                |                |                  | [back to top] |
@@ -377,6 +379,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0856 | [.java][java-0856] |                | [.js][js-0856] |                |                |                  | [back to top] |
 | 0857 | [.java][java-0857] |                |                |                |                |                  | [back to top] |
 | 0859 | [.java][java-0859] |                |                |                |                |                  | [back to top] |
+| 0860 | [.java][java-0860] |                |                |                |                |                  | [back to top] |
 | 0861 | [.java][java-0861] |                |                |                |                |                  | [back to top] |
 | 0867 | [.java][java-0867] | [.py][py-0867] | [.js][js-0867] |                |                |                  | [back to top] |
 | 0869 | [.java][java-0869] |                |                |                |                |                  | [back to top] |
@@ -1073,6 +1076,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [sql-0620]: ./sql-solutions/0620-not-boring-movies/solution.sql
 [java-0621]: ./java-solutions/0621-task-scheduler/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
+[java-0624]: ./java-solutions/0624-maximum-distance-in-arrays/src/Solution.java
 [sql-0626]: ./sql-solutions/0626-exchange-seats/solution.sql
 [sql-0627]: ./sql-solutions/0627-swap-salary/solution.sql
 [java-0629]: ./java-solutions/0629-k-inverse-pairs-array/src/Solution.java
@@ -1148,6 +1152,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0713]: ./java-solutions/0713-subarray-product-less-than-k/src/Solution.java
 [java-0714]: ./java-solutions/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/src/Solution.java
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
+[java-0719]: ./java-solutions/0719-find-k-th-smallest-pair-distance/src/Solution.java
 [java-0722]: ./java-solutions/0722-remove-comments/src/Solution.java
 [java-0726]: ./java-solutions/0726-number-of-atoms/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
@@ -1195,6 +1200,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-0856]: ./javascript-solutions/0856-score-of-parentheses/solution.js
 [java-0857]: ./java-solutions/0857-minimum-cost-to-hire-k-workers/src/Solution.java
 [java-0859]: ./java-solutions/0859-buddy-strings/src/Solution.java
+[java-0860]: ./java-solutions/0860-lemonade-change/src/Solution.java
 [java-0861]: ./java-solutions/0861-score-after-flipping-matrix/src/Solution.java
 [java-0867]: ./java-solutions/0867-transpose-matrix/src/Solution.java
 [py-0867]: ./python-solutions/0867-transpose-matrix/solution.py
