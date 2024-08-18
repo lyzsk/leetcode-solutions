@@ -215,6 +215,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0258 | [.java][java-0258] | [.py][py-0258] | [.js][js-0258] |                |                |                  | [back to top] |
 | 0260 | [.java][java-0260] |                |                |                |                |                  | [back to top] |
 | 0263 | [.java][java-0263] |                |                |                |                |                  | [back to top] |
+| 0264 | [.java][java-0264] |                |                |                |                |                  | [back to top] |
 | 0268 | [.java][java-0268] |                | [.js][js-0268] |                |                |                  | [back to top] |
 | 0273 | [.java][java-0273] |                |                |                |                |                  | [back to top] |
 | 0279 | [.java][java-0279] |                |                |                |                |                  | [back to top] |
@@ -997,6 +998,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [js-0258]: ./javascript-solutions/0258-add-digits/solution.js
 [java-0260]: ./java-solutions/0260-single-number-iii/src/Solution.java
 [java-0263]: ./java-solutions/0263-ugly-number/src/Solution.java
+[java-0264]: ./java-solutions/0264-ugly-number-ii/src/Solution.java
 [java-0268]: ./java-solutions/0268-missing-number/src/Solution.java
 [js-0268]: ./javascript-solutions/0268-missing-number/solution.js
 [java-0273]: ./java-solutions/0273-integer-to-english-words/src/Solution.java

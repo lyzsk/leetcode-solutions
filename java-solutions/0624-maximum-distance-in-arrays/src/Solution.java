@@ -6,17 +6,15 @@ import java.util.List;
  **/
 public class Solution {
     public int maxDistance(List<List<Integer>> arrays) {
-        List<Integer> array1;
-        List<Integer> array2;
         int res = 0;
-        int n = arrays.size();
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                array1 = arrays.get(i);
-                array2 = arrays.get(j);
-                res = Math.max(res, Math.abs(array1.get(0) - array2.get(array2.size() - 1)));
-                res = Math.max(res, Math.abs(array2.get(0) - array1.get(array1.size() - 1)));
-            }
+        int n = arrays.get(0).size();
+        int minVal = arrays.get(0).get(0);
+        int maxVal = arrays.get(0).get(arrays.get(0).size() - 1);
+        for (int i = 1; i < arrays.size(); i++) {
+            n = arrays.get(i).size();
+            res = Math.max(res, Math.max(Math.abs(arrays.get(i).get(n - 1) - minVal), Math.abs(maxVal - arrays.get(i).get(0))));
+            minVal = Math.min(minVal, arrays.get(i).get(0));
+            maxVal = Math.max(maxVal, arrays.get(i).get(n - 1));
         }
         return res;
     }
