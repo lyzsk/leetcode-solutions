@@ -321,6 +321,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0645 | [.java][java-0645] |                |                |                |                |                  | [back to top] |
 | 0647 | [.java][java-0647] | [.py][py-0647] |                |                |                |                  | [back to top] |
 | 0648 | [.java][java-0648] |                |                |                |                |                  | [back to top] |
+| 0650 | [.java][java-0650] |                |                |                |                |                  | [back to top] |
 | 0652 | [.java][java-0652] |                |                |                |                |                  | [back to top] |
 | 0653 | [.java][java-0653] |                |                |                |                |                  | [back to top] |
 | 0654 | [.java][java-0654] |                |                |                |                |                  | [back to top] |
@@ -454,6 +455,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1137 | [.java][java-1137] |                |                |                |                |                  | [back to top] |
 | 1138 | [.java][java-1138] |                |                |                |                |                  | [back to top] |
 | 1139 | [.java][java-1139] |                |                |                |                |                  | [back to top] |
+| 1140 | [.java][java-1140] |                |                |                |                |                  | [back to top] |
 | 1141 |                    |                |                |                |                | [.sql][sql-1141] | [back to top] |
 | 1143 | [.java][java-1143] |                |                |                |                |                  | [back to top] |
 | 1144 | [.java][java-1144] |                |                |                |                |                  | [back to top] |
@@ -1089,6 +1091,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0647]: ./java-solutions/0647-palindromic-substrings/src/Solution.java
 [py-0647]: ./python-solutions/0647-palindromic-substrings/solution.py
 [java-0648]: ./java-solutions/0648-replace-words/src/Solution.java
+[java-0650]: ./java-solutions/0650-2-keys-keyboard/src/Solution.java
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
@@ -1300,6 +1303,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1137]: ./java-solutions/1137-n-th-tribonacci-number/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
 [java-1139]: ./java-solutions/1139-largest-1-bordered-square/src/Solution.java
+[java-1140]: ./java-solutions/1140-stone-game-ii/src/Solution.java
 [sql-1141]: ./sql-solutions/1141-user-activity-for-the-past-30-days-i/solution.sql
 [java-1143]: ./java-solutions/1143-longest-common-subsequence/src/Solution.java
 [java-1144]: ./java-solutions/1144-decrease-elements-to-make-array-zigzag/src/Solution.java
