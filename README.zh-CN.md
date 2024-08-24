@@ -268,6 +268,7 @@
 | 0455 | [.java][java-0455] |                |                |                |                |                  | [back to top] |
 | 0459 | [.java][java-0459] |                |                |                |                |                  | [back to top] |
 | 0463 | [.java][java-0463] | [.py][py-0463] | [.js][js-0463] |                |                |                  | [back to top] |
+| 0476 | [.java][java-0476] |                |                |                |                |                  | [back to top] |
 | 0491 | [.java][java-0491] |                |                |                |                |                  | [back to top] |
 | 0493 | [.java][java-0493] |                |                |                |                |                  | [back to top] |
 | 0501 | [.java][java-0501] |                |                |                |                |                  | [back to top] |
@@ -289,6 +290,7 @@
 | 0552 | [.java][java-0552] |                |                |                |                |                  | [back to top] |
 | 0559 | [.java][java-0559] |                |                |                |                |                  | [back to top] |
 | 0561 | [.java][java-0561] | [.py][py-0561] | [.js][js-0561] |                |                |                  | [back to top] |
+| 0564 | [.java][java-0564] |                |                |                |                |                  | [back to top] |
 | 0567 | [.java][java-0567] | [.py][py-0567] | [.js][js-0567] |                |                |                  | [back to top] |
 | 0570 |                    |                |                |                |                | [.sql][sql-0570] | [back to top] |
 | 0576 | [.java][java-0576] |                |                |                |                |                  | [back to top] |
@@ -298,6 +300,7 @@
 | 0586 |                    |                |                |                |                | [.sql][sql-0586] | [back to top] |
 | 0589 | [.java][java-0589] |                |                |                |                |                  | [back to top] |
 | 0590 | [.java][java-0590] |                |                |                |                |                  | [back to top] |
+| 0592 | [.java][java-0592] |                |                |                |                |                  | [back to top] |
 | 0595 |                    |                |                |                |                | [.sql][sql-0595] | [back to top] |
 | 0596 |                    |                |                |                |                | [.sql][sql-0596] | [back to top] |
 | 0598 | [.java][java-0598] |                |                |                |                |                  | [back to top] |
@@ -330,6 +333,7 @@
 | 0659 | [.java][java-0659] |                |                |                |                |                  | [back to top] |
 | 0661 | [.java][java-0661] |                |                |                |                |                  | [back to top] |
 | 0662 | [.java][java-0662] | [.py][py-0662] |                |                | [.go][go-0662] |                  | [back to top] |
+| 0664 | [.java][java-0664] |                |                |                |                |                  | [back to top] |
 | 0678 | [.java][java-0678] |                |                |                |                |                  | [back to top] |
 | 0680 | [.java][java-0680] |                |                |                |                |                  | [back to top] |
 | 0687 | [.java][java-0687] |                |                |                |                |                  | [back to top] |
@@ -1079,6 +1083,7 @@
 [java-0561]: ./java-solutions/0561-array-partition/src/Solution.java
 [py-0561]: ./python-solutions/0561-array-partition/solution.py
 [js-0561]: ./javascript-solutions/0561-array-partition/solution.js
+[java-0564]: ./java-solutions/0564-find-the-closest-palindrome/src/Solution.java
 [java-0567]: ./java-solutions/0567-permutation-in-string/src/Solution.java
 [py-0567]: ./python-solutions/0567-permutation-in-string/solution.py
 [js-0567]: ./javascript-solutions/0567-permutation-in-string/solution.js
@@ -1090,6 +1095,7 @@
 [sql-0586]: ./sql-solutions/0586-customer-placing-the-largest-number-of-orders/solution.sql
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
+[java-0592]: ./java-solutions/0592-fraction-addition-and-subtraction/src/Solution.java
 [sql-0595]: ./sql-solutions/0595-big-countries/solution.sql
 [sql-0596]: ./sql-solutions/0596-classes-more-than-5-students/solution.sql
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
@@ -1133,6 +1139,7 @@
 [java-0463]: ./java-solutions/0463-island-perimeter/src/Solution.java
 [py-0463]: ./python-solutions/0463-island-perimeter/solution.py
 [js-0463]: ./javascript-solutions/0463-island-perimeter/solution.js
+[java-0476]: ./java-solutions/0476-number-complement/src/Solution.java
 [java-0491]: ./java-solutions/0491-non-decreasing-subsequences/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0501]: ./java-solutions/0501-find-mode-in-binary-search-tree/src/Solution.java
@@ -1167,6 +1174,7 @@
 [java-0662]: ./java-solutions/0662-maximum-width-of-binary-tree/src/dfs/Solution.java
 [py-0662]: ./python-solutions/0662-maximum-width-of-binary-tree/solution.py
 [go-0662]: ./golang-solutions/0662-maximum-width-of-binary-tree/solution.go
+[java-0664]: ./java-solutions/0664-strange-printer/src/Solution.java
 [java-0678]: ./java-solutions/0678-valid-parenthesis-string/src/Solution.java
 [java-0680]: ./java-solutions/0680-valid-palindrome-ii/src/Solution.java
 [java-0687]: ./java-solutions/0687-longest-univalue-path/src/Solution.java
