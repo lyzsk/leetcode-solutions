@@ -411,6 +411,7 @@
 | 0939 | [.java][java-0939] |                | [.js][js-0939] |                |                |                  | [back to top] |
 | 0944 | [.java][java-0944] |                |                |                |                |                  | [back to top] |
 | 0945 | [.java][java-0945] |                |                | [.ts][ts-0945] |                |                  | [back to top] |
+| 0947 | [.java][java-0947] |                |                |                |                |                  | [back to top] |
 | 0948 | [.java][java-0948] |                |                |                |                |                  | [back to top] |
 | 0959 | [.java][java-0959] |                |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                |                  | [back to top] |
@@ -540,6 +541,7 @@
 | 1508 | [.java][java-1508] |                |                |                |                |                  | [back to top] |
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |                |                |                  | [back to top] |
+| 1514 | [.java][java-1514] |                |                |                |                |                  | [back to top] |
 | 1517 |                    |                |                |                |                | [.sql][sql-1517] | [back to top] |
 | 1518 | [.java][java-1518] |                |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                |                  | [back to top] |
@@ -741,6 +743,7 @@
 | 2678 | [.java][java-2678] |                |                |                |                |                  | [back to top] |
 | 2681 | [.java][java-2681] |                |                |                |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |                |                |                  | [back to top] |
+| 2699 | [.java][java-2699] |                |                |                |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |                |                |                  | [back to top] |
 | 2751 | [.java][java-2751] |                |                |                |                |                  | [back to top] |
 | 2812 | [.java][java-2812] |                |                |                |                |                  | [back to top] |
@@ -1267,6 +1270,7 @@
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
 [java-0945]: ./java-solutions/0945-minimum-increment-to-make-array-unique/src/Solution.java
 [ts-0945]: ./typescript-solutions/0945-minimum-increment-to-make-array-unique/solution.ts
+[java-0947]: ./java-solutions/0947-most-stones-removed-with-same-row-or-column/src/Solution.java
 [java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0959]: ./java-solutions/0959-regions-cut-by-slashes/src/Solution.java
@@ -1444,6 +1448,7 @@
 [java-1508]: ./java-solutions/1508-range-sum-of-sorted-subarray-sums/src/Solution.java
 [java-1509]: ./java-solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/src/Solution.java
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
+[java-1514]: ./java-solutions/1514-path-with-maximum-probability/src/Solution.java
 [sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
 [java-1518]: ./java-solutions/1518-water-bottles/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
@@ -1704,6 +1709,7 @@
 [java-2678]: ./java-solutions/2678-number-of-senior-citizens/src/Solution.java
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
+[java-2699]: ./java-solutions/2699-modify-graph-edge-weights/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
 [java-2751]: ./java-solutions/2751-robot-collisions/src/Solution.java
 [java-2812]: ./java-solutions/2812-find-the-safest-path-in-a-grid/src/Solution.java
