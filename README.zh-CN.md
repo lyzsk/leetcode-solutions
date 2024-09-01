@@ -654,6 +654,7 @@
 | 1992 | [.java][java-1992] |                |                |                |                |                  | [back to top] |
 | 1993 | [.java][java-1993] |                |                |                |                |                  | [back to top] |
 | 2000 | [.java][java-2000] |                |                |                |                |                  | [back to top] |
+| 2022 | [.java][java-2022] |                |                |                |                |                  | [back to top] |
 | 2027 | [.java][java-2027] |                | [.js][js-2027] |                |                |                  | [back to top] |
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |                |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
@@ -1587,6 +1588,7 @@
 [java-1992]: ./java-solutions/1992-find-all-groups-of-farmland/src/Solution.java
 [java-1993]: ./java-solutions/1993-operations-on-tree/src/LockingTree.java
 [java-2000]: ./java-solutions/2000-reverse-prefix-of-word/src/Solution.java
+[java-2022]: ./java-solutions/2022-convert-1d-array-into-2d-array/src/Solution.java
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
