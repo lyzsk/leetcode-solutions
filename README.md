@@ -347,6 +347,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0718 | [.java][java-0718] |                |                |                |                |                  | [back to top] |
 | 0719 | [.java][java-0719] |                |                |                |                |                  | [back to top] |
 | 0722 | [.java][java-0722] |                |                |                |                |                  | [back to top] |
+| 0725 | [.java][java-0725] |                |                |                |                |                  | [back to top] |
 | 0726 | [.java][java-0726] |                |                |                |                |                  | [back to top] |
 | 0729 | [.java][java-0729] |                |                |                |                |                  | [back to top] |
 | 0731 | [.java][java-0731] |                |                |                |                |                  | [back to top] |
@@ -393,6 +394,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0871 | [.java][java-0871] |                |                |                |                |                  | [back to top] |
 | 0872 | [.java][java-0872] |                |                |                |                |                  | [back to top] |
 | 0873 | [.java][java-0873] |                |                |                |                |                  | [back to top] |
+| 0874 | [.java][java-0874] |                |                |                |                |                  | [back to top] |
 | 0876 | [.java][java-0876] |                | [.js][js-0876] |                |                |                  | [back to top] |
 | 0881 | [.java][java-0881] |                |                |                |                |                  | [back to top] |
 | 0885 | [.java][java-0885] |                |                |                |                |                  | [back to top] |
@@ -506,6 +508,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1380 | [.java][java-1380] |                |                |                |                |                  | [back to top] |
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1341 |                    |                |                |                |                | [.sql][sql-1341] | [back to top] |
+| 1367 | [.java][java-1367] |                |                |                |                |                  | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |                | [.go][go-1372] |                  | [back to top] |
 | 1373 | [.java][java-1373] |                |                |                |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |                |                |                  | [back to top] |
@@ -636,6 +639,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |                |                |                  | [back to top] |
 | 1887 | [.java][java-1887] | [.py][py-1887] | [.js][js-1887] |                |                |                  | [back to top] |
 | 1890 |                    |                |                |                |                | [.sql][sql-1890] | [back to top] |
+| 1894 | [.java][java-1894] |                |                |                |                |                  | [back to top] |
 | 1903 | [.java][java-1903] | [.py][py-1903] | [.js][js-1903] |                |                |                  | [back to top] |
 | 1905 | [.java][java-1905] |                |                |                |                |                  | [back to top] |
 | 1907 |                    |                |                |                |                | [.sql][sql-1907] | [back to top] |
@@ -656,6 +660,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2000 | [.java][java-2000] |                |                |                |                |                  | [back to top] |
 | 2022 | [.java][java-2022] |                |                |                |                |                  | [back to top] |
 | 2027 | [.java][java-2027] |                | [.js][js-2027] |                |                |                  | [back to top] |
+| 2028 | [.java][java-2028] |                |                |                |                |                  | [back to top] |
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |                |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
 | 2042 | [.java][java-2042] | [.py][py-2042] | [.js][js-2042] |                |                |                  | [back to top] |
@@ -690,6 +695,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
 | 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |                |                |                  | [back to top] |
+| 2326 | [.java][java-2326] |                |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                |                  | [back to top] |
 | 2337 | [.java][java-2337] | [.py][py-2337] |                |                |                |                  | [back to top] |
 | 2342 | [.java][java-2342] |                |                |                |                |                  | [back to top] |
@@ -767,6 +773,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3110 | [.java][java-3110] |                |                |                |                |                  | [back to top] |
+| 3217 | [.java][java-3217] |                |                |                |                |                  | [back to top] |
 
 # TODO
 
@@ -1171,6 +1178,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0718]: ./java-solutions/0718-maximum-length-of-repeated-subarray/src/Solution.java
 [java-0719]: ./java-solutions/0719-find-k-th-smallest-pair-distance/src/Solution.java
 [java-0722]: ./java-solutions/0722-remove-comments/src/Solution.java
+[java-0725]: ./java-solutions/0725-split-linked-list-in-parts/src/Solution.java
 [java-0726]: ./java-solutions/0726-number-of-atoms/src/Solution.java
 [java-0729]: ./java-solutions/0729-my-calendar-i/src/MyCalendar.java
 [java-0731]: ./java-solutions/0731-my-calendar-ii/src/MyCalendarTwo.java
@@ -1227,6 +1235,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0871]: ./java-solutions/0871-minimum-number-of-refueling-stops/src/Solution.java
 [java-0872]: ./java-solutions/0872-leaf-similar-trees/src/Solution.java
 [java-0873]: ./java-solutions/0873-length-of-longest-fibonacci-subsequence/src/Solution.java
+[java-0874]: ./java-solutions/0874-walking-robot-simulation/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0881]: ./java-solutions/0881-boats-to-save-people/src/Solution.java
@@ -1368,6 +1377,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-1380]: ./java-solutions/1380-lucky-numbers-in-a-matrix/src/Solution.java
 [sql-1393]: ./sql-solutions/1393-capital-gainloss/solution.sql
 [sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
+[java-1367]: ./java-solutions/1367-linked-list-in-binary-tree/src/Solution.java
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
@@ -1543,6 +1553,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [py-1887]: ./python-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.py
 [js-1887]: ./javascript-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.js
 [sql-1890]: ./sql-solutions/1890-the-latest-login-in-2020/solution.sql
+[java-1894]: ./java-solutions/1894-find-the-student-that-will-replace-the-chalk/src/Solution.java
 [java-1903]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
 [py-1903]: ./python-solutions/1903-largest-odd-number-in-string/solution.py
 [js-1903]: ./javascript-solutions/1903-largest-odd-number-in-string/solution.js
@@ -1567,6 +1578,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2022]: ./java-solutions/2022-convert-1d-array-into-2d-array/src/Solution.java
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
+[java-2028]: ./java-solutions/2028-find-missing-observations/src/Solution.java
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
 [js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
 [java-2037]: ./java-solutions/2037-minimum-number-of-moves-to-seat-everyone/src/Solution.java
@@ -1612,6 +1624,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2285]: ./java-solutions/2285-maximum-total-importance-of-roads/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
+[java-2326]: ./java-solutions/2326-spiral-matrix-iv/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
 [java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java
 [py-2337]: ./python-solutions/2337-move-pieces-to-obtain-a-string/solution.py
@@ -1715,3 +1728,4 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3110]: ./java-solutions/3110-score-of-a-string/src/Solution.java
+[java-3217]: ./java-solutions/3217-delete-nodes-from-linked-list-present-in-array/src/Solution.java
