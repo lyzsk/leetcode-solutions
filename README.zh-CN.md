@@ -284,6 +284,7 @@
 | 0523 | [.java][java-0523] |                |                |                |                |                  | [back to top] |
 | 0525 | [.java][java-0525] |                |                |                |                |                  | [back to top] |
 | 0530 | [.java][java-0530] |                |                |                |                |                  | [back to top] |
+| 0539 | [.java][java-0539] |                |                |                |                |                  | [back to top] |
 | 0542 | [.java][java-0542] |                |                |                |                |                  | [back to top] |
 | 0543 | [.java][java-0543] |                |                |                |                |                  | [back to top] |
 | 0550 |                    |                |                |                |                | [.sql][sql-0550] | [back to top] |
@@ -510,6 +511,7 @@
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1341 |                    |                |                |                |                | [.sql][sql-1341] | [back to top] |
 | 1367 | [.java][java-1367] |                |                |                |                |                  | [back to top] |
+| 1371 | [.java][java-1371] |                |                |                |                |                  | [back to top] |
 | 1372 | [.java][java-1372] | [.py][py-1372] | [.js][js-1372] |                | [.go][go-1372] |                  | [back to top] |
 | 1373 | [.java][java-1373] |                |                |                |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |                |                |                  | [back to top] |
@@ -1176,6 +1178,7 @@
 [java-0523]: ./java-solutions/0523-continuous-subarray-sum/src/Solution.java
 [java-0525]: ./java-solutions/0525-contiguous-array/src/Solution.java
 [java-0530]: ./java-solutions/0530-minimum-absolute-difference-in-bst/src/Solution.java
+[java-0539]: ./java-solutions/0539-minimum-time-difference/src/Solution.java
 [java-0542]: ./java-solutions/0542-01-matrix/src/Solution.java
 [java-0543]: ./java-solutions/0543-diameter-of-binary-tree/src/Solution.java
 [sql-0550]: ./sql-solutions/0550-game-play-analysis-iv/solution.sql
@@ -1411,6 +1414,7 @@
 [sql-1393]: ./sql-solutions/1393-capital-gainloss/solution.sql
 [sql-1341]: ./sql-solutions/1341-movie-rating/solution.sql
 [java-1367]: ./java-solutions/1367-linked-list-in-binary-tree/src/Solution.java
+[java-1371]: ./java-solutions/1371-find-the-longest-substring-containing-vowels-in-even-counts/src/Solution.java
 [java-1372]: ./java-solutions/1372-longest-zigzag-path-in-a-binary-tree/src/Solution.java
 [go-1372]: ./golang-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.go
 [py-1372]: ./python-solutions/1372-longest-zigzag-path-in-a-binary-tree/solution.py
