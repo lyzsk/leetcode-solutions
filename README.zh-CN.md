@@ -210,6 +210,7 @@
 | 0238 | [.java][java-0238] |                |                |                |                |                  | [back to top] |
 | 0239 | [.java][java-0239] |                |                |                |                |                  | [back to top] |
 | 0240 | [.java][java-0240] |                | [.js][js-0240] |                |                |                  | [back to top] |
+| 0241 | [.java][java-0241] |                |                |                |                |                  | [back to top] |
 | 0242 | [.java][java-0242] | [.py][py-0242] | [.js][js-0242] |                |                |                  | [back to top] |
 | 0257 | [.java][java-0257] |                |                |                |                |                  | [back to top] |
 | 0258 | [.java][java-0258] | [.py][py-0258] | [.js][js-0258] |                |                |                  | [back to top] |
@@ -398,6 +399,7 @@
 | 0874 | [.java][java-0874] |                |                |                |                |                  | [back to top] |
 | 0876 | [.java][java-0876] |                | [.js][js-0876] |                |                |                  | [back to top] |
 | 0881 | [.java][java-0881] |                |                |                |                |                  | [back to top] |
+| 0884 | [.java][java-0884] |                |                |                |                |                  | [back to top] |
 | 0885 | [.java][java-0885] |                |                |                |                |                  | [back to top] |
 | 0904 | [.java][java-0904] |                |                |                |                |                  | [back to top] |
 | 0905 | [.java][java-0905] |                |                |                |                |                  | [back to top] |
@@ -1035,6 +1037,7 @@
 [java-0239]: ./java-solutions/0239-sliding-window-maximum/src/Solution.java
 [java-0240]: ./java-solutions/0240-search-a-2d-matrix-ii/src/Solution.java
 [js-0240]: ./javascript-solutions/0240-search-a-2d-matrix-ii/solution.js
+[java-0241]: ./java-solutions/0241-different-ways-to-add-parentheses/src/Solution.java
 [java-0237]: ./java-solutions/0237-delete-node-in-a-linked-list/src/Solution.java
 [java-0238]: ./java-solutions/0238-product-of-array-except-self/src/Solution.java
 [java-0242]: ./java-solutions/0242-valid-anagram/src/Solution.java
@@ -1271,6 +1274,7 @@
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
 [java-0881]: ./java-solutions/0881-boats-to-save-people/src/Solution.java
+[java-0884]: ./java-solutions/0884-uncommon-words-from-two-sentences/src/Solution.java
 [java-0885]: ./java-solutions/0885-spiral-matrix-iii/src/Solution.java
 [java-0904]: ./java-solutions/0904-fruit-into-baskets/src/Solution.java
 [java-0905]: ./java-solutions/0905-sort-array-by-parity/src/Solution.java
