@@ -193,6 +193,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0209 | [.java][java-0209] |                |                |                |                |                  | [back to top] |
 | 0210 | [.java][java-0210] |                |                |                |                |                  | [back to top] |
 | 0212 | [.java][java-0212] |                |                |                |                |                  | [back to top] |
+| 0214 | [.java][java-0214] |                |                | [.ts][ts-0214] |                |                  | [back to top] |
 | 0215 | [.java][java-0215] |                |                |                |                |                  | [back to top] |
 | 0217 | [.java][java-0217] |                |                |                |                |                  | [back to top] |
 | 0218 | [.java][java-0218] |                |                |                |                |                  | [back to top] |
@@ -246,6 +247,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0371 | [.java][java-0371] |                |                |                |                |                  | [back to top] |
 | 0378 | [.java][java-0378] |                |                |                |                |                  | [back to top] |
 | 0380 | [.java][java-0380] |                |                |                |                |                  | [back to top] |
+| 0386 | [.java][java-0386] | [.py][py-0386] |                |                |                |                  | [back to top] |
 | 0387 | [.java][java-0387] |                | [.js][js-0387] |                |                |                  | [back to top] |
 | 0389 | [.java][java-0389] | [.py][py-0389] | [.js][js-0389] |                | [.go][go-0389] |                  | [back to top] |
 | 0392 | [.java][java-0392] |                |                |                |                |                  | [back to top] |
@@ -994,6 +996,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0209]: ./java-solutions/0209-minimum-size-subarray-sum/src/Solution.java
 [java-0210]: ./java-solutions/0210-course-schedule-ii/src/Solution.java
 [java-0212]: ./java-solutions/0212-word-search-ii/src/Solution.java
+[java-0214]: ./java-solutions/0214-shortest-palindrome/src/Solution.java
+[ts-0214]: ./typescript-solutions/0214-shortest-palindrome/solution.ts
 [java-0215]: ./java-solutions/0215-kth-largest-element-in-an-array/src/
 [java-0217]: ./java-solutions/0217-contains-duplicate/src/Solution.java
 [java-0218]: ./java-solutions/0218-the-skyline-problem/src/Solution.java
@@ -1063,6 +1067,8 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-0371]: ./java-solutions/0371-sum-of-two-integers/src/Solution.java
 [java-0378]: ./java-solutions/0378-kth-smallest-element-in-a-sorted-matrix/src/Solution.java
 [java-0380]: ./java-solutions/0380-insert-delete-getrandom-o1/src/RandomizedSet.java
+[java-0386]: ./java-solutions/0386-lexicographical-numbers/src/Solution.java
+[py-0386]: ./python-solutions/0386-lexicographical-numbers/solution.py
 [java-0387]: ./java-solutions/0387-first-unique-character-in-a-string/src/Solution.java
 [js-0387]: ./javascript-solutions/0387-first-unique-character-in-a-string/solution.js
 [java-0389]: ./java-solutions/0389-find-the-difference/src/Solution.java
