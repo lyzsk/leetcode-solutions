@@ -1,5 +1,3 @@
-**[简体中文](./README.zh-CN.md) | English**
-
 <p align="center">
     <a href="https://github.com/lyzsk/leetcode-solutions/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/lyzsk/leetcode-solutions.svg?style=plastic&logo=github" />
@@ -13,12 +11,12 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Java-D61C4E?style=plastic&logo=openjdk&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/-Python3-D61C4E?style=plastic&logo=python&logoColor=3776AB" />
-    <img src="https://img.shields.io/badge/-JavaScript-D61C4E?style=plastic&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://shields.io/badge/TypeScript-D61C4E?style=plastic&logo=TypeScript&logoColor=FFF" />
-    <img src="https://img.shields.io/badge/-Go-D61C4E?style=plastic&logo=go&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/-MySQL-D61C4E?style=plastic&logo=mysql&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/-Java-3C415C?style=plastic&logo=openjdk" />
+    <img src="https://img.shields.io/badge/-Python3-3C415C?style=plastic&logo=python" />
+    <img src="https://img.shields.io/badge/-JavaScript-3C415C?style=plastic&logo=javascript" />
+    <img src="https://shields.io/badge/TypeScript-3C415C?style=plastic&logo=TypeScript" />
+    <img src="https://img.shields.io/badge/-Go-3C415C?style=plastic&logo=go" />
+    <img src="https://img.shields.io/badge/-MySQL-3C415C?style=plastic&logo=mysql&logoColor=e03939" />
 </p>
 
 # leetcode-solutions
@@ -27,9 +25,7 @@
 
 Recording personal solutions for Leetcode problems.
 
-If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](./README.zh-CN.md)
-
-> TODO: add C/C++ solutions.
+查看 [`剑指Offer`](#offer-solutions) 系列题解
 
 # Solutions
 
@@ -422,7 +418,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 0948 | [.java][java-0948] |                |                |                |                |                  | [back to top] |
 | 0959 | [.java][java-0959] |                |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                |                  | [back to top] |
-| 0974 | [.java][java-0974] |                |                |                |                |                  | [bakc to top] |
+| 0974 | [.java][java-0974] |                |                |                |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |                |                |                  | [back to top] |
 | 0977 | [.java][java-0977] |                |                |                |                |                  | [back to top] |
 | 0979 | [.java][java-0979] |                |                |                |                |                  | [back to top] |
@@ -761,6 +757,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2681 | [.java][java-2681] |                |                |                |                |                  | [back to top] |
 | 2682 | [.java][java-2682] |                |                |                |                |                  | [back to top] |
 | 2699 | [.java][java-2699] |                |                |                |                |                  | [back to top] |
+| 2707 | [.java][java-2707] |                |                |                |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |                |                |                  | [back to top] |
 | 2751 | [.java][java-2751] |                |                |                |                |                  | [back to top] |
 | 2807 | [.java][java-2807] |                |                |                |                |                  | [back to top] |
@@ -781,16 +778,35 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 | 2997 | [.java][java-2997] |                |                |                |                |                  | [back to top] |
 | 3005 | [.java][java-3005] |                |                |                |                |                  | [back to top] |
 | 3016 | [.java][java-3016] |                |                |                |                |                  | [back to top] |
+| 3043 | [.java][java-3043] | [.py][py-3043] |                |                |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3110 | [.java][java-3110] |                |                |                |                |                  | [back to top] |
 | 3217 | [.java][java-3217] |                |                |                |                |                  | [back to top] |
 
-# TODO
+# <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
--   0324 优化
--   0973 优化
--   2225 优化
+|         #         |           Title            |           Java            |      JavaScript       |                                 |
+| :---------------: | :------------------------: | :-----------------------: | :-------------------: | :-----------------------------: |
+|   剑指 Offer 03   |      数组中重复的数字      |  [.java][java-offer-03]   |  [.js][js-offer-03]   | [back to top](#offer-solutions) |
+|   剑指 Offer 04   |      二维数组中的查找      |  [.java][java-offer-04]   |  [.js][js-offer-04]   | [back to top](#offer-solutions) |
+|   剑指 Offer 05   |          替换空格          |  [.java][java-offer-05]   |  [.js][js-offer-05]   | [back to top](#offer-solutions) |
+|   剑指 Offer 06   |      从尾到头打印链表      |  [.java][java-offer-06]   |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 07   |         重建二叉树         |  [.java][java-offer-07]   |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 09   |      用两个栈实现队列      |  [.java][java-offer-09]   |  [.js][js-offer-09]   | [back to top](#offer-solutions) |
+| 剑指 Offer 10- I  |        斐波那契数列        | [.java][java-offer-10-i]  | [.js][js-offer-10-i]  | [back to top](#offer-solutions) |
+| 剑指 Offer 10- II |       青蛙跳台阶问题       | [.java][java-offer-10-ii] | [.js][js-offer-10-ii] | [back to top](#offer-solutions) |
+|   剑指 Offer 11   |     旋转数组的最小数字     |  [.java][java-offer-11]   |  [.js][js-offer-11]   | [back to top](#offer-solutions) |
+|   剑指 Offer 12   |        矩阵中的路径        |  [.java][java-offer-12]   |                       | [back to top](#offer-solutions) |
+| 剑指 Offer 14- I  |           剪绳子           | [.java][java-offer-14-i]  |                       | [back to top](#offer-solutions) |
+| 剑指 Offer 14- II |         剪绳子 II          | [.java][java-offer-14-ii] |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 15   |     二进制中 1 的个数      |  [.java][java-offer-15]   |  [.js][js-offer-15]   | [back to top](#offer-solutions) |
+|   剑指 Offer 16   |       数值的整数次方       |  [.java][java-offer-16]   |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 17   |  打印从 1 到最大的 n 位数  |  [.java][java-offer-17]   |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 22   |   链表中倒数第 k 个节点    |  [.java][java-offer-22]   |  [.js][js-offer-22]   | [back to top](#offer-solutions) |
+|   剑指 Offer 24   |          反转链表          |  [.java][java-offer-24]   |  [.js][js-offer-24]   | [back to top](#offer-solutions) |
+|   剑指 Offer 25   |     合并两个排序的链表     |  [.java][java-offer-25]   |                       | [back to top](#offer-solutions) |
+|   剑指 Offer 48   | 最长不含重复字符的子字符串 |  [.java][java-offer-48]   |                       | [back to top](#offer-solutions) |
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
@@ -1724,6 +1740,7 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2681]: ./java-solutions/2681-power-of-heroes/src/Solution.java
 [java-2682]: ./java-solutions/2682-find-the-losers-of-the-circular-game/src/Solution.java
 [java-2699]: ./java-solutions/2699-modify-graph-edge-weights/src/Solution.java
+[java-2707]: ./java-solutions/2707-extra-characters-in-a-string/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
 [java-2751]: ./java-solutions/2751-robot-collisions/src/Solution.java
 [java-2807]: ./java-solutions/2807-insert-greatest-common-divisors-in-linked-list/src/Solution.java
@@ -1749,7 +1766,38 @@ If you want to see `剑指Offer` solutions, please switch to [README.zh-CN.md](.
 [java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-3016]: ./java-solutions/3016-minimum-number-of-pushes-to-type-word-ii/src/Solution.java
+[java-3043]: ./java-solutions/3043-find-the-length-of-the-longest-common-prefix/src/Solution.java
+[py-3043]: ./python-solutions/3043-find-the-length-of-the-longest-common-prefix/solution.py
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3110]: ./java-solutions/3110-score-of-a-string/src/Solution.java
 [java-3217]: ./java-solutions/3217-delete-nodes-from-linked-list-present-in-array/src/Solution.java
+[java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
+[js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
+[java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
+[js-offer-04]: ./javascript-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution.js
+[java-offer-05]: ./java-solutions/offer-05-ti-huan-kong-ge-lcof/src/Solution.java
+[js-offer-05]: ./javascript-solutions/offer-05-ti-huan-kong-ge-lcof/solution.js
+[java-offer-06]: ./java-solutions/offer-06-cong-wei-dao-tou-da-yin-lian-biao-lcof/src/Solution.java
+[java-offer-07]: ./java-solutions/offer-07-zhong-jian-er-cha-shu-lcof/src/Solution.java
+[java-offer-09]: ./java-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/src/CQueue.java
+[js-offer-09]: ./javascript-solutions/offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/solution.js
+[java-offer-10-i]: ./java-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/src/Solution.java
+[js-offer-10-i]: ./javascript-solutions/offer-10-i-fei-bo-na-qi-shu-lie-lcof/solution.js
+[java-offer-10-ii]: ./java-solutions/offer-10-ii-qing-wa-tiao-tai-jie-wen-ti-lcof/src/Solution.java
+[js-offer-10-ii]: ./javascript-solutions/offer-10-ii-qing-wa-tiao-tai-jie-wen-ti-lcof/solution.js
+[java-offer-11]: ./java-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/src/Solution.java
+[js-offer-11]: ./javascript-solutions/offer-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution.js
+[java-offer-12]: ./java-solutions/offer-12-ju-zhen-zhong-de-lu-jing-lcof/src/Solution.java
+[java-offer-14-i]: ./java-solutions/offer-14-i-jian-sheng-zi-lcof/src/Solution.java
+[java-offer-14-ii]: ./java-solutions/offer-14-ii-jian-sheng-zi-ii-lcof/src/Solution.java
+[java-offer-15]: ./java-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/src/Solution.java
+[js-offer-15]: ./javascript-solutions/offer-15-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.js
+[java-offer-16]: ./java-solutions/offer-16-shu-zhi-de-zheng-shu-ci-fang-lcof/src/Solution.java
+[java-offer-17]: ./java-solutions/offer-17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/src/Solution.java
+[java-offer-22]: ./java-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/src/Solution.java
+[js-offer-22]: ./javascript-solutions/offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/solution.js
+[java-offer-24]: ./java-solutions/offer-24-fan-zhuan-lian-biao-lcof/src/Solution.java
+[js-offer-24]: ./javascript-solutions/offer-24-fan-zhuan-lian-biao-lcof/solution.js
+[java-offer-25]: ./java-solutions/offer-25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof/src/Solution.java
+[java-offer-48]: ./java-solutions/offer-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/src/Solution.java
