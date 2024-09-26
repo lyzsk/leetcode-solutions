@@ -25,13 +25,15 @@
 
 Recording personal solutions for Leetcode problems.
 
+includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
+
 查看 [`剑指Offer`](#offer-solutions) 系列题解
 
 # Solutions
 
 |  #   |        Java        |    Python3     |   JavaScript   |   TypeScript   |     Golang     |       SQL        |               |
 | :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: |
-| 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] |                | [.go][go-0001] |                  | [back to top] |
+| 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [.ts][ts-0001] | [.go][go-0001] |                  | [back to top] |
 | 0002 | [.java][java-0002] | [.py][py-0002] |                |                | [.go][go-0002] |                  | [back to top] |
 | 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] |                |                |                  | [back to top] |
 | 0004 | [.java][java-0004] |                |                |                |                |                  | [back to top] |
@@ -720,6 +722,7 @@ Recording personal solutions for Leetcode problems.
 | 2402 | [.java][java-2402] |                |                |                |                |                  | [back to top] |
 | 2409 | [.java][java-2409] | [.py][py-2409] |                |                |                |                  | [back to top] |
 | 2413 | [.java][java-2413] | [.py][py-2413] | [.js][js-2413] |                | [.go][go-2413] |                  | [back to top] |
+| 2416 | [.java][java-2416] |                |                |                |                |                  | [back to top] |
 | 2418 | [.java][java-2418] | [.py][py-2418] | [.js][js-2418] |                |                |                  | [back to top] |
 | 2419 | [.java][java-2419] |                |                |                |                |                  | [back to top] |
 | 2423 | [.java][java-2423] | [.py][py-2423] | [.js][js-2423] |                |                |                  | [back to top] |
@@ -810,9 +813,10 @@ Recording personal solutions for Leetcode problems.
 
 [back to top]: #solutions
 [java-0001]: ./java-solutions/0001-two-sum/src/Solution.java
-[go-0001]: ./golang-solutions/0001-two-sum/solution.go
 [py-0001]: ./python-solutions/0001-two-sum/solution.py
 [js-0001]: ./javascript-solutions/0001-two-sum/solution.js
+[ts-0001]: ./typescript-solutions/0001-two-sum/solution.ts
+[go-0001]: ./golang-solutions/0001-two-sum/solution.go
 [java-0002]: ./java-solutions/0002-add-two-numbers/src/Solution.java
 [py-0002]: ./python-solutions/0002-add-two-numbers/solution.py
 [go-0002]: ./golang-solutions/0002-add-two-numbers/solution.go
@@ -1689,6 +1693,7 @@ Recording personal solutions for Leetcode problems.
 [py-2409]: ./python-solutions/2409-count-days-spent-together/solution.py
 [java-2413]: ./java-solutions/2413-smallest-even-multiple/src/Solution.java
 [go-2413]: ./golang-solutions/2413-smallest-even-multiple/solution.go
+[java-2416]: ./java-solutions/2416-sum-of-prefix-scores-of-strings/src/Solution.java
 [py-2413]: ./python-solutions/2413-smallest-even-multiple/solution.py
 [js-2413]: ./javascript-solutions/2413-smallest-even-multiple/solution.js
 [java-2418]: ./java-solutions/2418-sort-the-people/src/Solution.java

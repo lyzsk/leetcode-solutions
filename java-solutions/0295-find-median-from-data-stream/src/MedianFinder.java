@@ -5,11 +5,11 @@ import java.util.PriorityQueue;
  * @date 2022/11/12
  **/
 public class MedianFinder {
-    private PriorityQueue<Integer> left;
-    private PriorityQueue<Integer> right;
+    private final PriorityQueue<Integer> left;
+    private final PriorityQueue<Integer> right;
 
     public MedianFinder() {
-        this.left = new PriorityQueue<>(c);
+        this.left = new PriorityQueue<>();
         this.right = new PriorityQueue<>();
     }
 

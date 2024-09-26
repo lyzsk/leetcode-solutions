@@ -1,29 +1,61 @@
-import java.util.Comparator;
-import java.util.TreeSet;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * @author sichu
  * @date 2022/10/24
  **/
 public class MyCalendar {
-    private TreeSet<int[]> booked;
+    Set<Integer> tree;
+    Set<Integer> temp;
 
     public MyCalendar() {
-        this.booked = new TreeSet<>(Comparator.comparingInt(o -> o[0]));
+        tree = new HashSet<>();
+        temp = new HashSet<>();
     }
 
     public boolean book(int start, int end) {
-        if (booked.isEmpty()) {
-            booked.add(new int[] {start, end});
+        if (query(start, end - 1, 0, 1000000000, 1)) {
+            return false;
+        }
+        update(start, end - 1, 0, 1000000000, 1);
+        return true;
+    }
+
+    private boolean query(int start, int end, int left, int right, int idx) {
+        if (start > right || end < left) {
+            return false;
+        }
+        if (temp.contains(idx)) {
             return true;
         }
-        int[] temp = {end, 0};
-        int[] arr = booked.ceiling(temp);
-        int[] prev = arr == null ? booked.last() : booked.lower(arr);
-        if (arr == booked.first() || booked.lower(temp)[1] <= start) {
-            booked.add(new int[] {start, end});
-            return true;
+        if (start <= left && right <= end) {
+            return tree.contains(idx);
+        } else {
+            int mid = ((left + right) >> 1);
+            if (end <= mid) {
+                return query(start, end, left, mid, 2 * idx);
+            } else if (start > mid) {
+                return query(start, end, mid + 1, right, 2 * idx + 1);
+            } else {
+                return query(start, end, left, mid, 2 * idx) | query(start, end,
+                    mid + 1, right, 2 * idx + 1);
+            }
         }
-        return false;
+    }
+
+    private void update(int start, int end, int left, int right, int idx) {
+        if (right < start || end < left) {
+            return;
+        }
+        if (start <= left && right <= end) {
+            tree.add(idx);
+            temp.add(idx);
+        } else {
+            int mid = ((left + right) >> 1);
+            update(start, end, left, mid, 2 * idx);
+            update(start, end, mid + 1, right, 2 * idx + 1);
+            tree.add(idx);
+        }
     }
 }
