@@ -6,7 +6,7 @@ import java.util.Map;
  * @date 2022/10/24
  **/
 public class MyCalendarTwo {
-    private Map<Integer, int[]> tree;
+    private final Map<Integer, int[]> tree;
 
     public MyCalendarTwo() {
         this.tree = new HashMap<>(16);
@@ -22,7 +22,8 @@ public class MyCalendarTwo {
         return true;
     }
 
-    private void update(int start, int end, int val, int left, int right, int idx) {
+    private void update(int start, int end, int val, int left, int right,
+        int idx) {
         if (right < start || end < left) {
             return;
         }
@@ -36,7 +37,8 @@ public class MyCalendarTwo {
             update(start, end, val, mid + 1, right, 2 * idx + 1);
             tree.putIfAbsent(2 * idx, new int[2]);
             tree.putIfAbsent(2 * idx + 1, new int[2]);
-            tree.get(idx)[0] = tree.get(idx)[1] + Math.max(tree.get(2 * idx)[0], tree.get(2 * idx + 1)[0]);
+            tree.get(idx)[0] = tree.get(idx)[1] + Math.max(tree.get(2 * idx)[0],
+                tree.get(2 * idx + 1)[0]);
         }
     }
 }

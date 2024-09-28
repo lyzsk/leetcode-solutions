@@ -35,7 +35,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: |
 | 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [.ts][ts-0001] | [.go][go-0001] |                  | [back to top] |
 | 0002 | [.java][java-0002] | [.py][py-0002] |                |                | [.go][go-0002] |                  | [back to top] |
-| 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] |                |                |                  | [back to top] |
+| 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [.ts][ts-0003] |                |                  | [back to top] |
 | 0004 | [.java][java-0004] |                |                |                |                |                  | [back to top] |
 | 0005 | [.java][java-0005] | [.py][py-0005] | [.js][js-0005] |                |                |                  | [back to top] |
 | 0006 | [.java][java-0006] |                | [.js][js-0006] |                |                |                  | [back to top] |
@@ -823,6 +823,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0003]: ./java-solutions/0003-longest-substring-without-repeating-characters/src/Solution.java
 [py-0003]: ./python-solutions/0003-longest-substring-without-repeating-characters/solution.py
 [js-0003]: ./javascript-solutions/0003-longest-substring-without-repeating-characters/solution.js
+[ts-0003]: ./typescript-solutions/0003-longest-substring-without-repeating-characters/solution.ts
 [java-0004]: ./java-solutions/0004-median-of-two-sorted-arrays/src/Solution.java
 [java-0005]: ./java-solutions/0005-longest-palindromic-substring/src/Solution.java
 [py-0005]: ./python-solutions/0005-longest-palindromic-substring/solution.py
