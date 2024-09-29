@@ -258,6 +258,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0423 | [.java][java-0423] |                |                |                |                |                  | [back to top] |
 | 0424 | [.java][java-0424] |                |                |                |                |                  | [back to top] |
 | 0429 | [.java][java-0429] |                |                |                |                |                  | [back to top] |
+| 0432 | [.java][java-0432] |                |                |                |                |                  | [back to top] |
 | 0438 | [.java][java-0438] |                |                |                |                |                  | [back to top] |
 | 0442 | [.java][java-0442] |                |                |                |                |                  | [back to top] |
 | 0443 | [.java][java-0443] |                | [.js][js-0443] |                |                |                  | [back to top] |
@@ -1149,6 +1150,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0423]: ./java-solutions/0423-reconstruct-original-digits-from-english/src/Solution.java
 [java-0424]: ./java-solutions/0424-longest-repeating-character-replacement/src/Solution.java
 [java-0429]: ./java-solutions/0429-n-ary-tree-level-order-traversal/src/Solution.java
+[java-0432]: ./java-solutions/0432-all-oone-data-structure/src/AllOne.java
 [java-0438]: ./java-solutions/0438-find-all-anagrams-in-a-string/src/Solution.java
 [java-0442]: ./java-solutions/0442-find-all-duplicates-in-array/src/Solution.java
 [java-0443]: ./java-solutions/0443-string-compression/src/Solution.java
