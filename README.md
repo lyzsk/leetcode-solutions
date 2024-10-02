@@ -32,7 +32,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 # Solutions
 
 |  #   |        Java        |    Python3     |   JavaScript   |   TypeScript   |     Golang     |       SQL        |               |
-| :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: |
+| :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: | --- |
 | 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [.ts][ts-0001] | [.go][go-0001] |                  | [back to top] |
 | 0002 | [.java][java-0002] | [.py][py-0002] |                |                | [.go][go-0002] |                  | [back to top] |
 | 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [.ts][ts-0003] |                |                  | [back to top] |
@@ -507,6 +507,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1327 |                    |                |                |                |                | [.sql][sql-1327] | [back to top] |
 | 1328 | [.java][java-1328] |                |                |                |                |                  | [back to top] |
 | 1330 | [.java][java-1330] |                |                |                |                |                  | [back to top] |
+| 1331 | [.java][java-1331] | [.py][py-1331] | [.js][js-1331] | [.ts][ts-1331] |                |                  | [back to top] |
 | 1334 | [.java][java-1334] |                |                |                |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |                |                |                  | [back to top] |
 | 1347 | [.java][java-1347] | [.py][py-1347] | [.js][js-1347] |                |                |                  | [back to top] |
@@ -519,6 +520,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1373 | [.java][java-1373] |                |                |                |                |                  | [back to top] |
 | 1376 | [.java][java-1376] |                |                |                |                |                  | [back to top] |
 | 1378 |                    |                |                |                |                | [.sql][sql-1378] | [back to top] |
+| 1381 | [.java][java-1381] |                |                |                |                |                  | [back to top] |
 | 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
 | 1395 | [.java][java-1395] |                |                |                |                |                  | [back to top] |
@@ -546,6 +548,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1484 |                    |                |                |                |                | [.sql][sql-1484] | [back to top] |
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |                |                |                  | [back to top] |
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |                |                |                  | [back to top] |
+| 1497 | [.java][java-1497] |                |                |                |                |                  | [back to top] | ]   |
 | 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |                |                |                  | [back to top] |
 | 1508 | [.java][java-1508] |                |                |                |                |                  | [back to top] |
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
@@ -1411,6 +1414,10 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1310]: ./java-solutions/1310-xor-queries-of-a-subarray/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
+[java-1331]: ./java-solutions/1331-rank-transform-of-an-array/src/Solution.java
+[py-1331]: ./python-solutions/1331-rank-transform-of-an-array/solution.py
+[js-1331]: ./javascript-solutions/1331-rank-transform-of-an-array/solution.js
+[ts-1331]: ./typescript-solutions/1331-rank-transform-of-an-array/solution.ts
 [java-1334]: ./java-solutions/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
 [java-1347]: ./java-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/src/Solution.java
@@ -1428,6 +1435,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1373]: ./java-solutions/1373-maximum-sum-bst-in-binary-tree/src/Solution.java
 [java-1376]: ./java-solutions/1376-time-needed-to-inform-all-employees/src/Solution.java
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
+[java-1381]: ./java-solutions/1381-design-a-stack-with-increment-operation/src/Solution.java
 [java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1395]: ./java-solutions/1395-count-number-of-teams/src/Solution.java
@@ -1472,6 +1480,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1496]: ./java-solutions/1496-path-crossing/src/Solution.java
 [py-1496]: ./python-solutions/1496-path-crossing/solution.py
 [js-1496]: ./javascript-solutions/1496-path-crossing/solution.js
+[java-1497]: ./java-solutions/1497-check-if-array-pairs-are-divisible-by-k/src/Solution.java
 [java-1503]: ./java-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/src/Solution.java
 [py-1503]: ./python-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.py
 [js-1503]: ./javascript-solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank/solution.js
