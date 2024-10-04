@@ -32,7 +32,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 # Solutions
 
 |  #   |        Java        |    Python3     |   JavaScript   |   TypeScript   |     Golang     |       SQL        |               |
-| :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: | --- |
+| :--: | :----------------: | :------------: | :------------: | :------------: | :------------: | :--------------: | :-----------: |
 | 0001 | [.java][java-0001] | [.py][py-0001] | [.js][js-0001] | [.ts][ts-0001] | [.go][go-0001] |                  | [back to top] |
 | 0002 | [.java][java-0002] | [.py][py-0002] |                |                | [.go][go-0002] |                  | [back to top] |
 | 0003 | [.java][java-0003] | [.py][py-0003] | [.js][js-0003] | [.ts][ts-0003] |                |                  | [back to top] |
@@ -548,7 +548,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1484 |                    |                |                |                |                | [.sql][sql-1484] | [back to top] |
 | 1491 | [.java][java-1491] | [.py][py-1491] | [.js][js-1491] |                |                |                  | [back to top] |
 | 1496 | [.java][java-1496] | [.py][py-1496] | [.js][js-1496] |                |                |                  | [back to top] |
-| 1497 | [.java][java-1497] |                |                |                |                |                  | [back to top] | ]   |
+| 1497 | [.java][java-1497] |                |                |                |                |                  | [back to top] |
 | 1503 | [.java][java-1503] | [.py][py-1503] | [.js][js-1503] |                |                |                  | [back to top] |
 | 1508 | [.java][java-1508] |                |                |                |                |                  | [back to top] |
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
@@ -570,6 +570,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1579 | [.java][java-1579] |                |                |                |                |                  | [back to top] |
 | 1581 |                    |                |                |                |                | [.sql][sql-1581] | [back to top] |
 | 1587 |                    |                |                |                |                | [.sql][sql-1587] | [back to top] |
+| 1590 | [.java][java-1590] |                |                |                |                |                  | [back to top] |
 | 1598 | [.java][java-1598] |                |                |                |                |                  | [back to top] |
 | 1605 | [.java][java-1605] |                |                |                |                |                  | [back to top] |
 | 1608 | [.java][java-1608] |                |                |                |                |                  | [back to top] |
@@ -740,6 +741,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2469 | [.java][java-2469] |                |                |                |                |                  | [back to top] |
 | 2486 | [.java][java-2486] |                |                |                |                |                  | [back to top] |
 | 2487 | [.java][java-2487] |                |                |                |                |                  | [back to top] |
+| 2491 | [.java][java-2491] |                |                |                |                |                  | [back to top] |
 | 2525 | [.java][java-2525] |                |                |                |                |                  | [back to top] |
 | 2526 | [.java][java-2526] |                |                |                |                |                  | [back to top] |
 | 2527 | [.java][java-2527] |                |                |                |                |                  | [back to top] |
@@ -1506,6 +1508,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1579]: ./java-solutions/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/src/Solution.java
 [sql-1581]: ./sql-solutions/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql
 [sql-1587]: ./sql-solutions/1587-bank-account-summary-ii/solution.sql
+[java-1590]: ./java-solutions/1590-make-sum-divisible-by-p/src/Solution.java
 [java-1598]: ./java-solutions/1598-crawler-log-folder/src/Solution.java
 [java-1605]: ./java-solutions/1605-find-valid-matrix-given-row-and-column-sums/src/Solution.java
 [java-1608]: ./java-solutions/1608-special-array-with-x-elements-greater-than-or-equal-x/src/Solution.java
@@ -1731,6 +1734,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2486]: ./java-solutions/2486-append-characters-to-string-to-make-subsequence/src/Solution.java
 [java-2487]: ./java-solutions/2487-remove-nodes-from-linked-list/src/Solution.java
+[java-2491]: ./java-solutions/2491-divide-players-into-teams-of-equal-skill/src/Solution.java
 [java-2525]: ./java-solutions/2525-categorize-box-according-to-criteria/src/Solution.java
 [java-2526]: ./java-solutions/2526-find-consecutive-integers-from-a-data-stream/src/DataStream.java
 [java-2527]: ./java-solutions/2527-find-xor-beauty-of-array/src/Solution.java
