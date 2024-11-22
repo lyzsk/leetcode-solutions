@@ -11,11 +11,11 @@ public class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
         Map<String, Integer> map = new HashMap<>(16);
-        for (int i = 0; i < m; i++) {
+        for (int[] ints : matrix) {
             char[] arr = new char[n];
             Arrays.fill(arr, '0');
             for (int j = 0; j < n; j++) {
-                arr[j] = (char)(matrix[i][0] ^ matrix[i][j]);
+                arr[j] = (char)(ints[0] ^ ints[j]);
             }
             String s = new String(arr);
             map.put(s, map.getOrDefault(s, 0) + 1);
