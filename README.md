@@ -361,6 +361,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0752 | [.java][java-0752] |                |                |                |                |                  | [back to top] |
 | 0767 | [.java][java-0767] | [.py][py-0767] | [.js][js-0767] |                |                |                  | [back to top] |
 | 0769 | [.java][java-0769] |                |                |                |                |                  | [back to top] |
+| 0773 | [.java][java-0773] |                |                |                |                |                  | [back to top] |
 | 0775 | [.java][java-0775] |                |                |                |                |                  | [back to top] |
 | 0777 | [.java][java-0777] |                |                |                |                |                  | [back to top] |
 | 0779 | [.java][java-0779] |                |                |                |                |                  | [back to top] |
@@ -659,6 +660,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1838 | [.java][java-1838] | [.py][py-1838] | [.js][js-1838] |                |                |                  | [back to top] |
 | 1845 | [.java][java-1845] |                |                |                |                |                  | [back to top] |
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |                |                |                  | [back to top] |
+| 1861 | [.java][java-1861] |                |                |                |                |                  | [back to top] |
 | 1863 | [.java][java-1863] |                |                |                |                |                  | [back to top] |
 | 1873 |                    |                |                |                |                | [.sql][sql-1873] | [back to top] |
 | 1865 | [.java][java-1865] |                |                |                |                |                  | [back to top] |
@@ -683,6 +685,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1963 | [.java][java-1963] |                |                |                |                |                  | [back to top] |
 | 1965 |                    |                |                |                |                | [.sql][sql-1965] | [back to top] |
 | 1971 | [.java][java-1971] |                |                |                |                |                  | [back to top] |
+| 1975 | [.java][java-1975] |                |                |                |                |                  | [back to top] |
 | 1978 |                    |                |                |                |                | [.sql][sql-1978] | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |                |                |                  | [back to top] |
 | 1992 | [.java][java-1992] |                |                |                |                |                  | [back to top] |
@@ -730,6 +733,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2275 | [.java][java-2275] |                |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
 | 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
+| 2290 | [.java][java-2290] |                |                |                |                |                  | [back to top] |
 | 2303 | [.java][java-2303] |                |                |                |                |                  | [back to top] |
 | 2326 | [.java][java-2326] |                |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                |                  | [back to top] |
@@ -817,6 +821,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |                |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |                |                |                  | [back to top] |
 | 2914 | [.java][java-2914] |                |                |                |                |                  | [back to top] |
+| 2924 | [.java][java-2924] |                |                |                |                |                  | [back to top] |
 | 2938 | [.java][java-2938] |                |                |                |                |                  | [back to top] |
 | 2958 | [.java][java-2958] |                |                |                |                |                  | [back to top] |
 | 2962 | [.java][java-2962] |                |                |                |                |                  | [back to top] |
@@ -835,6 +840,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3133 | [.java][java-3133] |                |                |                |                |                  | [back to top] |
 | 3163 | [.java][java-3163] |                |                |                |                |                  | [back to top] |
 | 3217 | [.java][java-3217] |                |                |                |                |                  | [back to top] |
+| 3243 | [.java][java-3243] |                |                |                |                |                  | [back to top] |
 | 3254 | [.java][java-3254] |                |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
@@ -1280,6 +1286,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-0767]: ./python-solutions/0767-reorganize-string/solution.py
 [js-0767]: ./javascript-solutions/0767-reorganize-string/solution.js
 [java-0769]: ./java-solutions/0769-max-chunks-to-make-sorted/src/Solution.java
+[java-0773]: ./java-solutions/0773-sliding-puzzle/src/Solution.java
 [java-0775]: ./java-solutions/0775-global-and-local-inversions/src/Solution.java
 [java-0777]: ./java-solutions/0777-swap-adjacent-in-lr-string/src/Solution.java
 [java-0779]: ./java-solutions/0779-k-th-symbol-in-grammar/src/Solution.java
@@ -1658,6 +1665,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1846]: ./java-solutions/1846-maximum-element-after-decreasing-and-rearranging/src/Solution.java
 [py-1846]: ./python-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.py
 [js-1846]: ./javascript-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.js
+[java-1861]: ./java-solutions/1861-rotating-the-box/src/Solution.java
 [java-1863]: ./java-solutions/1863-sum-of-all-subset-xor-totals/src/Solution.java
 [sql-1873]: ./sql-solutions/1873-calculate-special-bonus/solution.sql
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
@@ -1688,6 +1696,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1963]: ./java-solutions/1963-minimum-number-of-swaps-to-make-the-string-balanced/src/Solution.java
 [sql-1965]: ./sql-solutions/1965-employees-with-missing-information/solution.sql
 [java-1971]: ./java-solutions/1971-find-if-path-exists-in-graph/src/Solution.java
+[java-1975]: ./java-solutions/1975-maximum-matrix-sum/src/Solution.java
 [sql-1978]: ./sql-solutions/1978-employees-whose-manager-left-the-company/solution.sql
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
 [js-1985]: ./javascript-solutions/1985-find-the-kth-largest-integer-in-the-array/solution.js
@@ -1748,6 +1757,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2285]: ./java-solutions/2285-maximum-total-importance-of-roads/src/Solution.java
+[java-2290]: ./java-solutions/2290-minimum-obstacle-removal-to-reach-corner/src/Solution.java
 [java-2303]: ./java-solutions/2303-calculate-amount-paid-in-taxes/src/Solution.java
 [java-2326]: ./java-solutions/2326-spiral-matrix-iv/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
@@ -1861,6 +1871,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2875]: ./java-solutions/2875-maximum-value-of-an-ordered-triplet-i/src/Solution.java
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
 [java-2914]: ./java-solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful/src/Solution.java
+[java-2924]: ./java-solutions/2924-find-champion-ii/src/Solution.java
 [java-2938]: ./java-solutions/2938-separate-black-and-white-balls/src/Solution.java
 [java-2958]: ./java-solutions/2958-length-of-longest-subarray-with-at-most-k-frequency/src/Solution.java
 [java-2962]: ./java-solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times/src/Solution.java
@@ -1880,6 +1891,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3133]: ./java-solutions/3133-minimum-array-end/src/Solution.java
 [java-3163]: ./java-solutions/3163-string-compression-iii/src/Solution.java
 [java-3217]: ./java-solutions/3217-delete-nodes-from-linked-list-present-in-array/src/Solution.java
+[java-3243]: ./java-solutions/3243-shortest-distance-after-road-addition-queries-i/src/Solution.java
 [java-3254]: ./java-solutions/3254-find-the-power-of-k-size-subarrays-i/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
