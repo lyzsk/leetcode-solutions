@@ -784,6 +784,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2461 | [.java][java-2461] |                |                |                |                |                  | [back to top] |
 | 2463 | [.java][java-2463] |                |                |                |                |                  | [back to top] |
 | 2465 | [.java][java-2465] |                |                |                |                |                  | [back to top] |
+| 2466 | [.java][java-2466] |                |                |                |                |                  | [back to top] |
 | 2469 | [.java][java-2469] |                |                |                |                |                  | [back to top] |
 | 2485 | [.java][java-2485] |                |                |                |                |                  | [back to top] |
 | 2486 | [.java][java-2486] |                |                |                |                |                  | [back to top] |
@@ -1855,6 +1856,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2461]: ./java-solutions/2461-maximum-sum-of-distinct-subarrays-with-length-k/src/Solution.java
 [java-2463]: ./java-solutions/2463-minimum-total-distance-traveled/src/Solution.java
 [java-2465]: ./java-solutions/2465-number-of-distinct-averages/src/Solution.java
+[java-2466]: ./java-solutions/2466-count-ways-to-build-good-strings/src/Solution.java
 [java-2469]: ./java-solutions/2469-convert-the-temperature/src/Solution.java
 [java-2485]: ./java-solutions/2485-find-the-pivot-integer/src/Solution.java
 [java-2486]: ./java-solutions/2486-append-characters-to-string-to-make-subsequence/src/Solution.java
