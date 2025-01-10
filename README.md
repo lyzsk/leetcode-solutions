@@ -415,6 +415,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0907 | [.java][java-0907] |                |                |                |                |                  | [back to top] |
 | 0912 | [.java][java-0912] |                |                |                |                |                  | [back to top] |
 | 0915 | [.java][java-0915] |                |                |                |                |                  | [back to top] |
+| 0916 | [.java][java-0916] |                |                |                |                |                  | [back to top] |
 | 0920 | [.java][java-0920] |                |                |                |                |                  | [back to top] |
 | 0921 | [.java][java-0921] |                |                |                |                |                  | [back to top] |
 | 0926 | [.java][java-0926] |                |                |                |                |                  | [back to top] |
@@ -542,6 +543,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1404 | [.java][java-1404] |                |                |                |                |                  | [back to top] |
 | 1405 | [.java][java-1405] |                |                |                |                |                  | [back to top] |
 | 1407 |                    |                |                |                |                | [.sql][sql-1407] | [back to top] |
+| 1408 | [.java][java-1408] |                |                |                |                |                  | [back to top] |
 | 1414 | [.java][java-1414] |                |                |                |                |                  | [back to top] |
 | 1416 | [.java][java-1416] | [.py][py-1416] | [.js][js-1416] |                |                |                  | [back to top] |
 | 1422 | [.java][java-1422] | [.py][py-1422] | [.js][js-1422] |                |                |                  | [back to top] |
@@ -863,6 +865,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3005 | [.java][java-3005] |                |                |                |                |                  | [back to top] |
 | 3011 | [.java][java-3011] |                |                |                |                |                  | [back to top] |
 | 3016 | [.java][java-3016] |                |                |                |                |                  | [back to top] |
+| 3042 | [.java][java-3042] |                |                |                |                |                  | [back to top] |
 | 3043 | [.java][java-3043] | [.py][py-3043] |                |                |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
@@ -1383,6 +1386,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0907]: ./java-solutions/0907-sum-of-subarray-minimums/src/Solution.java
 [java-0912]: ./java-solutions/0912-sort-an-array/src/quicksort/
 [java-0915]: ./java-solutions/0915-partition-array-into-disjoint-intervals/src/Solution.java
+[java-0916]: ./java-solutions/0916-word-subsets/src/Solution.java
 [java-0920]: ./java-solutions/0920-number-of-music-playlists/src/Solution.java
 [java-0921]: ./java-solutions/0921-minimum-add-to-make-parentheses-valid/src/Solution.java
 [java-0926]: ./java-solutions/0926-flip-string-to-monotone-increasing/src/Solution.java
@@ -1543,6 +1547,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1404]: ./java-solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/src/Solution.java
 [java-1405]: ./java-solutions/1405-longest-happy-string/src/Solution.java
 [sql-1407]: ./sql-solutions/1407-top-travellers/solution.sql
+[java-1408]: ./java-solutions/1408-string-matching-in-an-array/src/Solution.java
 [java-1414]: ./java-solutions/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/src/Solution.java
 [java-1416]: ./java-solutions/1416-restore-the-array/src/Solution.java
 [py-1416]: ./python-solutions/1416-restore-the-array/solution.py
@@ -1947,6 +1952,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-3011]: ./java-solutions/3011-find-if-array-can-be-sorted/src/Solution.java
 [java-3016]: ./java-solutions/3016-minimum-number-of-pushes-to-type-word-ii/src/Solution.java
+[java-3042]: ./java-solutions/3042-count-prefix-and-suffix-pairs-i/src/Solution.java
 [java-3043]: ./java-solutions/3043-find-the-length-of-the-longest-common-prefix/src/Solution.java
 [py-3043]: ./python-solutions/3043-find-the-length-of-the-longest-common-prefix/solution.py
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
