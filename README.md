@@ -631,6 +631,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1710 | [.java][java-1710] |                |                |                |                |                  | [back to top] |
 | 1717 | [.java][java-1717] |                |                |                |                |                  | [back to top] |
 | 1721 | [.java][java-1721] |                |                |                |                |                  | [back to top] |
+| 1726 | [.java][java-1726] |                |                |                |                |                  | [back to top] |
 | 1727 | [.java][java-1727] |                |                |                |                |                  | [back to top] |
 | 1729 |                    |                |                |                |                | [.sql][sql-1729] | [back to top] |
 | 1731 |                    |                |                |                |                | [.sql][sql-1731] | [back to top] |
@@ -770,6 +771,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2337 | [.java][java-2337] | [.py][py-2337] |                |                |                |                  | [back to top] |
 | 2342 | [.java][java-2342] |                |                |                |                |                  | [back to top] |
 | 2348 | [.java][java-2348] | [.py][py-2348] | [.js][js-2348] |                | [.go][go-2348] |                  | [back to top] |
+| 2349 | [.java][java-2349] |                |                |                |                |                  | [back to top] |
 | 2351 | [.java][java-2351] |                | [.js][js-2351] |                |                |                  | [back to top] |
 | 2353 | [.java][java-2353] |                |                |                |                |                  | [back to top] |
 | 2356 |                    |                |                |                |                | [.sql][sql-2356] | [back to top] |
@@ -888,10 +890,12 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3097 | [.java][java-3097] |                |                |                |                |                  | [back to top] |
+| 3105 | [.java][java-3105] |                |                |                |                |                  | [back to top] |
 | 3110 | [.java][java-3110] |                |                |                |                |                  | [back to top] |
 | 3133 | [.java][java-3133] |                |                |                |                |                  | [back to top] |
 | 3151 | [.java][java-3151] |                |                |                |                |                  | [back to top] |
 | 3152 | [.java][java-3152] |                |                |                |                |                  | [back to top] |
+| 3160 | [.java][java-3160] |                |                |                |                |                  | [back to top] |
 | 3163 | [.java][java-3163] |                |                |                |                |                  | [back to top] |
 | 3203 | [.java][java-3203] |                |                |                |                |                  | [back to top] |
 | 3217 | [.java][java-3217] |                |                |                |                |                  | [back to top] |
@@ -1679,6 +1683,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1710]: ./java-solutions/1710-maximum-units-on-a-truck/src/Solution.java
 [java-1717]: ./java-solutions/1717-maximum-score-from-removing-substrings/src/Solution.java
 [java-1721]: ./java-solutions/1721-swapping-nodes-in-a-linked-list/src/Solution.java
+[java-1726]: ./java-solutions/1726-tuple-with-same-product/src/Solution.java
 [java-1727]: ./java-solutions/1727-largest-submatrix-with-rearrangements/src/Solution.java
 [sql-1729]: ./sql-solutions/1729-find-followers-count/solution.sql
 [sql-1731]: ./sql-solutions/1731-the-number-of-employees-which-report-to-each-employee/solution.sql
@@ -1852,9 +1857,10 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-2337]: ./python-solutions/2337-move-pieces-to-obtain-a-string/solution.py
 [java-2342]: ./java-solutions/2342-max-sum-of-a-pair-with-equal-sum-of-digits/src/Solution.java
 [java-2348]: ./java-solutions/2348-number-of-zero-filled-subarrays/src/Solution.java
-[go-2348]: ./golang-solutions/2348-number-of-zero-filled-subarrays/solution.go
 [py-2348]: ./python-solutions/2348-number-of-zero-filled-subarrays/solution.py
 [js-2348]: ./javascript-solutions/2348-number-of-zero-filled-subarrays/solution.js
+[go-2348]: ./golang-solutions/2348-number-of-zero-filled-subarrays/solution.go
+[java-2349]: ./java-solutions/2349-design-a-number-container-system/src/NumberContainers.java
 [java-2351]: ./java-solutions/2351-first-letter-to-appear-twice/src/Solution.java
 [js-2351]: ./javascript-solutions/2351-first-letter-to-appear-twice/solution.js
 [java-2353]: ./java-solutions/2353-design-a-food-rating-system/src/FoodRatings.java
@@ -1996,10 +2002,12 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3097]: ./java-solutions/3097-shortest-subarray-with-or-at-least-k-ii/src/Solution.java
+[java-3105]: ./java-solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/src/Solution.java
 [java-3110]: ./java-solutions/3110-score-of-a-string/src/Solution.java
 [java-3133]: ./java-solutions/3133-minimum-array-end/src/Solution.java
 [java-3151]: ./java-solutions/3151-special-array-i/src/Solution.java
 [java-3152]: ./java-solutions/3152-special-array-ii/src/Solution.java
+[java-3160]: ./java-solutions/3160-find-the-number-of-distinct-colors-among-the-balls/src/Solution.java
 [java-3163]: ./java-solutions/3163-string-compression-iii/src/Solution.java
 [java-3203]: ./java-solutions/3203-find-minimum-diameter-after-merging-two-trees/src/Solution.java
 [java-3217]: ./java-solutions/3217-delete-nodes-from-linked-list-present-in-array/src/Solution.java
