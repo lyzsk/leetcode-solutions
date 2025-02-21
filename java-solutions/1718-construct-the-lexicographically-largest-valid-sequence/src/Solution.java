@@ -7,10 +7,10 @@ import java.util.Set;
  * @date 2022/11/18
  **/
 public class Solution {
-    Set<Integer> used;
-    int[] arr;
-    boolean flag;
-    int[] res;
+    private Set<Integer> used;
+    private int[] arr;
+    private boolean flag;
+    private int[] res;
 
     public int[] constructDistancedSequence(int n) {
         int len = n * 2 - 1;
