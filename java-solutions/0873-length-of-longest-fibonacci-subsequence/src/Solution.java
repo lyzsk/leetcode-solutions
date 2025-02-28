@@ -9,7 +9,6 @@ public class Solution {
     public int lenLongestFibSubseq(int[] arr) {
         int n = arr.length;
         int res = 0;
-        // dp[i][j] = arr[i] arr[j] 为后缀的斐波那契序列, i > j
         int[][] dp = new int[n][n];
         Map<Integer, Integer> map = new HashMap<>(n);
         for (int i = 0; i < n; i++) {
