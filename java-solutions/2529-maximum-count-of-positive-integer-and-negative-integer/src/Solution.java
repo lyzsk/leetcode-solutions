@@ -8,23 +8,22 @@
  **/
 public class Solution {
     public int maximumCount(int[] nums) {
-        int neg = 0;
-        int pos = 0;
-        int left = 0;
-        int right = nums.length - 1;
+        int negCnt = binarySearch(nums, 0);
+        int posCnt = nums.length - binarySearch(nums, 1);
+        return Math.max(negCnt, posCnt);
+    }
+
+    private int binarySearch(int[] nums, int target) {
+        int left = 0, right = nums.length - 1, res = nums.length;
         while (left <= right) {
-            if (nums[left] < 0) {
-                ++neg;
-                ++left;
-            }
-            if (nums[right] > 0) {
-                ++pos;
-                --right;
-            }
-            if (nums[left] == 0 && nums[right] == 0) {
-                break;
+            int mid = (left + right) >> 1;
+            if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                res = mid;
+                right = mid - 1;
             }
         }
-        return Math.max(neg, pos);
+        return res;
     }
 }
