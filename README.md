@@ -596,6 +596,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1524 | [.java][java-1524] |                |                |                |                |                  | [back to top] |
 | 1527 |                    |                |                |                |                | [.sql][sql-1527] | [back to top] |
 | 1530 | [.java][java-1530] |                |                |                |                |                  | [back to top] |
+| 1534 | [.java][java-1534] |                |                |                |                |                  | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |                |                |                  | [back to top] |
 | 1544 | [.java][java-1544] |                |                |                |                |                  | [back to top] |
 | 1545 | [.java][java-1545] |                |                |                |                |                  | [back to top] |
@@ -763,6 +764,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2140 | [.java][java-2140] |                |                |                |                |                  | [back to top] |
 | 2149 | [.java][java-2149] |                |                |                |                |                  | [back to top] |
 | 2161 | [.java][java-2161] |                |                |                |                |                  | [back to top] |
+| 2176 | [.java][java-2176] |                |                |                |                |                  | [back to top] |
+| 2179 | [.java][java-2179] |                |                |                |                |                  | [back to top] |
 | 2180 | [.java][java-2180] |                |                |                |                |                  | [back to top] |
 | 2181 | [.java][java-2181] |                |                |                |                |                  | [back to top] |
 | 2182 | [.java][java-2182] |                |                |                |                |                  | [back to top] |
@@ -849,6 +852,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2529 | [.java][java-2529] |                |                |                |                |                  | [back to top] |
 | 2530 | [.java][java-2530] |                |                |                |                |                  | [back to top] |
 | 2531 | [.java][java-2531] |                |                |                |                |                  | [back to top] |
+| 2537 | [.java][java-2537] |                |                |                |                |                  | [back to top] |
 | 2540 | [.java][java-2540] |                | [.js][js-2540] |                |                |                  | [back to top] |
 | 2541 | [.java][java-2541] |                |                |                |                |                  | [back to top] |
 | 2542 | [.java][java-2542] |                |                |                |                |                  | [back to top] |
@@ -1695,6 +1699,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1524]: ./java-solutions/1524-number-of-sub-arrays-with-odd-sum/src/Solution.java
 [sql-1527]: ./sql-solutions/1527-patients-with-a-condition/solution.sql
 [java-1530]: ./java-solutions/1530-number-of-good-leaf-nodes-pairs/src/Solution.java
+[java-1534]: ./java-solutions/1534-count-good-triplets/src/Solution.java
 [java-1535]: ./java-solutions/1535-find-the-winner-of-an-array-game/src/Solution.java
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
 [js-1535]: ./javascript-solutions/1535-find-the-winner-of-an-array-game/solution.js
@@ -1897,6 +1902,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2140]: ./java-solutions/2140-solving-questions-with-brainpower/src/Solution.java
 [java-2149]: ./java-solutions/2149-rearrange-array-elements-by-sign/src/Solution.java
 [java-2161]: ./java-solutions/2161-partition-array-according-to-given-pivot/src/Solution.java
+[java-2176]: ./java-solutions/2176-count-equal-and-divisible-pairs-in-an-array/src/Solution.java
+[java-2179]: ./java-solutions/2179-count-good-triplets-in-an-array/src/Solution.java
 [java-2180]: ./java-solutions/2180-count-integers-with-even-digit-sum/src/Solution.java
 [java-2181]: ./java-solutions/2181-merge-nodes-in-between-zeros/src/Solution.java
 [java-2182]: ./java-solutions/2182-construct-string-with-repeat-limit/src/Solution.java
@@ -2005,6 +2012,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2529]: ./java-solutions/2529-maximum-count-of-positive-integer-and-negative-integer/src/Solution.java
 [java-2530]: ./java-solutions/2530-maximal-score-after-applying-k-operations/src/Solution.java
 [java-2531]: ./java-solutions/2531-make-number-of-distinct-characters-equal/src/Solution.java
+[java-2537]: ./java-solutions/2537-count-the-number-of-good-subarrays/src/Solution.java
 [java-2540]: ./java-solutions/2540-minimum-common-value/src/Solution.java
 [js-2540]: ./javascript-solutions/2540-minimum-common-value/solution.js
 [java-2541]: ./java-solutions/2541-minimum-operations-to-make-array-equal-ii/src/Solution.java
