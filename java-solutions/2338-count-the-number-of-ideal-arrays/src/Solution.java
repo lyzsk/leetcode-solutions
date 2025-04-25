@@ -1,0 +1,61 @@
+/**
+ * @author sichu huang
+ * @since 2025/04/22 13:26
+ */
+public class Solution {
+    private static final int mod = (int)(1e9 + 7);
+    private final int[] factMemo = new int[100000];
+    private final int[][] dp = new int[100000][15];
+
+    private long power(long a, long b, long m) {
+        long res = 1;
+        while (b > 0) {
+            if ((b & 1) == 1) {
+                res = (res * a) % m;
+            }
+            a = (a * a) % m;
+            b >>= 1;
+        }
+        return res;
+    }
+
+    private long fact(int x) {
+        if (x == 0) {
+            return 1;
+        }
+        if (factMemo[x] != 0) {
+            return factMemo[x];
+        }
+        factMemo[x] = (int)((x * fact(x - 1)) % mod);
+        return factMemo[x];
+    }
+
+    private long modInv(int a, int b) {
+        return fact(a) * power(fact(b), mod - 2, mod) % mod * power(fact(a - b), mod - 2, mod)
+            % mod;
+    }
+
+    public int idealArrays(int n, int maxValue) {
+        int m = Math.min(n, 14);
+        for (int i = 1; i <= maxValue; i++) {
+            for (int j = 1; j <= m; j++) {
+                dp[i][j] = 0;
+            }
+        }
+        for (int i = 1; i <= maxValue; i++) {
+            dp[i][1] = 1;
+            for (int j = 2; i * j <= maxValue; j++) {
+                for (int k = 1; k < m; k++) {
+                    dp[i * j][k + 1] += dp[i][k];
+                }
+            }
+        }
+        long res = 0;
+        for (int i = 1; i <= maxValue; i++) {
+            for (int j = 1; j <= m; j++) {
+                res = (res + modInv(n - 1, n - j) * dp[i][j]) % mod;
+            }
+        }
+        return (int)res;
+    }
+}
