@@ -490,6 +490,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1122 | [.java][java-1122] |                |                |                |                |                  | [back to top] |
 | 1123 | [.java][java-1123] |                |                |                |                |                  | [back to top] |
 | 1124 | [.java][java-1124] |                |                |                |                |                  | [back to top] |
+| 1128 | [.java][java-1128] |                |                |                |                |                  | [back to top] |
 | 1137 | [.java][java-1137] |                |                |                |                |                  | [back to top] |
 | 1138 | [.java][java-1138] |                |                |                |                |                  | [back to top] |
 | 1139 | [.java][java-1139] |                |                |                |                |                  | [back to top] |
@@ -716,6 +717,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1910 | [.java][java-1910] |                |                |                |                |                  | [back to top] |
 | 1913 | [.java][java-1913] |                |                |                |                |                  | [back to top] |
 | 1915 | [.java][java-1915] |                |                |                |                |                  | [back to top] |
+| 1920 | [.java][java-1920] |                |                |                |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |                |                |                  | [back to top] |
 | 1926 | [.java][java-1926] |                |                |                |                |                  | [back to top] |
 | 1930 | [.java][java-1930] |                |                |                |                |                  | [back to top] |
@@ -966,6 +968,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3272 | [.java][java-3272] |                |                |                |                |                  | [back to top] |
 | 3264 | [.java][java-3264] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
+| 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
 | 3356 | [.java][java-3356] |                |                |                |                |                  | [back to top] |
 | 3375 | [.java][java-3375] |                |                |                |                |                  | [back to top] |
 | 3392 | [.java][java-3392] |                |                |                |                |                  | [back to top] |
@@ -1574,6 +1577,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1122]: ./java-solutions/1122-relative-sort-array/src/Solution.java
 [java-1123]: ./java-solutions/1123-lowest-common-ancestor-of-deepest-leaves/src/Solution.java
 [java-1124]: ./java-solutions/1124-longest-well-performing-interval/src/Solution.java
+[java-1128]: ./java-solutions/1128-number-of-equivalent-domino-pairs/src/Solution.java
 [java-1137]: ./java-solutions/1137-n-th-tribonacci-number/src/Solution.java
 [java-1138]: ./java-solutions/1138-alphabet-board-path/src/Solution.java
 [java-1139]: ./java-solutions/1139-largest-1-bordered-square/src/Solution.java
@@ -1856,6 +1860,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1910]: ./java-solutions/1910-remove-all-occurrences-of-a-substring/src/Solution.java
 [java-1913]: ./java-solutions/1913-maximum-product-difference-between-two-pairs/src/Solution.java
 [java-1915]: ./java-solutions/1915-number-of-wonderful-substrings/src/Solution.java
+[java-1920]: ./java-solutions/1920-build-array-from-permutation/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1930]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
@@ -2145,6 +2150,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3272]: ./java-solutions/3272-find-the-count-of-good-integers/src/Solution.java
 [java-3264]: ./java-solutions/3264-final-array-state-after-k-multiplication-operations-i/src/Solution.java
 [java-3306]: ./java-solutions/3306-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
+[java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
 [java-3356]: ./java-solutions/3356-zero-array-transformation-ii/src/Solution.java
 [java-3375]: ./java-solutions/3375-minimum-operations-to-make-array-values-equal-to-k/src/Solution.java
 [java-3392]: ./java-solutions/3392-count-subarrays-of-length-three-with-a-condition/src/Solution.java
