@@ -756,6 +756,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2071 | [.java][java-2071] |                |                |                |                |                  | [back to top] |
 | 2073 | [.java][java-2073] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
+| 2094 | [.java][java-2094] |                |                |                |                |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |                |                |                  | [back to top] |
 | 2096 | [.java][java-2096] |                |                |                |                |                  | [back to top] |
 | 2097 | [.java][java-2097] |                |                |                |                |                  | [back to top] |
@@ -925,7 +926,9 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2872 | [.java][java-2872] |                |                |                |                |                  | [back to top] |
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |                |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |                |                |                  | [back to top] |
+| 2900 | [.java][java-2900] |                |                |                |                |                  | [back to top] |
 | 2914 | [.java][java-2914] |                |                |                |                |                  | [back to top] |
+| 2918 | [.java][java-2918] |                |                |                |                |                  | [back to top] |
 | 2924 | [.java][java-2924] |                |                |                |                |                  | [back to top] |
 | 2938 | [.java][java-2938] |                |                |                |                |                  | [back to top] |
 | 2940 | [.java][java-2940] |                |                |                |                |                  | [back to top] |
@@ -968,7 +971,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3272 | [.java][java-3272] |                |                |                |                |                  | [back to top] |
 | 3264 | [.java][java-3264] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
+| 3335 | [.java][java-3335] |                |                |                |                |                  | [back to top] |
+| 3337 | [.java][java-3337] |                |                |                |                |                  | [back to top] |
 | 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
+| 3342 | [.java][java-3342] |                |                |                |                |                  | [back to top] |
+| 3343 | [.java][java-3343] |                |                |                |                |                  | [back to top] |
 | 3356 | [.java][java-3356] |                |                |                |                |                  | [back to top] |
 | 3375 | [.java][java-3375] |                |                |                |                |                  | [back to top] |
 | 3392 | [.java][java-3392] |                |                |                |                |                  | [back to top] |
@@ -1906,6 +1913,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2071]: ./java-solutions/2071-maximum-number-of-tasks-you-can-assign/src/Solution.java
 [java-2073]: ./java-solutions/2073-time-needed-to-buy-tickets/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
+[java-2094]: ./java-solutions/2094-finding-3-digit-even-numbers/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
 [java-2096]: ./java-solutions/2096-step-by-step-directions-from-a-binary-tree-node-to-another/src/Solution.java
 [java-2097]: ./java-solutions/2097-valid-arrangement-of-pairs/src/Solution.java
@@ -2106,7 +2114,9 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-2874]: ./python-solutions/2874-maximum-value-of-an-ordered-triplet-ii/solution.py
 [java-2875]: ./java-solutions/2875-maximum-value-of-an-ordered-triplet-i/src/Solution.java
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
+[java-2900]: ./java-solutions/2900-longest-unequal-adjacent-groups-subsequence-i/src/Solution.java
 [java-2914]: ./java-solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful/src/Solution.java
+[java-2918]: ./java-solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/src/Solution.java
 [java-2924]: ./java-solutions/2924-find-champion-ii/src/Solution.java
 [java-2938]: ./java-solutions/2938-separate-black-and-white-balls/src/Solution.java
 [java-2940]: ./java-solutions/2940-find-building-where-alice-and-bob-can-meet/src/Solution.java
@@ -2150,7 +2160,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3272]: ./java-solutions/3272-find-the-count-of-good-integers/src/Solution.java
 [java-3264]: ./java-solutions/3264-final-array-state-after-k-multiplication-operations-i/src/Solution.java
 [java-3306]: ./java-solutions/3306-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
+[java-3335]: ./java-solutions/3335-total-characters-in-string-after-transformations-i/src/Solution.java
+[java-3337]: ./java-solutions/3337-total-characters-in-string-after-transformations-ii/src/Solution.java
 [java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
+[java-3342]: ./java-solutions/3342-find-minimum-time-to-reach-last-room-ii/src/Solution.java
+[java-3343]: ./java-solutions/3343-count-number-of-balanced-permutations/src/Solution.java
 [java-3356]: ./java-solutions/3356-zero-array-transformation-ii/src/Solution.java
 [java-3375]: ./java-solutions/3375-minimum-operations-to-make-array-values-equal-to-k/src/Solution.java
 [java-3392]: ./java-solutions/3392-count-subarrays-of-length-three-with-a-condition/src/Solution.java
