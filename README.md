@@ -309,6 +309,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0589 | [.java][java-0589] |                |                |                |                |                  | [back to top] |
 | 0590 | [.java][java-0590] |                |                |                |                |                  | [back to top] |
 | 0592 | [.java][java-0592] |                |                |                |                |                  | [back to top] |
+| 0594 | [.java][java-0594] |                |                |                |                |                  | [back to top] |
 | 0595 |                    |                |                |                |                | [.sql][sql-0595] | [back to top] |
 | 0596 |                    |                |                |                |                | [.sql][sql-0596] | [back to top] |
 | 0598 | [.java][java-0598] |                |                |                |                |                  | [back to top] |
@@ -562,6 +563,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
+| 1394 | [.java][java-1394] |                |                |                |                |                  | [back to top] |
 | 1395 | [.java][java-1395] |                |                |                |                |                  | [back to top] |
 | 1399 | [.java][java-1399] |                |                |                |                |                  | [back to top] |
 | 1400 | [.java][java-1400] |                |                |                |                |                  | [back to top] |
@@ -997,7 +999,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3254 | [.java][java-3254] |                |                |                |                |                  | [back to top] |
 | 3272 | [.java][java-3272] |                |                |                |                |                  | [back to top] |
 | 3264 | [.java][java-3264] |                |                |                |                |                  | [back to top] |
+| 3304 | [.java][java-3304] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
+| 3307 | [.java][java-3307] |                |                |                |                |                  | [back to top] |
+| 3330 | [.java][java-3330] |                |                |                |                |                  | [back to top] |
+| 3333 | [.java][java-3333] |                |                |                |                |                  | [back to top] |
 | 3335 | [.java][java-3335] |                |                |                |                |                  | [back to top] |
 | 3337 | [.java][java-3337] |                |                |                |                |                  | [back to top] |
 | 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
@@ -1355,6 +1361,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0589]: ./java-solutions/0589-n-ary-tree-preorder-traversal/src/Solution.java
 [java-0590]: ./java-solutions/0590-n-ary-tree-postorder-traversal/src/Solution.java
 [java-0592]: ./java-solutions/0592-fraction-addition-and-subtraction/src/Solution.java
+[java-0594]: ./java-solutions/0594-longest-harmonious-subsequence/src/Solution.java
 [sql-0595]: ./sql-solutions/0595-big-countries/solution.sql
 [sql-0596]: ./sql-solutions/0596-classes-more-than-5-students/solution.sql
 [java-0598]: ./java-solutions/0598-range-addition-ii/src/Solution.java
@@ -1705,6 +1712,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1381]: ./java-solutions/1381-design-a-stack-with-increment-operation/src/Solution.java
 [java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
+[java-1394]: ./java-solutions/1394-find-lucky-integer-in-an-array/src/Solution.java
 [java-1395]: ./java-solutions/1395-count-number-of-teams/src/Solution.java
 [java-1399]: ./java-solutions/1399-count-largest-group/src/Solution.java
 [java-1400]: ./java-solutions/1400-construct-k-palindrome-strings/src/Solution.java
@@ -2224,7 +2232,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3254]: ./java-solutions/3254-find-the-power-of-k-size-subarrays-i/src/Solution.java
 [java-3272]: ./java-solutions/3272-find-the-count-of-good-integers/src/Solution.java
 [java-3264]: ./java-solutions/3264-final-array-state-after-k-multiplication-operations-i/src/Solution.java
+[java-3304]: ./java-solutions/3304-find-the-k-th-character-in-string-game-i/src/Solution.java
 [java-3306]: ./java-solutions/3306-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
+[java-3307]: ./java-solutions/3307-find-the-k-th-character-in-string-game-ii/src/Solution.java
+[java-3330]: ./java-solutions/3330-find-the-original-typed-string-i/src/Solution.java
+[java-3333]: ./java-solutions/3333-find-the-original-typed-string-ii/src/Solution.java
 [java-3335]: ./java-solutions/3335-total-characters-in-string-after-transformations-i/src/Solution.java
 [java-3337]: ./java-solutions/3337-total-characters-in-string-after-transformations-ii/src/Solution.java
 [java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
