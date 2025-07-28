@@ -3,8 +3,8 @@
  * @since 2024/10/18 12:21
  */
 public class Solution {
-    int[] nums;
-    int maxOr, cnt;
+    private int[] nums;
+    private int maxOr, cnt;
 
     public int countMaxOrSubsets(int[] nums) {
         this.nums = nums;
