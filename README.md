@@ -947,6 +947,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2593 | [.java][java-2593] |                |                |                |                |                  | [back to top] |
 | 2594 | [.java][java-2594] |                |                |                |                |                  | [back to top] |
 | 2596 | [.java][java-2596] | [.py][py-2596] |                |                |                |                  | [back to top] |
+| 2598 | [.java][java-2598] |                |                |                |                |                  | [back to top] |
 | 2601 | [.java][java-2601] |                |                |                |                |                  | [back to top] |
 | 2610 | [.java][java-2610] |                |                |                |                |                  | [back to top] |
 | 2616 | [.java][java-2616] |                |                |                |                |                  | [back to top] |
@@ -972,6 +973,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2751 | [.java][java-2751] |                |                |                |                |                  | [back to top] |
 | 2762 | [.java][java-2762] |                |                |                |                |                  | [back to top] |
 | 2270 | [.java][java-2270] |                |                |                |                |                  | [back to top] |
+| 2273 | [.java][java-2273] |                |                |                |                |                  | [back to top] |
 | 2779 | [.java][java-2779] |                |                |                |                |                  | [back to top] |
 | 2780 | [.java][java-2780] |                |                |                |                |                  | [back to top] |
 | 2785 | [.java][java-2785] |                |                |                |                |                  | [back to top] |
@@ -1058,6 +1060,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3254 | [.java][java-3254] |                |                |                |                |                  | [back to top] |
 | 3272 | [.java][java-3272] |                |                |                |                |                  | [back to top] |
 | 3264 | [.java][java-3264] |                |                |                |                |                  | [back to top] |
+| 3303 | [.java][java-3303] |                |                |                |                |                  | [back to top] |
 | 3304 | [.java][java-3304] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
 | 3307 | [.java][java-3307] |                |                |                |                |                  | [back to top] |
@@ -1068,6 +1071,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
 | 3342 | [.java][java-3342] |                |                |                |                |                  | [back to top] |
 | 3343 | [.java][java-3343] |                |                |                |                |                  | [back to top] |
+| 3349 | [.java][java-3349] |                |                |                |                |                  | [back to top] |
+| 3350 | [.java][java-3350] |                |                |                |                |                  | [back to top] |
 | 3355 | [.java][java-3355] |                |                |                |                |                  | [back to top] |
 | 3356 | [.java][java-3356] |                |                |                |                |                  | [back to top] |
 | 3362 | [.java][java-3362] |                |                |                |                |                  | [back to top] |
@@ -1078,6 +1083,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3392 | [.java][java-3392] |                |                |                |                |                  | [back to top] |
 | 3394 | [.java][java-3394] |                |                |                |                |                  | [back to top] |
 | 3396 | [.java][java-3396] |                |                |                |                |                  | [back to top] |
+| 3397 | [.java][java-3397] |                |                |                |                |                  | [back to top] |
 | 3403 | [.java][java-3403] |                |                |                |                |                  | [back to top] |
 | 3405 | [.java][java-3405] |                |                |                |                |                  | [back to top] |
 | 3408 | [.java][java-3408] |                |                |                |                |                  | [back to top] |
@@ -2249,6 +2255,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2594]: ./java-solutions/2594-minimum-time-to-repair-cars/src/Solution.java
 [java-2596]: ./java-solutions/2596-check-knight-tour-configuration/src/Solution.java
 [py-2596]: ./python-solutions/2596-check-knight-tour-configuration/solution.py
+[java-2598]: ./java-solutions/2598-smallest-missing-non-negative-integer-after-operations/src/Solution.java
 [java-2601]: ./java-solutions/2601-prime-subtraction-operation/src/Solution.java
 [java-2610]: ./java-solutions/2610-convert-an-array-into-a-2d-array-with-conditions/src/Solution.java
 [java-2616]: ./java-solutions/2616-minimize-the-maximum-difference-of-pairs/src/Solution.java
@@ -2274,6 +2281,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2751]: ./java-solutions/2751-robot-collisions/src/Solution.java
 [java-2762]: ./java-solutions/2762-continuous-subarrays/src/Solution.java
 [java-2270]: ./java-solutions/2270-number-of-ways-to-split-array/src/Solution.java
+[java-2273]: ./java-solutions/2273-find-resultant-array-after-removing-anagrams/src/Solution.java
 [java-2779]: ./java-solutions/2779-maximum-beauty-of-an-array-after-applying-operation/src/Solution.java
 [java-2780]: ./java-solutions/2780-minimum-index-of-a-valid-split/src/Solution.java
 [java-2785]: ./java-solutions/2785-sort-vowels-in-a-string/src/Solution.java
@@ -2366,6 +2374,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3254]: ./java-solutions/3254-find-the-power-of-k-size-subarrays-i/src/Solution.java
 [java-3272]: ./java-solutions/3272-find-the-count-of-good-integers/src/Solution.java
 [java-3264]: ./java-solutions/3264-final-array-state-after-k-multiplication-operations-i/src/Solution.java
+[java-3303]: ./java-solutions/3303-maximize-the-number-of-partitions-after-operations/src/Solution.java
 [java-3304]: ./java-solutions/3304-find-the-k-th-character-in-string-game-i/src/Solution.java
 [java-3306]: ./java-solutions/3306-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
 [java-3307]: ./java-solutions/3307-find-the-k-th-character-in-string-game-ii/src/Solution.java
@@ -2376,6 +2385,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
 [java-3342]: ./java-solutions/3342-find-minimum-time-to-reach-last-room-ii/src/Solution.java
 [java-3343]: ./java-solutions/3343-count-number-of-balanced-permutations/src/Solution.java
+[java-3349]: ./java-solutions/3349-adjacent-increasing-subarrays-detection-i/src/Solution.java
+[java-3350]: ./java-solutions/3350-adjacent-increasing-subarrays-detection-ii/src/Solution.java
 [java-3355]: ./java-solutions/3355-zero-array-transformation-i/src/Solution.java
 [java-3356]: ./java-solutions/3356-zero-array-transformation-ii/src/Solution.java
 [java-3362]: ./java-solutions/3362-zero-array-transformation-iii/src/Solution.java
@@ -2386,6 +2397,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3392]: ./java-solutions/3392-count-subarrays-of-length-three-with-a-condition/src/Solution.java
 [java-3394]: ./java-solutions/3394-check-if-grid-can-be-cut-into-sections/src/Solution.java
 [java-3396]: ./java-solutions/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/src/Solution.java
+[java-3397]: ./java-solutions/3397-maximum-number-of-distinct-elements-after-operations/src/Solution.java
 [java-3403]: ./java-solutions/3403-find-the-lexicographically-largest-string-from-the-box-i/src/Solution.java
 [java-3405]: ./java-solutions/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements/src/Solution.java
 [java-3408]: ./java-solutions/3408-design-task-manager/src/TaskManager.java

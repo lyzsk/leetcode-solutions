@@ -1,0 +1,36 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * @author sichu huang
+ * @since 2025/10/13 22:36
+ */
+public class Solution {
+    public List<String> removeAnagrams(String[] words) {
+        List<String> res = new ArrayList<>();
+        res.add(words[0]);
+        int n = words.length;
+        for (int i = 1; i < n; i++) {
+            if (!compare(words[i], words[i - 1])) {
+                res.add(words[i]);
+            }
+        }
+        return res;
+    }
+
+    private boolean compare(String word1, String word2) {
+        int[] freq = new int[26];
+        for (char ch : word1.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+        for (char ch : word2.toCharArray()) {
+            freq[ch - 'a']--;
+        }
+        for (int x : freq) {
+            if (x != 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
