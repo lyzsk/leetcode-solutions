@@ -14,19 +14,5 @@ public class Solution {
             ++res;
         }
         return res;
-
-        // int res = 1;
-        // int resid = 1 % k;
-        // Set<Integer> set = new HashSet<>();
-        // set.add(resid);
-        // while (resid != 0) {
-        //     resid = (resid * 10 + 1) % k;
-        //     ++res;
-        //     if (set.contains(resid)) {
-        //         return -1;
-        //     }
-        //     set.add(resid);
-        // }
-        // return res;
     }
 }

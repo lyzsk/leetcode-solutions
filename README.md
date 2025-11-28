@@ -481,6 +481,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1007 | [.java][java-1007] |                |                |                |                |                  | [back to top] |
 | 1014 | [.java][java-1014] |                |                |                |                |                  | [back to top] |
 | 1015 | [.java][java-1015] |                |                |                |                |                  | [back to top] |
+| 1018 | [.java][java-1018] |                |                |                |                |                  | [back to top] |
 | 1026 | [.java][java-1026] | [.py][py-1026] | [.js][js-1026] |                | [.go][go-1026] |                  | [back to top] |
 | 1027 | [.java][java-1027] | [.py][py-1027] | [.js][js-1027] |                | [.go][go-1027] |                  | [back to top] |
 | 1028 | [.java][java-1028] |                |                |                |                |                  | [back to top] |
@@ -913,6 +914,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2429 | [.java][java-2429] |                |                |                |                |                  | [back to top] |
 | 2433 | [.java][java-2433] | [.py][py-2433] |                |                |                |                  | [back to top] |
 | 2434 | [.java][java-2434] |                |                |                |                |                  | [back to top] |
+| 2435 | [.java][java-2435] |                |                |                |                |                  | [back to top] |
 | 2437 | [.java][java-2437] | [.py][py-2437] | [.js][js-2437] |                |                |                  | [back to top] |
 | 2438 | [.java][java-2438] |                |                |                |                |                  | [back to top] |
 | 2441 | [.java][java-2441] |                |                |                |                |                  | [back to top] |
@@ -1107,6 +1109,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3372 | [.java][java-3372] |                |                |                |                |                  | [back to top] |
 | 3373 | [.java][java-3373] |                |                |                |                |                  | [back to top] |
 | 3375 | [.java][java-3375] |                |                |                |                |                  | [back to top] |
+| 3381 | [.java][java-3381] |                |                |                |                |                  | [back to top] |
 | 3392 | [.java][java-3392] |                |                |                |                |                  | [back to top] |
 | 3394 | [.java][java-3394] |                |                |                |                |                  | [back to top] |
 | 3396 | [.java][java-3396] |                |                |                |                |                  | [back to top] |
@@ -1713,6 +1716,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1007]: ./java-solutions/1007-minimum-domino-rotations-for-equal-row/src/Solution.java
 [java-1014]: ./java-solutions/1014-best-sightseeing-pair/src/Solution.java
 [java-1015]: ./java-solutions/1015-smallest-integer-divisible-by-k/src/Solution.java
+[java-1018]: ./java-solutions/1018-binary-prefix-divisible-by-5/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [go-1026]: ./golang-solutions/1026-maximum-difference-between-node-and-ancestor/solution.go
 [py-1026]: ./python-solutions/1026-maximum-difference-between-node-and-ancestor/solution.py
@@ -2244,6 +2248,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2433]: ./java-solutions/2433-find-the-original-array-of-prefix-xor/src/Solution.java
 [py-2433]: ./python-solutions/2433-find-the-original-array-of-prefix-xor/solution.py
 [java-2434]: ./java-solutions/2434-using-a-robot-to-print-the-lexicographically-smallest-string/src/Solution.java
+[java-2435]: ./java-solutions/2435-paths-in-matrix-whose-sum-is-divisible-by-k/src/Solution.java
 [java-2437]: ./java-solutions/2437-number-of-valid-clock-times/src/Solution.java
 [py-2437]: ./python-solutions/2437-number-of-valid-clock-times/solution.py
 [js-2437]: ./javascript-solutions/2437-number-of-valid-clock-times/solution.js
@@ -2451,6 +2456,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3372]: ./java-solutions/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/src/Solution.java
 [java-3373]: ./java-solutions/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/src/Solution.java
 [java-3375]: ./java-solutions/3375-minimum-operations-to-make-array-values-equal-to-k/src/Solution.java
+[java-3381]: ./java-solutions/3381-maximum-subarray-sum-with-length-divisible-by-k/src/Solution.java
 [java-3392]: ./java-solutions/3392-count-subarrays-of-length-three-with-a-condition/src/Solution.java
 [java-3394]: ./java-solutions/3394-check-if-grid-can-be-cut-into-sections/src/Solution.java
 [java-3396]: ./java-solutions/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/src/Solution.java

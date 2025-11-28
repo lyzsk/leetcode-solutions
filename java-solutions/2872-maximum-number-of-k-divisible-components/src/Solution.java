@@ -6,16 +6,14 @@ import java.util.List;
  * @since 2024/12/21 17:37
  */
 public class Solution {
-    int components = 0;
-    int n;
-    int[] values;
-    int k;
-    List<Integer>[] adjacentArr;
-    List<Integer>[] childrenArr;
-    boolean[] visited;
+    private int components = 0;
+    private int[] values;
+    private int k;
+    private List<Integer>[] adjacentArr;
+    private List<Integer>[] childrenArr;
+    private boolean[] visited;
 
     public int maxKDivisibleComponents(int n, int[][] edges, int[] values, int k) {
-        this.n = n;
         this.values = values;
         this.k = k;
         this.childrenArr = new List[n];
