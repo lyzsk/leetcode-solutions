@@ -767,6 +767,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1915 | [.java][java-1915] |                |                |                |                |                  | [back to top] |
 | 1920 | [.java][java-1920] |                |                |                |                |                  | [back to top] |
 | 1921 | [.java][java-1921] |                |                |                |                |                  | [back to top] |
+| 1922 | [.java][java-1922] |                |                |                |                |                  | [back to top] |
+| 1925 | [.java][java-1925] |                |                |                |                |                  | [back to top] |
 | 1926 | [.java][java-1926] |                |                |                |                |                  | [back to top] |
 | 1930 | [.java][java-1930] |                |                |                |                |                  | [back to top] |
 | 1931 | [.java][java-1931] |                |                |                |                |                  | [back to top] |
@@ -834,6 +836,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2140 | [.java][java-2140] |                |                |                |                |                  | [back to top] |
 | 2141 | [.java][java-2141] |                |                |                |                |                  | [back to top] |
 | 2145 | [.java][java-2145] |                |                |                |                |                  | [back to top] |
+| 2147 | [.java][java-2147] |                |                |                |                |                  | [back to top] |
 | 2149 | [.java][java-2149] |                |                |                |                |                  | [back to top] |
 | 2154 | [.java][java-2154] |                |                |                |                |                  | [back to top] |
 | 2161 | [.java][java-2161] |                |                |                |                |                  | [back to top] |
@@ -1121,6 +1124,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3408 | [.java][java-3408] |                |                |                |                |                  | [back to top] |
 | 3423 | [.java][java-3423] |                |                |                |                |                  | [back to top] |
 | 3432 | [.java][java-3432] |                |                |                |                |                  | [back to top] |
+| 3433 | [.java][java-3433] |                |                |                |                |                  | [back to top] |
 | 3439 | [.java][java-3439] |                |                |                |                |                  | [back to top] |
 | 3440 | [.java][java-3440] |                |                |                |                |                  | [back to top] |
 | 3442 | [.java][java-3442] |                |                |                |                |                  | [back to top] |
@@ -1139,10 +1143,14 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3508 | [.java][java-3508] |                |                |                |                |                  | [back to top] |
 | 3512 | [.java][java-3512] |                |                |                |                |                  | [back to top] |
 | 3516 | [.java][java-3516] |                |                |                |                |                  | [back to top] |
+| 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3539 | [.java][java-3539] |                |                |                |                |                  | [back to top] |
 | 3541 | [.java][java-3541] |                |                |                |                |                  | [back to top] |
 | 3542 | [.java][java-3542] |                |                |                |                |                  | [back to top] |
+| 3577 | [.java][java-3577] |                |                |                |                |                  | [back to top] |
 | 3578 | [.java][java-3578] |                |                |                |                |                  | [back to top] |
+| 3583 | [.java][java-3583] |                |                |                |                |                  | [back to top] |
+| 3606 | [.java][java-3606] |                |                |                |                |                  | [back to top] |
 | 3607 | [.java][java-3607] |                |                |                |                |                  | [back to top] |
 | 3623 | [.java][java-3623] |                |                |                |                |                  | [back to top] |
 | 3625 | [.java][java-3625] |                |                |                |                |                  | [back to top] |
@@ -2081,6 +2089,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1915]: ./java-solutions/1915-number-of-wonderful-substrings/src/Solution.java
 [java-1920]: ./java-solutions/1920-build-array-from-permutation/src/Solution.java
 [java-1921]: ./java-solutions/1921-eliminate-maximum-number-of-monsters/src/Solution.java
+[java-1922]: ./java-solutions/1922-count-good-numbers/src/Solution.java
+[java-1925]: ./java-solutions/1925-count-square-sum-triples/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
 [java-1930]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
 [java-1931]: ./java-solutions/1931-painting-a-grid-with-three-different-colors/src/Solution.java
@@ -2158,6 +2168,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2140]: ./java-solutions/2140-solving-questions-with-brainpower/src/Solution.java
 [java-2141]: ./java-solutions/2141-maximum-running-time-of-n-computers/src/Solution.java
 [java-2145]: ./java-solutions/2145-count-the-hidden-sequences/src/Solution.java
+[java-2147]: ./java-solutions/2147-number-of-ways-to-divide-a-long-corridor/src/Solution.java
 [java-2149]: ./java-solutions/2149-rearrange-array-elements-by-sign/src/Solution.java
 [java-2154]: ./java-solutions/2154-keep-multiplying-found-values-by-two/src/Solution.java
 [java-2161]: ./java-solutions/2161-partition-array-according-to-given-pivot/src/Solution.java
@@ -2475,6 +2486,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3408]: ./java-solutions/3408-design-task-manager/src/TaskManager.java
 [java-3423]: ./java-solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/src/Solution.java
 [java-3432]: ./java-solutions/3432-count-partitions-with-even-sum-difference/src/Solution.java
+[java-3433]: ./java-solutions/3433-count-mentions-per-user/src/Solution.java
 [java-3439]: ./java-solutions/3439-reschedule-meetings-for-maximum-free-time-i/src/Solution.java
 [java-3440]: ./java-solutions/3440-reschedule-meetings-for-maximum-free-time-ii/src/Solution.java
 [java-3442]: ./java-solutions/3442-maximum-difference-between-even-and-odd-frequency-i/src/Solution.java
@@ -2493,10 +2505,14 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3508]: ./java-solutions/3508-implement-router/src/Router.java
 [java-3512]: ./java-solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/src/Solution.java
 [java-3516]: ./java-solutions/3516-find-closest-person/src/Solution.java
+[java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3539]: ./java-solutions/3539-find-sum-of-array-product-of-magical-sequences/src/Solution.java
 [java-3541]: ./java-solutions/3541-find-most-frequent-vowel-and-consonant/src/Solution.java
 [java-3542]: ./java-solutions/3542-minimum-operations-to-convert-all-elements-to-zero/src/Solution.java
+[java-3577]: ./java-solutions/3577-count-the-number-of-computer-unlocking-permutations/src/Solution.java
 [java-3578]: ./java-solutions/3578-count-partitions-with-max-min-difference-at-most-k/src/Solution.java
+[java-3583]: ./java-solutions/3583-count-special-triplets/src/Solution.java
+[java-3606]: ./java-solutions/3606-coupon-code-validator/src/Solution.java
 [java-3607]: ./java-solutions/3607-power-grid-maintenance/src/Solution.java
 [java-3623]: ./java-solutions/3623-count-number-of-trapezoids-i/src/Solution.java
 [java-3625]: ./java-solutions/3625-count-number-of-trapezoids-ii/src/Solution.java
