@@ -469,7 +469,15 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0948 | [.java][java-0948] |                |                |                |                |                  | [back to top] |
 | 0950 | [.java][java-0950] |                |                |                |                |                  | [back to top] |
 | 0951 | [.java][java-0951] |                |                |                |                |                  | [back to top] |
+| 0952 | [.java][java-0952] |                |                |                |                |                  | [back to top] |
+| 0953 | [.java][java-0953] |                |                |                |                |                  | [back to top] |
+| 0954 | [.java][java-0954] |                |                |                |                |                  | [back to top] |
+| 0955 | [.java][java-0955] |                |                |                |                |                  | [back to top] |
+| 0956 | [.java][java-0956] |                |                |                |                |                  | [back to top] |
+| 0957 | [.java][java-0957] |                |                |                |                |                  | [back to top] |
+| 0958 | [.java][java-0958] |                |                |                |                |                  | [back to top] |
 | 0959 | [.java][java-0959] |                |                |                |                |                  | [back to top] |
+| 0960 | [.java][java-0960] |                |                |                |                |                  | [back to top] |
 | 0973 | [.java][java-0973] |                |                |                |                |                  | [back to top] |
 | 0974 | [.java][java-0974] |                |                |                |                |                  | [back to top] |
 | 0976 | [.java][java-0976] |                |                |                |                |                  | [back to top] |
@@ -818,6 +826,9 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2048 | [.java][java-2048] |                |                |                |                |                  | [back to top] |
 | 2053 | [.java][java-2053] |                |                |                |                |                  | [back to top] |
 | 2054 | [.java][java-2054] |                |                |                |                |                  | [back to top] |
+| 2055 | [.java][java-2055] |                |                |                |                |                  | [back to top] |
+| 2056 | [.java][java-2056] |                |                |                |                |                  | [back to top] |
+| 2057 | [.java][java-2057] |                |                |                |                |                  | [back to top] |
 | 2058 | [.java][java-2058] |                |                |                |                |                  | [back to top] |
 | 2064 | [.java][java-2064] |                |                |                |                |                  | [back to top] |
 | 2070 | [.java][java-2070] |                |                |                |                |                  | [back to top] |
@@ -1730,7 +1741,15 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0950]: ./java-solutions/0950-reveal-cards-in-increasing-order/src/Solution.java
 [java-0951]: ./java-solutions/0951-flip-equivalent-binary-trees/src/Solution.java
+[java-0952]: ./java-solutions/0952-largest-component-size-by-common-factor/src/Solution.java
+[java-0953]: ./java-solutions/0954-delete-columns-to-make-sorted/src/Solution.java
+[java-0954]: ./java-solutions/0954-delete-columns-to-make-sorted/src/Solution.java
+[java-0955]: ./java-solutions/0955-delete-columns-to-make-sorted-ii/src/Solution.java
+[java-0956]: ./java-solutions/0956-tallest-billboard/src/Solution.java
+[java-0957]: ./java-solutions/0957-prison-cells-after-n-days/src/Solution.java
+[java-0958]: ./java-solutions/0958-check-completeness-of-a-binary-tree/src/Solution.java
 [java-0959]: ./java-solutions/0959-regions-cut-by-slashes/src/Solution.java
+[java-0960]: ./java-solutions/0960-delete-columns-to-make-sorted-iii/src/Solution.java
 [java-0973]: ./java-solutions/0973-k-closest-points-to-origin/src/Solution.java
 [java-0974]: ./java-solutions/0974-subarray-sums-divisible-by-k/src/Solution.java
 [java-0976]: ./java-solutions/0976-largest-perimeter-triangle/src/Solution.java
@@ -2160,6 +2179,9 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2048]: ./java-solutions/2048-next-greater-numerically-balanced-number/src/Solution.java
 [java-2053]: ./java-solutions/2053-kth-distinct-string-in-an-array/src/Solution.java
 [java-2054]: ./java-solutions/2054-two-best-non-overlapping-events/src/Solution.java
+[java-2055]: ./java-solutions/2055-plates-between-candles/src/Solution.java
+[java-2056]: ./java-solutions/2056-number-of-valid-move-combinations-on-chessboard/src/Solution.java
+[java-2057]: ./java-solutions/2057-smallest-index-with-equal-value/src/Solution.java
 [java-2058]: ./java-solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/src/Solution.java
 [java-2064]: ./java-solutions/2064-minimized-maximum-of-products-distributed-to-any-store/src/Solution.java
 [java-2070]: ./java-solutions/2070-most-beautiful-item-for-each-query/src/Solution.java
