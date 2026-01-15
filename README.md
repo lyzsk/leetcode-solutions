@@ -1074,6 +1074,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2938 | [.java][java-2938] |                |                |                |                |                  | [back to top] |
 | 2940 | [.java][java-2940] |                |                |                |                |                  | [back to top] |
 | 2942 | [.java][java-2942] |                |                |                |                |                  | [back to top] |
+| 2943 | [.java][java-2943] |                |                |                |                |                  | [back to top] |
+| 2944 | [.java][java-2944] |                |                |                |                |                  | [back to top] |
+| 2945 | [.java][java-2945] |                |                |                |                |                  | [back to top] |
+| 2946 | [.java][java-2946] |                |                |                |                |                  | [back to top] |
+| 2947 | [.java][java-2947] |                |                |                |                |                  | [back to top] |
 | 2948 | [.java][java-2948] |                |                |                |                |                  | [back to top] |
 | 2958 | [.java][java-2958] |                |                |                |                |                  | [back to top] |
 | 2962 | [.java][java-2962] |                |                |                |                |                  | [back to top] |
@@ -1175,6 +1180,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3443 | [.java][java-3443] |                |                |                |                |                  | [back to top] |
 | 3445 | [.java][java-3445] |                |                |                |                |                  | [back to top] |
 | 3446 | [.java][java-3446] |                |                |                |                |                  | [back to top] |
+| 3453 | [.java][java-3453] |                |                |                |                |                  | [back to top] |
+| 3454 | [.java][java-3454] |                |                |                |                |                  | [back to top] |
 | 3459 | [.java][java-3459] |                |                |                |                |                  | [back to top] |
 | 3461 | [.java][java-3461] |                |                |                |                |                  | [back to top] |
 | 3477 | [.java][java-3477] |                |                |                |                |                  | [back to top] |
@@ -2481,6 +2488,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2938]: ./java-solutions/2938-separate-black-and-white-balls/src/Solution.java
 [java-2940]: ./java-solutions/2940-find-building-where-alice-and-bob-can-meet/src/Solution.java
 [java-2942]: ./java-solutions/2942-find-words-containing-character/src/Solution.java
+[java-2943]: ./java-solutions/2943-maximize-area-of-square-hole-in-grid/src/Solution.java
+[java-2944]: ./java-solutions/2944-minimum-number-of-coins-for-fruits/src/Solution.java
+[java-2945]: ./java-solutions/2945-find-maximum-non-decreasing-array-length/src/Solution.java
+[java-2946]: ./java-solutions/2946-matrix-similarity-after-cyclic-shifts/src/Solution.java
+[java-2947]: ./java-solutions/2947-count-beautiful-substrings-i/src/Solution.java
 [java-2948]: ./java-solutions/2948-make-lexicographically-smallest-array-by-swapping-elements/src/Solution.java
 [java-2958]: ./java-solutions/2958-length-of-longest-subarray-with-at-most-k-frequency/src/Solution.java
 [java-2962]: ./java-solutions/2962-count-subarrays-where-max-element-appears-at-least-k-times/src/Solution.java
@@ -2583,6 +2595,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3443]: ./java-solutions/3443-maximum-manhattan-distance-after-k-changes/src/Solution.java
 [java-3445]: ./java-solutions/3445-maximum-difference-between-even-and-odd-frequency-ii/src/Solution.java
 [java-3446]: ./java-solutions/3446-sort-matrix-by-diagonals/src/Solution.java
+[java-3453]: ./java-solutions/3453-separate-squares-i/src/Solution.java
+[java-3454]: ./java-solutions/3454-separate-squares-ii/src/Solution.java
 [java-3459]: ./java-solutions/3459-length-of-longest-v-shaped-diagonal-segment/src/Solution.java
 [java-3461]: ./java-solutions/3461-check-if-digits-are-equal-in-string-after-operations-i/src/Solution.java
 [java-3477]: ./java-solutions/3477-fruits-into-baskets-ii/src/Solution.java
