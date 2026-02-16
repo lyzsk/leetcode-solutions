@@ -191,6 +191,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0187 | [.java][java-0187] |                |                |                |                |                  | [back to top] |
 | 0188 | [.java][java-0188] |                |                |                |                |                  | [back to top] |
 | 0189 | [.java][java-0189] |                |                |                |                |                  | [back to top] |
+| 0190 | [.java][java-0190] |                |                |                |                |                  | [back to top] |
 | 0196 |                    |                |                |                |                | [.sql][sql-0196] | [back to top] |
 | 0197 |                    |                |                |                |                | [.sql][sql-0197] | [back to top] |
 | 0198 | [.java][java-0198] |                |                |                |                |                  | [back to top] |
@@ -1225,6 +1226,10 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3650 | [.java][java-3650] |                |                |                |                |                  | [back to top] |
 | 3651 | [.java][java-3651] |                |                |                |                |                  | [back to top] |
 | 3652 | [.java][java-3652] |                |                |                |                |                  | [back to top] |
+| 3713 | [.java][java-3713] |                |                |                |                |                  | [back to top] |
+| 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
+| 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
+| 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1454,6 +1459,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0187]: ./java-solutions/0187-repeated-dna-sequences/src/Solution.java
 [java-0188]: ./java-solutions/0188-best-time-to-buy-and-sell-stock-iv/src/Solution.java
 [java-0189]: ./java-solutions/0189-rotate-array/src/Solution.java
+[java-0190]: ./java-solutions/0190-reverse-bits/src/Solution.java
 [sql-0196]: ./sql-solutions/0196-delete-duplicate-emails/solution.sql
 [sql-0197]: ./sql-solutions/0197-rising-temperature/solution.sql
 [java-0198]: ./java-solutions/0198-house-robber/src/Solution.java
@@ -2657,6 +2663,10 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3650]: ./java-solutions/3650-minimum-cost-path-with-edge-reversals/src/Solution.java
 [java-3651]: ./java-solutions/3651-minimum-cost-path-with-teleportations/src/Solution.java
 [java-3652]: ./java-solutions/3652-best-time-to-buy-and-sell-stock-using-strategy/src/Solution.java
+[java-3713]: ./java-solutions/3713-longest-balanced-substring-i/src/Solution.java
+[java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
+[java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
+[java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
