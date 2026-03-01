@@ -725,6 +725,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1667 |                    |                |                |                |                | [.sql][sql-1667] | [back to top] |
 | 1669 | [.java][java-1669] |                |                |                |                |                  | [back to top] |
 | 1671 | [.java][java-1671] |                |                |                |                |                  | [back to top] |
+| 1680 | [.java][java-1680] |                |                |                |                |                  | [back to top] |
 | 1683 |                    |                |                |                |                | [.sql][sql-1683] | [back to top] |
 | 1684 | [.java][java-1684] |                |                |                |                |                  | [back to top] |
 | 1693 |                    |                |                |                |                | [.sql][sql-1693] | [back to top] |
@@ -2111,6 +2112,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [sql-1667]: ./sql-solutions/1667-fix-names-in-a-table/solution.sql
 [java-1669]: ./java-solutions/1669-merge-in-between-linked-lists/src/Solution.java
 [java-1671]: ./java-solutions/1671-minimum-number-of-removals-to-make-mountain-array/src/Solution.java
+[java-1680]: ./java-solutions/1680-concatenation-of-consecutive-binary-numbers/src/Solution.java
 [sql-1683]: ./sql-solutions/1683-invalid-tweets/solution.sql
 [java-1684]: ./java-solutions/1684-count-the-number-of-consistent-strings/src/Solution.java
 [sql-1693]: ./sql-solutions/1693-daily-leads-and-partners/solution.sql
