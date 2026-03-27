@@ -16,10 +16,10 @@ public class Solution {
                 }
             }
         }
-        for (int i = 0; i < m; i++) {
-            Arrays.sort(matrix[i]);
+        for (int[] x : matrix) {
+            Arrays.sort(x);
             for (int j = n - 1; j >= 0; j--) {
-                int height = matrix[i][j];
+                int height = x[j];
                 res = Math.max(res, height * (n - j));
             }
         }
