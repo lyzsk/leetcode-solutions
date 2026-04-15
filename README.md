@@ -601,6 +601,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1304 | [.java][java-1304] |                |                |                |                |                  | [back to top] |
 | 1310 | [.java][java-1310] |                |                |                |                |                  | [back to top] |
 | 1317 | [.java][java-1317] |                |                |                |                |                  | [back to top] |
+| 1320 | [.java][java-1320] |                |                |                |                |                  | [back to top] |
 | 1323 | [.java][java-1323] |                |                |                |                |                  | [back to top] |
 | 1321 |                    |                |                |                |                | [.sql][sql-1321] | [back to top] |
 | 1325 | [.java][java-1325] |                |                |                |                |                  | [back to top] |
@@ -799,6 +800,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1838 | [.java][java-1838] | [.py][py-1838] | [.js][js-1838] |                |                |                  | [back to top] |
 | 1845 | [.java][java-1845] |                |                |                |                |                  | [back to top] |
 | 1846 | [.java][java-1846] | [.py][py-1846] | [.js][js-1846] |                |                |                  | [back to top] |
+| 1848 | [.java][java-1848] |                |                |                |                |                  | [back to top] |
 | 1857 | [.java][java-1857] |                |                |                |                |                  | [back to top] |
 | 1861 | [.java][java-1861] |                |                |                |                |                  | [back to top] |
 | 1863 | [.java][java-1863] |                |                |                |                |                  | [back to top] |
@@ -1263,12 +1265,16 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3650 | [.java][java-3650] |                |                |                |                |                  | [back to top] |
 | 3651 | [.java][java-3651] |                |                |                |                |                  | [back to top] |
 | 3652 | [.java][java-3652] |                |                |                |                |                  | [back to top] |
+| 3653 | [.java][java-3653] |                |                |                |                |                  | [back to top] |
+| 3655 | [.java][java-3655] |                |                |                |                |                  | [back to top] |
 | 3661 | [.java][java-3661] |                |                |                |                |                  | [back to top] |
 | 3666 | [.java][java-3666] |                |                |                |                |                  | [back to top] |
 | 3713 | [.java][java-3713] |                |                |                |                |                  | [back to top] |
 | 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
 | 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
+| 3740 | [.java][java-3740] |                |                |                |                |                  | [back to top] |
+| 3741 | [.java][java-3741] |                |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions">剑指 Offer 系列题解</h1>
 
@@ -1989,6 +1995,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
 [java-1310]: ./java-solutions/1310-xor-queries-of-a-subarray/src/Solution.java
 [java-1317]: ./java-solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers/src/Solution.java
+[java-1320]: ./java-solutions/1320-minimum-distance-to-type-a-word-using-two-fingers/src/Solution.java
 [java-1323]: ./java-solutions/1323-maximum-69-number/src/Solution.java
 [java-1328]: ./java-solutions/1328-break-a-palindrome/src/Solution.java
 [java-1330]: ./java-solutions/1330-reverse-subarray-to-maximize-array-value/src/Solution.java
@@ -2229,6 +2236,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1846]: ./java-solutions/1846-maximum-element-after-decreasing-and-rearranging/src/Solution.java
 [py-1846]: ./python-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.py
 [js-1846]: ./javascript-solutions/1846-maximum-element-after-decreasing-and-rearranging/solution.js
+[java-1848]: ./java-solutions/1848-minimum-distance-to-the-target-element/src/Solution.java
 [java-1857]: ./java-solutions/1857-largest-color-value-in-a-directed-graph/src/Solution.java
 [java-1861]: ./java-solutions/1861-rotating-the-box/src/Solution.java
 [java-1863]: ./java-solutions/1863-sum-of-all-subset-xor-totals/src/Solution.java
@@ -2739,12 +2747,16 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3650]: ./java-solutions/3650-minimum-cost-path-with-edge-reversals/src/Solution.java
 [java-3651]: ./java-solutions/3651-minimum-cost-path-with-teleportations/src/Solution.java
 [java-3652]: ./java-solutions/3652-best-time-to-buy-and-sell-stock-using-strategy/src/Solution.java
+[java-3653]: ./java-solutions/3653-xor-after-range-multiplication-queries-i/src/Solution.java
+[java-3655]: ./java-solutions/3655-xor-after-range-multiplication-queries-ii/src/Solution.java
 [java-3661]: ./java-solutions/3661-maximum-walls-destroyed-by-robots/src/Solution.java
 [java-3666]: ./java-solutions/3666-minimum-operations-to-equalize-binary-string/src/Solution.java
 [java-3713]: ./java-solutions/3713-longest-balanced-substring-i/src/Solution.java
 [java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
+[java-3740]: ./java-solutions/3740-minimum-distance-between-three-equal-elements-i/src/Solution.java
+[java-3741]: ./java-solutions/3741-minimum-distance-between-three-equal-elements-ii/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
