@@ -600,6 +600,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1298 | [.java][java-1298] |                |                |                |                |                  | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |                |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |                |                |                  | [back to top] |
+| 1306 | [.java][java-1306] |                |                |                |                |                  | [back to top] |
 | 1310 | [.java][java-1310] |                |                |                |                |                  | [back to top] |
 | 1317 | [.java][java-1317] |                |                |                |                |                  | [back to top] |
 | 1320 | [.java][java-1320] |                |                |                |                |                  | [back to top] |
@@ -613,6 +614,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1334 | [.java][java-1334] |                |                |                |                |                  | [back to top] |
 | 1335 | [.java][java-1335] |                |                |                |                |                  | [back to top] |
 | 1339 | [.java][java-1339] |                |                |                |                |                  | [back to top] |
+| 1340 | [.java][java-1340] |                |                |                |                |                  | [back to top] |
+| 1345 | [.java][java-1345] |                |                |                |                |                  | [back to top] |
 | 1341 |                    |                |                |                |                | [.sql][sql-1341] | [back to top] |
 | 1346 | [.java][java-1346] |                |                |                |                |                  | [back to top] |
 | 1347 | [.java][java-1347] | [.py][py-1347] | [.js][js-1347] |                |                |                  | [back to top] |
@@ -2016,6 +2019,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
+[java-1306]: ./java-solutions/1306-jump-game-iii/src/Solution.java
 [java-1310]: ./java-solutions/1310-xor-queries-of-a-subarray/src/Solution.java
 [java-1317]: ./java-solutions/1317-convert-integer-to-the-sum-of-two-no-zero-integers/src/Solution.java
 [java-1320]: ./java-solutions/1320-minimum-distance-to-type-a-word-using-two-fingers/src/Solution.java
@@ -2029,6 +2033,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1334]: ./java-solutions/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/src/Solution.java
 [java-1335]: ./java-solutions/1335-minimum-difficulty-of-a-job-schedule/src/Solution.java
 [java-1339]: ./java-solutions/1339-maximum-product-of-splitted-binary-tree/src/Solution.java
+[java-1340]: ./java-solutions/1340-jump-game-v/src/Solution.java
+[java-1345]: ./java-solutions/1345-jump-game-iv/src/Solution.java
 [java-1347]: ./java-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/src/Solution.java
 [py-1347]: ./python-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.py
 [js-1347]: ./javascript-solutions/1347-minimum-number-of-steps-to-make-two-strings-anagramd/solution.js
