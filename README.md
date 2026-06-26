@@ -1311,24 +1311,27 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3666 | [.java][java-3666] |                |                |                |                |                  | [back to top] |
 | 3689 | [.java][java-3689] |                |                |                |                |                  | [back to top] |
 | 3691 | [.java][java-3691] |                |                |                |                |                  | [back to top] |
+
 <<<<<<< HEAD
-| 3700 | [.java][java-3700] |                |                |                |                |                  | [back to top] |
+| 3700 | [.java][java-3700] | | | | | | [back to top] |
 =======
-| 3699 | [.java][java-3699] |                |                |                |                |                  | [back to top] |
->>>>>>> caaba53a7554179474f8c125dbdd41f039b3fa89
-| 3713 | [.java][java-3713] |                |                |                |                |                  | [back to top] |
-| 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
-| 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
-| 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
-| 3737 | [.java][java-3737] |                |                |                |                |                  | [back to top] |
-| 3740 | [.java][java-3740] |                |                |                |                |                  | [back to top] |
-| 3741 | [.java][java-3741] |                |                |                |                |                  | [back to top] |
-| 3742 | [.java][java-3742] |                |                |                |                |                  | [back to top] |
-| 3753 | [.java][java-3753] |                |                |                |                |                  | [back to top] |
-| 3751 | [.java][java-3751] |                |                |                |                |                  | [back to top] |
-| 3761 | [.java][java-3761] |                |                |                |                |                  | [back to top] |
-| 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
-| 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
+| 3699 | [.java][java-3699] | | | | | | [back to top] |
+
+> > > > > > > caaba53a7554179474f8c125dbdd41f039b3fa89
+> > > > > > > | 3713 | [.java][java-3713] | | | | | | [back to top] |
+> > > > > > > | 3714 | [.java][java-3714] | | | | | | [back to top] |
+> > > > > > > | 3719 | [.java][java-3719] | | | | | | [back to top] |
+> > > > > > > | 3721 | [.java][java-3721] | | | | | | [back to top] |
+> > > > > > > | 3737 | [.java][java-3737] | | | | | | [back to top] |
+> > > > > > > | 3739 | [.java][java-3739] | | | | | | [back to top] |
+> > > > > > > | 3740 | [.java][java-3740] | | | | | | [back to top] |
+> > > > > > > | 3741 | [.java][java-3741] | | | | | | [back to top] |
+> > > > > > > | 3742 | [.java][java-3742] | | | | | | [back to top] |
+> > > > > > > | 3753 | [.java][java-3753] | | | | | | [back to top] |
+> > > > > > > | 3751 | [.java][java-3751] | | | | | | [back to top] |
+> > > > > > > | 3761 | [.java][java-3761] | | | | | | [back to top] |
+> > > > > > > | 3783 | [.java][java-3783] | | | | | | [back to top] |
+> > > > > > > | 3838 | [.java][java-3838] | | | | | | [back to top] |
 
 # <h1 id="offer-solutions"> 剑指 Offer 系列题解 </h1>
 
@@ -2846,16 +2849,13 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3666]: ./java-solutions/3666-minimum-operations-to-equalize-binary-string/src/Solution.java
 [java-3689]: ./java-solutions/3689-maximum-total-subarray-value-i/src/Solution.java
 [java-3691]: ./java-solutions/3691-maximum-total-subarray-value-ii/src/Solution.java
-<<<<<<< HEAD
 [java-3700]: ./java-solutions/3700-number-of-zigzag-arrays-i/src/Solution.java
-=======
-[java-3699]: ./java-solutions/3699-number-of-zigzag-arrays-i/src/Solution.java
->>>>>>> caaba53a7554179474f8c125dbdd41f039b3fa89
 [java-3713]: ./java-solutions/3713-longest-balanced-substring-i/src/Solution.java
 [java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
 [java-3737]: ./java-solutions/3737-count-subarrays-with-majority-element-i/src/Solution.java
+[java-3739]: ./java-solutions/3739-count-subarrays-with-majority-element-ii/src/Solution.java
 [java-3740]: ./java-solutions/3740-minimum-distance-between-three-equal-elements-i/src/Solution.java
 [java-3741]: ./java-solutions/3741-minimum-distance-between-three-equal-elements-ii/src/Solution.java
 [java-3742]: ./java-solutions/3742-maximum-path-score-in-a-grid/src/Solution.java
