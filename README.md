@@ -1152,6 +1152,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3011 | [.java][java-3011] |                |                |                |                |                  | [back to top] |
 | 3013 | [.java][java-3013] |                |                |                |                |                  | [back to top] |
 | 3016 | [.java][java-3016] |                |                |                |                |                  | [back to top] |
+| 3020 | [.java][java-3020] |                |                |                |                |                  | [back to top] |
 | 3021 | [.java][java-3021] |                |                |                |                |                  | [back to top] |
 | 3024 | [.java][java-3024] |                |                |                |                |                  | [back to top] |
 | 3025 | [.java][java-3025] |                |                |                |                |                  | [back to top] |
@@ -2689,6 +2690,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3011]: ./java-solutions/3011-find-if-array-can-be-sorted/src/Solution.java
 [java-3013]: ./java-solutions/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/src/Solution.java
 [java-3016]: ./java-solutions/3016-minimum-number-of-pushes-to-type-word-ii/src/Solution.java
+[java-3020]: ./java-solutions/3020-find-the-maximum-number-of-elements-in-subset/src/Solution.java
 [java-3021]: ./java-solutions/3021-alice-and-bob-playing-flower-game/src/Solution.java
 [java-3024]: ./java-solutions/3024-type-of-triangle/src/Solution.java
 [java-3025]: ./java-solutions/3025-find-the-number-of-ways-to-place-people-i/src/Solution.java
