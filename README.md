@@ -1206,6 +1206,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3243 | [.java][java-3243] |                |                |                |                |                  | [back to top] |
 | 3254 | [.java][java-3254] |                |                |                |                |                  | [back to top] |
 | 3272 | [.java][java-3272] |                |                |                |                |                  | [back to top] |
+| 3286 | [.java][java-3286] |                |                |                |                |                  | [back to top] |
 | 3289 | [.java][java-3289] |                |                |                |                |                  | [back to top] |
 | 3296 | [.java][java-3296] |                |                |                |                |                  | [back to top] |
 | 3300 | [.java][java-3300] |                |                |                |                |                  | [back to top] |
@@ -2745,6 +2746,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3243]: ./java-solutions/3243-shortest-distance-after-road-addition-queries-i/src/Solution.java
 [java-3254]: ./java-solutions/3254-find-the-power-of-k-size-subarrays-i/src/Solution.java
 [java-3272]: ./java-solutions/3272-find-the-count-of-good-integers/src/Solution.java
+[java-3286]: ./java-solutions/3286-find-a-safe-walk-through-a-grid/src/Solution.java
 [java-3289]: ./java-solutions/3289-the-two-sneaky-numbers-of-digitville/src/Solution.java
 [java-3296]: ./java-solutions/3296-minimum-number-of-seconds-to-make-mountain-height-zero/src/Solution.java
 [java-3300]: ./java-solutions/3300-minimum-element-after-replacement-with-digit-sum/src/Solution.java

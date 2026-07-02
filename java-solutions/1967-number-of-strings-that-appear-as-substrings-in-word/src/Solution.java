@@ -6,6 +6,6 @@ import java.util.Arrays;
  */
 public class Solution {
     public int numOfStrings(String[] patterns, String word) {
-        return (int)Arrays.stream(patterns).filter(s -> word.indexOf(s) >= 0).count();
+        return (int)Arrays.stream(patterns).filter(word::contains).count();
     }
 }
