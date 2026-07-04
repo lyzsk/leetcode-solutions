@@ -1295,6 +1295,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3607 | [.java][java-3607] |                |                |                |                |                  | [back to top] |
 | 3612 | [.java][java-3612] |                |                |                |                |                  | [back to top] |
 | 3614 | [.java][java-3614] |                |                |                |                |                  | [back to top] |
+| 3620 | [.java][java-3620] |                |                |                |                |                  | [back to top] |
 | 3623 | [.java][java-3623] |                |                |                |                |                  | [back to top] |
 | 3625 | [.java][java-3625] |                |                |                |                |                  | [back to top] |
 | 3629 | [.java][java-3629] |                |                |                |                |                  | [back to top] |
@@ -2836,6 +2837,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3607]: ./java-solutions/3607-power-grid-maintenance/src/Solution.java
 [java-3612]: ./java-solutions/3612-process-string-with-special-operations-i/src/Solution.java
 [java-3614]: ./java-solutions/3614-process-string-with-special-operations-ii/src/Solution.java
+[java-3620]: ./java-solutions/3620-network-recovery-pathways/src/Solution.java
 [java-3623]: ./java-solutions/3623-count-number-of-trapezoids-i/src/Solution.java
 [java-3625]: ./java-solutions/3625-count-number-of-trapezoids-ii/src/Solution.java
 [java-3629]: ./java-solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation/src/Solution.java
