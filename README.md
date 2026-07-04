@@ -1026,6 +1026,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2487 | [.java][java-2487] |                |                |                |                |                  | [back to top] |
 | 2490 | [.java][java-2490] |                |                |                |                |                  | [back to top] |
 | 2491 | [.java][java-2491] |                |                |                |                |                  | [back to top] |
+| 2492 | [.java][java-2492] |                |                |                |                |                  | [back to top] |
 | 2493 | [.java][java-2493] |                |                |                |                |                  | [back to top] |
 | 2501 | [.java][java-2501] |                |                |                |                |                  | [back to top] |
 | 2503 | [.java][java-2503] |                |                |                |                |                  | [back to top] |
@@ -2559,6 +2560,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2487]: ./java-solutions/2487-remove-nodes-from-linked-list/src/Solution.java
 [java-2490]: ./java-solutions/2490-circular-sentence/src/Solution.java
 [java-2491]: ./java-solutions/2491-divide-players-into-teams-of-equal-skill/src/Solution.java
+[java-2492]: ./java-solutions/2492-minimum-score-of-a-path-between-two-cities/src/Solution.java
 [java-2493]: ./java-solutions/2493-divide-nodes-into-the-maximum-number-of-groups/src/Solution.java
 [java-2501]: ./java-solutions/2501-longest-square-streak-in-an-array/src/Solution.java
 [java-2503]: ./java-solutions/2503-maximum-number-of-points-from-grid-queries/src/Solution.java
