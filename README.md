@@ -599,6 +599,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1292 | [.java][java-1292] |                |                |                |                |                  | [back to top] |
 | 1295 | [.java][java-1295] |                |                |                |                |                  | [back to top] |
 | 1298 | [.java][java-1298] |                |                |                |                |                  | [back to top] |
+| 1301 | [.java][java-1301] |                |                |                |                |                  | [back to top] |
 | 1302 | [.java][java-1302] | [.py][py-1302] |                |                |                |                  | [back to top] |
 | 1304 | [.java][java-1304] |                |                |                |                |                  | [back to top] |
 | 1306 | [.java][java-1306] |                |                |                |                |                  | [back to top] |
@@ -2053,6 +2054,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1292]: ./java-solutions/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/src/Solution.java
 [java-1295]: ./java-solutions/1295-find-numbers-with-even-number-of-digits/src/Solution.java
 [java-1298]: ./java-solutions/1298-maximum-candies-you-can-get-from-boxes/src/Solution.java
+[java-1301]: ./java-solutions/1301-number-of-paths-with-max-score/src/Solution.java
 [java-1302]: ./java-solutions/1302-deepest-leaves-sum/src
 [py-1302]: ./python-solutions/1302-deepest-leaves-sum/
 [java-1304]: ./java-solutions/1304-find-n-unique-integers-sum-up-to-zero/src/Solution.java
