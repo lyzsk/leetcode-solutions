@@ -592,6 +592,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1266 | [.java][java-1266] |                |                |                |                |                  | [back to top] |
 | 1267 | [.java][java-1267] | [.py][py-1267] |                |                |                |                  | [back to top] |
 | 1277 | [.java][java-1277] |                |                |                |                |                  | [back to top] |
+| 1288 | [.java][java-1288] |                |                |                |                |                  | [back to top] |
 | 1280 |                    |                |                |                |                | [.sql][sql-1280] | [back to top] |
 | 1289 | [.java][java-1289] |                |                |                |                |                  | [back to top] |
 | 1290 | [.java][java-1290] |                |                |                |                |                  | [back to top] |
@@ -2047,6 +2048,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1267]: ./java-solutions/1267-count-servers-that-communicate/src/Solution.java
 [py-1267]: ./python-solutions/1267-count-servers-that-communicate/solution.py
 [java-1277]: ./java-solutions/1277-count-square-submatrices-with-all-ones/src/Solution.java
+[java-1288]: ./java-solutions/1288-remove-covered-intervals/src/Solution.java
 [sql-1280]: ./sql-solutions/1280-students-and-examinations/solution.sql
 [java-1289]: ./java-solutions/1289-minimum-falling-path-sum-ii/src/Solution.java
 [java-1290]: ./java-solutions/1290-convert-binary-number-in-a-linked-list-to-integer/src/Solution.java
