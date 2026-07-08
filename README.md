@@ -1331,6 +1331,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3751 | [.java][java-3751] |                |                |                |                |                  | [back to top] |
 | 3753 | [.java][java-3753] |                |                |                |                |                  | [back to top] |
 | 3754 | [.java][java-3754] |                |                |                |                |                  | [back to top] |
+| 3756 | [.java][java-3756] |                |                |                |                |                  | [back to top] |
 | 3761 | [.java][java-3761] |                |                |                |                |                  | [back to top] |
 | 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
@@ -2871,6 +2872,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3751]: ./java-solutions/3751-total-waviness-of-numbers-in-range-i/src/Solution.java
 [java-3753]: ./java-solutions/3753-total-waviness-of-numbers-in-range-ii/src/Solution.java
 [java-3754]: ./java-solutions/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/src/Solution.java
+[java-3756]: ./java-solutions/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/src/Solution.java
 [java-3761]: ./java-solutions/3761-minimum-absolute-distance-between-mirror-pairs/src/Solution.java
 [java-3783]: ./java-solutions/3783-mirror-distance-of-an-integer/src/Solution.java
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
