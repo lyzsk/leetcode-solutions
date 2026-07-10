@@ -1280,6 +1280,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3516 | [.java][java-3516] |                |                |                |                |                  | [back to top] |
 | 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3532 | [.java][java-3532] |                |                |                |                |                  | [back to top] |
+| 3534 | [.java][java-3534] |                |                |                |                |                  | [back to top] |
 | 3539 | [.java][java-3539] |                |                |                |                |                  | [back to top] |
 | 3541 | [.java][java-3541] |                |                |                |                |                  | [back to top] |
 | 3542 | [.java][java-3542] |                |                |                |                |                  | [back to top] |
@@ -2822,6 +2823,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3516]: ./java-solutions/3516-find-closest-person/src/Solution.java
 [java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3532]: ./java-solutions/3532-path-existence-queries-in-a-graph-i/src/Solution.java
+[java-3534]: ./java-solutions/3534-path-existence-queries-in-a-graph-ii/src/Solution.java
 [java-3539]: ./java-solutions/3539-find-sum-of-array-product-of-magical-sequences/src/Solution.java
 [java-3541]: ./java-solutions/3541-find-most-frequent-vowel-and-consonant/src/Solution.java
 [java-3542]: ./java-solutions/3542-minimum-operations-to-convert-all-elements-to-zero/src/Solution.java
