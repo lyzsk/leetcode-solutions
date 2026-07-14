@@ -1225,6 +1225,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3330 | [.java][java-3330] |                |                |                |                |                  | [back to top] |
 | 3333 | [.java][java-3333] |                |                |                |                |                  | [back to top] |
 | 3335 | [.java][java-3335] |                |                |                |                |                  | [back to top] |
+| 3336 | [.java][java-3336] |                |                |                |                |                  | [back to top] |
 | 3337 | [.java][java-3337] |                |                |                |                |                  | [back to top] |
 | 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
 | 3342 | [.java][java-3342] |                |                |                |                |                  | [back to top] |
@@ -2768,6 +2769,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3330]: ./java-solutions/3330-find-the-original-typed-string-i/src/Solution.java
 [java-3333]: ./java-solutions/3333-find-the-original-typed-string-ii/src/Solution.java
 [java-3335]: ./java-solutions/3335-total-characters-in-string-after-transformations-i/src/Solution.java
+[java-3336]: ./java-solutions/3336-find-the-number-of-subsequences-with-equal-gcd/src/Solution.java
 [java-3337]: ./java-solutions/3337-total-characters-in-string-after-transformations-ii/src/Solution.java
 [java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
 [java-3342]: ./java-solutions/3342-find-minimum-time-to-reach-last-room-ii/src/Solution.java
