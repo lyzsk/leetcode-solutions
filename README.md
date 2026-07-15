@@ -1315,6 +1315,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3652 | [.java][java-3652] |                |                |                |                |                  | [back to top] |
 | 3653 | [.java][java-3653] |                |                |                |                |                  | [back to top] |
 | 3655 | [.java][java-3655] |                |                |                |                |                  | [back to top] |
+| 3658 | [.java][java-3658] |                |                |                |                |                  | [back to top] |
 | 3660 | [.java][java-3660] |                |                |                |                |                  | [back to top] |
 | 3661 | [.java][java-3661] |                |                |                |                |                  | [back to top] |
 | 3666 | [.java][java-3666] |                |                |                |                |                  | [back to top] |
@@ -2859,6 +2860,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3652]: ./java-solutions/3652-best-time-to-buy-and-sell-stock-using-strategy/src/Solution.java
 [java-3653]: ./java-solutions/3653-xor-after-range-multiplication-queries-i/src/Solution.java
 [java-3655]: ./java-solutions/3655-xor-after-range-multiplication-queries-ii/src/Solution.java
+[java-3658]: ./java-solutions/3658-gcd-of-odd-and-even-sums/src/Solution.java
 [java-3660]: ./java-solutions/3660-jump-game-ix/src/Solution.java
 [java-3661]: ./java-solutions/3661-maximum-walls-destroyed-by-robots/src/Solution.java
 [java-3666]: ./java-solutions/3666-minimum-operations-to-equalize-binary-string/src/Solution.java
