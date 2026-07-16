@@ -1339,6 +1339,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3761 | [.java][java-3761] |                |                |                |                |                  | [back to top] |
 | 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
+| 3867 | [.java][java-3867] |                |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions"> 剑指 Offer 系列题解 </h1>
 
@@ -2884,6 +2885,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3761]: ./java-solutions/3761-minimum-absolute-distance-between-mirror-pairs/src/Solution.java
 [java-3783]: ./java-solutions/3783-mirror-distance-of-an-integer/src/Solution.java
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
+[java-3867]: ./java-solutions/3867-sum-of-gcd-of-formed-pairs/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
