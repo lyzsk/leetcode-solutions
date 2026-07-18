@@ -863,6 +863,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1971 | [.java][java-1971] |                |                |                |                |                  | [back to top] |
 | 1975 | [.java][java-1975] |                |                |                |                |                  | [back to top] |
 | 1976 | [.java][java-1976] |                |                |                |                |                  | [back to top] |
+| 1979 | [.java][java-1979] |                |                |                |                |                  | [back to top] |
 | 1980 | [.java][java-1980] |                |                |                |                |                  | [back to top] |
 | 1978 |                    |                |                |                |                | [.sql][sql-1978] | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |                |                |                  | [back to top] |
@@ -2370,6 +2371,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1971]: ./java-solutions/1971-find-if-path-exists-in-graph/src/Solution.java
 [java-1975]: ./java-solutions/1975-maximum-matrix-sum/src/Solution.java
 [java-1976]: ./java-solutions/1976-number-of-ways-to-arrive-at-destination/src/Solution.java
+[java-1979]: ./java-solutions/1979-find-greatest-common-divisor-of-array/src/Solution.java
 [java-1980]: ./java-solutions/1980-find-unique-binary-string/src/Solution.java
 [sql-1978]: ./sql-solutions/1978-employees-whose-manager-left-the-company/solution.sql
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
