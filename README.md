@@ -542,6 +542,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1075 |                    |                |                |                |                | [.sql][sql-1075] | [back to top] |
 | 1079 | [.java][java-1079] |                |                |                |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |                |                |                  | [back to top] |
+| 1081 | [.java][java-1081] |                |                |                |                |                  | [back to top] |
 | 1092 | [.java][java-1092] |                |                |                |                |                  | [back to top] |
 | 1084 |                    |                |                |                |                | [.sql][sql-1084] | [back to top] |
 | 1106 | [.java][java-1106] |                |                |                |                |                  | [back to top] |
@@ -1993,6 +1994,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
 [py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
+[java-1081]: ./java-solutions/1081-smallest-subsequence-of-distinct-characters/src/Solution.java
 [java-1092]: ./java-solutions/1092-shortest-common-supersequence/src/Solution.java
 [sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
 [java-1106]: ./java-solutions/1106-parsing-a-boolean-expression/src/Solution.java
