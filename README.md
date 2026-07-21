@@ -542,7 +542,6 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1075 |                    |                |                |                |                | [.sql][sql-1075] | [back to top] |
 | 1079 | [.java][java-1079] |                |                |                |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |                |                |                  | [back to top] |
-| 1081 | [.java][java-1081] |                |                |                |                |                  | [back to top] |
 | 1092 | [.java][java-1092] |                |                |                |                |                  | [back to top] |
 | 1084 |                    |                |                |                |                | [.sql][sql-1084] | [back to top] |
 | 1106 | [.java][java-1106] |                |                |                |                |                  | [back to top] |
@@ -864,7 +863,6 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1971 | [.java][java-1971] |                |                |                |                |                  | [back to top] |
 | 1975 | [.java][java-1975] |                |                |                |                |                  | [back to top] |
 | 1976 | [.java][java-1976] |                |                |                |                |                  | [back to top] |
-| 1979 | [.java][java-1979] |                |                |                |                |                  | [back to top] |
 | 1980 | [.java][java-1980] |                |                |                |                |                  | [back to top] |
 | 1978 |                    |                |                |                |                | [.sql][sql-1978] | [back to top] |
 | 1985 | [.java][java-1985] |                | [.js][js-1985] |                |                |                  | [back to top] |
@@ -1220,6 +1218,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3304 | [.java][java-3304] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
 | 3307 | [.java][java-3307] |                |                |                |                |                  | [back to top] |
+| 3312 | [.java][java-3312] |                |                |                |                |                  | [back to top] |
 | 3314 | [.java][java-3314] |                |                |                |                |                  | [back to top] |
 | 3315 | [.java][java-3315] |                |                |                |                |                  | [back to top] |
 | 3318 | [.java][java-3318] |                |                |                |                |                  | [back to top] |
@@ -1277,6 +1276,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3488 | [.java][java-3488] |                |                |                |                |                  | [back to top] |
 | 3494 | [.java][java-3494] |                |                |                |                |                  | [back to top] |
 | 3495 | [.java][java-3495] |                |                |                |                |                  | [back to top] |
+| 3499 | [.java][java-3499] |                |                |                |                |                  | [back to top] |
 | 3507 | [.java][java-3507] |                |                |                |                |                  | [back to top] |
 | 3508 | [.java][java-3508] |                |                |                |                |                  | [back to top] |
 | 3512 | [.java][java-3512] |                |                |                |                |                  | [back to top] |
@@ -1994,7 +1994,6 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1079]: ./java-solutions/1079-letter-tile-possibilities/src/Solution.java
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
 [py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
-[java-1081]: ./java-solutions/1081-smallest-subsequence-of-distinct-characters/src/Solution.java
 [java-1092]: ./java-solutions/1092-shortest-common-supersequence/src/Solution.java
 [sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
 [java-1106]: ./java-solutions/1106-parsing-a-boolean-expression/src/Solution.java
@@ -2373,7 +2372,6 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1971]: ./java-solutions/1971-find-if-path-exists-in-graph/src/Solution.java
 [java-1975]: ./java-solutions/1975-maximum-matrix-sum/src/Solution.java
 [java-1976]: ./java-solutions/1976-number-of-ways-to-arrive-at-destination/src/Solution.java
-[java-1979]: ./java-solutions/1979-find-greatest-common-divisor-of-array/src/Solution.java
 [java-1980]: ./java-solutions/1980-find-unique-binary-string/src/Solution.java
 [sql-1978]: ./sql-solutions/1978-employees-whose-manager-left-the-company/solution.sql
 [java-1985]: ./java-solutions/1985-find-the-kth-largest-integer-in-the-array/src/Solution.java
@@ -2825,6 +2823,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3488]: ./java-solutions/3488-closest-equal-element-queries/src/Solution.java
 [java-3494]: ./java-solutions/3494-find-the-minimum-amount-of-time-to-brew-potions/src/Solution.java
 [java-3495]: ./java-solutions/3495-minimum-operations-to-make-array-elements-zero/src/Solution.java
+[java-3499]: ./java-solutions/3499-maximize-active-section-with-trade-i/src/Solution.java
 [java-3507]: ./java-solutions/3507-minimum-pair-removal-to-sort-array-i/src/Solution.java
 [java-3508]: ./java-solutions/3508-implement-router/src/Router.java
 [java-3512]: ./java-solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/src/Solution.java
