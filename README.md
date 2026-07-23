@@ -1277,9 +1277,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3494 | [.java][java-3494] |                |                |                |                |                  | [back to top] |
 | 3495 | [.java][java-3495] |                |                |                |                |                  | [back to top] |
 | 3499 | [.java][java-3499] |                |                |                |                |                  | [back to top] |
+| 3501 | [.java][java-3501] |                |                |                |                |                  | [back to top] |
 | 3507 | [.java][java-3507] |                |                |                |                |                  | [back to top] |
 | 3508 | [.java][java-3508] |                |                |                |                |                  | [back to top] |
 | 3512 | [.java][java-3512] |                |                |                |                |                  | [back to top] |
+| 3513 | [.java][java-3513] |                |                |                |                |                  | [back to top] |
 | 3516 | [.java][java-3516] |                |                |                |                |                  | [back to top] |
 | 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3532 | [.java][java-3532] |                |                |                |                |                  | [back to top] |
@@ -2824,9 +2826,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3494]: ./java-solutions/3494-find-the-minimum-amount-of-time-to-brew-potions/src/Solution.java
 [java-3495]: ./java-solutions/3495-minimum-operations-to-make-array-elements-zero/src/Solution.java
 [java-3499]: ./java-solutions/3499-maximize-active-section-with-trade-i/src/Solution.java
+[java-3501]: ./java-solutions/3501-maximize-active-section-with-trade-ii/src/Solution.java
 [java-3507]: ./java-solutions/3507-minimum-pair-removal-to-sort-array-i/src/Solution.java
 [java-3508]: ./java-solutions/3508-implement-router/src/Router.java
 [java-3512]: ./java-solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/src/Solution.java
+[java-3513]: ./java-solutions/3513-number-of-unique-xor-triplets-i/src/Solution.java
 [java-3516]: ./java-solutions/3516-find-closest-person/src/Solution.java
 [java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3532]: ./java-solutions/3532-path-existence-queries-in-a-graph-i/src/Solution.java
