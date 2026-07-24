@@ -1282,6 +1282,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3508 | [.java][java-3508] |                |                |                |                |                  | [back to top] |
 | 3512 | [.java][java-3512] |                |                |                |                |                  | [back to top] |
 | 3513 | [.java][java-3513] |                |                |                |                |                  | [back to top] |
+| 3514 | [.java][java-3514] |                |                |                |                |                  | [back to top] |
 | 3516 | [.java][java-3516] |                |                |                |                |                  | [back to top] |
 | 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3532 | [.java][java-3532] |                |                |                |                |                  | [back to top] |
@@ -2831,6 +2832,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3508]: ./java-solutions/3508-implement-router/src/Router.java
 [java-3512]: ./java-solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/src/Solution.java
 [java-3513]: ./java-solutions/3513-number-of-unique-xor-triplets-i/src/Solution.java
+[java-3514]: ./java-solutions/3514-number-of-unique-xor-triplets-ii/src/Solution.java
 [java-3516]: ./java-solutions/3516-find-closest-person/src/Solution.java
 [java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3532]: ./java-solutions/3532-path-existence-queries-in-a-graph-i/src/Solution.java
