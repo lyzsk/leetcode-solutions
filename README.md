@@ -347,6 +347,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0621 | [.java][java-0621] |                |                |                |                |                  | [back to top] |
 | 0623 | [.java][java-0623] |                |                |                |                |                  | [back to top] |
 | 0624 | [.java][java-0624] |                |                |                |                |                  | [back to top] |
+| 0628 | [.java][java-0628] |                |                |                |                |                  | [back to top] |
 | 0626 |                    |                |                |                |                | [.sql][sql-0626] | [back to top] |
 | 0627 |                    |                |                |                |                | [.sql][sql-0627] | [back to top] |
 | 0629 | [.java][java-0629] |                |                |                |                |                  | [back to top] |
@@ -1287,6 +1288,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3532 | [.java][java-3532] |                |                |                |                |                  | [back to top] |
 | 3534 | [.java][java-3534] |                |                |                |                |                  | [back to top] |
+| 3536 | [.java][java-3536] |                |                |                |                |                  | [back to top] |
 | 3539 | [.java][java-3539] |                |                |                |                |                  | [back to top] |
 | 3541 | [.java][java-3541] |                |                |                |                |                  | [back to top] |
 | 3542 | [.java][java-3542] |                |                |                |                |                  | [back to top] |
@@ -1718,6 +1720,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0621]: ./java-solutions/0621-task-scheduler/src/Solution.java
 [java-0623]: ./java-solutions/0623-add-one-row-to-tree/src/Solution.java
 [java-0624]: ./java-solutions/0624-maximum-distance-in-arrays/src/Solution.java
+[java-0628]: ./java-solutions/0628-maximum-product-of-three-numbers/src/Solution.java
 [sql-0626]: ./sql-solutions/0626-exchange-seats/solution.sql
 [sql-0627]: ./sql-solutions/0627-swap-salary/solution.sql
 [java-0629]: ./java-solutions/0629-k-inverse-pairs-array/src/Solution.java
@@ -2837,6 +2840,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3532]: ./java-solutions/3532-path-existence-queries-in-a-graph-i/src/Solution.java
 [java-3534]: ./java-solutions/3534-path-existence-queries-in-a-graph-ii/src/Solution.java
+[java-3536]: ./java-solutions/3536-maximum-product-of-two-digits/src/Solution.java
 [java-3539]: ./java-solutions/3539-find-sum-of-array-product-of-magical-sequences/src/Solution.java
 [java-3541]: ./java-solutions/3541-find-most-frequent-vowel-and-consonant/src/Solution.java
 [java-3542]: ./java-solutions/3542-minimum-operations-to-convert-all-elements-to-zero/src/Solution.java
