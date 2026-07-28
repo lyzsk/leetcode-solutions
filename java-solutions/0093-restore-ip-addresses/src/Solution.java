@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/04
+ * @since 2022/10/04
  **/
 public class Solution {
-    private static void backtrack(List<String> res, Deque<String> path, String s, int startIndex, int residue) {
+    private static void backtrack(List<String> res, Deque<String> path,
+        String s, int startIndex, int residue) {
         if (startIndex == s.length()) {
             if (residue == 0) {
                 res.add(String.join(".", path));

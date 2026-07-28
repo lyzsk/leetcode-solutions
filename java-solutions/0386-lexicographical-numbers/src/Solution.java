@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/09/21
+ * @since 2024/09/21
  **/
 public class Solution {
     public List<Integer> lexicalOrder(int n) {

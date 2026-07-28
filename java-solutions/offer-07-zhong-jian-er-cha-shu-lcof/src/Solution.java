@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/12/30
+ * @since 2022/12/30
  **/
 public class Solution {
     private Map<Integer, Integer> map;
@@ -18,15 +18,19 @@ public class Solution {
         return buildTree(0, inorder.length - 1, 0, preorder.length - 1);
     }
 
-    private TreeNode buildTree(int inLeft, int inRight, int preLeft, int preRight) {
+    private TreeNode buildTree(int inLeft, int inRight, int preLeft,
+        int preRight) {
         if (inLeft > inRight || preLeft > preRight) {
             return null;
         }
         int root = pre[preLeft];
         int rootIdx = map.get(root);
         TreeNode node = new TreeNode(root);
-        node.left = buildTree(inLeft, rootIdx - 1, preLeft + 1, preLeft + rootIdx - inLeft);
-        node.right = buildTree(rootIdx + 1, inRight, preLeft + rootIdx - inLeft + 1, preRight);
+        node.left = buildTree(inLeft, rootIdx - 1, preLeft + 1,
+            preLeft + rootIdx - inLeft);
+        node.right =
+            buildTree(rootIdx + 1, inRight, preLeft + rootIdx - inLeft + 1,
+                preRight);
         return node;
     }
 }

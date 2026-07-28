@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2022/10/22
+ * @since 2022/10/22
  **/
 public class Solution {
     public int kthSmallest(TreeNode root, int k) {

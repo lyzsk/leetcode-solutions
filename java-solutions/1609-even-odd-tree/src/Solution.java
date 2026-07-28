@@ -3,7 +3,7 @@ import java.util.Queue;
 
 /**
  * @author sichu
- * @date 2024/02/29
+ * @since 2024/02/29
  **/
 public class Solution {
     public boolean isEvenOddTree(TreeNode root) {

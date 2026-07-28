@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2024/01/01
+ * @since 2024/01/01
  **/
 public class Solution {
     public int findContentChildren(int[] g, int[] s) {

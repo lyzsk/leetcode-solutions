@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/28
+ * @since 2022/11/28
  **/
 public class Solution {
     public void solve(char[][] board) {
@@ -29,8 +29,8 @@ public class Solution {
     }
 
     private void dfs(char[][] board, int startX, int startY) {
-        if (startX < 0 || startY < 0 || startX >= board.length || startY >= board[0].length
-            || board[startX][startY] != 'O') {
+        if (startX < 0 || startY < 0 || startX >= board.length
+            || startY >= board[0].length || board[startX][startY] != 'O') {
             return;
         }
         board[startX][startY] = 'Y';

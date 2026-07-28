@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/01
+ * @since 2024/07/01
  **/
 public class Solution {
     public boolean threeConsecutiveOdds(int[] arr) {

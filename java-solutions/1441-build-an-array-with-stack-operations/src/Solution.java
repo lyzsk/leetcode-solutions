@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/11/03
+ * @since 2023/11/03
  **/
 public class Solution {
     public List<String> buildArray(int[] target, int n) {

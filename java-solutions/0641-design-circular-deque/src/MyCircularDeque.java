@@ -11,7 +11,7 @@
  * * boolean param_8 = obj.isFull();
  *
  * @author sichu
- * @date 2022/08/15
+ * @since 2022/08/15
  **/
 public class MyCircularDeque {
 

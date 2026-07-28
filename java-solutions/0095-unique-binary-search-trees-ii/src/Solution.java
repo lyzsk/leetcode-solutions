@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/08/05
+ * @since 2023/08/05
  **/
 public class Solution {
     public List<TreeNode> generateTrees(int n) {

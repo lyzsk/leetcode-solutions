@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/18
+ * @since 2024/08/18
  **/
 public class Solution {
     public int nthUglyNumber(int n) {

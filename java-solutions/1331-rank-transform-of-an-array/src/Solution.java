@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/10/02
+ * @since 2024/10/02
  **/
 public class Solution {
     public int[] arrayRankTransform(int[] arr) {

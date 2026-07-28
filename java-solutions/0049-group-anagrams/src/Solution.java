@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2024/02/06
+ * @since 2024/02/06
  **/
 public class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {

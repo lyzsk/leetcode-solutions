@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/08/16
+ * @since 2023/08/16
  **/
 public class Solution {
     public int[] circularGameLosers(int n, int k) {

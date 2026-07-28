@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
  * 但是要先拷贝tasks, 因为res与原tasks有关
  *
  * @author sichu
- * @date 2023/01/06
+ * @since 2023/01/06
  **/
 public class Solution {
     public int[] getOrder(int[][] tasks) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/01/03
+ * @since 2024/01/03
  **/
 public class Solution {
     public int numberOfBeams(String[] bank) {

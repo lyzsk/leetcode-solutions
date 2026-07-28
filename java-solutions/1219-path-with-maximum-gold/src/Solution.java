@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/14
+ * @since 2024/05/14
  **/
 public class Solution {
     private final int[] roww = {1, -1, 0, 0};
@@ -30,7 +30,8 @@ public class Solution {
         for (int i = 0; i < 4; i++) {
             int newX = x + roww[i];
             int newY = y + coll[i];
-            localMaxGold = Math.max(localMaxGold, curr + dfs(grid, newX, newY, n, m));
+            localMaxGold =
+                Math.max(localMaxGold, curr + dfs(grid, newX, newY, n, m));
         }
         grid[x][y] = curr;
         return localMaxGold;

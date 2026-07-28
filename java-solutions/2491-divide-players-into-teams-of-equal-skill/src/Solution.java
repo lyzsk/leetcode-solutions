@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/10/04
+ * @since 2024/10/04
  **/
 public class Solution {
     public long dividePlayers(int[] skill) {

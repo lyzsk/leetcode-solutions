@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/05/01
+ * @since 2023/05/01
  **/
 public class Solution {
     public double average(int[] salary) {

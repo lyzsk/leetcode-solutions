@@ -2,14 +2,15 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
     private final Map<String, Integer> wordId = new HashMap<>(16);
     private final List<List<Integer>> edge = new ArrayList<>();
     int nodeNum = 0;
 
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+    public int ladderLength(String beginWord, String endWord,
+        List<String> wordList) {
         for (String word : wordList) {
             addEdge(word);
         }

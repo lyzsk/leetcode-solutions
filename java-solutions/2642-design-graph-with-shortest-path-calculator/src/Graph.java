@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2023/11/11
+ * @since 2023/11/11
  **/
 public class Graph {
     private List<List<int[]>> adjacencyList;
@@ -31,7 +31,8 @@ public class Graph {
         int[] distances = new int[n];
         Arrays.fill(distances, Integer.MAX_VALUE);
         distances[start] = 0;
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(o -> o[0]));
+        PriorityQueue<int[]> pq =
+            new PriorityQueue<>(Comparator.comparingInt(o -> o[0]));
         pq.add(new int[] {0, start});
         while (!pq.isEmpty()) {
             int[] cur = pq.poll();

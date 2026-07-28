@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/05/27
+ * @since 2024/05/27
  **/
 public class Solution {
     public int specialArray(int[] nums) {

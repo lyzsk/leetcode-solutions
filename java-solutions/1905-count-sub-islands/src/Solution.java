@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/23
+ * @since 2022/10/23
  **/
 public class Solution {
     private boolean flag = true;
@@ -22,7 +22,8 @@ public class Solution {
     }
 
     private void dfs(int[][] grid1, int[][] grid2, int x, int y) {
-        if (x < 0 || y < 0 || x > grid2.length - 1 || y > grid2[0].length - 1 || grid2[x][y] == 0) {
+        if (x < 0 || y < 0 || x > grid2.length - 1 || y > grid2[0].length - 1
+            || grid2[x][y] == 0) {
             return;
         }
         if (grid1[x][y] == 0) {

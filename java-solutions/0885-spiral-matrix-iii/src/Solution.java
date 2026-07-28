@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/08
+ * @since 2024/08/08
  **/
 public class Solution {
     public int[][] spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
@@ -18,7 +18,8 @@ public class Solution {
                 for (int j = 0; j < dk; ++j) {
                     rStart += dr[i];
                     cStart += dc[i];
-                    if (0 <= rStart && rStart < rows && 0 <= cStart && cStart < cols) {
+                    if (0 <= rStart && rStart < rows && 0 <= cStart
+                        && cStart < cols) {
                         res[t++] = new int[] {rStart, cStart};
                         if (t == rows * cols) {
                             return res;

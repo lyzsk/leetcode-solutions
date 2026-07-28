@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/05/15
+ * @since 2024/05/15
  **/
 public class Solution {
     private final int[] roww = {0, 0, -1, 1};
@@ -26,7 +26,8 @@ public class Solution {
                 int newX = x + roww[i];
                 int newY = y + coll[i];
 
-                if (newX >= 0 && newX < n && newY >= 0 && newY < n && score[newX][newY] > 1 + s) {
+                if (newX >= 0 && newX < n && newY >= 0 && newY < n
+                    && score[newX][newY] > 1 + s) {
                     score[newX][newY] = 1 + s;
                     q.offer(new int[] {newX, newY});
                 }
@@ -59,7 +60,8 @@ public class Solution {
             for (int k = 0; k < 4; k++) {
                 int newX = i + roww[k];
                 int newY = j + coll[k];
-                if (newX >= 0 && newX < n && newY >= 0 && newY < n && !vis[newX][newY]) {
+                if (newX >= 0 && newX < n && newY >= 0 && newY < n
+                    && !vis[newX][newY]) {
                     int s = Math.min(safe, score[newX][newY]);
                     pq.offer(new int[] {s, newX, newY});
                     vis[newX][newY] = true;

@@ -8,10 +8,11 @@
  * }
  *
  * @author sichu
- * @date 2022/08/17
+ * @since 2022/08/17
  **/
 public class Solution {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p,
+        TreeNode q) {
         if (root == null || root == p || root == q) {
             return root;
         }

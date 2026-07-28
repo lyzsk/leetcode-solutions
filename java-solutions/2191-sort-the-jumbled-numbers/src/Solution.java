@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/07/24
+ * @since 2024/07/24
  **/
 public class Solution {
     public int[] sortJumbled(int[] mapping, int[] nums) {
@@ -11,7 +11,8 @@ public class Solution {
         for (int i = 0; i < n; i++) {
             mappedNums[i] = new int[] {getMappingNum(nums[i], mapping), i};
         }
-        Arrays.sort(mappedNums, (o1, o2) -> o1[0] != o2[0] ? o1[0] - o2[0] : o1[1] - o2[1]);
+        Arrays.sort(mappedNums,
+            (o1, o2) -> o1[0] != o2[0] ? o1[0] - o2[0] : o1[1] - o2[1]);
         int[] sorted = new int[n];
         for (int i = 0; i < n; i++) {
             int index = mappedNums[i][1];

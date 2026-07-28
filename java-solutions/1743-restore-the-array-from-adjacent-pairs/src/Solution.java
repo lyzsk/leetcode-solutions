@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/11/10
+ * @since 2023/11/10
  **/
 public class Solution {
     public int[] restoreArray(int[][] adjacentPairs) {

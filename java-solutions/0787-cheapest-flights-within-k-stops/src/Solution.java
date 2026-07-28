@@ -2,10 +2,11 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2024/02/23
+ * @since 2024/02/23
  **/
 public class Solution {
-    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst,
+        int k) {
         int len = 100;
         int INF = 0x3f3f3f3f;
         int[] dist = new int[len];

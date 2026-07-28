@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/09/10
+ * @since 2023/09/10
  **/
 public class Solution {
     public int numberOfPoints(List<List<Integer>> nums) {
@@ -17,7 +17,8 @@ public class Solution {
             if (merged.isEmpty() || left > merged.get(merged.size() - 1)[1]) {
                 merged.add(new int[] {left, right});
             } else {
-                merged.get(merged.size() - 1)[1] = Math.max(merged.get(merged.size() - 1)[1], right);
+                merged.get(merged.size() - 1)[1] =
+                    Math.max(merged.get(merged.size() - 1)[1], right);
             }
         }
         int res = 0;

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/30
+ * @since 2023/04/30
  **/
 public class Solution {
     public int[] numMovesStones(int a, int b, int c) {

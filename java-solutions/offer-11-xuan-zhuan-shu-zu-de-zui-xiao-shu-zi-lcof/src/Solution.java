@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/01
+ * @since 2023/01/01
  **/
 public class Solution {
     public int minArray(int[] numbers) {

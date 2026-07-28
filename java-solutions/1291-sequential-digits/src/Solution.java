@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2024/02/02
+ * @since 2024/02/02
  **/
 public class Solution {
     public List<Integer> sequentialDigits(int low, int high) {

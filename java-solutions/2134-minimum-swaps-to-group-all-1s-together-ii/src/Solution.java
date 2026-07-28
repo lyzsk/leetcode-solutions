@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/02
+ * @since 2024/08/02
  **/
 public class Solution {
     public int minSwaps(int[] nums) {

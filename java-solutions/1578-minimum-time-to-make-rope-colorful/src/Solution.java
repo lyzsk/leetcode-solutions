@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/03
+ * @since 2022/10/03
  **/
 public class Solution {
     public int minCost(String colors, int[] neededTime) {

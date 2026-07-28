@@ -2,14 +2,16 @@ package twoptr;
 
 /**
  * @author sichu
- * @date 2022/08/21
+ * @since 2022/08/21
  **/
 public class Solution {
     private static final char SPACE = ' ';
 
-    private static boolean isPrefix(String sentence, int start, int end, String searchWord) {
+    private static boolean isPrefix(String sentence, int start, int end,
+        String searchWord) {
         for (int i = 0; i < searchWord.length(); i++) {
-            if (start + i >= end || sentence.charAt(start + i) != searchWord.charAt(i)) {
+            if (start + i >= end
+                || sentence.charAt(start + i) != searchWord.charAt(i)) {
                 return false;
             }
         }

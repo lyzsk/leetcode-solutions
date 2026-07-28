@@ -6,7 +6,7 @@
  * 情况5: i == j == k, = 0
  *
  * @author sichu
- * @date 2023/01/08
+ * @since 2023/01/08
  **/
 public class Solution {
     public int xorBeauty(int[] nums) {

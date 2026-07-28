@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/11/07
+ * @since 2023/11/07
  **/
 public class Solution {
     public int eliminateMaximum(int[] dist, int[] speed) {

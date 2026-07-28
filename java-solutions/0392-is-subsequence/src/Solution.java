@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/17
+ * @since 2022/11/17
  **/
 public class Solution {
     public boolean isSubsequence(String s, String t) {

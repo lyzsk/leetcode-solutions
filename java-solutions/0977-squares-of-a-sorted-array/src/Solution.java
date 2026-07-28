@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2024/03/02
+ * @since 2024/03/02
  **/
 public class Solution {
     public int[] sortedSquares(int[] nums) {

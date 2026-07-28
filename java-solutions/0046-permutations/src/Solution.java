@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/09/30
+ * @since 2022/09/30
  **/
 public class Solution {
-    private static void backtrack(int[] nums, boolean[] used, Deque<Integer> path, List<List<Integer>> res, int depth) {
+    private static void backtrack(int[] nums, boolean[] used,
+        Deque<Integer> path, List<List<Integer>> res, int depth) {
         if (depth == nums.length) {
             res.add(new ArrayList<>(path));
             return;

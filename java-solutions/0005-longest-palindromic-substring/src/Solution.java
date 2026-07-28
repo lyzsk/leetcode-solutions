@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/17
+ * @since 2022/08/17
  **/
 public class Solution {
     private static int findLongest(char[] arr, int left, int[] range) {
@@ -9,7 +9,8 @@ public class Solution {
             ++right;
         }
         int res = right;
-        while (left > 0 && right < arr.length - 1 && arr[left - 1] == arr[right + 1]) {
+        while (left > 0 && right < arr.length - 1 && arr[left - 1] == arr[right
+            + 1]) {
             --left;
             ++right;
         }

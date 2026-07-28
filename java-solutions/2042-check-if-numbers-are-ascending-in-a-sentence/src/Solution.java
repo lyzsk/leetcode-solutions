@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/02
+ * @since 2023/01/02
  **/
 public class Solution {
     public boolean areNumbersAscending(String s) {

@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/11/16
+ * @since 2022/11/16
  **/
 public class Solution {
     public List<Integer> grayCode(int n) {

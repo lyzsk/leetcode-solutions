@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/21
+ * @since 2022/08/21
  **/
 public class Solution {
     public int isPrefixOfWord(String sentence, String searchWord) {

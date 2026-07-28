@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/30
+ * @since 2024/04/30
  **/
 public class Solution {
     public long wonderfulSubstrings(String word) {

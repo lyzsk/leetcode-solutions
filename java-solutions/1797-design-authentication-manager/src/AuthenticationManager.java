@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/02/09
+ * @since 2023/02/09
  **/
 public class AuthenticationManager {
     private int timeToLive;
@@ -31,7 +31,8 @@ public class AuthenticationManager {
     }
 
     public void renew(String tokenId, int currentTime) {
-        if (tokens.containsKey(tokenId) && tokens.get(tokenId).expire > currentTime) {
+        if (tokens.containsKey(tokenId)
+            && tokens.get(tokenId).expire > currentTime) {
             Node node = tokens.get(tokenId);
             Node prev = node.prev;
             Node next = node.next;

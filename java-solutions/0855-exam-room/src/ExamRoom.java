@@ -3,7 +3,7 @@ import java.util.TreeSet;
 
 /**
  * @author sichu
- * @date 2022/12/30
+ * @since 2022/12/30
  **/
 public class ExamRoom {
     private int n;
@@ -16,7 +16,8 @@ public class ExamRoom {
         this.pq = new PriorityQueue<>((o1, o2) -> {
             int diff1 = o1[1] - o1[0];
             int diff2 = o2[1] - o2[0];
-            return diff1 / 2 < diff2 / 2 || (diff1 / 2 == diff2 / 2 && o1[0] > o2[0]) ? 1 : -1;
+            return diff1 / 2 < diff2 / 2 || (diff1 / 2 == diff2 / 2
+                && o1[0] > o2[0]) ? 1 : -1;
         });
     }
 
@@ -29,7 +30,8 @@ public class ExamRoom {
         int right = n - 1 - seats.last();
         while (seats.size() >= 2) {
             int[] p = pq.peek();
-            if (seats.contains(p[0]) && seats.contains(p[1]) && seats.higher(p[0]) == p[1]) {
+            if (seats.contains(p[0]) && seats.contains(p[1])
+                && seats.higher(p[0]) == p[1]) {
                 int diff = p[1] - p[0];
                 if (diff / 2 < right || diff / 2 <= left) {
                     break;

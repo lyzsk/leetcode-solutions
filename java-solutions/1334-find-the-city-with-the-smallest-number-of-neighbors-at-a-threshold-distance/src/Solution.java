@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/07/26
+ * @since 2024/07/26
  **/
 public class Solution {
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {

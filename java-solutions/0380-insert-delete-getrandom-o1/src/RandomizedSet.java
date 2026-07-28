@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/11/29
+ * @since 2022/11/29
  **/
 public class RandomizedSet {
     private List<Integer> nums;

@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2024/02/09
+ * @since 2024/02/09
  **/
 public class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {

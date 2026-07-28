@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * @author sichu
- * @date 2022/08/16
+ * @since 2022/08/16
  **/
 public class Solution {
     public int findKthLargest(int[] nums, int k) {
@@ -19,7 +19,8 @@ public class Solution {
         if (pos == index) {
             return nums[pos];
         } else {
-            return pos < index ? quickSelect(nums, pos + 1, right, index) : quickSelect(nums, left, pos - 1, index);
+            return pos < index ? quickSelect(nums, pos + 1, right, index) :
+                quickSelect(nums, left, pos - 1, index);
         }
     }
 

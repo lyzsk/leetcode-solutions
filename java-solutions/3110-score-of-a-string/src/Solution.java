@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/01
+ * @since 2024/06/01
  **/
 public class Solution {
     public int scoreOfString(String s) {

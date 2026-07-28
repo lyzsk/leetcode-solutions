@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/08/13
+ * @since 2022/08/13
  **/
 public class Solution {
     public int[] twoSum(int[] nums, int target) {

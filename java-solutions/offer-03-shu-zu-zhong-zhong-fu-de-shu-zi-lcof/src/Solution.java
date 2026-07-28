@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2022/12/24
+ * @since 2022/12/24
  **/
 public class Solution {
     public int findRepeatNumber(int[] nums) {

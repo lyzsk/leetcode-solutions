@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2022/10/07
+ * @since 2022/10/07
  **/
 public class MyQueue {
     private Deque<Integer> inStack;

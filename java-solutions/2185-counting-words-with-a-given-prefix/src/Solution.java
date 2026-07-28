@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/08
+ * @since 2023/01/08
  **/
 public class Solution {
     public int prefixCount(String[] words, String pref) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
     public boolean isPalindrome(String s) {
@@ -10,11 +10,13 @@ public class Solution {
             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 ++left;
             }
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+            while (left < right && !Character.isLetterOrDigit(
+                s.charAt(right))) {
                 --right;
             }
             if (left < right) {
-                if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+                if (Character.toLowerCase(s.charAt(left))
+                    != Character.toLowerCase(s.charAt(right))) {
                     return false;
                 }
                 ++left;

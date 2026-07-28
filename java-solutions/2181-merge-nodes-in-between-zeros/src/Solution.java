@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/04
+ * @since 2024/07/04
  **/
 public class Solution {
     public ListNode mergeNodes(ListNode head) {

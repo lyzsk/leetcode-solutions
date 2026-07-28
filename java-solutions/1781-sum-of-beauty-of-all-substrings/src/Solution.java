@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/11
+ * @since 2022/12/11
  **/
 public class Solution {
     public int beautySum(String s) {

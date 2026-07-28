@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/18
+ * @since 2023/04/18
  **/
 public class Solution {
     public char findTheDifference(String s, String t) {

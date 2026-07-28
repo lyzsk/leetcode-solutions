@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/10/01
+ * @since 2023/10/01
  **/
 public class Solution {
     public int minSizeSubarray(int[] nums, int target) {
@@ -21,6 +21,7 @@ public class Solution {
                 res = Math.min(res, right - left + 1);
             }
         }
-        return res == Integer.MAX_VALUE ? -1 : (int)(res + (target / total) * n);
+        return res == Integer.MAX_VALUE ? -1 :
+            (int)(res + (target / total) * n);
     }
 }

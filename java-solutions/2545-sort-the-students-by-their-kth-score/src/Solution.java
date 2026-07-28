@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/02/01
+ * @since 2023/02/01
  **/
 public class Solution {
     public int[][] sortTheStudents(int[][] score, int k) {

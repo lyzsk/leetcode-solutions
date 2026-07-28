@@ -3,10 +3,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
-    public List<List<Integer>> mergeSimilarItems(int[][] items1, int[][] items2) {
+    public List<List<Integer>> mergeSimilarItems(int[][] items1,
+        int[][] items2) {
         List<List<Integer>> res = new ArrayList<>();
         int[] arr = new int[1001];
         for (int i = 0; i < items1.length; i++) {

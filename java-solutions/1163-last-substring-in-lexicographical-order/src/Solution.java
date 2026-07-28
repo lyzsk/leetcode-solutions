@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/24
+ * @since 2023/04/24
  **/
 public class Solution {
     public String lastSubstring(String s) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/08
+ * @since 2024/04/08
  **/
 public class Solution {
     public int countStudents(int[] students, int[] sandwiches) {

@@ -21,7 +21,7 @@ import java.util.Queue;
  * }
  *
  * @author sichu
- * @date 2022/08/17
+ * @since 2022/08/17
  **/
 public class Solution {
     public int deepestLeavesSum(TreeNode root) {

@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 /**
  * @author sichu
- * @date 2022/10/08
+ * @since 2022/10/08
  **/
 public class Solution {
     public int[] advantageCount(int[] nums1, int[] nums2) {

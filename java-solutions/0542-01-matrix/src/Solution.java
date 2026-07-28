@@ -3,7 +3,7 @@ import java.util.Queue;
 
 /**
  * @author sichu
- * @date 2023/08/17
+ * @since 2023/08/17
  **/
 public class Solution {
     private static int[][] dirs = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
@@ -29,7 +29,8 @@ public class Solution {
             for (int i = 0; i < 4; i++) {
                 int dx = x + dirs[i][0];
                 int dy = y + dirs[i][1];
-                if (dx >= 0 && dx < m && dy >= 0 && dy < n && !visited[dx][dy]) {
+                if (dx >= 0 && dx < m && dy >= 0 && dy < n
+                    && !visited[dx][dy]) {
                     res[dx][dy] = res[x][y] + 1;
                     queue.offer(new int[] {dx, dy});
                     visited[dx][dy] = true;

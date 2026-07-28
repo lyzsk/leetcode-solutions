@@ -4,11 +4,12 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/05/11
+ * @since 2024/05/11
  **/
 public class Solution {
     public double mincostToHireWorkers(int[] quality, int[] wage, int k) {
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> maxheap =
+            new PriorityQueue<>(Collections.reverseOrder());
         List<Pair<Double, Integer>> ratio = new ArrayList<>();
         int n = quality.length, qualitySum = 0;
         double res = Double.MAX_VALUE, maxRate = 0.0;

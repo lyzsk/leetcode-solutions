@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/07
+ * @since 2022/10/07
  **/
 public class Solution {
     private int maxSum = Integer.MIN_VALUE;

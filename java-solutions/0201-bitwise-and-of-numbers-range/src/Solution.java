@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/02/21
+ * @since 2024/02/21
  **/
 public class Solution {
     public int rangeBitwiseAnd(int left, int right) {

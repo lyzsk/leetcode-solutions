@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/10/11
+ * @since 2024/10/11
  **/
 public class Solution {
     public int smallestChair(int[][] times, int targetFriend) {

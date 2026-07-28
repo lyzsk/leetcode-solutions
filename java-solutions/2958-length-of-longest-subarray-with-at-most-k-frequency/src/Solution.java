@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/03/28
+ * @since 2024/03/28
  **/
 public class Solution {
     public int maxSubarrayLength(int[] nums, int k) {

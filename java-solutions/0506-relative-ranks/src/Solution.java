@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/05/08
+ * @since 2024/05/08
  **/
 public class Solution {
     public String[] findRelativeRanks(int[] score) {

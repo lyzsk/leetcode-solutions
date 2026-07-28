@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/23
+ * @since 2022/11/23
  **/
 public class Solution {
     public int countOdds(int low, int high) {

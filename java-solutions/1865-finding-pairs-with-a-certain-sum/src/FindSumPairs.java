@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/11/28
+ * @since 2022/11/28
  **/
 public class FindSumPairs {
     private int[] nums1;

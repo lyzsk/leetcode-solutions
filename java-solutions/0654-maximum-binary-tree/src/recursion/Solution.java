@@ -16,14 +16,15 @@ package recursion;
  * }
  *
  * @author sichu
- * @date 2022/08/19
+ * @since 2022/08/19
  **/
 public class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
         return constructMaximumBinaryTree(nums, 0, nums.length - 1);
     }
 
-    private TreeNode constructMaximumBinaryTree(int[] nums, int left, int right) {
+    private TreeNode constructMaximumBinaryTree(int[] nums, int left,
+        int right) {
         if (left > right) {
             return null;
         }

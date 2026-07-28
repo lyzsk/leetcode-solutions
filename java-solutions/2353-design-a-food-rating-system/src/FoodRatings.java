@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2023/12/17
+ * @since 2023/12/17
  **/
 public class FoodRatings {
     public Map<String, PriorityQueue<Info>> cuisineMap;
@@ -20,16 +20,17 @@ public class FoodRatings {
             if (cuisineMap.containsKey(cuisines[i])) {
                 cuisineMap.get(cuisines[i]).add(info);
             } else {
-                PriorityQueue<Info> maxheap = new PriorityQueue<>(new Comparator<Info>() {
-                    @Override
-                    public int compare(Info o1, Info o2) {
-                        int res = o2.rate - o1.rate;
-                        if (res == 0) {
-                            return o1.food.compareTo(o2.food);
+                PriorityQueue<Info> maxheap =
+                    new PriorityQueue<>(new Comparator<Info>() {
+                        @Override
+                        public int compare(Info o1, Info o2) {
+                            int res = o2.rate - o1.rate;
+                            if (res == 0) {
+                                return o1.food.compareTo(o2.food);
+                            }
+                            return res;
                         }
-                        return res;
-                    }
-                });
+                    });
                 maxheap.add(info);
                 cuisineMap.put(cuisines[i], maxheap);
             }

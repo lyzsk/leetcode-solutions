@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/06/09
+ * @since 2024/06/09
  **/
 public class Solution {
     public int subarraysDivByK(int[] nums, int k) {

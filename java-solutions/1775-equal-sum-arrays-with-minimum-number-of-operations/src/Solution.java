@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2022/12/06
+ * @since 2022/12/06
  **/
 public class Solution {
     public int minOperations(int[] nums1, int[] nums2) {

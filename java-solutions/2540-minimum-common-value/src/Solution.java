@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/22
+ * @since 2023/01/22
  **/
 public class Solution {
     public int getCommon(int[] nums1, int[] nums2) {

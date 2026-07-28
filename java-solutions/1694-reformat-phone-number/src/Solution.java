@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/09/30
+ * @since 2022/09/30
  **/
 public class Solution {
     public String reformatNumber(String number) {

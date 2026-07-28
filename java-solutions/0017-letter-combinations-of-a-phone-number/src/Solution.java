@@ -3,10 +3,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
-    private final String[] LETTERMAP = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+    private final String[] LETTERMAP =
+        {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
     public List<String> letterCombinations(String digits) {
         List<String> res = new ArrayList<>();
@@ -19,7 +20,8 @@ public class Solution {
         return res;
     }
 
-    private void backtrack(List<String> res, String digits, StringBuilder path, int startIndex) {
+    private void backtrack(List<String> res, String digits, StringBuilder path,
+        int startIndex) {
         if (startIndex < 0 || startIndex > digits.length()) {
             return;
         }

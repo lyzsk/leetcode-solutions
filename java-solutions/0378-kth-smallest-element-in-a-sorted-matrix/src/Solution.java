@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/22
+ * @since 2022/10/22
  **/
 public class Solution {
     private static boolean check(int[][] matrix, int mid, int k, int n) {

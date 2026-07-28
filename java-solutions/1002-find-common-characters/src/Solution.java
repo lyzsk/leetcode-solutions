@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/06/05
+ * @since 2024/06/05
  **/
 public class Solution {
     public List<String> commonChars(String[] words) {

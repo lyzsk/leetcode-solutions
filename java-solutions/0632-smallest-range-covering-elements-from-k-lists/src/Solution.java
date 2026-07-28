@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/10/13
+ * @since 2024/10/13
  **/
 public class Solution {
     public int[] smallestRange(List<List<Integer>> nums) {

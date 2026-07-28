@@ -2,11 +2,12 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
-    private static void backtrack(List<List<String>> res, int[] queens, int n, Set<Integer> cols, Set<Integer> diag1,
-        Set<Integer> diag2, int rowIndex) {
+    private static void backtrack(List<List<String>> res, int[] queens, int n,
+        Set<Integer> cols, Set<Integer> diag1, Set<Integer> diag2,
+        int rowIndex) {
         if (rowIndex == n) {
             List<String> board = generateBoard(queens, n);
             res.add(board);

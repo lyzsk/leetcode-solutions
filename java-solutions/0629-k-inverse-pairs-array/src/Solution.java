@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/01/27
+ * @since 2024/01/27
  **/
 public class Solution {
     public int kInversePairs(int n, int k) {

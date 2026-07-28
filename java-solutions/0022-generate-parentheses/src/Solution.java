@@ -3,10 +3,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/03
+ * @since 2022/10/03
  **/
 public class Solution {
-    private static void backtrack(List<String> res, StringBuilder path, int n, int leftCount, int rightCount) {
+    private static void backtrack(List<String> res, StringBuilder path, int n,
+        int leftCount, int rightCount) {
         if (path.length() == n * 2) {
             res.add(path.toString());
             return;

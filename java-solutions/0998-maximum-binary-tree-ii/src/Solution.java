@@ -14,7 +14,7 @@
  * }
  *
  * @author sichu
- * @date 2022/08/30
+ * @since 2022/08/30
  **/
 public class Solution {
     public TreeNode insertIntoMaxTree(TreeNode root, int val) {

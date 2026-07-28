@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/21
+ * @since 2023/08/21
  **/
 public class Solution {
     public boolean repeatedSubstringPattern(String s) {

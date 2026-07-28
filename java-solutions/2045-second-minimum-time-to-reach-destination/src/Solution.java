@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/07/28
+ * @since 2024/07/28
  **/
 public class Solution {
     public int secondMinimum(int n, int[][] edges, int time, int change) {

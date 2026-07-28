@@ -8,7 +8,7 @@ import java.util.Map;
  * obj.put(key,value);
  *
  * @author sichu
- * @date 2022/08/16
+ * @since 2022/08/16
  **/
 public class LRUCache {
     private final int capacity;

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/03/04
+ * @since 2024/03/04
  **/
 public class Solution {
     public int bagOfTokensScore(int[] tokens, int power) {

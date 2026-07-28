@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/08/14
+ * @since 2024/08/14
  **/
 public class Solution {
     public int smallestDistancePair(int[] nums, int k) {

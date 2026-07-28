@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/27
+ * @since 2022/11/27
  **/
 public class Solution {
     public String firstPalindrome(String[] words) {

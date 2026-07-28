@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/11/17
+ * @since 2022/11/17
  **/
 public class Solution {
     public int numMatchingSubseq(String s, String[] words) {

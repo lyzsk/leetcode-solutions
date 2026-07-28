@@ -2,10 +2,11 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/07/13
+ * @since 2024/07/13
  **/
 public class Solution {
-    public List<Integer> survivedRobotsHealths(int[] positions, int[] healths, String directions) {
+    public List<Integer> survivedRobotsHealths(int[] positions, int[] healths,
+        String directions) {
         int n = positions.length;
         Integer[] id = new Integer[n];
         for (int i = 0; i < n; i++) {

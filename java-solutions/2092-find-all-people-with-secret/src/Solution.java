@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2024/02/24
+ * @since 2024/02/24
  **/
 public class Solution {
-    public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
+    public List<Integer> findAllPeople(int n, int[][] meetings,
+        int firstPerson) {
         int[] groups = new int[100000];
         List<Integer> res = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();

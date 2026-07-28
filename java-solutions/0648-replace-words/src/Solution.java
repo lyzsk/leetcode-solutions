@@ -4,7 +4,7 @@ import java.util.Set;
 
 /**
  * @author sichu huang
- * @date 2024/06/07
+ * @since 2024/06/07
  **/
 public class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {

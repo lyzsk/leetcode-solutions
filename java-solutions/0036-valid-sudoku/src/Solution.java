@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/20
+ * @since 2022/11/20
  **/
 public class Solution {
     public boolean isValidSudoku(char[][] board) {
@@ -15,7 +15,8 @@ public class Solution {
                     rows[i][index]++;
                     cols[j][index]++;
                     subboxes[i / 3][j / 3][index]++;
-                    if (rows[i][index] > 1 || cols[j][index] > 1 || subboxes[i / 3][j / 3][index] > 1) {
+                    if (rows[i][index] > 1 || cols[j][index] > 1
+                        || subboxes[i / 3][j / 3][index] > 1) {
                         return false;
                     }
                 }

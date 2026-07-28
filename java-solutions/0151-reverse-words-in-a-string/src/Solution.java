@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/19
+ * @since 2022/10/19
  **/
 public class Solution {
     public String reverseWords(String s) {

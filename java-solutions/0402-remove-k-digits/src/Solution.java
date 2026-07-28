@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2022/10/11
+ * @since 2022/10/11
  **/
 public class Solution {
     public String removeKdigits(String num, int k) {

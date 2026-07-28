@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/02/03
+ * @since 2023/02/03
  **/
 public class Solution {
     public String convert(String s, int numRows) {

@@ -2,11 +2,11 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
-    private static void backtrack(List<List<Integer>> res, Deque<Integer> path, int[] candidates, int target,
-        int startIndex) {
+    private static void backtrack(List<List<Integer>> res, Deque<Integer> path,
+        int[] candidates, int target, int startIndex) {
         if (target < 0) {
             return;
         }
@@ -18,7 +18,8 @@ public class Solution {
             path.addLast(candidates[i]);
             backtrack(res, path, candidates, target - candidates[i], i + 1);
             path.removeLast();
-            while (i < candidates.length - 1 && candidates[i] == candidates[i + 1]) {
+            while (i < candidates.length - 1 && candidates[i] == candidates[i
+                + 1]) {
                 ++i;
             }
         }

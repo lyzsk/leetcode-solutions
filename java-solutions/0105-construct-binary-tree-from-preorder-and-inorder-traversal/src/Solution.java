@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/10/04
+ * @since 2022/10/04
  **/
 public class Solution {
     private Map<Integer, Integer> map;

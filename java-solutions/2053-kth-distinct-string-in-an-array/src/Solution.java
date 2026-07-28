@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/08/05
+ * @since 2024/08/05
  **/
 public class Solution {
     public String kthDistinct(String[] arr, int k) {

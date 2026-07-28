@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/18
+ * @since 2023/08/18
  **/
 public class Solution {
     public int maximalNetworkRank(int n, int[][] roads) {

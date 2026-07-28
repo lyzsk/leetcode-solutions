@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/05
+ * @since 2022/10/05
  **/
 public class Solution {
     private static int getHeight(TreeNode root) {
@@ -9,7 +9,8 @@ public class Solution {
         }
         int leftHeight = getHeight(root.left);
         int rightHeight = getHeight(root.right);
-        if (leftHeight == -1 || rightHeight == -1 || Math.abs(leftHeight - rightHeight) > 1) {
+        if (leftHeight == -1 || rightHeight == -1
+            || Math.abs(leftHeight - rightHeight) > 1) {
             return -1;
         } else {
             return Math.max(leftHeight, rightHeight) + 1;

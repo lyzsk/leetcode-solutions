@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/06/06
+ * @since 2024/06/06
  **/
 public class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {

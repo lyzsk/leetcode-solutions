@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/11/25
+ * @since 2022/11/25
  **/
 public class Solution {
     public int numIdenticalPairs(int[] nums) {

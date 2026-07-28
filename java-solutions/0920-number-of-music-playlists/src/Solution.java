@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/06
+ * @since 2023/08/06
  **/
 public class Solution {
     public int numMusicPlaylists(int n, int goal, int k) {

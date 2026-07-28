@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/19
+ * @since 2022/11/19
  **/
 public class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {

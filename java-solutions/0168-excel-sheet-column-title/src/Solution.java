@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/22
+ * @since 2023/08/22
  **/
 public class Solution {
     public String convertToTitle(int columnNumber) {

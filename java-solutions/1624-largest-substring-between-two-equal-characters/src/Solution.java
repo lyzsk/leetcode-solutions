@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/12/31
+ * @since 2023/12/31
  **/
 public class Solution {
     public int maxLengthBetweenEqualCharacters(String s) {

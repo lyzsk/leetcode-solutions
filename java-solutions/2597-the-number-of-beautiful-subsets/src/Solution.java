@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/05/23
+ * @since 2024/05/23
  **/
 public class Solution {
     private int res = 0;
@@ -20,7 +20,8 @@ public class Solution {
             return;
         }
         dfs(nums, idx + 1, k, map);
-        if (!map.containsKey(nums[idx] - k) && !map.containsKey(nums[idx] + k)) {
+        if (!map.containsKey(nums[idx] - k) && !map.containsKey(
+            nums[idx] + k)) {
             map.put(nums[idx], map.getOrDefault(nums[idx], 0) + 1);
             dfs(nums, idx + 1, k, map);
             map.put(nums[idx], map.getOrDefault(nums[idx], 0) - 1);

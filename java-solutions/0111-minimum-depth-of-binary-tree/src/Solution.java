@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/27
+ * @since 2022/10/27
  **/
 public class Solution {
     public int minDepth(TreeNode root) {

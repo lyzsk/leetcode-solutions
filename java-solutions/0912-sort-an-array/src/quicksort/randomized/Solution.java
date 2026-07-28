@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * @author sichu
- * @date 2022/08/16
+ * @since 2022/08/16
  **/
 public class Solution {
     private static void quickSelect(int[] nums, int left, int right) {

@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2022/12/07
+ * @since 2022/12/07
  **/
 public class Solution {
     public int minAreaRect(int[][] points) {

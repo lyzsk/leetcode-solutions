@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/06/30
+ * @since 2024/06/30
  **/
 public class Solution {
     public int maxNumEdgesToRemove(int n, int[][] edges) {

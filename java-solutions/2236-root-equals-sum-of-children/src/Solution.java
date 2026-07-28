@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/20
+ * @since 2023/08/20
  **/
 public class Solution {
     public boolean checkTree(TreeNode root) {

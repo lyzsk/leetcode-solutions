@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
     public int totalNQueens(int n) {
@@ -13,7 +13,8 @@ public class Solution {
         return backtrack(n, cols, diag1, diag2, 0);
     }
 
-    private int backtrack(int n, Set<Integer> cols, Set<Integer> diag1, Set<Integer> diag2, int rowIndex) {
+    private int backtrack(int n, Set<Integer> cols, Set<Integer> diag1,
+        Set<Integer> diag2, int rowIndex) {
         if (rowIndex == n) {
             return 1;
         } else {

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/11
+ * @since 2024/09/11
  **/
 public class Solution {
     public int minBitFlips(int start, int goal) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
     public String multiply(String num1, String num2) {

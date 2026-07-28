@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
     int[][] dirs = new int[][] {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};

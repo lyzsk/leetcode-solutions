@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/04
+ * @since 2024/04/04
  **/
 public class Solution {
     public int maxDepth(String s) {

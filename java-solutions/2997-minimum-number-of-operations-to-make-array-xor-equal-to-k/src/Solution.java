@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/29
+ * @since 2024/04/29
  **/
 public class Solution {
     public int minOperations(int[] nums, int k) {

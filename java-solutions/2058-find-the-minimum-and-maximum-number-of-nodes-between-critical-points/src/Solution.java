@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/05
+ * @since 2024/07/05
  **/
 public class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {

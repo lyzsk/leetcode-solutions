@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/09/13
+ * @since 2023/09/13
  **/
 public class Solution {
     public boolean checkValidGrid(int[][] grid) {

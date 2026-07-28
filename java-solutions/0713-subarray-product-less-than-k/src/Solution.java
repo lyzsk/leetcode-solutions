@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/03/27
+ * @since 2024/03/27
  **/
 public class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/17
+ * @since 2023/04/17
  **/
 public class Solution {
     private final int[] DAYS = new int[] {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};

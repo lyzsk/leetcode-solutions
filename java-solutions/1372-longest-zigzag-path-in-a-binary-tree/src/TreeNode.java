@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/19
+ * @since 2023/04/19
  **/
 public class TreeNode {
     int val;

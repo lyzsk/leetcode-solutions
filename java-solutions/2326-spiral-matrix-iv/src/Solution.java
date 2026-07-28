@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/09/09
+ * @since 2024/09/09
  **/
 public class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
@@ -13,7 +13,8 @@ public class Solution {
         }
         int topRow = 0, bottomRow = m - 1, leftColumn = 0, rightColumn = n - 1;
         while (head != null) {
-            for (int col = leftColumn; col <= rightColumn && head != null; col++) {
+            for (int col = leftColumn;
+                 col <= rightColumn && head != null; col++) {
                 matrix[topRow][col] = head.val;
                 head = head.next;
             }
@@ -23,7 +24,8 @@ public class Solution {
                 head = head.next;
             }
             rightColumn--;
-            for (int col = rightColumn; col >= leftColumn && head != null; col--) {
+            for (int col = rightColumn;
+                 col >= leftColumn && head != null; col--) {
                 matrix[bottomRow][col] = head.val;
                 head = head.next;
             }

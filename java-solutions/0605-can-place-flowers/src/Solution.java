@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/09/30
+ * @since 2023/09/30
  **/
 public class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {

@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/04/20
+ * @since 2024/04/20
  **/
 public class Solution {
     public int[][] findFarmland(int[][] land) {
@@ -12,7 +12,8 @@ public class Solution {
         int n = land[0].length;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (land[i][j] == 0 || (i > 0 && land[i - 1][j] == 1) || (j > 0 && land[i][j - 1] == 1)) {
+                if (land[i][j] == 0 || (i > 0 && land[i - 1][j] == 1) || (j > 0
+                    && land[i][j - 1] == 1)) {
                     continue;
                 }
                 int endRow = i;

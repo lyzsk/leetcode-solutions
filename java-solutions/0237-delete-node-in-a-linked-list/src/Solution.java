@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/13
+ * @since 2022/10/13
  **/
 public class Solution {
     public void deleteNode(ListNode node) {

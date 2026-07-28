@@ -3,8 +3,8 @@
  * 除非使用 BigInteger, 但是这会导致效率降低
  *
  * @author sichu
- * @date 2023/01/04
  * @see <a href="https://leetcode.cn/problems/jian-sheng-zi-ii-lcof/solution/di-zi-fen-xi-shi-yong-dong-tai-gui-hua-q-jlr7/">BigInteger解法</a>
+ * @since 2023/01/04
  **/
 public class Solution {
     public int cuttingRope(int n) {

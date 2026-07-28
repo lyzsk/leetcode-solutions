@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/05/20
+ * @since 2023/05/20
  **/
 public class Solution {
     private int res = 0;

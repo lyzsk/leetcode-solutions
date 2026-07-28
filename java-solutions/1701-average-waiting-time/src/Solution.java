@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/09
+ * @since 2024/07/09
  **/
 public class Solution {
     public double averageWaitingTime(int[][] customers) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/29
+ * @since 2024/07/29
  **/
 public class Solution {
     public int numTeams(int[] rating) {

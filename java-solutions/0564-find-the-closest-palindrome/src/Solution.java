@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/08/24
+ * @since 2024/08/24
  **/
 public class Solution {
     public String nearestPalindromic(String n) {
@@ -11,8 +11,10 @@ public class Solution {
         List<Long> candidates = getCandidates(n);
         for (long candidate : candidates) {
             if (candidate != selfNumber) {
-                if (ans == -1 || Math.abs(candidate - selfNumber) < Math.abs(ans - selfNumber)
-                    || Math.abs(candidate - selfNumber) == Math.abs(ans - selfNumber) && candidate < ans) {
+                if (ans == -1 || Math.abs(candidate - selfNumber) < Math.abs(
+                    ans - selfNumber) ||
+                    Math.abs(candidate - selfNumber) == Math.abs(
+                        ans - selfNumber) && candidate < ans) {
                     ans = candidate;
                 }
             }

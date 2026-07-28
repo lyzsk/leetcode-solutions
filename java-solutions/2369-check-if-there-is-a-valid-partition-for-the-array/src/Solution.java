@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/13
+ * @since 2023/08/13
  **/
 public class Solution {
     public boolean validPartition(int[] nums) {
@@ -12,10 +12,12 @@ public class Solution {
                 dp[i + 1] = true;
             }
             if (i > 1) {
-                if (nums[i] == nums[i - 1] && nums[i] == nums[i - 2] && dp[i - 2]) {
+                if (nums[i] == nums[i - 1] && nums[i] == nums[i - 2] && dp[i
+                    - 2]) {
                     dp[i + 1] = true;
                 }
-                if (nums[i] == nums[i - 1] + 1 && nums[i] == nums[i - 2] + 2 && dp[i - 2]) {
+                if (nums[i] == nums[i - 1] + 1 && nums[i] == nums[i - 2] + 2
+                    && dp[i - 2]) {
                     dp[i + 1] = true;
                 }
             }

@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2022/12/30
+ * @since 2022/12/30
  **/
 public class Solution {
     public int[] reversePrint(ListNode head) {

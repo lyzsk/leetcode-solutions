@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/25
+ * @since 2022/08/25
  **/
 public class Solution {
     public int maxProduct(int[] nums) {

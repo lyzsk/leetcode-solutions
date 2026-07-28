@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/23
+ * @since 2023/08/23
  **/
 public class Solution {
     public String reorganizeString(String s) {

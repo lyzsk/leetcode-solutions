@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/20
+ * @since 2024/05/20
  **/
 public class Solution {
     public int subsetXORSum(int[] nums) {

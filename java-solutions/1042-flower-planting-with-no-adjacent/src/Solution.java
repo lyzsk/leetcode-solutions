@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/04/16
+ * @since 2023/04/16
  **/
 public class Solution {
     public int[] gardenNoAdj(int n, int[][] paths) {

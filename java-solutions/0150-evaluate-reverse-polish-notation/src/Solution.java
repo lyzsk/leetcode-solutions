@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2022/12/17
+ * @since 2022/12/17
  **/
 public class Solution {
     public int evalRPN(String[] tokens) {
@@ -35,6 +35,7 @@ public class Solution {
     }
 
     private boolean isNumber(String token) {
-        return !("+".equals(token) || "-".equals(token) || "*".equals(token) || "/".equals(token));
+        return !("+".equals(token) || "-".equals(token) || "*".equals(token)
+            || "/".equals(token));
     }
 }

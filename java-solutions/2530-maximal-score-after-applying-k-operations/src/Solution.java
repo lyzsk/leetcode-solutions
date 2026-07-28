@@ -3,12 +3,13 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2023/01/08
+ * @since 2023/01/08
  **/
 public class Solution {
     public long maxKelements(int[] nums, int k) {
         long res = 0;
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> maxheap =
+            new PriorityQueue<>(Collections.reverseOrder());
         for (int num : nums) {
             maxheap.offer(num);
         }

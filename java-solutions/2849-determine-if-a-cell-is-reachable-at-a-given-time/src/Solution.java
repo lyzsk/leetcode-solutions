@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/09/10
+ * @since 2023/09/10
  **/
 public class Solution {
     public boolean isReachableAtTime(int sx, int sy, int fx, int fy, int t) {

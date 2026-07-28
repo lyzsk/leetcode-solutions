@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/11
+ * @since 2023/02/11
  **/
 public class Solution {
     public String alphabetBoardPath(String target) {

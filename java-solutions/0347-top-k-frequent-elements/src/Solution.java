@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/10/19
+ * @since 2022/10/19
  **/
 public class Solution {
     public int[] topKFrequent(int[] nums, int k) {
@@ -21,7 +21,8 @@ public class Solution {
             freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
         // PriorityQueue<int[]> pq = new PriorityQueue<>((o1, o2) -> o1[1] - o2[1]);
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(o -> o[1]));
+        PriorityQueue<int[]> pq =
+            new PriorityQueue<>(Comparator.comparingInt(o -> o[1]));
         for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
             int num = entry.getKey();
             int cnt = entry.getValue();

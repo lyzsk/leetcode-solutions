@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/09/07
+ * @since 2023/09/07
  **/
 public class Solution {
     public long repairCars(int[] ranks, int cars) {

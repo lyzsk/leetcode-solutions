@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/23
+ * @since 2022/11/23
  **/
 public class Solution {
     public int countRangeSum(int[] nums, int lower, int upper) {
@@ -16,18 +16,21 @@ public class Solution {
         return countWithMergeSort(presum, lower, upper, 0, n - 1);
     }
 
-    private int countWithMergeSort(long[] presum, int lower, int upper, int left, int right) {
+    private int countWithMergeSort(long[] presum, int lower, int upper,
+        int left, int right) {
         if (left == right) {
             return (presum[left] >= lower && presum[right] <= upper) ? 1 : 0;
         }
         int mid = left + ((right - left) >> 1);
         int leftCount = countWithMergeSort(presum, lower, upper, left, mid);
-        int rightCount = countWithMergeSort(presum, lower, upper, mid + 1, right);
+        int rightCount =
+            countWithMergeSort(presum, lower, upper, mid + 1, right);
         int mergeCount = merge(presum, lower, upper, left, mid, right);
         return leftCount + rightCount + mergeCount;
     }
 
-    private int merge(long[] presum, int lower, int upper, int left, int mid, int right) {
+    private int merge(long[] presum, int lower, int upper, int left, int mid,
+        int right) {
         int res = 0;
         int curLeft = left;
         int curRight = mid + 1;

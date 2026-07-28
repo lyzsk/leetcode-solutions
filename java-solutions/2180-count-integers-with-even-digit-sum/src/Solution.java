@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/05
+ * @since 2023/01/05
  **/
 public class Solution {
     public int countEven(int num) {

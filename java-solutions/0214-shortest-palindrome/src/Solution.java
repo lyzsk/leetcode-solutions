@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/20
+ * @since 2024/09/20
  **/
 public class Solution {
     public String shortestPalindrome(String s) {

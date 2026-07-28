@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/08/04
+ * @since 2024/08/04
  **/
 public class Solution {
     public int rangeSum(int[] nums, int n, int left, int right) {

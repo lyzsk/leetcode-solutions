@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/07
+ * @since 2024/09/07
  **/
 public class Solution {
     public boolean isSubPath(ListNode head, TreeNode root) {
@@ -10,7 +10,8 @@ public class Solution {
         if (root == null) {
             return false;
         }
-        return isSub(head, root) || isSubPath(head, root.left) || isSubPath(head, root.right);
+        return isSub(head, root) || isSubPath(head, root.left) || isSubPath(
+            head, root.right);
     }
 
     private boolean isSub(ListNode head, TreeNode node) {

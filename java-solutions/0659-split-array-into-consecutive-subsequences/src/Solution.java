@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/08/19
+ * @since 2022/08/19
  **/
 public class Solution {
     /**
@@ -35,7 +35,8 @@ public class Solution {
                         freqMap.put(num, freq - 1);
                         freqMap.put(num + 1, freq1 - 1);
                         freqMap.put(num + 2, freq2 - 1);
-                        tailMap.put(num + 2, tailMap.getOrDefault(num + 2, 0) + 1);
+                        tailMap.put(num + 2,
+                            tailMap.getOrDefault(num + 2, 0) + 1);
                     } else {
                         return false;
                     }

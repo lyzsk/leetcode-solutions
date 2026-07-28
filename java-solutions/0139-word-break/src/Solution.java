@@ -2,7 +2,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
     private Boolean[] memo;
@@ -20,7 +20,8 @@ public class Solution {
             return memo[idx];
         }
         for (String word : wordDict) {
-            if (s.startsWith(word, idx) && helper(s, wordDict, idx + word.length())) {
+            if (s.startsWith(word, idx) && helper(s, wordDict,
+                idx + word.length())) {
                 memo[idx] = true;
                 return true;
             }

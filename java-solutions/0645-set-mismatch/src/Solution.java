@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/01/22
+ * @since 2024/01/22
  **/
 public class Solution {
     public int[] findErrorNums(int[] nums) {

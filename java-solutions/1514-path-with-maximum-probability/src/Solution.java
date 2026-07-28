@@ -2,10 +2,11 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/08/27
+ * @since 2024/08/27
  **/
 public class Solution {
-    public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
+    public double maxProbability(int n, int[][] edges, double[] succProb,
+        int start_node, int end_node) {
         double[] dist = new double[n];
         Arrays.fill(dist, 0.0);
         dist[start_node] = 1.0;

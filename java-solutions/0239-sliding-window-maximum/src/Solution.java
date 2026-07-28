@@ -2,13 +2,14 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/11/15
+ * @since 2022/11/15
  **/
 public class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         // int[] {num, idx}
-        PriorityQueue<int[]> maxheap = new PriorityQueue<>((o1, o2) -> o1[0] == o2[0] ? o2[1] - o1[1] : o2[0] - o1[0]);
+        PriorityQueue<int[]> maxheap = new PriorityQueue<>(
+            (o1, o2) -> o1[0] == o2[0] ? o2[1] - o1[1] : o2[0] - o1[0]);
         for (int i = 0; i < k; i++) {
             maxheap.add(new int[] {nums[i], i});
         }

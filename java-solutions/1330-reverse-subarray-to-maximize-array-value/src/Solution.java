@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/05/12
+ * @since 2023/05/12
  **/
 public class Solution {
     public int maxValueAfterReverse(int[] nums) {
@@ -11,8 +11,11 @@ public class Solution {
         }
         int maxv1 = 0;
         for (int i = 1; i < n - 1; i++) {
-            maxv1 = Math.max(maxv1, Math.abs(nums[0] - nums[i + 1]) - Math.abs(nums[i] - nums[i + 1]));
-            maxv1 = Math.max(maxv1, Math.abs(nums[n - 1] - nums[i - 1]) - Math.abs(nums[i] - nums[i - 1]));
+            maxv1 = Math.max(maxv1, Math.abs(nums[0] - nums[i + 1]) - Math.abs(
+                nums[i] - nums[i + 1]));
+            maxv1 = Math.max(maxv1,
+                Math.abs(nums[n - 1] - nums[i - 1]) - Math.abs(
+                    nums[i] - nums[i - 1]));
         }
         int maxv2 = Integer.MIN_VALUE;
         int minv2 = Integer.MAX_VALUE;

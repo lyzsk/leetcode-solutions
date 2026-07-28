@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/11
+ * @since 2022/10/11
  **/
 public class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
@@ -22,6 +22,7 @@ public class Solution {
         if (diff.size() != 2) {
             return false;
         }
-        return s1.charAt(diff.get(0)) == s2.charAt(diff.get(1)) && s1.charAt(diff.get(1)) == s2.charAt(diff.get(0));
+        return s1.charAt(diff.get(0)) == s2.charAt(diff.get(1))
+            && s1.charAt(diff.get(1)) == s2.charAt(diff.get(0));
     }
 }

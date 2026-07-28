@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 /**
  * @author sichu
- * @date 2024/01/06
+ * @since 2024/01/06
  **/
 public class Solution {
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
@@ -20,7 +20,8 @@ public class Solution {
             int startTimeValue = jobs[i].startTime;
             int profitValue = jobs[i].profit;
             int latestNonConflictJobIndex = upperBound(jobs, i, startTimeValue);
-            dp[i + 1] = Math.max(dp[i], dp[latestNonConflictJobIndex] + profitValue);
+            dp[i + 1] =
+                Math.max(dp[i], dp[latestNonConflictJobIndex] + profitValue);
         }
         return dp[numJobs];
     }

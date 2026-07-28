@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2022/11/26
+ * @since 2022/11/26
  **/
 public class Solution {
     public int minPairSum(int[] nums) {

@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 /**
  * @author sichu
- * @date 2024/02/18
+ * @since 2024/02/18
  **/
 public class Solution {
     public int mostBooked(int n, int[][] meetings) {

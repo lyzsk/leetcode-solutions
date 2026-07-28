@@ -2,12 +2,13 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/07/27
+ * @since 2024/07/27
  **/
 public class Solution {
     private final long[][] dist = new long[26][26];
 
-    public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
+    public long minimumCost(String source, String target, char[] original,
+        char[] changed, int[] cost) {
         for (int i = 0; i < 26; i++) {
             Arrays.fill(dist[i], Long.MAX_VALUE / 2);
             dist[i][i] = 0;

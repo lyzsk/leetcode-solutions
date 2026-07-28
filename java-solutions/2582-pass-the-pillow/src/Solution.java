@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/06
+ * @since 2024/07/06
  **/
 public class Solution {
     public int passThePillow(int n, int time) {

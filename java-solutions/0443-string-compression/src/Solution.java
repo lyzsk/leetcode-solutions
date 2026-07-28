@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/11
+ * @since 2022/10/11
  **/
 public class Solution {
     public int compress(char[] chars) {

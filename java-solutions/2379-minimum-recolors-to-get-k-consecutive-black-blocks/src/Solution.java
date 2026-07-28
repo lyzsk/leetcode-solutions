@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/13
+ * @since 2022/11/13
  **/
 public class Solution {
     public int minimumRecolors(String blocks, int k) {

@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/04/21
+ * @since 2024/04/21
  **/
 public class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {

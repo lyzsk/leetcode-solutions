@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/07/19
+ * @since 2024/07/19
  **/
 public class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {

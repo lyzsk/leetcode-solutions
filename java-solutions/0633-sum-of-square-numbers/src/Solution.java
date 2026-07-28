@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/17
+ * @since 2024/06/17
  **/
 public class Solution {
     public boolean judgeSquareSum(int c) {

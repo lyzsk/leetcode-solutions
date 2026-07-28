@@ -2,26 +2,30 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/08/30
+ * @since 2024/08/30
  **/
 public class Solution {
-    public int[][] modifiedGraphEdges(int n, int[][] edges, int source, int destination, int target) {
+    public int[][] modifiedGraphEdges(int n, int[][] edges, int source,
+        int destination, int target) {
         int k = 0;
         for (int[] e : edges) {
             if (e[2] == -1) {
                 ++k;
             }
         }
-        if (dijkstra(source, destination, construct(n, edges, 0, target)) > target) {
+        if (dijkstra(source, destination, construct(n, edges, 0, target))
+            > target) {
             return new int[0][];
         }
-        if (dijkstra(source, destination, construct(n, edges, (long)k * (target - 1), target)) < target) {
+        if (dijkstra(source, destination,
+            construct(n, edges, (long)k * (target - 1), target)) < target) {
             return new int[0][];
         }
         long left = 0, right = (long)k * (target - 1), ans = 0;
         while (left <= right) {
             long mid = (left + right) / 2;
-            if (dijkstra(source, destination, construct(n, edges, mid, target)) >= target) {
+            if (dijkstra(source, destination, construct(n, edges, mid, target))
+                >= target) {
                 ans = mid;
                 right = mid - 1;
             } else {

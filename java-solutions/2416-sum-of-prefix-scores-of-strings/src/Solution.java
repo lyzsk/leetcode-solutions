@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/25
+ * @since 2024/09/25
  **/
 public class Solution {
     public int[] sumPrefixScores(String[] words) {

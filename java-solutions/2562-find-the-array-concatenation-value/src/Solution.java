@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/13
+ * @since 2023/02/13
  **/
 public class Solution {
     public long findTheArrayConcVal(int[] nums) {

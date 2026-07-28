@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/14
+ * @since 2024/04/14
  **/
 public class Solution {
     public int sumOfLeftLeaves(TreeNode root) {

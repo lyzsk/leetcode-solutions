@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/04/27
+ * @since 2024/04/27
  **/
 public class Solution {
     public int findRotateSteps(String ring, String key) {
@@ -26,7 +26,9 @@ public class Solution {
         for (int i = 1; i < m; ++i) {
             for (int j : pos[key.charAt(i) - 'a']) {
                 for (int k : pos[key.charAt(i - 1) - 'a']) {
-                    dp[i][j] = Math.min(dp[i][j], dp[i - 1][k] + Math.min(Math.abs(j - k), n - Math.abs(j - k)) + 1);
+                    dp[i][j] = Math.min(dp[i][j],
+                        dp[i - 1][k] + Math.min(Math.abs(j - k),
+                            n - Math.abs(j - k)) + 1);
                 }
             }
         }

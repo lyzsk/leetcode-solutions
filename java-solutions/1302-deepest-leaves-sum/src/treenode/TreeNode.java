@@ -2,7 +2,7 @@ package treenode;
 
 /**
  * @author sichu
- * @date 2022/08/17
+ * @since 2022/08/17
  **/
 public class TreeNode {
     public int val;

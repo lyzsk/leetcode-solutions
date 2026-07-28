@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/11/18
+ * @since 2023/11/18
  **/
 public class Solution {
     public int maxFrequency(int[] nums, int k) {

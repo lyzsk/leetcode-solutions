@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/15
+ * @since 2022/11/15
  **/
 public class Solution {
     public int missingNumber(int[] nums) {

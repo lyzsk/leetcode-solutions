@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu huang
- * @date 2024/07/08
+ * @since 2024/07/08
  **/
 public class Solution {
     public int findTheWinner(int n, int k) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/25
+ * @since 2024/06/25
  **/
 public class Solution {
     int sum = 0;

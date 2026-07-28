@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2024/01/10
+ * @since 2024/01/10
  **/
 public class Solution {
     private Map<Integer, List<Integer>> adjList = new HashMap<>(16);
@@ -35,12 +35,16 @@ public class Solution {
             return;
         }
         if (root.left != null) {
-            adjList.computeIfAbsent(root.val, v -> new ArrayList<>()).add(root.left.val);
-            adjList.computeIfAbsent(root.left.val, v -> new ArrayList<>()).add(root.val);
+            adjList.computeIfAbsent(root.val, v -> new ArrayList<>())
+                .add(root.left.val);
+            adjList.computeIfAbsent(root.left.val, v -> new ArrayList<>())
+                .add(root.val);
         }
         if (root.right != null) {
-            adjList.computeIfAbsent(root.val, v -> new ArrayList<>()).add(root.right.val);
-            adjList.computeIfAbsent(root.right.val, v -> new ArrayList<>()).add(root.val);
+            adjList.computeIfAbsent(root.val, v -> new ArrayList<>())
+                .add(root.right.val);
+            adjList.computeIfAbsent(root.right.val, v -> new ArrayList<>())
+                .add(root.val);
         }
         convertToGraph(root.left);
         convertToGraph(root.right);

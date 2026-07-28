@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/19
+ * @since 2022/11/19
  **/
 public class Solution {
     public int minDeletion(int[] nums) {

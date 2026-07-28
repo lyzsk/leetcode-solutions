@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/08/21
+ * @since 2022/08/21
  **/
 public class Solution {
     /**
@@ -45,7 +45,8 @@ public class Solution {
         }
         while (!queue.isEmpty()) {
             int i = queue.poll();
-            for (int j = Math.max(0, i - stamp.length() + 1); j < Math.min(target.length() - stamp.length(), i); j++) {
+            for (int j = Math.max(0, i - stamp.length() + 1);
+                 j < Math.min(target.length() - stamp.length(), i); j++) {
                 if (list.get(j).todo.contains(i)) {
                     list.get(j).todo.remove(i);
                     if (list.get(j).todo.isEmpty()) {

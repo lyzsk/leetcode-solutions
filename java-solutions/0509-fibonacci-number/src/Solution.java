@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/02
+ * @since 2022/12/02
  **/
 public class Solution {
     public int fib(int n) {

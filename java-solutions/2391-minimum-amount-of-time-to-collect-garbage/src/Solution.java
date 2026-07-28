@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/11/20
+ * @since 2023/11/20
  **/
 public class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {

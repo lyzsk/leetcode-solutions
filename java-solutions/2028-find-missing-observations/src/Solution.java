@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/05
+ * @since 2024/09/05
  **/
 public class Solution {
     public int[] missingRolls(int[] rolls, int mean, int n) {

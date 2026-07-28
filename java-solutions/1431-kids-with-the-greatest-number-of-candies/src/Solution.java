@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/04/17
+ * @since 2023/04/17
  **/
 public class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {

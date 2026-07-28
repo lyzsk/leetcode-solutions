@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/05/11
+ * @since 2023/05/11
  **/
 public class Solution {
     public int findMaxFish(int[][] grid) {
@@ -18,7 +18,8 @@ public class Solution {
     }
 
     private int dfs(int[][] grid, int x, int y) {
-        if (x < 0 || y < 0 || x > grid.length - 1 || y > grid[0].length - 1 || grid[x][y] <= 0) {
+        if (x < 0 || y < 0 || x > grid.length - 1 || y > grid[0].length - 1
+            || grid[x][y] <= 0) {
             return 0;
         }
         int res = grid[x][y];

@@ -2,7 +2,7 @@ package split;
 
 /**
  * @author sichu
- * @date 2022/08/19
+ * @since 2022/08/19
  **/
 public class Solution {
     public int busyStudent(int[] startTime, int[] endTime, int queryTime) {

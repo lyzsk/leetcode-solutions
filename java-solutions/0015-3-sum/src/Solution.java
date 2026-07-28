@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/08/16
+ * @since 2022/08/16
  **/
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
@@ -24,7 +24,8 @@ public class Solution {
             int right = nums.length - 1;
             while (left < right) {
                 if (nums[left] + nums[right] == -nums[i]) {
-                    res.add(new ArrayList<>(Arrays.asList(nums[i], nums[left], nums[right])));
+                    res.add(new ArrayList<>(
+                        Arrays.asList(nums[i], nums[left], nums[right])));
                     ++left;
                     --right;
                     while (left < right && nums[left] == nums[left - 1]) {

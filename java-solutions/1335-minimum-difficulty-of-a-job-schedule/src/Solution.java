@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/05/16
+ * @since 2023/05/16
  **/
 public class Solution {
     public int minDifficulty(int[] jobDifficulty, int d) {

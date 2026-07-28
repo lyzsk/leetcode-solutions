@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/12/07
+ * @since 2022/12/07
  **/
 public class Solution {
     public boolean wordPattern(String pattern, String s) {

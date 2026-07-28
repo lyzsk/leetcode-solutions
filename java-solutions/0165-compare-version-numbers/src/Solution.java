@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/05
+ * @since 2022/10/05
  **/
 public class Solution {
     public int compareVersion(String version1, String version2) {

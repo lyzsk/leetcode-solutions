@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/11/05
+ * @since 2023/11/05
  **/
 public class Solution {
     public int getWinner(int[] arr, int k) {

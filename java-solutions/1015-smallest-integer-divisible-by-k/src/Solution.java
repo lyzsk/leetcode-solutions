@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/05/10
+ * @since 2023/05/10
  **/
 public class Solution {
     public int smallestRepunitDivByK(int k) {

@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/11/13
+ * @since 2022/11/13
  **/
 public class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
@@ -26,7 +26,8 @@ public class Solution {
             Map<String, Integer> differ = new HashMap<>();
             // 初始化窗口，窗口长度为num * wordLen,依次计算窗口里每个切分的单词的频次
             for (int j = 0; j < num; j++) {
-                String word = s.substring(i + j * wordLen, i + (j + 1) * wordLen);
+                String word =
+                    s.substring(i + j * wordLen, i + (j + 1) * wordLen);
                 differ.put(word, differ.getOrDefault(word, 0) + 1);
             }
             // 遍历words中的word，对窗口里每个单词计算差值
@@ -38,10 +39,12 @@ public class Solution {
                 }
             }
             // 开始滑动窗口
-            for (int start = i; start < stringLen - num * wordLen + 1; start += wordLen) {
+            for (int start = i;
+                 start < stringLen - num * wordLen + 1; start += wordLen) {
                 if (start != i) {
                     // 右边的单词滑进来
-                    String word = s.substring(start + (num - 1) * wordLen, start + num * wordLen);
+                    String word = s.substring(start + (num - 1) * wordLen,
+                        start + num * wordLen);
                     differ.put(word, differ.getOrDefault(word, 0) + 1);
                     if (differ.get(word) == 0) {
                         differ.remove(word);

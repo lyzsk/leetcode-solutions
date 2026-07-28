@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2023/11/06
+ * @since 2023/11/06
  **/
 public class SeatManager {
     private PriorityQueue<Integer> pq;

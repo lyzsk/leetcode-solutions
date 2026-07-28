@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/12
+ * @since 2022/10/12
  **/
 public class ListNode {
     int val;

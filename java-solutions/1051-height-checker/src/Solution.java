@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/06/10
+ * @since 2024/06/10
  **/
 public class Solution {
     public int heightChecker(int[] heights) {

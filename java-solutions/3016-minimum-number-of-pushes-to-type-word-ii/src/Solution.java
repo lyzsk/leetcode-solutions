@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/08/06
+ * @since 2024/08/06
  **/
 public class Solution {
     public int minimumPushes(String word) {

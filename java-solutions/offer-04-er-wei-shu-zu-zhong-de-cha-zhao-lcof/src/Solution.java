@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/26
+ * @since 2022/12/26
  **/
 public class Solution {
     public boolean findNumberIn2DArray(int[][] matrix, int target) {

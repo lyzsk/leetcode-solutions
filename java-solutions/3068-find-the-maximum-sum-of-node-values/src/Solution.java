@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/19
+ * @since 2024/05/19
  **/
 public class Solution {
     public long maximumValueSum(int[] nums, int k, int[][] edges) {

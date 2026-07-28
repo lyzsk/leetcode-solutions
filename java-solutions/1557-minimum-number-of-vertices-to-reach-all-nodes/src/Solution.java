@@ -5,10 +5,11 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/05/18
+ * @since 2023/05/18
  **/
 public class Solution {
-    public List<Integer> findSmallestSetOfVertices(int n, List<List<Integer>> edges) {
+    public List<Integer> findSmallestSetOfVertices(int n,
+        List<List<Integer>> edges) {
         List<Integer> res = new ArrayList<>();
         Set<Integer> set = new HashSet<>();
         for (List<Integer> edge : edges) {

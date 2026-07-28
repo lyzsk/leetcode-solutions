@@ -1,11 +1,17 @@
 /**
  * @author sichu huang
- * @date 2024/08/07
+ * @since 2024/08/07
  **/
 public class Solution {
-    String[] singles = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
-    String[] teens = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
-    String[] tens = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    String[] singles =
+        {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
+            "Nine"};
+    String[] teens =
+        {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen",
+            "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+    String[] tens =
+        {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy",
+            "Eighty", "Ninety"};
     String[] thousands = {"", "Thousand", "Million", "Billion"};
 
     public String numberToWords(int num) {

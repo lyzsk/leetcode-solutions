@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/02
+ * @since 2024/09/02
  **/
 public class Solution {
     public int chalkReplacer(int[] chalk, int k) {

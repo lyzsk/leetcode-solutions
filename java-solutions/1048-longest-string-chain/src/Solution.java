@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/04/27
+ * @since 2023/04/27
  **/
 public class Solution {
     public int longestStrChain(String[] words) {

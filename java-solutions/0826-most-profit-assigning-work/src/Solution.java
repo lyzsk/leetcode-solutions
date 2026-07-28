@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/18
+ * @since 2024/06/18
  **/
 public class Solution {
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {

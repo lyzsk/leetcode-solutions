@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/08/20
+ * @since 2024/08/20
  **/
 public class Solution {
     public int stoneGameII(int[] piles) {
@@ -15,7 +15,8 @@ public class Solution {
         return (prefixSum[piles.length] + dp(memo, piles, prefixSum, 0, 1)) / 2;
     }
 
-    public int dp(Map<Integer, Integer> memo, int[] piles, int[] prefixSum, int i, int m) {
+    public int dp(Map<Integer, Integer> memo, int[] piles, int[] prefixSum,
+        int i, int m) {
         if (i == piles.length) {
             return 0;
         }
@@ -26,7 +27,9 @@ public class Solution {
                 if (i + x > piles.length) {
                     break;
                 }
-                maxVal = Math.max(maxVal, prefixSum[i + x] - prefixSum[i] - dp(memo, piles, prefixSum, i + x, Math.max(m, x)));
+                maxVal = Math.max(maxVal,
+                    prefixSum[i + x] - prefixSum[i] - dp(memo, piles, prefixSum,
+                        i + x, Math.max(m, x)));
             }
             memo.put(key, maxVal);
         }

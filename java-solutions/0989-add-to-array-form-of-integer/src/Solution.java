@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/11/13
+ * @since 2022/11/13
  **/
 public class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {

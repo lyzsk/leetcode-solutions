@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/07/14
+ * @since 2024/07/14
  **/
 public class Solution {
     private int i;
@@ -28,7 +28,8 @@ public class Solution {
                 for (Map.Entry<String, Integer> entry : popMap.entrySet()) {
                     String atom = entry.getKey();
                     int value = entry.getValue();
-                    topMap.put(atom, topMap.getOrDefault(atom, 0) + value * num);
+                    topMap.put(atom,
+                        topMap.getOrDefault(atom, 0) + value * num);
                 }
             } else {
                 String atom = parseAtom();

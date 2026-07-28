@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/08
+ * @since 2022/12/08
  **/
 public class Solution {
     public boolean squareIsWhite(String coordinates) {

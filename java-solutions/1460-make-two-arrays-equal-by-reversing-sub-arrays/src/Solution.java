@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/24
+ * @since 2022/08/24
  **/
 public class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {

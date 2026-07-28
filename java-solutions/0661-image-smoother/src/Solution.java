@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/12/19
+ * @since 2023/12/19
  **/
 public class Solution {
     public int[][] imageSmoother(int[][] img) {

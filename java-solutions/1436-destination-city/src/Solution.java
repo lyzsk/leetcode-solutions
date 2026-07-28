@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/12/15
+ * @since 2023/12/15
  **/
 public class Solution {
     public String destCity(List<List<String>> paths) {

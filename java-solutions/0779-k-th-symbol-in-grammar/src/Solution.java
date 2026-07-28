@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/10/25
+ * @since 2023/10/25
  **/
 public class Solution {
     public int kthGrammar(int n, int k) {

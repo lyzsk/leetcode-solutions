@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
-    private static void backtrack(List<List<Integer>> res, Deque<Integer> path, TreeNode root, int targetSum) {
+    private static void backtrack(List<List<Integer>> res, Deque<Integer> path,
+        TreeNode root, int targetSum) {
         if (root == null) {
             return;
         }

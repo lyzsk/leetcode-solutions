@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/09
+ * @since 2022/10/09
  **/
 public class Solution {
     private final List<Integer> list = new ArrayList<>();

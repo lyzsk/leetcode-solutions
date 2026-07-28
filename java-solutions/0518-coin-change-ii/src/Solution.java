@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/11
+ * @since 2023/08/11
  **/
 public class Solution {
     public int change(int amount, int[] coins) {

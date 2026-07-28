@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/11/18
+ * @since 2022/11/18
  **/
 public class Solution {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {

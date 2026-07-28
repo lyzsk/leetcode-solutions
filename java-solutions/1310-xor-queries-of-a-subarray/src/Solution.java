@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/13
+ * @since 2024/09/13
  **/
 public class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {

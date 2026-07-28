@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/03
+ * @since 2024/06/03
  **/
 public class Solution {
     public int appendCharacters(String s, String t) {

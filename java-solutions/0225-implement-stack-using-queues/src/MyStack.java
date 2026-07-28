@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2023/08/28
+ * @since 2023/08/28
  **/
 public class MyStack {
     private Deque<Integer> deque;

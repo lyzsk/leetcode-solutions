@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/04/23
+ * @since 2024/04/23
  **/
 public class Solution {
     public List<Integer> findMinHeightTrees(int n, int[][] edges) {

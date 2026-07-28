@@ -2,11 +2,12 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2023/04/24
+ * @since 2023/04/24
  **/
 public class Solution {
     public int lastStoneWeight(int[] stones) {
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>((o1, o2) -> Integer.compare(o2, o1));
+        PriorityQueue<Integer> maxheap =
+            new PriorityQueue<>((o1, o2) -> Integer.compare(o2, o1));
         for (int stone : stones) {
             maxheap.offer(stone);
         }

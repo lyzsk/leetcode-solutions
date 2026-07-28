@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/04
+ * @since 2022/10/04
  **/
 public class Solution {
     public int myAtoi(String s) {
@@ -24,11 +24,14 @@ public class Solution {
                 sign = -1;
             } else if (s.charAt(i) >= '0' && s.charAt(i) <= '9') {
                 int digit = s.charAt(i) - '0';
-                if (res > Integer.MAX_VALUE / 10 || (res == Integer.MAX_VALUE / 10 && digit > Integer.MAX_VALUE % 10)) {
+                if (res > Integer.MAX_VALUE / 10 || (
+                    res == Integer.MAX_VALUE / 10
+                        && digit > Integer.MAX_VALUE % 10)) {
                     return Integer.MAX_VALUE;
                 }
-                if (res < Integer.MIN_VALUE / 10 || (res == Integer.MIN_VALUE / 10
-                    && -digit < Integer.MIN_VALUE % 10)) {
+                if (res < Integer.MIN_VALUE / 10 || (
+                    res == Integer.MIN_VALUE / 10
+                        && -digit < Integer.MIN_VALUE % 10)) {
                     return Integer.MIN_VALUE;
                 }
                 res = res * 10 + sign * digit;

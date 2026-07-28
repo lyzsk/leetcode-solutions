@@ -19,7 +19,7 @@ import java.util.List;
  * }
  *
  * @author sichu
- * @date 2022/08/26
+ * @since 2022/08/26
  **/
 public class Solution {
     public List<Integer> rightSideView(TreeNode root) {

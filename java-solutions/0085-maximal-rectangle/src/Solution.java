@@ -3,7 +3,7 @@ import java.util.LinkedList;
 
 /**
  * @author sichu huang
- * @date 2024/04/13
+ * @since 2024/04/13
  **/
 public class Solution {
     public int maximalRectangle(char[][] matrix) {

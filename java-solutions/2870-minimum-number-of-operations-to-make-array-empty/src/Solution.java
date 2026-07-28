@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2024/01/04
+ * @since 2024/01/04
  **/
 public class Solution {
     public int minOperations(int[] nums) {

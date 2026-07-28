@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/16
+ * @since 2022/12/16
  **/
 public class Solution {
     public boolean canChoose(int[][] groups, int[] nums) {

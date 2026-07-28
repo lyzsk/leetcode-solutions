@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/02/08
+ * @since 2023/02/08
  **/
 public class Solution {
     public List<String> removeSubfolders(String[] folder) {

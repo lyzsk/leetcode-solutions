@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/23
+ * @since 2023/01/23
  **/
 public class Solution {
     public int findJudge(int n, int[][] trust) {

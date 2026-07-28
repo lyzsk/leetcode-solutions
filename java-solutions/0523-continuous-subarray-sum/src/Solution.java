@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/08
+ * @since 2024/06/08
  **/
 public class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {

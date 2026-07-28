@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/03
+ * @since 2022/12/03
  **/
 public class Solution {
     public int maxAncestorDiff(TreeNode root) {
@@ -14,7 +14,8 @@ public class Solution {
         if (root == null) {
             return 0;
         }
-        int maxDiff = Math.max(Math.abs(root.val - max), Math.abs(root.val - min));
+        int maxDiff =
+            Math.max(Math.abs(root.val - max), Math.abs(root.val - min));
         max = Math.max(root.val, max);
         min = Math.min(root.val, min);
         maxDiff = Math.max(maxDiff, dfs(root.left, max, min));

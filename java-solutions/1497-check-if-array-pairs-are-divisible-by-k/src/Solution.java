@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/10/01
+ * @since 2024/10/01
  **/
 public class Solution {
     public boolean canArrange(int[] arr, int k) {

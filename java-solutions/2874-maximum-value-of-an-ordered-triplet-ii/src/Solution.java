@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/10/01
+ * @since 2023/10/01
  **/
 public class Solution {
     public long maximumTripletValue(int[] nums) {

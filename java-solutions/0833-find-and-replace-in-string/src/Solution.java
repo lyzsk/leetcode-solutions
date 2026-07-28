@@ -5,10 +5,11 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/08/15
+ * @since 2023/08/15
  **/
 public class Solution {
-    public String findReplaceString(String s, int[] indices, String[] sources, String[] targets) {
+    public String findReplaceString(String s, int[] indices, String[] sources,
+        String[] targets) {
         int n = s.length();
         int k = indices.length;
         Map<Integer, List<Integer>> map = new HashMap<>(16);
@@ -21,7 +22,8 @@ public class Solution {
             boolean flag = false;
             if (map.containsKey(i)) {
                 for (int x : map.get(i)) {
-                    if (s.substring(i, Math.min(i + sources[x].length(), n)).equals(sources[x])) {
+                    if (s.substring(i, Math.min(i + sources[x].length(), n))
+                        .equals(sources[x])) {
                         flag = true;
                         sb.append(targets[x]);
                         i += sources[x].length();

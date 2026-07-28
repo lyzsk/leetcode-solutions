@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/08
+ * @since 2023/08/08
  **/
 public class Solution {
     public int maxAbsoluteSum(int[] nums) {

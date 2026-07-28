@@ -3,10 +3,11 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/11/15
+ * @since 2022/11/15
  **/
 public class Solution {
-    public int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {
+    public int fourSumCount(int[] nums1, int[] nums2, int[] nums3,
+        int[] nums4) {
         Map<Integer, Integer> map = new HashMap<>(16);
         for (int num1 : nums1) {
             for (int num2 : nums2) {

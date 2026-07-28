@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/23
+ * @since 2022/10/23
  **/
 public class Solution {
     private static void postOrder(TreeNode root, List<Integer> res) {

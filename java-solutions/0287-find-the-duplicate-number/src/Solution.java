@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/12
+ * @since 2023/02/12
  **/
 public class Solution {
     public int findDuplicate(int[] nums) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/14
+ * @since 2022/08/14
  **/
 public class Solution {
     public int maxScore(String s) {

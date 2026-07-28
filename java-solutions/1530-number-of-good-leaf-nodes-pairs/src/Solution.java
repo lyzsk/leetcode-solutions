@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/18
+ * @since 2024/07/18
  **/
 public class Solution {
     public int countPairs(TreeNode root, int distance) {

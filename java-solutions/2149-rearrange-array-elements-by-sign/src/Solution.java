@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/02/14
+ * @since 2024/02/14
  **/
 public class Solution {
     public int[] rearrangeArray(int[] nums) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/27
+ * @since 2022/11/27
  **/
 public class Solution {
     public double largestSumOfAverages(int[] nums, int k) {
@@ -16,7 +16,8 @@ public class Solution {
         for (int j = 2; j <= k; j++) {
             for (int i = j; i <= n; i++) {
                 for (int x = j - 1; x < i; x++) {
-                    dp[i][j] = Math.max(dp[i][j], dp[x][j - 1] + (presum[i] - presum[x]) / (i - x));
+                    dp[i][j] = Math.max(dp[i][j],
+                        dp[x][j - 1] + (presum[i] - presum[x]) / (i - x));
                 }
             }
         }

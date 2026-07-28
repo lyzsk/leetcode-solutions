@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu huang
- * @date 2024/10/12
+ * @since 2024/10/12
  **/
 public class Solution {
     public int minGroups(int[][] intervals) {

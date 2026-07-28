@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/10/07
+ * @since 2024/10/07
  **/
 public class Solution {
     public int minLength(String s) {

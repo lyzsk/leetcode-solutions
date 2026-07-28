@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/11/27
+ * @since 2022/11/27
  **/
 public class KthLargest {
     int k;

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/11/19
+ * @since 2023/11/19
  **/
 public class Solution {
     public int reductionOperations(int[] nums) {

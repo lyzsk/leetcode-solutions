@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * @author sichu huang
- * @date 2024/04/10
+ * @since 2024/04/10
  **/
 public class Solution {
     public int[] deckRevealedIncreasing(int[] deck) {

@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/12/23
+ * @since 2023/12/23
  **/
 public class Solution {
     public boolean isPathCrossing(String path) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/14
+ * @since 2022/12/14
  **/
 public class Solution {
     public int getLucky(String s, int k) {

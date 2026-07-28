@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/09
+ * @since 2022/10/09
  **/
 public class Solution {
     public int[][] merge(int[][] intervals) {
@@ -16,7 +16,8 @@ public class Solution {
             if (res.isEmpty() || left > res.get(res.size() - 1)[1]) {
                 res.add(new int[] {left, right});
             } else {
-                res.get(res.size() - 1)[1] = Math.max(res.get(res.size() - 1)[1], right);
+                res.get(res.size() - 1)[1] =
+                    Math.max(res.get(res.size() - 1)[1], right);
             }
         }
         return res.toArray(new int[res.size()][2]);

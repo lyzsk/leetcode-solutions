@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/09
+ * @since 2024/04/09
  **/
 public class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {

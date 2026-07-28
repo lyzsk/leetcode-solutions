@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/22
+ * @since 2024/09/22
  **/
 public class Solution {
     public int findKthNumber(int n, int k) {

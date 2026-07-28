@@ -5,10 +5,11 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/05/01
+ * @since 2023/05/01
  **/
 public class Solution {
-    public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
+    public int numOfMinutes(int n, int headID, int[] manager,
+        int[] informTime) {
         Map<Integer, List<Integer>> g = new HashMap<>(16);
         for (int i = 0; i < n; i++) {
             g.putIfAbsent(manager[i], new ArrayList<>());

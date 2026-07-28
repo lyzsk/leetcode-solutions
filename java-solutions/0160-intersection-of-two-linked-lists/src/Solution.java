@@ -10,7 +10,7 @@
  * }
  *
  * @author sichu
- * @date 2022/08/26
+ * @since 2022/08/26
  **/
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

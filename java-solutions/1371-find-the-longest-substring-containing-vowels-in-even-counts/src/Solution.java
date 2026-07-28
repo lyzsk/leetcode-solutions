@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/09/15
+ * @since 2024/09/15
  **/
 public class Solution {
     public int findTheLongestSubstring(String s) {

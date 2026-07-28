@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/09/28
+ * @since 2022/09/28
  **/
 public class Solution {
     public int climbStairs(int n) {

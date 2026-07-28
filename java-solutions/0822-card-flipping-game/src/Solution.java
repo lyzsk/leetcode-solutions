@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2022/11/18
+ * @since 2022/11/18
  **/
 public class Solution {
     public int flipgame(int[] fronts, int[] backs) {

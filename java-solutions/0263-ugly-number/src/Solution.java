@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/18
+ * @since 2022/11/18
  **/
 public class Solution {
     public boolean isUgly(int n) {

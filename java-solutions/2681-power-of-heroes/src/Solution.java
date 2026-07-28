@@ -4,7 +4,7 @@ import java.util.Arrays;
  * 贡献法: si = 2 * si-1 + ai-1
  *
  * @author sichu
- * @date 2023/08/01
+ * @since 2023/08/01
  **/
 public class Solution {
     public static void main(String[] args) {

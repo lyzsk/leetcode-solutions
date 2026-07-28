@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/11/21
+ * @since 2022/11/21
  **/
 public class Solution {
     public List<String> fizzBuzz(int n) {

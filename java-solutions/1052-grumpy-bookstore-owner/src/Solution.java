@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/21
+ * @since 2024/06/21
  **/
 public class Solution {
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {

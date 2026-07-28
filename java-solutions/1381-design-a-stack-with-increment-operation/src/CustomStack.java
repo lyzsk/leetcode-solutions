@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/30
+ * @since 2024/09/30
  **/
 public class CustomStack {
     int[] stack;

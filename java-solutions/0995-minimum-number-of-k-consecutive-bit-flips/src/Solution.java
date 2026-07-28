@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu huang
- * @date 2024/06/24
+ * @since 2024/06/24
  **/
 public class Solution {
     public int minKBitFlips(int[] nums, int k) {

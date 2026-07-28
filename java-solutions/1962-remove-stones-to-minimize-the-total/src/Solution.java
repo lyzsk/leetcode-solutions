@@ -3,12 +3,13 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/12/28
+ * @since 2022/12/28
  **/
 public class Solution {
     public int minStoneSum(int[] piles, int k) {
         int res = 0;
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> maxheap =
+            new PriorityQueue<>(Collections.reverseOrder());
         for (int pile : piles) {
             maxheap.offer(pile);
         }

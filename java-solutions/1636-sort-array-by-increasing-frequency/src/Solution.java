@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/07/23
+ * @since 2024/07/23
  **/
 public class Solution {
     public int[] frequencySort(int[] nums) {

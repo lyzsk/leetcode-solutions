@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * @author sichu
- * @date 2023/10/21
+ * @since 2023/10/21
  **/
 public class Solution {
     public long countPairs(int n, int[][] edges) {
@@ -27,7 +27,8 @@ public class Solution {
         return (sum * sum - squaresum) >> 1;
     }
 
-    private long dfs(int node, ArrayList<Integer>[] neighbors, boolean[] visited) {
+    private long dfs(int node, ArrayList<Integer>[] neighbors,
+        boolean[] visited) {
         visited[node] = true;
         int res = 1;
         for (int neighbor : neighbors[node]) {

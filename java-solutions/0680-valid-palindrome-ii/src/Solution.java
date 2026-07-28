@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
     public boolean validPalindrome(String s) {
@@ -13,7 +13,8 @@ public class Solution {
                 ++left;
                 --right;
             } else {
-                return isPalindrome(s, left + 1, right) || isPalindrome(s, left, right - 1);
+                return isPalindrome(s, left + 1, right) || isPalindrome(s, left,
+                    right - 1);
             }
         }
         return true;

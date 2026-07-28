@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/19
+ * @since 2024/06/19
  **/
 public class Solution {
     public int minDays(int[] bloomDay, int m, int k) {

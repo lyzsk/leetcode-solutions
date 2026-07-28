@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/04/22
+ * @since 2023/04/22
  **/
 public class Solution {
     public int longestArithSeqLength(int[] nums) {

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2022/11/17
+ * @since 2022/11/17
  **/
 public class Solution {
     public int longestConsecutive(int[] nums) {

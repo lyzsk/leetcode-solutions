@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/11/12
+ * @since 2022/11/12
  **/
 public class MedianFinder {
     private final PriorityQueue<Integer> left;

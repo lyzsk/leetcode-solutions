@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2023/01/23
+ * @since 2023/01/23
  **/
 public class Solution {
     public long maxScore(int[] nums1, int[] nums2, int k) {

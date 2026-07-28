@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/01/20
+ * @since 2023/01/20
  **/
 public class Solution {
     public List<List<Integer>> findSubsequences(int[] nums) {
@@ -18,7 +18,8 @@ public class Solution {
         return res;
     }
 
-    private void backtrack(List<List<Integer>> res, List<Integer> path, int[] nums, int index) {
+    private void backtrack(List<List<Integer>> res, List<Integer> path,
+        int[] nums, int index) {
         if (path.size() >= 2) {
             res.add(new ArrayList<>(path));
         }

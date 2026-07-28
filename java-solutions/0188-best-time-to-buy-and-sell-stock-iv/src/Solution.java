@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/10/04
+ * @since 2023/10/04
  **/
 public class Solution {
     public int maxProfit(int k, int[] prices) {

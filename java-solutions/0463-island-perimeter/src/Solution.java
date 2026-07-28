@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/04/22
+ * @since 2023/04/22
  **/
 public class Solution {
     public int islandPerimeter(int[][] grid) {
@@ -18,7 +18,8 @@ public class Solution {
     }
 
     private int dfs(int[][] grid, int x, int y) {
-        if (x < 0 || y < 0 || x > grid.length - 1 || y > grid[0].length - 1 || grid[x][y] == 0) {
+        if (x < 0 || y < 0 || x > grid.length - 1 || y > grid[0].length - 1
+            || grid[x][y] == 0) {
             return 1;
         }
         if (grid[x][y] == 2) {

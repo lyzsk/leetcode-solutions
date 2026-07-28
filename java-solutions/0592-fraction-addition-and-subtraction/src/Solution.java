@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/23
+ * @since 2024/08/23
  **/
 public class Solution {
     public String fractionAddition(String expression) {
@@ -16,7 +16,8 @@ public class Solution {
                 i++;
             }
             //获取分子
-            while (i < expression.length() && Character.isDigit(expression.charAt(i))) {
+            while (i < expression.length() && Character.isDigit(
+                expression.charAt(i))) {
                 n2 = n2 * 10 + expression.charAt(i) - '0';
                 i++;
             }
@@ -24,7 +25,8 @@ public class Solution {
             //移动 除号‘/’
             i++;
             //获取分母
-            while (i < expression.length() && Character.isDigit(expression.charAt(i))) {
+            while (i < expression.length() && Character.isDigit(
+                expression.charAt(i))) {
                 d2 = d2 * 10 + expression.charAt(i) - '0';
                 i++;
             }

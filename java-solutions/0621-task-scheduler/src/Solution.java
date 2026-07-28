@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/03/19
+ * @since 2024/03/19
  **/
 public class Solution {
     public int leastInterval(char[] tasks, int n) {

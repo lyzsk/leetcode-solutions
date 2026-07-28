@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/03/15
+ * @since 2024/03/15
  **/
 public class Solution {
     public int[] productExceptSelf(int[] nums) {

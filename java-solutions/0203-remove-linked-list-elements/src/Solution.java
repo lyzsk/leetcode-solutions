@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/04
+ * @since 2022/12/04
  **/
 public class Solution {
     public ListNode removeElements(ListNode head, int val) {

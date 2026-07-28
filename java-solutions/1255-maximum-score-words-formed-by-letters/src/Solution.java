@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/24
+ * @since 2024/05/24
  **/
 public class Solution {
     public int maxScoreWords(String[] words, char[] letters, int[] score) {

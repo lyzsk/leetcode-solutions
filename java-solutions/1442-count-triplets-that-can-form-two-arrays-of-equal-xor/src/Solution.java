@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/30
+ * @since 2024/05/30
  **/
 public class Solution {
     public int countTriplets(int[] arr) {

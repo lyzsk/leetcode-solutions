@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/01/20
+ * @since 2023/01/20
  **/
 public class Solution {
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {

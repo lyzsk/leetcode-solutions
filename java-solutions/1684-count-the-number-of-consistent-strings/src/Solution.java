@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/12
+ * @since 2024/09/12
  **/
 public class Solution {
     public int countConsistentStrings(String allowed, String[] words) {

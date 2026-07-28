@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/03/30
+ * @since 2024/03/30
  **/
 public class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {

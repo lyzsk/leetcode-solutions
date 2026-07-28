@@ -31,7 +31,7 @@ import java.util.Map;
  * 9 可以通过 n, i, e 任一字符算出， 但是因为 n 在 9 中出现 2 次, e 在 3 中出现 2 次, 所以最好用 i 来算
  *
  * @author sichu
- * @date 2022/10/23
+ * @since 2022/10/23
  **/
 public class Solution {
     public String originalDigits(String s) {

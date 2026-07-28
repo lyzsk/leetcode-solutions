@@ -2,10 +2,11 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/10/21
+ * @since 2022/10/21
  **/
 public class Solution {
-    public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
+    public List<List<String>> findLadders(String beginWord, String endWord,
+        List<String> wordList) {
         List<List<String>> res = new ArrayList<>();
         Set<String> dict = new HashSet<>(wordList);
         if (!dict.contains(endWord)) {
@@ -30,7 +31,8 @@ public class Solution {
                     for (char ch = 'a'; ch <= 'z'; ch++) {
                         arr[j] = ch;
                         String nextWord = String.valueOf(arr);
-                        if (steps.containsKey(nextWord) && step == steps.get(nextWord)) {
+                        if (steps.containsKey(nextWord) && step == steps.get(
+                            nextWord)) {
                             from.get(nextWord).add(curWord);
                         }
                         if (!dict.contains(nextWord)) {
@@ -61,8 +63,8 @@ public class Solution {
         return res;
     }
 
-    private void backtrack(Map<String, List<String>> from, Deque<String> path, String beginWord, String curWord,
-        List<List<String>> res) {
+    private void backtrack(Map<String, List<String>> from, Deque<String> path,
+        String beginWord, String curWord, List<List<String>> res) {
         if (curWord.equals(beginWord)) {
             res.add(new ArrayList<>(path));
             return;

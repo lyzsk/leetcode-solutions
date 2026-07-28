@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/10
+ * @since 2024/07/10
  **/
 public class Solution {
     public int minOperations(String[] logs) {

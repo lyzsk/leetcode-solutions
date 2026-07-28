@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/09
+ * @since 2022/12/09
  **/
 public class Solution {
     public boolean checkPowersOfThree(int n) {

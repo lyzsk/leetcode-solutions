@@ -18,10 +18,11 @@ import java.util.*;
  * }
  *
  * @author sichu
- * @date 2022/09/05
+ * @since 2022/09/05
  **/
 public class Solution {
-    private final Map<String, Pair<TreeNode, Integer>> cache = new HashMap<>(16);
+    private final Map<String, Pair<TreeNode, Integer>> cache =
+        new HashMap<>(16);
     private final Set<TreeNode> duplicate = new HashSet<>();
     private int idx = 0;
 

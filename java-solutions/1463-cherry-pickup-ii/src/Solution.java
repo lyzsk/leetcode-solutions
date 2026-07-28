@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2024/02/11
+ * @since 2024/02/11
  **/
 public class Solution {
     public int cherryPickup(int[][] grid) {

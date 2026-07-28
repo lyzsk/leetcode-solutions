@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/07/02
+ * @since 2024/07/02
  **/
 public class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {

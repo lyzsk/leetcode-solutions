@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2022/10/07
+ * @since 2022/10/07
  **/
 public class MyCalendarThree {
     private Map<Integer, Integer> tree;
@@ -30,8 +30,9 @@ public class MyCalendarThree {
             int mid = left + ((right - left) >> 1);
             update(start, end, left, mid, 2 * idx);
             update(start, end, mid + 1, right, 2 * idx + 1);
-            tree.put(idx,
-                lazy.getOrDefault(idx, 0) + Math.max(tree.getOrDefault(2 * idx, 0), tree.getOrDefault(2 * idx + 1, 0)));
+            tree.put(idx, lazy.getOrDefault(idx, 0) + Math.max(
+                tree.getOrDefault(2 * idx, 0),
+                tree.getOrDefault(2 * idx + 1, 0)));
         }
     }
 }

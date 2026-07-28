@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/22
+ * @since 2022/10/22
  **/
 public class Solution {
     public boolean isPalindrome(ListNode head) {

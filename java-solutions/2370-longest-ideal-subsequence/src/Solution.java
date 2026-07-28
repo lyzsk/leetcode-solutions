@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/25
+ * @since 2024/04/25
  **/
 public class Solution {
     public int longestIdealString(String s, int k) {

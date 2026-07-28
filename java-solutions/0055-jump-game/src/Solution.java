@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/06
+ * @since 2022/11/06
  **/
 public class Solution {
     public boolean canJump(int[] nums) {

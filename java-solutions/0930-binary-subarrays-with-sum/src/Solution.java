@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/03/14
+ * @since 2024/03/14
  **/
 public class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {

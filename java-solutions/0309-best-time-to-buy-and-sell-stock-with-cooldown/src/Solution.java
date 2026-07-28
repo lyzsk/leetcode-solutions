@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/29
+ * @since 2022/11/29
  **/
 public class Solution {
     public int maxProfit(int[] prices) {

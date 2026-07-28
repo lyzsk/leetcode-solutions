@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/08/29
+ * @since 2024/08/29
  **/
 public class Solution {
     public int removeStones(int[][] stones) {

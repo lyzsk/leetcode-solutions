@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/08/03
+ * @since 2023/08/03
  **/
 public class Solution {
     public List<String> removeComments(String[] source) {
@@ -17,15 +17,18 @@ public class Solution {
             int n = line.length();
             for (int i = 0; i < n; i++) {
                 if (inBlock) {
-                    if (i + 1 < n && line.charAt(i) == '*' && line.charAt(i + 1) == '/') {
+                    if (i + 1 < n && line.charAt(i) == '*'
+                        && line.charAt(i + 1) == '/') {
                         inBlock = false;
                         ++i;
                     }
                 } else {
-                    if (i + 1 < n && line.charAt(i) == '/' && line.charAt(i + 1) == '*') {
+                    if (i + 1 < n && line.charAt(i) == '/'
+                        && line.charAt(i + 1) == '*') {
                         inBlock = true;
                         ++i;
-                    } else if (i + 1 < n && line.charAt(i) == '/' && line.charAt(i + 1) == '/') {
+                    } else if (i + 1 < n && line.charAt(i) == '/'
+                        && line.charAt(i + 1) == '/') {
                         break;
                     } else {
                         sb.append(line.charAt(i));

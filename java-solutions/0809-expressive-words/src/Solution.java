@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/24
+ * @since 2022/11/24
  **/
 public class Solution {
     public int expressiveWords(String s, String[] words) {

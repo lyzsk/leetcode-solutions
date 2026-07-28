@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/24
+ * @since 2022/11/24
  **/
 public class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
@@ -13,6 +13,7 @@ public class Solution {
         if (root.val < low) {
             return rangeSumBST(root.right, low, high);
         }
-        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
+        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(
+            root.right, low, high);
     }
 }

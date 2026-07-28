@@ -10,7 +10,7 @@
  * = maxSum * (maxSum - 1) / 2 + count - maxSum + 1
  *
  * @author sichu
- * @date 2023/01/04
+ * @since 2023/01/04
  **/
 public class Solution {
     public int maxValue(int n, int index, int maxSum) {
@@ -20,7 +20,8 @@ public class Solution {
         int right = maxSum;
         while (left <= right) {
             int mid = left + ((right - left) >> 1);
-            long sum = mid + getPartSum(mid, leftCount) + getPartSum(mid, rightCount);
+            long sum =
+                mid + getPartSum(mid, leftCount) + getPartSum(mid, rightCount);
             if (sum > maxSum) {
                 right = mid - 1;
             } else {

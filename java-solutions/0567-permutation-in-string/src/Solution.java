@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/04
+ * @since 2023/02/04
  **/
 public class Solution {
     public boolean checkInclusion(String s1, String s2) {

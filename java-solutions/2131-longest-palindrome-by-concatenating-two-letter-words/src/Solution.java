@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/04
+ * @since 2022/11/04
  **/
 public class Solution {
     public int longestPalindrome(String[] words) {

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/09/23
+ * @since 2024/09/23
  **/
 public class Solution {
     public int minExtraChar(String s, String[] dictionary) {

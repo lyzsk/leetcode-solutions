@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/04/24
+ * @since 2024/04/24
  **/
 public class Solution {
     public int tribonacci(int n) {

@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu huang
- * @date 2024/09/24
+ * @since 2024/09/24
  **/
 public class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {

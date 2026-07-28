@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu huang
- * @date 2024/09/16
+ * @since 2024/09/16
  **/
 public class Solution {
     public int findMinDifference(List<String> timePoints) {
@@ -21,6 +21,7 @@ public class Solution {
     }
 
     public int getMinutes(String t) {
-        return ((t.charAt(0) - '0') * 10 + (t.charAt(1) - '0')) * 60 + (t.charAt(3) - '0') * 10 + (t.charAt(4) - '0');
+        return ((t.charAt(0) - '0') * 10 + (t.charAt(1) - '0')) * 60
+            + (t.charAt(3) - '0') * 10 + (t.charAt(4) - '0');
     }
 }

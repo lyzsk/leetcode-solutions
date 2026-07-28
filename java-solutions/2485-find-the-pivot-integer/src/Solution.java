@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/03/13
+ * @since 2024/03/13
  **/
 public class Solution {
     public int pivotInteger(int n) {

@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/11/28
+ * @since 2022/11/28
  **/
 public class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/28
+ * @since 2024/05/28
  **/
 public class Solution {
     public int equalSubstring(String s, String t, int maxCost) {

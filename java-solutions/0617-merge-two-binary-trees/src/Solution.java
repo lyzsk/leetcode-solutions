@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/14
+ * @since 2023/08/14
  **/
 public class Solution {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {

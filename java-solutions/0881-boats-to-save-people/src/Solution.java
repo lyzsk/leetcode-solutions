@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/05/04
+ * @since 2024/05/04
  **/
 public class Solution {
     public int numRescueBoats(int[] people, int limit) {

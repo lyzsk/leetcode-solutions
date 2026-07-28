@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2022/09/30
+ * @since 2022/09/30
  **/
 public class Solution {
     public List<List<Integer>> getSkyline(int[][] buildings) {
@@ -12,7 +12,8 @@ public class Solution {
             boundaries.add(building[1]);
         }
         Collections.sort(boundaries);
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((o1, o2) -> o2[1] - o1[1]);
+        PriorityQueue<int[]> maxHeap =
+            new PriorityQueue<>((o1, o2) -> o2[1] - o1[1]);
         List<List<Integer>> res = new ArrayList<>();
         int idx = 0;
         for (int bounday : boundaries) {
@@ -24,7 +25,8 @@ public class Solution {
                 maxHeap.poll();
             }
             int maxHeight = maxHeap.isEmpty() ? 0 : maxHeap.peek()[1];
-            if (res.size() == 0 || maxHeight != res.get(res.size() - 1).get(1)) {
+            if (res.size() == 0 || maxHeight != res.get(res.size() - 1)
+                .get(1)) {
                 res.add(Arrays.asList(bounday, maxHeight));
             }
         }

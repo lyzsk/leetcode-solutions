@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/06/29
+ * @since 2024/06/29
  **/
 public class Solution {
     public List<List<Integer>> getAncestors(int n, int[][] edges) {

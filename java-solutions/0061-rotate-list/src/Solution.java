@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/26
+ * @since 2022/10/26
  **/
 public class Solution {
     public ListNode rotateRight(ListNode head, int k) {

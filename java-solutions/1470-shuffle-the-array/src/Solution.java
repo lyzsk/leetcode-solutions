@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/08/28
+ * @since 2022/08/28
  **/
 public class Solution {
     public int[] shuffle(int[] nums, int n) {

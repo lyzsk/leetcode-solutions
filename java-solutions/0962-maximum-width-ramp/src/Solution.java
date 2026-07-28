@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/10/10
+ * @since 2024/10/10
  **/
 public class Solution {
     public int maxWidthRamp(int[] nums) {

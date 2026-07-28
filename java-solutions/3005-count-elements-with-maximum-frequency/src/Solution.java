@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/03/08
+ * @since 2024/03/08
  **/
 public class Solution {
     public int maxFrequencyElements(int[] nums) {

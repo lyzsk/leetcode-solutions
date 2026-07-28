@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/10
+ * @since 2024/05/10
  **/
 public class Solution {
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {

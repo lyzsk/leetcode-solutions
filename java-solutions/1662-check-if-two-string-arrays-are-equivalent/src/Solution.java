@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/25
+ * @since 2022/10/25
  **/
 public class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {

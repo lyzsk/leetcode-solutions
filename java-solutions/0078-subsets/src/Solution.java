@@ -5,10 +5,11 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
-    private static void backtrack(List<List<Integer>> res, Deque<Integer> path, int[] nums, int startIndex) {
+    private static void backtrack(List<List<Integer>> res, Deque<Integer> path,
+        int[] nums, int startIndex) {
         res.add(new ArrayList<>(path));
         for (int i = startIndex; i < nums.length; i++) {
             path.addLast(nums[i]);

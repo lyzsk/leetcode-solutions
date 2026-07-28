@@ -2,10 +2,11 @@ import java.util.*;
 
 /**
  * @author sichu huang
- * @date 2024/07/21
+ * @since 2024/07/21
  **/
 public class Solution {
-    public int[][] buildMatrix(int k, int[][] rowConditions, int[][] colConditions) {
+    public int[][] buildMatrix(int k, int[][] rowConditions,
+        int[][] colConditions) {
         // 在行方向进行 k 个数字的拓扑排序
         // row 数组记录行下标的分配情况
         int[] row = new int[k + 1];

@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/06/22
+ * @since 2024/06/22
  **/
 public class Solution {
     public int numberOfSubarrays(int[] nums, int k) {

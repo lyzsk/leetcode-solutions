@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/05/26
+ * @since 2024/05/26
  **/
 public class Solution {
     public int checkRecord(int n) {

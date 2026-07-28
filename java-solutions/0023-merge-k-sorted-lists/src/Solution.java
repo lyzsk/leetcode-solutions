@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author sichu
- * @date 2022/10/02
+ * @since 2022/10/02
  **/
 public class Solution {
     public ListNode mergeKLists(ListNode[] lists) {

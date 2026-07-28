@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2024/01/07
+ * @since 2024/01/07
  **/
 public class Solution {
     public int numberOfArithmeticSlices(int[] nums) {

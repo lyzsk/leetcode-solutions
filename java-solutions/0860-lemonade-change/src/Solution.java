@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/15
+ * @since 2024/08/15
  **/
 public class Solution {
     public boolean lemonadeChange(int[] bills) {

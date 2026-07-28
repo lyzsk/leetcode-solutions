@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/10/31
+ * @since 2023/10/31
  **/
 public class Solution {
     public int[] findArray(int[] pref) {

@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/01/30
+ * @since 2023/01/30
  **/
 public class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
@@ -12,7 +12,8 @@ public class Solution {
         return paths;
     }
 
-    private void constructPaths(TreeNode root, String path, List<String> paths) {
+    private void constructPaths(TreeNode root, String path,
+        List<String> paths) {
         if (root != null) {
             StringBuilder sb = new StringBuilder(path);
             sb.append(Integer.toString(root.val));

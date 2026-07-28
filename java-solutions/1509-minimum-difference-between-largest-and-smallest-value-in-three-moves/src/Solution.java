@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu huang
- * @date 2024/07/03
+ * @since 2024/07/03
  **/
 public class Solution {
     public int minDifference(int[] nums) {

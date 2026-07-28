@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author sichu
- * @date 2023/01/11
+ * @since 2023/01/11
  **/
 public class Solution {
     public int minTime(int n, int[][] edges, List<Boolean> hasApple) {
@@ -19,7 +19,8 @@ public class Solution {
         return dfs(0, -1, adj, hasApple);
     }
 
-    private int dfs(int node, int parent, Map<Integer, List<Integer>> adj, List<Boolean> hasApple) {
+    private int dfs(int node, int parent, Map<Integer, List<Integer>> adj,
+        List<Boolean> hasApple) {
         if (!adj.containsKey(node)) {
             return 0;
         }

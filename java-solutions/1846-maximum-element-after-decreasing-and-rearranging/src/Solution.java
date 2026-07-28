@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/11/15
+ * @since 2023/11/15
  **/
 public class Solution {
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {

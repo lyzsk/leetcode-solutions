@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/11
+ * @since 2023/01/11
  **/
 public class Solution {
     public boolean digitCount(String num) {

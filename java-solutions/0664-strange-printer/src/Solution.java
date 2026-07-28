@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/08/21
+ * @since 2024/08/21
  **/
 public class Solution {
     public int strangePrinter(String s) {

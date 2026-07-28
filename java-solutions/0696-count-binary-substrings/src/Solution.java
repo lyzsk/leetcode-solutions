@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/20
+ * @since 2022/11/20
  **/
 public class Solution {
     public int countBinarySubstrings(String s) {

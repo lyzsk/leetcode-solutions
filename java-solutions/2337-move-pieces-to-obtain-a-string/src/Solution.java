@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/08/21
+ * @since 2023/08/21
  **/
 public class Solution {
     public boolean canChange(String start, String target) {
@@ -14,7 +14,8 @@ public class Solution {
             while (target.charAt(j) == '_') {
                 ++j;
             }
-            if ((i < j && start.charAt(i) == 'L') || (i > j && start.charAt(i) == 'R')) {
+            if ((i < j && start.charAt(i) == 'L') || (i > j
+                && start.charAt(i) == 'R')) {
                 return false;
             }
             ++j;

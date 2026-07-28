@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/04/29
+ * @since 2023/04/29
  **/
 public class Solution {
     public boolean equalFrequency(String word) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/20
+ * @since 2023/02/20
  **/
 public class Solution {
     public int countSubstrings(String s) {
@@ -10,7 +10,8 @@ public class Solution {
             for (int j = 0; j <= 1; j++) {
                 int left = i;
                 int right = i + j;
-                while (left >= 0 && right < n && s.charAt(left--) == s.charAt(right++)) {
+                while (left >= 0 && right < n && s.charAt(left--) == s.charAt(
+                    right++)) {
                     ++res;
                 }
             }

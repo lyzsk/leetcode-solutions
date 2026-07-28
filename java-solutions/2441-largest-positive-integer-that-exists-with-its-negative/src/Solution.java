@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu
- * @date 2023/05/13
+ * @since 2023/05/13
  **/
 public class Solution {
     public int findMaxK(int[] nums) {

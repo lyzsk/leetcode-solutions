@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * @author sichu
- * @date 2024/02/16
+ * @since 2024/02/16
  **/
 public class Solution {
     public int findLeastNumOfUniqueInts(int[] arr, int k) {
@@ -10,7 +10,8 @@ public class Solution {
         for (int i : arr) {
             freq.put(i, freq.getOrDefault(i, 0) + 1);
         }
-        List<Map.Entry<Integer, Integer>> elements = new ArrayList<>(freq.entrySet());
+        List<Map.Entry<Integer, Integer>> elements =
+            new ArrayList<>(freq.entrySet());
         elements.sort(Comparator.comparingInt(Map.Entry::getValue));
         for (Map.Entry<Integer, Integer> element : elements) {
             if (element.getValue() <= k) {

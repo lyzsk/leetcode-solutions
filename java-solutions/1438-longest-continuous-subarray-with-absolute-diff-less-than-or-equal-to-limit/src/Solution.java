@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu huang
- * @date 2024/06/23
+ * @since 2024/06/23
  **/
 public class Solution {
     public int longestSubarray(int[] nums, int limit) {
@@ -22,7 +22,8 @@ public class Solution {
             }
             maxQueue.offerLast(nums[right]);
             minQueue.offerLast(nums[right]);
-            while (!maxQueue.isEmpty() && !minQueue.isEmpty() && maxQueue.peekFirst() - minQueue.peekFirst() > limit) {
+            while (!maxQueue.isEmpty() && !minQueue.isEmpty()
+                && maxQueue.peekFirst() - minQueue.peekFirst() > limit) {
                 if (nums[left] == minQueue.peekFirst()) {
                     minQueue.pollFirst();
                 }

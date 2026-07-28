@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/03/31
+ * @since 2024/03/31
  **/
 public class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {

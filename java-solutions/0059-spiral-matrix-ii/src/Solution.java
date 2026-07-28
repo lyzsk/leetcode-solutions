@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/07
+ * @since 2023/02/07
  **/
 public class Solution {
     public int[][] generateMatrix(int n) {

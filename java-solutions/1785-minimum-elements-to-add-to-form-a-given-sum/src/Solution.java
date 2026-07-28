@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/12/15
+ * @since 2022/12/15
  **/
 public class Solution {
     public int minElements(int[] nums, int limit, int goal) {

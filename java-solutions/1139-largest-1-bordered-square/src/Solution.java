@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/02/16
+ * @since 2023/02/16
  **/
 public class Solution {
     public int largest1BorderedSquare(int[][] grid) {
@@ -15,7 +15,8 @@ public class Solution {
                     left[i][j] = left[i][j - 1] + 1;
                     up[i][j] = up[i - 1][j] + 1;
                     int border = Math.min(left[i][j], up[i][j]);
-                    while (left[i - border + 1][j] < border || up[i][j - border + 1] < border) {
+                    while (left[i - border + 1][j] < border
+                        || up[i][j - border + 1] < border) {
                         --border;
                     }
                     maxBorder = Math.max(maxBorder, border);

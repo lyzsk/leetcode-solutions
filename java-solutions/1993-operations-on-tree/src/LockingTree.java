@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author sichu
- * @date 2023/09/23
+ * @since 2023/09/23
  **/
 public class LockingTree {
     private int[] parent;
@@ -45,7 +45,8 @@ public class LockingTree {
     }
 
     public boolean upgrade(int num, int user) {
-        boolean res = lockNodeUser[num] == -1 && !hadLockedAncestor(num) && checkAndUnlockDescendant(num);
+        boolean res = lockNodeUser[num] == -1 && !hadLockedAncestor(num)
+            && checkAndUnlockDescendant(num);
         if (res) {
             lockNodeUser[num] = user;
         }

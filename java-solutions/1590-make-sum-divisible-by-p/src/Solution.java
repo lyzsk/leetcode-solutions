@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * @author sichu huang
- * @date 2024/10/03
+ * @since 2024/10/03
  **/
 public class Solution {
     public int minSubarray(int[] nums, int p) {

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/20
+ * @since 2022/10/20
  **/
 public class Solution {
     public boolean exist(char[][] board, String word) {
@@ -29,9 +29,11 @@ public class Solution {
         return false;
     }
 
-    private boolean dfs(char[][] board, String word, int startX, int startY, int wordIndex) {
-        if (startX < 0 || startY < 0 || startX > board.length - 1 || startY > board[0].length - 1
-            || board[startX][startY] == '.' || board[startX][startY] != word.charAt(wordIndex)) {
+    private boolean dfs(char[][] board, String word, int startX, int startY,
+        int wordIndex) {
+        if (startX < 0 || startY < 0 || startX > board.length - 1
+            || startY > board[0].length - 1 || board[startX][startY] == '.'
+            || board[startX][startY] != word.charAt(wordIndex)) {
             return false;
         }
         if (wordIndex == word.length() - 1) {
@@ -40,9 +42,10 @@ public class Solution {
         char temp = board[startX][startY];
         board[startX][startY] = '.';
         boolean res =
-            dfs(board, word, startX, startY - 1, wordIndex + 1) || dfs(board, word, startX, startY + 1, wordIndex + 1)
-                || dfs(board, word, startX - 1, startY, wordIndex + 1) || dfs(board, word, startX + 1, startY,
-                wordIndex + 1);
+            dfs(board, word, startX, startY - 1, wordIndex + 1) || dfs(board,
+                word, startX, startY + 1, wordIndex + 1) || dfs(board, word,
+                startX - 1, startY, wordIndex + 1) || dfs(board, word,
+                startX + 1, startY, wordIndex + 1);
         board[startX][startY] = temp;
         return res;
     }

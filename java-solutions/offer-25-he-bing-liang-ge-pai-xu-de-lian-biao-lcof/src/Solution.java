@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/03
+ * @since 2023/01/03
  **/
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

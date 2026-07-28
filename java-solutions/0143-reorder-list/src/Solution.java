@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/03
+ * @since 2022/10/03
  **/
 public class Solution {
     private static ListNode middleNode(ListNode head) {

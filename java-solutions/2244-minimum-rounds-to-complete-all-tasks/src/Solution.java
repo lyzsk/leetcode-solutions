@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author sichu
- * @date 2023/01/04
+ * @since 2023/01/04
  **/
 public class Solution {
     public int minimumRounds(int[] tasks) {

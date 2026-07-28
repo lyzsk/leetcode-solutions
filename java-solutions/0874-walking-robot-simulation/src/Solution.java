@@ -3,7 +3,7 @@ import java.util.Set;
 
 /**
  * @author sichu huang
- * @date 2024/09/04
+ * @since 2024/09/04
  **/
 public class Solution {
     public int robotSim(int[] commands, int[][] obstacles) {
@@ -25,7 +25,8 @@ public class Solution {
                 }
             } else {
                 for (int i = 0; i < c; i++) {
-                    if (set.contains((px + dirs[d][0]) * 60001 + py + dirs[d][1])) {
+                    if (set.contains(
+                        (px + dirs[d][0]) * 60001 + py + dirs[d][1])) {
                         break;
                     }
                     px += dirs[d][0];

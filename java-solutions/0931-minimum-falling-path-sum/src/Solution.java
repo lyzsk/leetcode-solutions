@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2024/01/19
+ * @since 2024/01/19
  **/
 public class Solution {
     public int minFallingPathSum(int[][] matrix) {
@@ -16,10 +16,13 @@ public class Solution {
                     dp[i][j] = matrix[i][j];
                     continue;
                 }
-                int upperLeft = j - 1 >= 0 ? dp[i - 1][j - 1] : Integer.MAX_VALUE;
+                int upperLeft =
+                    j - 1 >= 0 ? dp[i - 1][j - 1] : Integer.MAX_VALUE;
                 int upper = dp[i - 1][j];
-                int upperRight = j + 1 < n ? dp[i - 1][j + 1] : Integer.MAX_VALUE;
-                dp[i][j] = Math.min(upperLeft, Math.min(upper, upperRight)) + matrix[i][j];
+                int upperRight =
+                    j + 1 < n ? dp[i - 1][j + 1] : Integer.MAX_VALUE;
+                dp[i][j] = Math.min(upperLeft, Math.min(upper, upperRight))
+                    + matrix[i][j];
                 if (i == n - 1) {
                     res = Math.min(res, dp[n - 1][j]);
                 }

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/08
+ * @since 2023/01/08
  **/
 public class DataStream {
     private final int value;

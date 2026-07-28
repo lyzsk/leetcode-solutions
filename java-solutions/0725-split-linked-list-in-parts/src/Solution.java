@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/09/08
+ * @since 2024/09/08
  **/
 public class Solution {
     public ListNode[] splitListToParts(ListNode head, int k) {
@@ -14,7 +14,7 @@ public class Solution {
         int remainder = n % k;
         ListNode[] parts = new ListNode[k];
         ListNode curr = head;
-        
+
         for (int i = 0; i < k && curr != null; i++) {
             parts[i] = curr;
             int partSize = quotient + (i < remainder ? 1 : 0);

@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/11/14
+ * @since 2022/11/14
  **/
 public class Solution {
     public int maxRepOpt1(String text) {
@@ -17,7 +17,8 @@ public class Solution {
             int j = i;
             int cnt = 0;
             int diff = 0;
-            while (j < text.length() && (cur == text.charAt(j) || diff == 0) && cnt < freq[cur - 'a']) {
+            while (j < text.length() && (cur == text.charAt(j) || diff == 0)
+                && cnt < freq[cur - 'a']) {
                 if (cur != text.charAt(j)) {
                     ++diff;
                     i = j - 1;
@@ -32,7 +33,8 @@ public class Solution {
             int j = i;
             int cnt = 0;
             int diff = 0;
-            while (j >= 0 && (cur == text.charAt(j) || diff == 0) && cnt < freq[cur - 'a']) {
+            while (j >= 0 && (cur == text.charAt(j) || diff == 0) && cnt < freq[
+                cur - 'a']) {
                 if (cur != text.charAt(j)) {
                     ++diff;
                     i = j + 1;

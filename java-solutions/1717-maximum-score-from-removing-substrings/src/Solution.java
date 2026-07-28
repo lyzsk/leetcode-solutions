@@ -1,6 +1,6 @@
 /**
  * @author sichu huang
- * @date 2024/07/12
+ * @since 2024/07/12
  **/
 public class Solution {
     int points = 0;

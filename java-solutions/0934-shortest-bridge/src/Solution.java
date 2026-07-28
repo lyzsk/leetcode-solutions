@@ -3,7 +3,7 @@ import java.util.Deque;
 
 /**
  * @author sichu
- * @date 2023/05/21
+ * @since 2023/05/21
  **/
 public class Solution {
     int res = Integer.MAX_VALUE;

@@ -19,7 +19,7 @@ import java.util.Map;
  * }
  *
  * @author sichu
- * @date 2022/08/26
+ * @since 2022/08/26
  **/
 public class Solution {
     private Map<Integer, Integer> map = new HashMap<>(16);
@@ -30,7 +30,8 @@ public class Solution {
         }
         map.putIfAbsent(depth, index);
         return Math.max(index - map.get(depth) + 1,
-            Math.max(dfs(root.left, depth + 1, index * 2), dfs(root.right, depth + 1, index * 2 + 1)));
+            Math.max(dfs(root.left, depth + 1, index * 2),
+                dfs(root.right, depth + 1, index * 2 + 1)));
     }
 
     public int widthOfBinaryTree(TreeNode root) {

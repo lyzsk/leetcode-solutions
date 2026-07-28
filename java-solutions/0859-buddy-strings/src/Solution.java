@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2023/01/06
+ * @since 2023/01/06
  **/
 public class Solution {
     public boolean buddyStrings(String s, String goal) {

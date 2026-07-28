@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/10/18
+ * @since 2022/10/18
  **/
 public class Solution {
     private static int getKthElement(int[] nums1, int[] nums2, int k) {
@@ -41,7 +41,9 @@ public class Solution {
         } else {
             int midIdx1 = totalLength / 2 - 1;
             int midIdx2 = totalLength / 2;
-            double median = (getKthElement(nums1, nums2, midIdx1 + 1) + getKthElement(nums1, nums2, midIdx2 + 1)) / 2.0;
+            double median =
+                (getKthElement(nums1, nums2, midIdx1 + 1) + getKthElement(nums1,
+                    nums2, midIdx2 + 1)) / 2.0;
             return median;
         }
     }

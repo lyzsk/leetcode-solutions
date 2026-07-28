@@ -1,6 +1,6 @@
 /**
  * @author sichu
- * @date 2022/09/21
+ * @since 2022/09/21
  **/
 public class Solution {
     public int reverse(int x) {
