@@ -1155,6 +1155,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3005 | [.java][java-3005] |                |                |                |                |                  | [back to top] |
 | 3011 | [.java][java-3011] |                |                |                |                |                  | [back to top] |
 | 3013 | [.java][java-3013] |                |                |                |                |                  | [back to top] |
+| 3014 | [.java][java-3014] |                |                |                |                |                  | [back to top] |
 | 3016 | [.java][java-3016] |                |                |                |                |                  | [back to top] |
 | 3020 | [.java][java-3020] |                |                |                |                |                  | [back to top] |
 | 3021 | [.java][java-3021] |                |                |                |                |                  | [back to top] |
@@ -2709,6 +2710,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3005]: ./java-solutions/3005-count-elements-with-maximum-frequency/src/Solution.java
 [java-3011]: ./java-solutions/3011-find-if-array-can-be-sorted/src/Solution.java
 [java-3013]: ./java-solutions/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/src/Solution.java
+[java-3014]: ./java-solutions/3014-minimum-number-of-pushes-to-type-word-i/src/Solution.java
 [java-3016]: ./java-solutions/3016-minimum-number-of-pushes-to-type-word-ii/src/Solution.java
 [java-3020]: ./java-solutions/3020-find-the-maximum-number-of-elements-in-subset/src/Solution.java
 [java-3021]: ./java-solutions/3021-alice-and-bob-playing-flower-game/src/Solution.java
