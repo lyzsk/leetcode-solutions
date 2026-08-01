@@ -294,6 +294,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0463 | [.java][java-0463] | [.py][py-0463] | [.js][js-0463] |                |                |                  | [back to top] |
 | 0474 | [.java][java-0474] |                |                |                |                |                  | [back to top] |
 | 0476 | [.java][java-0476] |                |                |                |                |                  | [back to top] |
+| 0486 | [.java][java-0486] |                |                |                |                |                  | [back to top] |
 | 0491 | [.java][java-0491] |                |                |                |                |                  | [back to top] |
 | 0493 | [.java][java-0493] |                |                |                |                |                  | [back to top] |
 | 0494 | [.java][java-0494] |                |                |                |                |                  | [back to top] |
@@ -1756,6 +1757,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [js-0463]: ./javascript-solutions/0463-island-perimeter/solution.js
 [java-0474]: ./java-solutions/0474-ones-and-zeroes/src/Solution.java
 [java-0476]: ./java-solutions/0476-number-complement/src/Solution.java
+[java-0486]: ./java-solutions/0486-predict-the-winner/src/Solution.java
 [java-0491]: ./java-solutions/0491-non-decreasing-subsequences/src/Solution.java
 [java-0493]: ./java-solutions/0493-reverse-pairs/src/Solution.java
 [java-0494]: ./java-solutions/0494-target-sum/src/Solution.java
