@@ -459,6 +459,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0873 | [.java][java-0873] |                |                |                |                |                  | [back to top] |
 | 0874 | [.java][java-0874] |                |                |                |                |                  | [back to top] |
 | 0876 | [.java][java-0876] |                | [.js][js-0876] |                |                |                  | [back to top] |
+| 0877 | [.java][java-0877] |                |                |                |                |                  | [back to top] |
 | 0881 | [.java][java-0881] |                |                |                |                |                  | [back to top] |
 | 0884 | [.java][java-0884] |                |                |                |                |                  | [back to top] |
 | 0885 | [.java][java-0885] |                |                |                |                |                  | [back to top] |
@@ -1902,6 +1903,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0874]: ./java-solutions/0874-walking-robot-simulation/src/Solution.java
 [java-0876]: ./java-solutions/0876-middle-of-the-linked-list/src/Solution.java
 [js-0876]: ./javascript-solutions/0876-middle-of-the-linked-list/solution.js
+[java-0877]: ./java-solutions/0877-stone-game/src/Solution.java
 [java-0881]: ./java-solutions/0881-boats-to-save-people/src/Solution.java
 [java-0884]: ./java-solutions/0884-uncommon-words-from-two-sentences/src/Solution.java
 [java-0885]: ./java-solutions/0885-spiral-matrix-iii/src/Solution.java
