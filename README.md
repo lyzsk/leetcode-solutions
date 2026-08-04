@@ -1340,6 +1340,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
 | 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
+| 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
 | 3737 | [.java][java-3737] |                |                |                |                |                  | [back to top] |
 | 3739 | [.java][java-3739] |                |                |                |                |                  | [back to top] |
 | 3740 | [.java][java-3740] |                |                |                |                |                  | [back to top] |
@@ -2898,6 +2899,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
+[java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
 [java-3737]: ./java-solutions/3737-count-subarrays-with-majority-element-i/src/Solution.java
 [java-3739]: ./java-solutions/3739-count-subarrays-with-majority-element-ii/src/Solution.java
 [java-3740]: ./java-solutions/3740-minimum-distance-between-three-equal-elements-i/src/Solution.java
