@@ -1223,6 +1223,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3304 | [.java][java-3304] |                |                |                |                |                  | [back to top] |
 | 3306 | [.java][java-3306] |                |                |                |                |                  | [back to top] |
 | 3307 | [.java][java-3307] |                |                |                |                |                  | [back to top] |
+| 3310 | [.java][java-3310] |                |                |                |                |                  | [back to top] |
 | 3312 | [.java][java-3312] |                |                |                |                |                  | [back to top] |
 | 3314 | [.java][java-3314] |                |                |                |                |                  | [back to top] |
 | 3315 | [.java][java-3315] |                |                |                |                |                  | [back to top] |
@@ -2783,6 +2784,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3304]: ./java-solutions/3304-find-the-k-th-character-in-string-game-i/src/Solution.java
 [java-3306]: ./java-solutions/3306-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
 [java-3307]: ./java-solutions/3307-find-the-k-th-character-in-string-game-ii/src/Solution.java
+[java-3310]: ./java-solutions/3310-remove-methods-from-project/src/Solution.java
 [java-3314]: ./java-solutions/3314-construct-the-minimum-bitwise-array-i/src/Solution.java
 [java-3315]: ./java-solutions/3315-construct-the-minimum-bitwise-array-ii/src/Solution.java
 [java-3318]: ./java-solutions/3318-find-x-sum-of-all-k-long-subarrays-i/src/Solution.java
