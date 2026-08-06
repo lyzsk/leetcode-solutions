@@ -1237,6 +1237,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3341 | [.java][java-3341] |                |                |                |                |                  | [back to top] |
 | 3342 | [.java][java-3342] |                |                |                |                |                  | [back to top] |
 | 3343 | [.java][java-3343] |                |                |                |                |                  | [back to top] |
+| 3345 | [.java][java-3345] |                |                |                |                |                  | [back to top] |
 | 3346 | [.java][java-3346] |                |                |                |                |                  | [back to top] |
 | 3349 | [.java][java-3349] |                |                |                |                |                  | [back to top] |
 | 3350 | [.java][java-3350] |                |                |                |                |                  | [back to top] |
@@ -2797,6 +2798,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3341]: ./java-solutions/3341-find-minimum-time-to-reach-last-room-i/src/Solution.java
 [java-3342]: ./java-solutions/3342-find-minimum-time-to-reach-last-room-ii/src/Solution.java
 [java-3343]: ./java-solutions/3343-count-number-of-balanced-permutations/src/Solution.java
+[java-3345]: ./java-solutions/3345-smallest-divisible-digit-product-i/src/Solution.java
 [java-3346]: ./java-solutions/3346-maximum-frequency-of-an-element-after-performing-operations-i/src/Solution.java
 [java-3349]: ./java-solutions/3349-adjacent-increasing-subarrays-detection-i/src/Solution.java
 [java-3350]: ./java-solutions/3350-adjacent-increasing-subarrays-detection-ii/src/Solution.java
