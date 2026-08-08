@@ -1218,6 +1218,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3289 | [.java][java-3289] |                |                |                |                |                  | [back to top] |
 | 3296 | [.java][java-3296] |                |                |                |                |                  | [back to top] |
 | 3300 | [.java][java-3300] |                |                |                |                |                  | [back to top] |
+| 3302 | [.java][java-3302] |                |                |                |                |                  | [back to top] |
 | 3264 | [.java][java-3264] |                |                |                |                |                  | [back to top] |
 | 3303 | [.java][java-3303] |                |                |                |                |                  | [back to top] |
 | 3304 | [.java][java-3304] |                |                |                |                |                  | [back to top] |
@@ -2780,6 +2781,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3289]: ./java-solutions/3289-the-two-sneaky-numbers-of-digitville/src/Solution.java
 [java-3296]: ./java-solutions/3296-minimum-number-of-seconds-to-make-mountain-height-zero/src/Solution.java
 [java-3300]: ./java-solutions/3300-minimum-element-after-replacement-with-digit-sum/src/Solution.java
+[java-3302]: ./java-solutions/3302-find-the-lexicographically-smallest-valid-sequence/src/Solution.java
 [java-3264]: ./java-solutions/3264-final-array-state-after-k-multiplication-operations-i/src/Solution.java
 [java-3303]: ./java-solutions/3303-maximize-the-number-of-partitions-after-operations/src/Solution.java
 [java-3304]: ./java-solutions/3304-find-the-k-th-character-in-string-game-i/src/Solution.java
