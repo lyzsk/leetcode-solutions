@@ -1240,6 +1240,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3343 | [.java][java-3343] |                |                |                |                |                  | [back to top] |
 | 3345 | [.java][java-3345] |                |                |                |                |                  | [back to top] |
 | 3346 | [.java][java-3346] |                |                |                |                |                  | [back to top] |
+| 3347 | [.java][java-3347] |                |                |                |                |                  | [back to top] |
+| 3348 | [.java][java-3348] |                |                |                |                |                  | [back to top] |
 | 3349 | [.java][java-3349] |                |                |                |                |                  | [back to top] |
 | 3350 | [.java][java-3350] |                |                |                |                |                  | [back to top] |
 | 3354 | [.java][java-3354] |                |                |                |                |                  | [back to top] |
@@ -2802,6 +2804,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3343]: ./java-solutions/3343-count-number-of-balanced-permutations/src/Solution.java
 [java-3345]: ./java-solutions/3345-smallest-divisible-digit-product-i/src/Solution.java
 [java-3346]: ./java-solutions/3346-maximum-frequency-of-an-element-after-performing-operations-i/src/Solution.java
+[java-3347]: ./java-solutions/3347-maximum-frequency-of-an-element-after-performing-operations-ii/src/Solution.java
+[java-3348]: ./java-solutions/3348-smallest-divisible-digit-product-ii/src/Solution.java
 [java-3349]: ./java-solutions/3349-adjacent-increasing-subarrays-detection-i/src/Solution.java
 [java-3350]: ./java-solutions/3350-adjacent-increasing-subarrays-detection-ii/src/Solution.java
 [java-3354]: ./java-solutions/3354-make-array-elements-equal-to-zero/src/Solution.java
