@@ -692,6 +692,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1504 | [.java][java-1504] |                |                |                |                |                  | [back to top] |
 | 1508 | [.java][java-1508] |                |                |                |                |                  | [back to top] |
 | 1509 | [.java][java-1509] |                |                |                |                |                  | [back to top] |
+| 1510 | [.java][java-1510] |                |                |                |                |                  | [back to top] |
 | 1512 | [.java][java-1512] |                |                |                |                |                  | [back to top] |
 | 1513 | [.java][java-1513] |                |                |                |                |                  | [back to top] |
 | 1514 | [.java][java-1514] |                |                |                |                |                  | [back to top] |
@@ -2193,6 +2194,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1504]: ./java-solutions/1504-count-submatrices-with-all-ones/src/Solution.java
 [java-1508]: ./java-solutions/1508-range-sum-of-sorted-subarray-sums/src/Solution.java
 [java-1509]: ./java-solutions/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/src/Solution.java
+[java-1510]: ./java-solutions/1510-stone-game-iv/src/Solution.java
 [java-1512]: ./java-solutions/1512-number-of-good-pairs/src/Solution.java
 [java-1513]: ./java-solutions/1513-number-of-substrings-with-only-1s/src/Solution.java
 [java-1514]: ./java-solutions/1514-path-with-maximum-probability/src/Solution.java
