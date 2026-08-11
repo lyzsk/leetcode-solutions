@@ -1153,6 +1153,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2976 | [.java][java-2976] |                |                |                |                |                  | [back to top] |
 | 2977 | [.java][java-2977] |                |                |                |                |                  | [back to top] |
 | 2981 | [.java][java-2981] |                |                |                |                |                  | [back to top] |
+| 2966 | [.java][java-2966] |                |                |                |                |                  | [back to top] |
 | 2997 | [.java][java-2997] |                |                |                |                |                  | [back to top] |
 | 2999 | [.java][java-2999] |                |                |                |                |                  | [back to top] |
 | 3000 | [.java][java-3000] |                |                |                |                |                  | [back to top] |
@@ -2718,6 +2719,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2976]: ./java-solutions/2976-minimum-cost-to-convert-string-i/src/Solution.java
 [java-2977]: ./java-solutions/2977-minimum-cost-to-convert-string-ii/src/Solution.java
 [java-2981]: ./java-solutions/2981-find-longest-special-substring-that-occurs-thrice-i/src/Solution.java
+[java-2966]: ./java-solutions/2966-divide-array-into-arrays-with-max-difference/src/Solution.java
 [java-2997]: ./java-solutions/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/src/Solution.java
 [java-2999]: ./java-solutions/2999-count-the-number-of-powerful-integers/src/Solution.java
 [java-3000]: ./java-solutions/3000-maximum-area-of-longest-diagonal-rectangle/src/Solution.java
