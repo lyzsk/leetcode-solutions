@@ -945,6 +945,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2206 | [.java][java-2206] |                |                |                |                |                  | [back to top] |
 | 2210 | [.java][java-2210] |                |                |                |                |                  | [back to top] |
 | 2211 | [.java][java-2211] |                |                |                |                |                  | [back to top] |
+| 2213 | [.java][java-2213] |                |                |                |                |                  | [back to top] |
 | 2196 | [.java][java-2196] |                |                |                |                |                  | [back to top] |
 | 2197 | [.java][java-2197] |                |                |                |                |                  | [back to top] |
 | 2200 | [.java][java-2200] |                |                |                |                |                  | [back to top] |
@@ -2483,6 +2484,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2206]: ./java-solutions/2206-divide-array-into-equal-pairs/src/Solution.java
 [java-2210]: ./java-solutions/2210-count-hills-and-valleys-in-an-array/src/Solution.java
 [java-2211]: ./java-solutions/2211-count-collisions-on-a-road/src/Solution.java
+[java-2213]: ./java-solutions/2213-longest-substring-of-one-repeating-character/src/Solution.java
 [java-2196]: ./java-solutions/2196-create-binary-tree-from-descriptions/src/Solution.java
 [java-2197]: ./java-solutions/2197-replace-non-coprime-numbers-in-array/src/Solution.java
 [java-2200]: ./java-solutions/2200-find-all-k-distant-indices-in-an-array/src/Solution.java
