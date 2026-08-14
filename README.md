@@ -1177,6 +1177,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3074 | [.java][java-3074] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3085 | [.java][java-3085] |                |                |                |                |                  | [back to top] |
+| 3090 | [.java][java-3090] |                |                |                |                |                  | [back to top] |
 | 3093 | [.java][java-3093] |                |                |                |                |                  | [back to top] |
 | 3097 | [.java][java-3097] |                |                |                |                |                  | [back to top] |
 | 3100 | [.java][java-3100] |                |                |                |                |                  | [back to top] |
@@ -2745,6 +2746,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3074]: ./java-solutions/3074-apple-redistribution-into-boxes/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3085]: ./java-solutions/3085-minimum-deletions-to-make-string-k-special/src/Solution.java
+[java-3090]: ./java-solutions/3090-maximum-length-substring-with-two-occurrences/src/Solution.java
 [java-3093]: ./java-solutions/3093-longest-common-suffix-queries/src/Solution.java
 [java-3097]: ./java-solutions/3097-shortest-subarray-with-or-at-least-k-ii/src/Solution.java
 [java-3100]: ./java-solutions/3100-water-bottles-ii/src/Solution.java
