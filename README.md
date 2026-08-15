@@ -1174,6 +1174,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3066 | [.java][java-3066] |                |                |                |                |                  | [back to top] |
 | 3068 | [.java][java-3068] |                |                |                |                |                  | [back to top] |
 | 3070 | [.java][java-3070] |                |                |                |                |                  | [back to top] |
+| 3072 | [.java][java-3072] |                |                |                |                |                  | [back to top] |
 | 3074 | [.java][java-3074] |                |                |                |                |                  | [back to top] |
 | 3075 | [.java][java-3075] |                |                |                |                |                  | [back to top] |
 | 3085 | [.java][java-3085] |                |                |                |                |                  | [back to top] |
@@ -2743,6 +2744,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3066]: ./java-solutions/3066-minimum-operations-to-exceed-threshold-value-ii/src/Solution.java
 [java-3068]: ./java-solutions/3068-find-the-maximum-sum-of-node-values/src/Solution.java
 [java-3070]: ./java-solutions/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/src/Solution.java
+[java-3072]: ./java-solutions/3072-longest-subsequence-with-non-zero-bitwise-xor/src/Solution.java
 [java-3074]: ./java-solutions/3074-apple-redistribution-into-boxes/src/Solution.java
 [java-3075]: ./java-solutions/3075-maximize-happiness-of-selected-children/src/Solution.java
 [java-3085]: ./java-solutions/3085-minimum-deletions-to-make-string-k-special/src/Solution.java
