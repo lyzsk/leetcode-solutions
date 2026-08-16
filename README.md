@@ -881,6 +881,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2022 | [.java][java-2022] |                |                |                |                |                  | [back to top] |
 | 2027 | [.java][java-2027] |                | [.js][js-2027] |                |                |                  | [back to top] |
 | 2028 | [.java][java-2028] |                |                |                |                |                  | [back to top] |
+| 2029 | [.java][java-2029] |                |                |                |                |                  | [back to top] |
 | 2032 | [.java][java-2032] |                | [.js][js-2032] |                |                |                  | [back to top] |
 | 2033 | [.java][java-2033] |                |                |                |                |                  | [back to top] |
 | 2037 | [.java][java-2037] |                | [.js][js-2037] | [.ts][ts-2037] |                |                  | [back to top] |
@@ -2414,6 +2415,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2027]: ./java-solutions/2027-minimum-moves-to-convert-string/src/Solution.java
 [js-2027]: ./javascript-solutions/2027-minimum-moves-to-convert-string/solution.js
 [java-2028]: ./java-solutions/2028-find-missing-observations/src/Solution.java
+[java-2029]: ./java-solutions/2029-stone-game-ix/src/Solution.java
 [java-2032]: ./java-solutions/2032-two-out-of-three/src/Solution.java
 [js-2032]: ./javascript-solutions/2032-two-out-of-three/solution.js
 [java-2033]: ./java-solutions/2033-minimum-operations-to-make-a-uni-value-grid/src/Solution.java
