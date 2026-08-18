@@ -1283,6 +1283,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3459 | [.java][java-3459] |                |                |                |                |                  | [back to top] |
 | 3461 | [.java][java-3461] |                |                |                |                |                  | [back to top] |
 | 3464 | [.java][java-3464] |                |                |                |                |                  | [back to top] |
+| 3471 | [.java][java-3471] |                |                |                |                |                  | [back to top] |
 | 3474 | [.java][java-3474] |                |                |                |                |                  | [back to top] |
 | 3477 | [.java][java-3477] |                |                |                |                |                  | [back to top] |
 | 3479 | [.java][java-3479] |                |                |                |                |                  | [back to top] |
@@ -2853,6 +2854,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3459]: ./java-solutions/3459-length-of-longest-v-shaped-diagonal-segment/src/Solution.java
 [java-3461]: ./java-solutions/3461-check-if-digits-are-equal-in-string-after-operations-i/src/Solution.java
 [java-3464]: ./java-solutions/3464-maximize-the-distance-between-points-on-a-square/src/Solution.java
+[java-3471]: ./java-solutions/3471-find-the-largest-almost-missing-integer/src/Solution.java
 [java-3474]: ./java-solutions/3474-lexicographically-smallest-generated-string/src/Solution.java
 [java-3477]: ./java-solutions/3477-fruits-into-baskets-ii/src/Solution.java
 [java-3479]: ./java-solutions/3479-fruits-into-baskets-iii/src/Solution.java
