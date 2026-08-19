@@ -642,6 +642,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1380 | [.java][java-1380] |                |                |                |                |                  | [back to top] |
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
+| 1386 | [.java][java-1386] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
 | 1390 | [.java][java-1390] |                |                |                |                |                  | [back to top] |
 | 1391 | [.java][java-1391] |                |                |                |                |                  | [back to top] |
@@ -2132,6 +2133,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
 [java-1381]: ./java-solutions/1381-design-a-stack-with-increment-operation/src/Solution.java
 [java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
+[java-1386]: ./java-solutions/1386-cinema-seat-allocation/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1390]: ./java-solutions/1390-four-divisors/src/Solution.java
 [java-1391]: ./java-solutions/1391-check-if-there-is-a-valid-path-in-a-grid/src/Solution.java
