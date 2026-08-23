@@ -849,6 +849,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1922 | [.java][java-1922] |                |                |                |                |                  | [back to top] |
 | 1925 | [.java][java-1925] |                |                |                |                |                  | [back to top] |
 | 1926 | [.java][java-1926] |                |                |                |                |                  | [back to top] |
+| 1927 | [.java][java-1927] |                |                |                |                |                  | [back to top] |
 | 1930 | [.java][java-1930] |                |                |                |                |                  | [back to top] |
 | 1931 | [.java][java-1931] |                |                |                |                |                  | [back to top] |
 | 1935 | [.java][java-1935] |                |                |                |                |                  | [back to top] |
@@ -1329,6 +1330,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3612 | [.java][java-3612] |                |                |                |                |                  | [back to top] |
 | 3614 | [.java][java-3614] |                |                |                |                |                  | [back to top] |
 | 3620 | [.java][java-3620] |                |                |                |                |                  | [back to top] |
+| 3622 | [.java][java-3622] |                |                |                |                |                  | [back to top] |
 | 3623 | [.java][java-3623] |                |                |                |                |                  | [back to top] |
 | 3625 | [.java][java-3625] |                |                |                |                |                  | [back to top] |
 | 3629 | [.java][java-3629] |                |                |                |                |                  | [back to top] |
@@ -2385,6 +2387,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1922]: ./java-solutions/1922-count-good-numbers/src/Solution.java
 [java-1925]: ./java-solutions/1925-count-square-sum-triples/src/Solution.java
 [java-1926]: ./java-solutions/1926-nearest-exit-from-entrance-in-maze/src/Solution.java
+[java-1927]: ./java-solutions/1927-sum-game/src/Solution.java
 [java-1930]: ./java-solutions/1903-largest-odd-number-in-string/src/Solution.java
 [java-1931]: ./java-solutions/1931-painting-a-grid-with-three-different-colors/src/Solution.java
 [java-1935]: ./java-solutions/1935-maximum-number-of-words-you-can-type/src/Solution.java
@@ -2903,6 +2906,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3612]: ./java-solutions/3612-process-string-with-special-operations-i/src/Solution.java
 [java-3614]: ./java-solutions/3614-process-string-with-special-operations-ii/src/Solution.java
 [java-3620]: ./java-solutions/3620-network-recovery-pathways/src/Solution.java
+[java-3622]: ./java-solutions/3622-check-divisibility-by-digit-sum-and-product/src/Solution.java
 [java-3623]: ./java-solutions/3623-count-number-of-trapezoids-i/src/Solution.java
 [java-3625]: ./java-solutions/3625-count-number-of-trapezoids-ii/src/Solution.java
 [java-3629]: ./java-solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation/src/Solution.java
