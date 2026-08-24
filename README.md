@@ -826,6 +826,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1873 |                    |                |                |                |                | [.sql][sql-1873] | [back to top] |
 | 1865 | [.java][java-1865] |                |                |                |                |                  | [back to top] |
 | 1871 | [.java][java-1871] |                |                |                |                |                  | [back to top] |
+| 1872 | [.java][java-1872] |                |                |                |                |                  | [back to top] |
 | 1876 | [.java][java-1876] |                |                |                |                |                  | [back to top] |
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |                |                |                  | [back to top] |
 | 1878 | [.java][java-1878] |                |                |                |                |                  | [back to top] |
@@ -2358,6 +2359,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [sql-1873]: ./sql-solutions/1873-calculate-special-bonus/solution.sql
 [java-1865]: ./java-solutions/1865-finding-pairs-with-a-certain-sum/src/FindSumPairs.java
 [java-1871]: ./java-solutions/1871-jump-game-vii/src/Solution.java
+[java-1872]: ./java-solutions/1872-stone-game-viii/src/Solution.java
 [java-1876]: ./java-solutions/1876-substrings-of-size-three-with-distinct-characters/src/Solution.java
 [java-1877]: ./java-solutions/1877-minimize-maximum-pair-sum-in-array/src/Solution.java
 [py-1877]: ./python-solutions/1877-minimize-maximum-pair-sum-in-array/solution.py
