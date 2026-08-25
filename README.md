@@ -1356,6 +1356,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3700 | [.java][java-3700] |                |                |                |                |                  | [back to top] |
 | 3713 | [.java][java-3713] |                |                |                |                |                  | [back to top] |
 | 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
+| 3718 | [.java][java-3718] |                |                |                |                |                  | [back to top] |
 | 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
 | 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
@@ -2933,6 +2934,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3700]: ./java-solutions/3700-number-of-zigzag-arrays-i/src/Solution.java
 [java-3713]: ./java-solutions/3713-longest-balanced-substring-i/src/Solution.java
 [java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
+[java-3718]: ./java-solutions/3718-smallest-missing-multiple-of-k/src/Solution.java
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
 [java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
