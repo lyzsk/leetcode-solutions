@@ -1359,6 +1359,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3714 | [.java][java-3714] |                |                |                |                |                  | [back to top] |
 | 3718 | [.java][java-3718] |                |                |                |                |                  | [back to top] |
 | 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
+| 3720 | [.java][java-3720] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
 | 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
 | 3737 | [.java][java-3737] |                |                |                |                |                  | [back to top] |
@@ -2938,6 +2939,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3714]: ./java-solutions/3714-longest-balanced-substring-ii/src/Solution.java
 [java-3718]: ./java-solutions/3718-smallest-missing-multiple-of-k/src/Solution.java
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
+[java-3720]: ./java-solutions/3720-lexicographically-smallest-permutation-greater-than-target/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
 [java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
 [java-3737]: ./java-solutions/3737-count-subarrays-with-majority-element-i/src/Solution.java
