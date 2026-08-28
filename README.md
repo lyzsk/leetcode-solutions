@@ -1362,6 +1362,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3720 | [.java][java-3720] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
 | 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
+| 3734 | [.java][java-3734] |                |                |                |                |                  | [back to top] |
 | 3737 | [.java][java-3737] |                |                |                |                |                  | [back to top] |
 | 3739 | [.java][java-3739] |                |                |                |                |                  | [back to top] |
 | 3740 | [.java][java-3740] |                |                |                |                |                  | [back to top] |
@@ -2942,6 +2943,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3720]: ./java-solutions/3720-lexicographically-smallest-permutation-greater-than-target/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
 [java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
+[java-3734]: ./java-solutions/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/src/Solution.java
 [java-3737]: ./java-solutions/3737-count-subarrays-with-majority-element-i/src/Solution.java
 [java-3739]: ./java-solutions/3739-count-subarrays-with-majority-element-ii/src/Solution.java
 [java-3740]: ./java-solutions/3740-minimum-distance-between-three-equal-elements-i/src/Solution.java
