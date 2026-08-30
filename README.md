@@ -908,6 +908,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2075 | [.java][java-2075] |                |                |                |                |                  | [back to top] |
 | 2078 | [.java][java-2078] |                |                |                |                |                  | [back to top] |
 | 2081 | [.java][java-2081] |                |                |                |                |                  | [back to top] |
+| 2091 | [.java][java-2091] |                |                |                |                |                  | [back to top] |
 | 2092 | [.java][java-2092] |                |                |                |                |                  | [back to top] |
 | 2094 | [.java][java-2094] |                |                |                |                |                  | [back to top] |
 | 2095 | [.java][java-2095] |                |                |                |                |                  | [back to top] |
@@ -2458,6 +2459,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2075]: ./java-solutions/2075-decode-the-slanted-ciphertext/src/Solution.java
 [java-2078]: ./java-solutions/2078-two-furthest-houses-with-different-colors/src/Solution.java
 [java-2081]: ./java-solutions/2081-sum-of-k-mirror-numbers/src/Solution.java
+[java-2091]: ./java-solutions/2091-removing-minimum-and-maximum-from-array/src/Solution.java
 [java-2092]: ./java-solutions/2092-find-all-people-with-secret/src/Solution.java
 [java-2094]: ./java-solutions/2094-finding-3-digit-even-numbers/src/Solution.java
 [java-2095]: ./java-solutions/2095-delete-the-middle-node-of-a-linked-list/src/Solution.java
