@@ -1323,6 +1323,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3559 | [.java][java-3559] |                |                |                |                |                  | [back to top] |
 | 3562 | [.java][java-3562] |                |                |                |                |                  | [back to top] |
 | 3567 | [.java][java-3567] |                |                |                |                |                  | [back to top] |
+| 3568 | [.java][java-3568] |                |                |                |                |                  | [back to top] |
 | 3573 | [.java][java-3573] |                |                |                |                |                  | [back to top] |
 | 3577 | [.java][java-3577] |                |                |                |                |                  | [back to top] |
 | 3578 | [.java][java-3578] |                |                |                |                |                  | [back to top] |
@@ -2905,6 +2906,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3559]: ./java-solutions/3559-number-of-ways-to-assign-edge-weights-ii/src/Solution.java
 [java-3562]: ./java-solutions/3562-maximum-profit-from-trading-stocks-with-discounts/src/Solution.java
 [java-3567]: ./java-solutions/3567-minimum-absolute-difference-in-sliding-submatrix/src/Solution.java
+[java-3568]: ./java-solutions/3568-minimum-moves-to-clean-the-classroom/src/Solution.java
 [java-3573]: ./java-solutions/3573-best-time-to-buy-and-sell-stock-v/src/Solution.java
 [java-3577]: ./java-solutions/3577-count-the-number-of-computer-unlocking-permutations/src/Solution.java
 [java-3578]: ./java-solutions/3578-count-partitions-with-max-min-difference-at-most-k/src/Solution.java
