@@ -1379,6 +1379,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
 | 3867 | [.java][java-3867] |                |                |                |                |                  | [back to top] |
 | 3875 | [.java][java-3875] |                |                |                |                |                  | [back to top] |
+| 3876 | [.java][java-3876] |                |                |                |                |                  | [back to top] |
 
 # <h1 id="offer-solutions"> 剑指 Offer 系列题解 </h1>
 
@@ -2963,6 +2964,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
 [java-3867]: ./java-solutions/3867-sum-of-gcd-of-formed-pairs/src/Solution.java
 [java-3875]: ./java-solutions/3875-construct-uniform-parity-array-i/src/Solution.java
+[java-3876]: ./java-solutions/3876-construct-uniform-parity-array-ii/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
 [js-offer-03]: ./javascript-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution.js
 [java-offer-04]: ./java-solutions/offer-04-er-wei-shu-zu-zhong-de-cha-zhao-lcof/src/Solution.java
