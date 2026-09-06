@@ -138,6 +138,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0111 | [.java][java-0111] |                |                |                |                |                  | [back to top] |
 | 0112 | [.java][java-0112] |                |                |                |                |                  | [back to top] |
 | 0113 | [.java][java-0113] |                |                |                |                |                  | [back to top] |
+| 0115 | [.java][java-0115] |                |                |                |                |                  | [back to top] |
 | 0118 | [.java][java-0118] |                |                |                |                |                  | [back to top] |
 | 0120 | [.java][java-0120] |                |                |                |                |                  | [back to top] |
 | 0121 | [.java][java-0121] | [.py][py-0121] | [.js][js-0121] |                |                |                  | [back to top] |
@@ -1545,6 +1546,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0111]: ./java-solutions/0111-minimum-depth-of-binary-tree/src/Solution.java
 [java-0112]: ./java-solutions/0112-path-sum/src/Solution.java
 [java-0113]: ./java-solutions/0113-path-sum-ii/src/Solution.java
+[java-0115]: ./java-solutions/0115-distinct-subsequences/src/Solution.java
 [java-0118]: ./java-solutions/0118-pascals-triangle/src/Solution.java
 [java-0120]: ./java-solutions/0120-triangle/src/Solution.java
 [java-0121]: ./java-solutions/0121-best-time-to-buy-and-sell-stock/src/Solution.java
