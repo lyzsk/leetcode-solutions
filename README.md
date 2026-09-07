@@ -481,6 +481,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0934 | [.java][java-0934] |                |                |                |                |                  | [back to top] |
 | 0938 | [.java][java-0938] |                |                |                |                |                  | [back to top] |
 | 0939 | [.java][java-0939] |                | [.js][js-0939] |                |                |                  | [back to top] |
+| 0940 | [.java][java-0940] |                |                |                |                |                  | [back to top] |
 | 0944 | [.java][java-0944] |                |                |                |                |                  | [back to top] |
 | 0945 | [.java][java-0945] |                |                | [.ts][ts-0945] |                |                  | [back to top] |
 | 0947 | [.java][java-0947] |                |                |                |                |                  | [back to top] |
@@ -1957,10 +1958,11 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0938]: ./java-solutions/0938-range-sum-of-bst/src/Solution.java
 [java-0939]: ./java-solutions/0939-minimum-area-rectangle/src/Solution.java
 [js-0939]: ./javascript-solutions/0939-minimum-area-rectangle/solution.js
+[java-0940]: ./java-solutions/0940-distinct-subsequences-ii/src/Solution.java
+[java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0945]: ./java-solutions/0945-minimum-increment-to-make-array-unique/src/Solution.java
 [ts-0945]: ./typescript-solutions/0945-minimum-increment-to-make-array-unique/solution.ts
 [java-0947]: ./java-solutions/0947-most-stones-removed-with-same-row-or-column/src/Solution.java
-[java-0944]: ./java-solutions/0944-delete-columns-to-make-sorted/src/Solution.java
 [java-0948]: ./java-solutions/0948-bag-of-tokens/src/Solution.java
 [java-0950]: ./java-solutions/0950-reveal-cards-in-increasing-order/src/Solution.java
 [java-0951]: ./java-solutions/0951-flip-equivalent-binary-trees/src/Solution.java
