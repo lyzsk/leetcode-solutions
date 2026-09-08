@@ -1380,6 +1380,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
 | 3867 | [.java][java-3867] |                |                |                |                |                  | [back to top] |
+| 3870 | [.java][java-3870] |                |                |                |                |                  | [back to top] |
 | 3875 | [.java][java-3875] |                |                |                |                |                  | [back to top] |
 | 3876 | [.java][java-3876] |                |                |                |                |                  | [back to top] |
 | 3903 | [.java][java-3903] |                |                |                |                |                  | [back to top] |
@@ -2969,6 +2970,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3783]: ./java-solutions/3783-mirror-distance-of-an-integer/src/Solution.java
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
 [java-3867]: ./java-solutions/3867-sum-of-gcd-of-formed-pairs/src/Solution.java
+[java-3870]: ./java-solutions/3870-count-commas-in-range/src/Solution.java
 [java-3875]: ./java-solutions/3875-construct-uniform-parity-array-i/src/Solution.java
 [java-3876]: ./java-solutions/3876-construct-uniform-parity-array-ii/src/Solution.java
 [java-3903]: ./java-solutions/3903-smallest-stable-index-i/src/Solution.java
