@@ -435,6 +435,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0827 | [.java][java-0827] |                |                |                |                |                  | [back to top] |
 | 0833 | [.java][java-0833] |                |                |                |                |                  | [back to top] |
 | 0834 | [.java][java-0834] |                |                |                |                |                  | [back to top] |
+| 0836 | [.java][java-0836] |                |                |                |                |                  | [back to top] |
 | 0837 | [.java][java-0837] |                |                |                |                |                  | [back to top] |
 | 0838 | [.java][java-0838] |                |                |                |                |                  | [back to top] |
 | 0839 | [.java][java-0839] |                |                |                |                |                  | [back to top] |
@@ -1910,6 +1911,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0827]: ./java-solutions/0827-making-a-large-island/src/Solution.java
 [java-0833]: ./java-solutions/0833-find-and-replace-in-string/src/Solution.java
 [java-0834]: ./java-solutions/0834-sum-of-distances-in-tree/src/Solution.java
+[java-0836]: ./java-solutions/0836-rectangle-overlap/src/Solution.java
 [java-0837]: ./java-solutions/0837-new-21-game/src/Solution.java
 [java-0838]: ./java-solutions/0838-push-dominoes/src/Solution.java
 [java-0839]: ./java-solutions/0839-similar-string-groups/src/Solution.java
