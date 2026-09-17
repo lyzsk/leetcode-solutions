@@ -684,6 +684,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1464 | [.java][java-1464] |                |                |                |                |                  | [back to top] |
 | 1470 | [.java][java-1470] | [.py][py-1470] |                |                |                |                  | [back to top] |
 | 1475 | [.java][java-1475] |                |                |                |                |                  | [back to top] |
+| 1477 | [.java][java-1477] |                |                |                |                |                  | [back to top] |
 | 1481 | [.java][java-1481] |                |                |                |                |                  | [back to top] |
 | 1482 | [.java][java-1482] |                |                |                |                |                  | [back to top] |
 | 1488 | [.java][java-1488] |                |                |                |                |                  | [back to top] |
@@ -2212,6 +2213,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1470]: ./java-solutions/1470-shuffle-the-array/src/Solution.java
 [py-1470]: ./python-solutions/1470-shuffle-the-array/solution.py
 [java-1475]: ./java-solutions/1475-final-prices-with-a-special-discount-in-a-shop/src/Solution.java
+[java-1477]: ./java-solutions/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/src/Solution.java
 [java-1481]: ./java-solutions/1481-least-number-of-unique-integers-after-k-removals/src/Solution.java
 [java-1482]: ./java-solutions/1482-minimum-number-of-days-to-make-m-bouquets/src/Solution.java
 [sql-1484]: ./sql-solutions/1484-group-sold-products-by-the-date/solution.sql
