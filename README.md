@@ -704,6 +704,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1514 | [.java][java-1514] |                |                |                |                |                  | [back to top] |
 | 1517 |                    |                |                |                |                | [.sql][sql-1517] | [back to top] |
 | 1518 | [.java][java-1518] |                |                |                |                |                  | [back to top] |
+| 1520 | [.java][java-1520] |                |                |                |                |                  | [back to top] |
 | 1523 | [.java][java-1523] |                |                |                |                |                  | [back to top] |
 | 1524 | [.java][java-1524] |                |                |                |                |                  | [back to top] |
 | 1526 | [.java][java-1526] |                |                |                |                |                  | [back to top] |
@@ -2238,6 +2239,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1514]: ./java-solutions/1514-path-with-maximum-probability/src/Solution.java
 [sql-1517]: ./sql-solutions/1517-find-users-with-valid-e-mails/solution.sql
 [java-1518]: ./java-solutions/1518-water-bottles/src/Solution.java
+[java-1520]: ./java-solutions/1520-maximum-number-of-non-overlapping-substrings/src/Solution.java
 [java-1523]: ./java-solutions/1523-count-odd-numbers-in-an-interval-range/src/Solution.java
 [java-1524]: ./java-solutions/1524-number-of-sub-arrays-with-odd-sum/src/Solution.java
 [java-1526]: ./java-solutions/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/src/Solution.java
