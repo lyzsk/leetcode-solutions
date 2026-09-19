@@ -654,6 +654,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1395 | [.java][java-1395] |                |                |                |                |                  | [back to top] |
 | 1399 | [.java][java-1399] |                |                |                |                |                  | [back to top] |
 | 1400 | [.java][java-1400] |                |                |                |                |                  | [back to top] |
+| 1401 | [.java][java-1401] |                |                |                |                |                  | [back to top] |
 | 1404 | [.java][java-1404] |                |                |                |                |                  | [back to top] |
 | 1405 | [.java][java-1405] |                |                |                |                |                  | [back to top] |
 | 1406 | [.java][java-1406] |                |                |                |                |                  | [back to top] |
@@ -2171,6 +2172,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1395]: ./java-solutions/1395-count-number-of-teams/src/Solution.java
 [java-1399]: ./java-solutions/1399-count-largest-group/src/Solution.java
 [java-1400]: ./java-solutions/1400-construct-k-palindrome-strings/src/Solution.java
+[java-1401]: ./java-solutions/1401-circle-and-rectangle-overlapping/src/Solution.java
 [java-1404]: ./java-solutions/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/src/Solution.java
 [java-1405]: ./java-solutions/1405-longest-happy-string/src/Solution.java
 [java-1406]: ./java-solutions/1406-stone-game-iii/src/Solution.java
