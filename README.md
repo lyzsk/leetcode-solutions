@@ -1310,6 +1310,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3488 | [.java][java-3488] |                |                |                |                |                  | [back to top] |
 | 3494 | [.java][java-3494] |                |                |                |                |                  | [back to top] |
 | 3495 | [.java][java-3495] |                |                |                |                |                  | [back to top] |
+| 3498 | [.java][java-3498] |                |                |                |                |                  | [back to top] |
 | 3499 | [.java][java-3499] |                |                |                |                |                  | [back to top] |
 | 3501 | [.java][java-3501] |                |                |                |                |                  | [back to top] |
 | 3507 | [.java][java-3507] |                |                |                |                |                  | [back to top] |
@@ -2909,6 +2910,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3488]: ./java-solutions/3488-closest-equal-element-queries/src/Solution.java
 [java-3494]: ./java-solutions/3494-find-the-minimum-amount-of-time-to-brew-potions/src/Solution.java
 [java-3495]: ./java-solutions/3495-minimum-operations-to-make-array-elements-zero/src/Solution.java
+[java-3498]: ./java-solutions/3498-reverse-degree-of-a-string/src/Solution.java
 [java-3499]: ./java-solutions/3499-maximize-active-section-with-trade-i/src/Solution.java
 [java-3501]: ./java-solutions/3501-maximize-active-section-with-trade-ii/src/Solution.java
 [java-3507]: ./java-solutions/3507-minimum-pair-removal-to-sort-array-i/src/Solution.java
