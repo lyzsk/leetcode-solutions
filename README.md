@@ -1321,6 +1321,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3516 | [.java][java-3516] |                |                |                |                |                  | [back to top] |
 | 3517 | [.java][java-3517] |                |                |                |                |                  | [back to top] |
 | 3518 | [.java][java-3518] |                |                |                |                |                  | [back to top] |
+| 3524 | [.java][java-3524] |                |                |                |                |                  | [back to top] |
+| 3525 | [.java][java-3525] |                |                |                |                |                  | [back to top] |
 | 3531 | [.java][java-3531] |                |                |                |                |                  | [back to top] |
 | 3532 | [.java][java-3532] |                |                |                |                |                  | [back to top] |
 | 3534 | [.java][java-3534] |                |                |                |                |                  | [back to top] |
@@ -2921,6 +2923,8 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3516]: ./java-solutions/3516-find-closest-person/src/Solution.java
 [java-3517]: ./java-solutions/3517-smallest-palindromic-rearrangement-i/src/Solution.java
 [java-3518]: ./java-solutions/3518-smallest-palindromic-rearrangement-ii/src/Solution.java
+[java-3524]: ./java-solutions/3524-find-x-value-of-array-i/src/Solution.java
+[java-3525]: ./java-solutions/3525-find-x-value-of-array-ii/src/Solution.java
 [java-3531]: ./java-solutions/3531-count-covered-buildings/src/Solution.java
 [java-3532]: ./java-solutions/3532-path-existence-queries-in-a-graph-i/src/Solution.java
 [java-3534]: ./java-solutions/3534-path-existence-queries-in-a-graph-ii/src/Solution.java
