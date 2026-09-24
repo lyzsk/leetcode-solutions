@@ -1332,6 +1332,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3542 | [.java][java-3542] |                |                |                |                |                  | [back to top] |
 | 3546 | [.java][java-3546] |                |                |                |                |                  | [back to top] |
 | 3548 | [.java][java-3548] |                |                |                |                |                  | [back to top] |
+| 3550 | [.java][java-3550] |                |                |                |                |                  | [back to top] |
 | 3558 | [.java][java-3558] |                |                |                |                |                  | [back to top] |
 | 3559 | [.java][java-3559] |                |                |                |                |                  | [back to top] |
 | 3562 | [.java][java-3562] |                |                |                |                |                  | [back to top] |
@@ -2934,6 +2935,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3542]: ./java-solutions/3542-minimum-operations-to-convert-all-elements-to-zero/src/Solution.java
 [java-3546]: ./java-solutions/3546-equal-sum-grid-partition-i/src/Solution.java
 [java-3548]: ./java-solutions/3548-equal-sum-grid-partition-ii/src/Solution.java
+[java-3550]: ./java-solutions/3550-smallest-index-with-digit-sum-equal-to-index/src/Solution.java
 [java-3558]: ./java-solutions/3558-number-of-ways-to-assign-edge-weights-i/src/Solution.java
 [java-3559]: ./java-solutions/3559-number-of-ways-to-assign-edge-weights-ii/src/Solution.java
 [java-3562]: ./java-solutions/3562-maximum-profit-from-trading-stocks-with-discounts/src/Solution.java
