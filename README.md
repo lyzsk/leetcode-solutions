@@ -550,6 +550,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1079 | [.java][java-1079] |                |                |                |                |                  | [back to top] |
 | 1080 | [.java][java-1080] | [.py][py-1080] |                |                |                |                  | [back to top] |
 | 1092 | [.java][java-1092] |                |                |                |                |                  | [back to top] |
+| 1096 | [.java][java-1096] |                |                |                |                |                  | [back to top] |
 | 1084 |                    |                |                |                |                | [.sql][sql-1084] | [back to top] |
 | 1106 | [.java][java-1106] |                |                |                |                |                  | [back to top] |
 | 1110 | [.java][java-1110] |                |                |                |                |                  | [back to top] |
@@ -2058,6 +2059,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1080]: ./java-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/src/Solution.java
 [py-1080]: ./python-solutions/1080-insufficient-nodes-in-root-to-leaf-paths/solution.py
 [java-1092]: ./java-solutions/1092-shortest-common-supersequence/src/Solution.java
+[java-1096]: ./java-solutions/1096-brace-expansion-ii/src/Solution.java
 [sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
 [java-1106]: ./java-solutions/1106-parsing-a-boolean-expression/src/Solution.java
 [java-1110]: ./java-solutions/1110-delete-nodes-and-return-forest/src/Solution.java
