@@ -812,6 +812,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1800 | [.java][java-1800] |                |                |                |                |                  | [back to top] |
 | 1801 | [.java][java-1801] |                |                |                |                |                  | [back to top] |
 | 1802 | [.java][java-1802] |                |                |                |                |                  | [back to top] |
+| 1807 | [.java][java-1807] |                |                |                |                |                  | [back to top] |
 | 1812 | [.java][java-1812] |                |                |                |                |                  | [back to top] |
 | 1813 | [.java][java-1813] |                |                |                |                |                  | [back to top] |
 | 1814 | [.java][java-1814] |                |                |                |                |                  | [back to top] |
@@ -2368,6 +2369,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1800]: ./java-solutions/1800-maximum-ascending-subarray-sum/src/Solution.java
 [java-1801]: ./java-solutions/1801-number-of-orders-in-the-backlog/src/Solution.java
 [java-1802]: ./java-solutions/1802-maximum-value-at-a-given-index-in-a-bounded-array/src/Solution.java
+[java-1807]: ./java-solutions/1807-evaluate-the-bracket-pairs-of-a-string/src/Solution.java
 [java-1812]: ./java-solutions/1812-determine-color-of-a-chessboard-square/src/Solution.java
 [java-1813]: ./java-solutions/1813-sentence-similarity-iii/src/Solution.java
 [java-1814]: ./java-solutions/1814-count-nice-pairs-in-an-array/src/Solution.java
