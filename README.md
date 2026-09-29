@@ -976,6 +976,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2257 | [.java][java-2257] |                |                |                |                |                  | [back to top] |
 | 2264 | [.java][java-2264] |                |                |                |                |                  | [back to top] |
 | 2265 | [.java][java-2265] |                |                |                |                |                  | [back to top] |
+| 2267 | [.java][java-2267] |                |                |                |                |                  | [back to top] |
 | 2275 | [.java][java-2275] |                |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
 | 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
@@ -2555,6 +2556,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2257]: ./java-solutions/2257-count-unguarded-cells-in-the-grid/src/Solution.java
 [java-2264]: ./java-solutions/2264-largest-3-same-digit-number-in-string/src/Solution.java
 [java-2265]: ./java-solutions/2265-count-nodes-equal-to-average-of-subtree/src/Solution.java
+[java-2267]: ./java-solutions/2267-check-if-there-is-a-valid-parentheses-string-path/src/Solution.java
 [java-2275]: ./java-solutions/2275-largest-combination-with-bitwise-and-greater-than-zero/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
