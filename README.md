@@ -554,6 +554,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1084 |                    |                |                |                |                | [.sql][sql-1084] | [back to top] |
 | 1106 | [.java][java-1106] |                |                |                |                |                  | [back to top] |
 | 1110 | [.java][java-1110] |                |                |                |                |                  | [back to top] |
+| 1111 | [.java][java-1111] |                |                |                |                |                  | [back to top] |
 | 1105 | [.java][java-1105] | [.py][py-1105] | [.js][js-1105] |                |                |                  | [back to top] |
 | 1122 | [.java][java-1122] |                |                |                |                |                  | [back to top] |
 | 1123 | [.java][java-1123] |                |                |                |                |                  | [back to top] |
@@ -2065,6 +2066,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [sql-1084]: ./sql-solutions/1084-sales-analysis-iii/solution.sql
 [java-1106]: ./java-solutions/1106-parsing-a-boolean-expression/src/Solution.java
 [java-1110]: ./java-solutions/1110-delete-nodes-and-return-forest/src/Solution.java
+[java-1111]: ./java-solutions/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/src/Solution.java
 [java-1105]: ./java-solutions/1105-filling-bookcase-shelves/src/Solution.java
 [py-1105]: ./python-solutions/1105-filling-bookcase-shelves/solution.py
 [js-1105]: ./javascript-solutions/1105-filling-bookcase-shelves/solution.js
