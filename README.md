@@ -240,6 +240,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0290 | [.java][java-0290] |                | [.js][js-0290] |                |                |                  | [back to top] |
 | 0295 | [.java][java-0295] |                |                |                |                |                  | [back to top] |
 | 0300 | [.java][java-0300] |                |                |                |                |                  | [back to top] |
+| 0301 | [.java][java-0301] |                |                |                |                |                  | [back to top] |
 | 0303 | [.java][java-0303] |                |                |                |                |                  | [back to top] |
 | 0307 | [.java][java-0307] |                |                |                |                |                  | [back to top] |
 | 0309 | [.java][java-0309] |                |                |                |                |                  | [back to top] |
@@ -1694,6 +1695,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [js-0290]: ./javascript-solutions/0290-word-pattern/solution.js
 [java-0295]: ./java-solutions/0295-find-median-from-data-stream/src/MedianFinder.java
 [java-0300]: ./java-solutions/0300-longest-increasing-subsequence/src/Solution.java
+[java-0301]: ./java-solutions/0301-remove-invalid-parentheses/src/Solution.java
 [java-0303]: ./java-solutions/0303-range-sum-query-immutable/src/NumArray.java
 [java-0307]: ./java-solutions/0307-range-sum-query-mutable/src/NumArray.java
 [java-0309]: ./java-solutions/0309-best-time-to-buy-and-sell-stock-with-cooldown/src/Solution.java
