@@ -524,6 +524,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1014 | [.java][java-1014] |                |                |                |                |                  | [back to top] |
 | 1015 | [.java][java-1015] |                |                |                |                |                  | [back to top] |
 | 1018 | [.java][java-1018] |                |                |                |                |                  | [back to top] |
+| 1021 | [.java][java-1021] |                |                |                |                |                  | [back to top] |
 | 1022 | [.java][java-1022] |                |                |                |                |                  | [back to top] |
 | 1026 | [.java][java-1026] | [.py][py-1026] | [.js][js-1026] |                | [.go][go-1026] |                  | [back to top] |
 | 1027 | [.java][java-1027] | [.py][py-1027] | [.js][js-1027] |                | [.go][go-1027] |                  | [back to top] |
@@ -2022,6 +2023,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1014]: ./java-solutions/1014-best-sightseeing-pair/src/Solution.java
 [java-1015]: ./java-solutions/1015-smallest-integer-divisible-by-k/src/Solution.java
 [java-1018]: ./java-solutions/1018-binary-prefix-divisible-by-5/src/Solution.java
+[java-1021]: ./java-solutions/1021-remove-outermost-parentheses/src/Solution.java
 [java-1022]: ./java-solutions/1022-sum-of-root-to-leaf-binary-numbers/src/Solution.java
 [java-1026]: ./java-solutions/1026-maximum-difference-between-node-and-ancestor/src/Solution.java
 [go-1026]: ./golang-solutions/1026-maximum-difference-between-node-and-ancestor/solution.go
