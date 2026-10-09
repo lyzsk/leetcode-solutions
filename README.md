@@ -718,6 +718,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1534 | [.java][java-1534] |                |                |                |                |                  | [back to top] |
 | 1535 | [.java][java-1535] | [.py][py-1535] | [.js][js-1535] |                |                |                  | [back to top] |
 | 1536 | [.java][java-1536] |                |                |                |                |                  | [back to top] |
+| 1541 | [.java][java-1541] |                |                |                |                |                  | [back to top] |
 | 1544 | [.java][java-1544] |                |                |                |                |                  | [back to top] |
 | 1545 | [.java][java-1545] |                |                |                |                |                  | [back to top] |
 | 1550 | [.java][java-1550] |                |                |                |                |                  | [back to top] |
@@ -2266,6 +2267,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-1535]: ./python-solutions/1535-find-the-winner-of-an-array-game/solution.py
 [js-1535]: ./javascript-solutions/1535-find-the-winner-of-an-array-game/solution.js
 [java-1536]: ./java-solutions/1536-minimum-swaps-to-arrange-a-binary-grid/src/Solution.java
+[java-1541]: ./java-solutions/1541-minimum-insertions-to-balance-a-parentheses-string/src/Solution.java
 [java-1544]: ./java-solutions/1544-make-the-string-great/src/Solution.java
 [java-1545]: ./java-solutions/1545-find-kth-bit-in-nth-binary-string/src/Solution.java
 [java-1550]: ./java-solutions/1550-three-consecutive-odds/src/Solution.java
