@@ -995,6 +995,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2326 | [.java][java-2326] |                |                |                |                |                  | [back to top] |
 | 2327 | [.java][java-2327] |                |                |                |                |                  | [back to top] |
 | 2331 | [.java][java-2331] |                |                |                |                |                  | [back to top] |
+| 2333 | [.java][java-2333] |                |                |                |                |                  | [back to top] |
 | 2337 | [.java][java-2337] | [.py][py-2337] |                |                |                |                  | [back to top] |
 | 2338 | [.java][java-2338] |                |                |                |                |                  | [back to top] |
 | 2342 | [.java][java-2342] |                |                |                |                |                  | [back to top] |
@@ -2580,6 +2581,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2326]: ./java-solutions/2326-spiral-matrix-iv/src/Solution.java
 [java-2327]: ./java-solutions/2327-number-of-people-aware-of-a-secret/src/Solution.java
 [java-2331]: ./java-solutions/2331-evaluate-boolean-binary-tree/src/Solution.java
+[java-2333]: ./java-solutions/2333-minimum-sum-of-squared-difference/src/Solution.java
 [java-2337]: ./java-solutions/2337-move-pieces-to-obtain-a-string/src/Solution.java
 [py-2337]: ./python-solutions/2337-move-pieces-to-obtain-a-string/solution.py
 [java-2338]: ./java-solutions/2338-count-the-number-of-ideal-arrays/src/Solution.java
