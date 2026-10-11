@@ -982,6 +982,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2265 | [.java][java-2265] |                |                |                |                |                  | [back to top] |
 | 2267 | [.java][java-2267] |                |                |                |                |                  | [back to top] |
 | 2275 | [.java][java-2275] |                |                |                |                |                  | [back to top] |
+| 2278 | [.java][java-2278] |                |                |                |                |                  | [back to top] |
 | 2283 | [.java][java-2283] |                |                |                | [.go][go-2283] |                  | [back to top] |
 | 2285 | [.java][java-2285] |                |                |                |                |                  | [back to top] |
 | 2290 | [.java][java-2290] |                |                |                |                |                  | [back to top] |
@@ -2567,6 +2568,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2265]: ./java-solutions/2265-count-nodes-equal-to-average-of-subtree/src/Solution.java
 [java-2267]: ./java-solutions/2267-check-if-there-is-a-valid-parentheses-string-path/src/Solution.java
 [java-2275]: ./java-solutions/2275-largest-combination-with-bitwise-and-greater-than-zero/src/Solution.java
+[java-2278]: ./java-solutions/2278-sum-of-squares-of-special-elements/src/Solution.java
 [java-2283]: ./java-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/src/Solution.java
 [go-2283]: ./golang-solutions/2283-check-if-number-has-equal-digit-count-and-digit-value/solution.go
 [java-2285]: ./java-solutions/2285-maximum-total-importance-of-roads/src/Solution.java
