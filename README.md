@@ -1151,6 +1151,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2874 | [.java][java-2874] | [.py][py-2874] |                |                |                |                  | [back to top] |
 | 2875 | [.java][java-2875] | [.py][py-2875] |                |                |                |                  | [back to top] |
 | 2894 | [.java][java-2894] |                |                |                |                |                  | [back to top] |
+| 2897 | [.java][java-2897] |                |                |                |                |                  | [back to top] |
 | 2900 | [.java][java-2900] |                |                |                |                |                  | [back to top] |
 | 2901 | [.java][java-2901] |                |                |                |                |                  | [back to top] |
 | 2904 | [.java][java-2904] |                |                |                |                |                  | [back to top] |
@@ -2763,6 +2764,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2875]: ./java-solutions/2875-maximum-value-of-an-ordered-triplet-i/src/Solution.java
 [py-2875]: ./python-solutions/2875-minimum-size-subarray-in-infinite-array/solution.py
 [java-2894]: ./java-solutions/2894-divisible-and-non-divisible-sums-difference/src/Solution.java
+[java-2897]: ./java-solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares/src/Solution.java
 [java-2900]: ./java-solutions/2900-longest-unequal-adjacent-groups-subsequence-i/src/Solution.java
 [java-2901]: ./java-solutions/2901-longest-unequal-adjacent-groups-subsequence-ii/src/Solution.java
 [java-2904]: ./java-solutions/2904-shortest-and-lexicographically-smallest-beautiful-string/src/Solution.java
