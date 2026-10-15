@@ -1387,6 +1387,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3719 | [.java][java-3719] |                |                |                |                |                  | [back to top] |
 | 3720 | [.java][java-3720] |                |                |                |                |                  | [back to top] |
 | 3721 | [.java][java-3721] |                |                |                |                |                  | [back to top] |
+| 3723 | [.java][java-3723] |                |                |                |                |                  | [back to top] |
 | 3727 | [.java][java-3727] |                |                |                |                |                  | [back to top] |
 | 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
 | 3734 | [.java][java-3734] |                |                |                |                |                  | [back to top] |
@@ -3001,6 +3002,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3719]: ./java-solutions/3719-longest-balanced-subarray-i/src/Solution.java
 [java-3720]: ./java-solutions/3720-lexicographically-smallest-permutation-greater-than-target/src/Solution.java
 [java-3721]: ./java-solutions/3721-longest-balanced-subarray-ii/src/Solution.java
+[java-3723]: ./java-solutions/3723-maximize-sum-of-squares-of-digits/src/Solution.java
 [java-3727]: ./java-solutions/3727-maximum-alternating-sum-of-squares/src/Solution.java
 [java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
 [java-3734]: ./java-solutions/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/src/Solution.java
