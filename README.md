@@ -1156,6 +1156,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2901 | [.java][java-2901] |                |                |                |                |                  | [back to top] |
 | 2904 | [.java][java-2904] |                |                |                |                |                  | [back to top] |
 | 2906 | [.java][java-2906] |                |                |                |                |                  | [back to top] |
+| 2913 | [.java][java-2913] |                |                |                |                |                  | [back to top] |
 | 2914 | [.java][java-2914] |                |                |                |                |                  | [back to top] |
 | 2918 | [.java][java-2918] |                |                |                |                |                  | [back to top] |
 | 2924 | [.java][java-2924] |                |                |                |                |                  | [back to top] |
@@ -2771,6 +2772,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2901]: ./java-solutions/2901-longest-unequal-adjacent-groups-subsequence-ii/src/Solution.java
 [java-2904]: ./java-solutions/2904-shortest-and-lexicographically-smallest-beautiful-string/src/Solution.java
 [java-2906]: ./java-solutions/2906-construct-product-matrix/src/Solution.java
+[java-2913]: ./java-solutions/2913-subarrays-distinct-element-sum-of-squares-i/src/Solution.java
 [java-2914]: ./java-solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful/src/Solution.java
 [java-2918]: ./java-solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/src/Solution.java
 [java-2924]: ./java-solutions/2924-find-champion-ii/src/Solution.java
