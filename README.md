@@ -1158,6 +1158,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2906 | [.java][java-2906] |                |                |                |                |                  | [back to top] |
 | 2913 | [.java][java-2913] |                |                |                |                |                  | [back to top] |
 | 2914 | [.java][java-2914] |                |                |                |                |                  | [back to top] |
+| 2916 | [.java][java-2916] |                |                |                |                |                  | [back to top] |
 | 2918 | [.java][java-2918] |                |                |                |                |                  | [back to top] |
 | 2924 | [.java][java-2924] |                |                |                |                |                  | [back to top] |
 | 2929 | [.java][java-2929] |                |                |                |                |                  | [back to top] |
@@ -2774,6 +2775,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2906]: ./java-solutions/2906-construct-product-matrix/src/Solution.java
 [java-2913]: ./java-solutions/2913-subarrays-distinct-element-sum-of-squares-i/src/Solution.java
 [java-2914]: ./java-solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful/src/Solution.java
+[java-2916]: ./java-solutions/2916-subarrays-distinct-element-sum-of-squares-ii/src/Solution.java
 [java-2918]: ./java-solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/src/Solution.java
 [java-2924]: ./java-solutions/2924-find-champion-ii/src/Solution.java
 [java-2929]: ./java-solutions/2929-distribute-candies-among-children-ii/src/Solution.java
