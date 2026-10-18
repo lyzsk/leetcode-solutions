@@ -725,6 +725,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1552 | [.java][java-1552] |                |                |                |                |                  | [back to top] |
 | 1557 | [.java][java-1557] |                |                |                |                |                  | [back to top] |
 | 1568 | [.java][java-1568] |                |                |                |                |                  | [back to top] |
+| 1569 | [.java][java-1569] |                |                |                |                |                  | [back to top] |
 | 1572 | [.java][java-1572] |                |                |                |                |                  | [back to top] |
 | 1574 | [.java][java-1574] |                |                |                |                |                  | [back to top] |
 | 1578 | [.java][java-1578] |                |                |                |                |                  | [back to top] |
@@ -1345,6 +1346,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3546 | [.java][java-3546] |                |                |                |                |                  | [back to top] |
 | 3548 | [.java][java-3548] |                |                |                |                |                  | [back to top] |
 | 3550 | [.java][java-3550] |                |                |                |                |                  | [back to top] |
+| 3551 | [.java][java-3551] |                |                |                |                |                  | [back to top] |
 | 3558 | [.java][java-3558] |                |                |                |                |                  | [back to top] |
 | 3559 | [.java][java-3559] |                |                |                |                |                  | [back to top] |
 | 3562 | [.java][java-3562] |                |                |                |                |                  | [back to top] |
@@ -2281,6 +2283,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1552]: ./java-solutions/1552-magnetic-force-between-two-balls/src/Solution.java
 [java-1557]: ./java-solutions/1557-minimum-number-of-vertices-to-reach-all-nodes/src/Solution.java
 [java-1568]: ./java-solutions/1568-minimum-number-of-days-to-disconnect-island/src/Solution.java
+[java-1569]: ./java-solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst/src/Solution.java
 [java-1572]: ./java-solutions/1572-matrix-diagonal-sum/src/Solution.java
 [java-1574]: ./java-solutions/1574-shortest-subarray-to-be-removed-to-make-array-sorted/src/Solution.java
 [java-1578]: ./java-solutions/1578-minimum-time-to-make-rope-colorful/src/Solution.java
@@ -2962,6 +2965,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3546]: ./java-solutions/3546-equal-sum-grid-partition-i/src/Solution.java
 [java-3548]: ./java-solutions/3548-equal-sum-grid-partition-ii/src/Solution.java
 [java-3550]: ./java-solutions/3550-smallest-index-with-digit-sum-equal-to-index/src/Solution.java
+[java-3551]: ./java-solutions/3551-minimum-swaps-to-sort-by-digit-sum/src/Solution.java
 [java-3558]: ./java-solutions/3558-number-of-ways-to-assign-edge-weights-i/src/Solution.java
 [java-3559]: ./java-solutions/3559-number-of-ways-to-assign-edge-weights-ii/src/Solution.java
 [java-3562]: ./java-solutions/3562-maximum-profit-from-trading-stocks-with-discounts/src/Solution.java
