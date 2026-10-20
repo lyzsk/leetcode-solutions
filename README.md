@@ -1413,6 +1413,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3871 | [.java][java-3871] |                |                |                |                |                  | [back to top] |
 | 3875 | [.java][java-3875] |                |                |                |                |                  | [back to top] |
 | 3876 | [.java][java-3876] |                |                |                |                |                  | [back to top] |
+| 3886 | [.java][java-3886] |                |                |                |                |                  | [back to top] |
 | 3903 | [.java][java-3903] |                |                |                |                |                  | [back to top] |
 | 3904 | [.java][java-3904] |                |                |                |                |                  | [back to top] |
 
@@ -3033,6 +3034,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3871]: ./java-solutions/3871-count-commas-in-range-ii/src/Solution.java
 [java-3875]: ./java-solutions/3875-construct-uniform-parity-array-i/src/Solution.java
 [java-3876]: ./java-solutions/3876-construct-uniform-parity-array-ii/src/Solution.java
+[java-3886]: ./java-solutions/3886-sum-of-sortable-integers/src/Solution.java
 [java-3903]: ./java-solutions/3903-smallest-stable-index-i/src/Solution.java
 [java-3904]: ./java-solutions/3904-smallest-stable-index-ii/src/Solution.java
 [java-offer-03]: ./java-solutions/offer-03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/Solution.java
