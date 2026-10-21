@@ -1408,6 +1408,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3761 | [.java][java-3761] |                |                |                |                |                  | [back to top] |
 | 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
+| 3863 | [.java][java-3863] |                |                |                |                |                  | [back to top] |
 | 3867 | [.java][java-3867] |                |                |                |                |                  | [back to top] |
 | 3870 | [.java][java-3870] |                |                |                |                |                  | [back to top] |
 | 3871 | [.java][java-3871] |                |                |                |                |                  | [back to top] |
@@ -3029,6 +3030,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3761]: ./java-solutions/3761-minimum-absolute-distance-between-mirror-pairs/src/Solution.java
 [java-3783]: ./java-solutions/3783-mirror-distance-of-an-integer/src/Solution.java
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
+[java-3863]: ./java-solutions/3863-minimum-operations-to-sort-a-string/src/Solution.java
 [java-3867]: ./java-solutions/3867-sum-of-gcd-of-formed-pairs/src/Solution.java
 [java-3870]: ./java-solutions/3870-count-commas-in-range/src/Solution.java
 [java-3871]: ./java-solutions/3871-count-commas-in-range-ii/src/Solution.java
