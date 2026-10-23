@@ -1373,6 +1373,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3637 | [.java][java-3637] |                |                |                |                |                  | [back to top] |
 | 3640 | [.java][java-3640] |                |                |                |                |                  | [back to top] |
 | 3643 | [.java][java-3643] |                |                |                |                |                  | [back to top] |
+| 3644 | [.java][java-3644] |                |                |                |                |                  | [back to top] |
 | 3650 | [.java][java-3650] |                |                |                |                |                  | [back to top] |
 | 3651 | [.java][java-3651] |                |                |                |                |                  | [back to top] |
 | 3652 | [.java][java-3652] |                |                |                |                |                  | [back to top] |
@@ -2996,6 +2997,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3637]: ./java-solutions/3637-trionic-array-i/src/Solution.java
 [java-3640]: ./java-solutions/3640-trionic-array-ii/src/Solution.java
 [java-3643]: ./java-solutions/3643-flip-square-submatrix-vertically/src/Solution.java
+[java-3644]: ./java-solutions/3644-maximum-k-to-sort-a-permutation/src/Solution.java
 [java-3650]: ./java-solutions/3650-minimum-cost-path-with-edge-reversals/src/Solution.java
 [java-3651]: ./java-solutions/3651-minimum-cost-path-with-teleportations/src/Solution.java
 [java-3652]: ./java-solutions/3652-best-time-to-buy-and-sell-stock-using-strategy/src/Solution.java
