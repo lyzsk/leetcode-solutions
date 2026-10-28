@@ -1363,6 +1363,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3607 | [.java][java-3607] |                |                |                |                |                  | [back to top] |
 | 3612 | [.java][java-3612] |                |                |                |                |                  | [back to top] |
 | 3614 | [.java][java-3614] |                |                |                |                |                  | [back to top] |
+| 3619 | [.java][java-3619] |                |                |                |                |                  | [back to top] |
 | 3620 | [.java][java-3620] |                |                |                |                |                  | [back to top] |
 | 3622 | [.java][java-3622] |                |                |                |                |                  | [back to top] |
 | 3623 | [.java][java-3623] |                |                |                |                |                  | [back to top] |
@@ -1416,6 +1417,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3871 | [.java][java-3871] |                |                |                |                |                  | [back to top] |
 | 3875 | [.java][java-3875] |                |                |                |                |                  | [back to top] |
 | 3876 | [.java][java-3876] |                |                |                |                |                  | [back to top] |
+| 3882 | [.java][java-3882] |                |                |                |                |                  | [back to top] |
 | 3886 | [.java][java-3886] |                |                |                |                |                  | [back to top] |
 | 3903 | [.java][java-3903] |                |                |                |                |                  | [back to top] |
 | 3904 | [.java][java-3904] |                |                |                |                |                  | [back to top] |
@@ -2989,6 +2991,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3607]: ./java-solutions/3607-power-grid-maintenance/src/Solution.java
 [java-3612]: ./java-solutions/3612-process-string-with-special-operations-i/src/Solution.java
 [java-3614]: ./java-solutions/3614-process-string-with-special-operations-ii/src/Solution.java
+[java-3619]: ./java-solutions/3619-count-islands-with-total-value-divisible-by-k/src/Solution.java
 [java-3620]: ./java-solutions/3620-network-recovery-pathways/src/Solution.java
 [java-3622]: ./java-solutions/3622-check-divisibility-by-digit-sum-and-product/src/Solution.java
 [java-3623]: ./java-solutions/3623-count-number-of-trapezoids-i/src/Solution.java
@@ -3042,6 +3045,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3871]: ./java-solutions/3871-count-commas-in-range-ii/src/Solution.java
 [java-3875]: ./java-solutions/3875-construct-uniform-parity-array-i/src/Solution.java
 [java-3876]: ./java-solutions/3876-construct-uniform-parity-array-ii/src/Solution.java
+[java-3882]: ./java-solutions/3882-minimum-xor-path-in-a-grid/src/Solution.java
 [java-3886]: ./java-solutions/3886-sum-of-sortable-integers/src/Solution.java
 [java-3903]: ./java-solutions/3903-smallest-stable-index-i/src/Solution.java
 [java-3904]: ./java-solutions/3904-smallest-stable-index-ii/src/Solution.java
