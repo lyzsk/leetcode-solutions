@@ -1384,6 +1384,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3658 | [.java][java-3658] |                |                |                |                |                  | [back to top] |
 | 3660 | [.java][java-3660] |                |                |                |                |                  | [back to top] |
 | 3661 | [.java][java-3661] |                |                |                |                |                  | [back to top] |
+| 3665 | [.java][java-3665] |                |                |                |                |                  | [back to top] |
 | 3666 | [.java][java-3666] |                |                |                |                |                  | [back to top] |
 | 3689 | [.java][java-3689] |                |                |                |                |                  | [back to top] |
 | 3691 | [.java][java-3691] |                |                |                |                |                  | [back to top] |
@@ -3014,6 +3015,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3658]: ./java-solutions/3658-gcd-of-odd-and-even-sums/src/Solution.java
 [java-3660]: ./java-solutions/3660-jump-game-ix/src/Solution.java
 [java-3661]: ./java-solutions/3661-maximum-walls-destroyed-by-robots/src/Solution.java
+[java-3665]: ./java-solutions/3665-twisted-mirror-path-count/src/Solution.java
 [java-3666]: ./java-solutions/3666-minimum-operations-to-equalize-binary-string/src/Solution.java
 [java-3689]: ./java-solutions/3689-maximum-total-subarray-value-i/src/Solution.java
 [java-3691]: ./java-solutions/3691-maximum-total-subarray-value-ii/src/Solution.java
