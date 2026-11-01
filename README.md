@@ -290,6 +290,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0446 | [.java][java-0446] |                |                |                |                |                  | [back to top] |
 | 0451 | [.java][java-0451] |                |                |                |                |                  | [back to top] |
 | 0452 | [.java][java-0452] |                |                |                |                |                  | [back to top] |
+| 0453 | [.java][java-0453] |                |                |                |                |                  | [back to top] |
 | 0454 | [.java][java-0454] |                |                |                |                |                  | [back to top] |
 | 0455 | [.java][java-0455] |                |                |                |                |                  | [back to top] |
 | 0459 | [.java][java-0459] |                |                |                |                |                  | [back to top] |
@@ -1826,6 +1827,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0446]: ./java-solutions/0446-arithmetic-slices-ii-subsequence/src/Solution.java
 [java-0451]: ./java-solutions/0451-sort-characters-by-frequency/src/Solution.java
 [java-0452]: ./java-solutions/0452-minimum-number-of-arrows-to-burst-balloons/src/Solution.java
+[java-0453]: ./java-solutions/0453-minimum-moves-to-equal-array-elements/src/Solution.java
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0455]: ./java-solutions/0455-assign-cookies/src/Solution.java
 [java-0459]: ./java-solutions/0459-repeated-substring-pattern/src/Solution.java
