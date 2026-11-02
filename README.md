@@ -294,6 +294,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 0454 | [.java][java-0454] |                |                |                |                |                  | [back to top] |
 | 0455 | [.java][java-0455] |                |                |                |                |                  | [back to top] |
 | 0459 | [.java][java-0459] |                |                |                |                |                  | [back to top] |
+| 0462 | [.java][java-0462] |                |                |                |                |                  | [back to top] |
 | 0463 | [.java][java-0463] | [.py][py-0463] | [.js][js-0463] |                |                |                  | [back to top] |
 | 0474 | [.java][java-0474] |                |                |                |                |                  | [back to top] |
 | 0476 | [.java][java-0476] |                |                |                |                |                  | [back to top] |
@@ -1831,6 +1832,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-0454]: ./java-solutions/0454-4sum-ii/src/Solution.java
 [java-0455]: ./java-solutions/0455-assign-cookies/src/Solution.java
 [java-0459]: ./java-solutions/0459-repeated-substring-pattern/src/Solution.java
+[java-0462]: ./java-solutions/0462-minimum-moves-to-equal-array-elements-ii/src/Solution.java
 [java-0463]: ./java-solutions/0463-island-perimeter/src/Solution.java
 [py-0463]: ./python-solutions/0463-island-perimeter/solution.py
 [js-0463]: ./javascript-solutions/0463-island-perimeter/solution.js
