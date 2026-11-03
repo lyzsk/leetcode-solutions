@@ -1402,6 +1402,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3727 | [.java][java-3727] |                |                |                |                |                  | [back to top] |
 | 3731 | [.java][java-3731] |                |                |                |                |                  | [back to top] |
 | 3734 | [.java][java-3734] |                |                |                |                |                  | [back to top] |
+| 3736 | [.java][java-3736] |                |                |                |                |                  | [back to top] |
 | 3737 | [.java][java-3737] |                |                |                |                |                  | [back to top] |
 | 3739 | [.java][java-3739] |                |                |                |                |                  | [back to top] |
 | 3740 | [.java][java-3740] |                |                |                |                |                  | [back to top] |
@@ -3035,6 +3036,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3727]: ./java-solutions/3727-maximum-alternating-sum-of-squares/src/Solution.java
 [java-3731]: ./java-solutions/3731-find-missing-elements/src/Solution.java
 [java-3734]: ./java-solutions/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/src/Solution.java
+[java-3736]: ./java-solutions/3736-minimum-moves-to-equal-array-elements-iii/src/Solution.java
 [java-3737]: ./java-solutions/3737-count-subarrays-with-majority-element-i/src/Solution.java
 [java-3739]: ./java-solutions/3739-count-subarrays-with-majority-element-ii/src/Solution.java
 [java-3740]: ./java-solutions/3740-minimum-distance-between-three-equal-elements-i/src/Solution.java
