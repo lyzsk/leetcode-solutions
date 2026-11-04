@@ -1330,6 +1330,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3498 | [.java][java-3498] |                |                |                |                |                  | [back to top] |
 | 3499 | [.java][java-3499] |                |                |                |                |                  | [back to top] |
 | 3501 | [.java][java-3501] |                |                |                |                |                  | [back to top] |
+| 3505 | [.java][java-3505] |                |                |                |                |                  | [back to top] |
 | 3507 | [.java][java-3507] |                |                |                |                |                  | [back to top] |
 | 3508 | [.java][java-3508] |                |                |                |                |                  | [back to top] |
 | 3512 | [.java][java-3512] |                |                |                |                |                  | [back to top] |
@@ -2964,6 +2965,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3498]: ./java-solutions/3498-reverse-degree-of-a-string/src/Solution.java
 [java-3499]: ./java-solutions/3499-maximize-active-section-with-trade-i/src/Solution.java
 [java-3501]: ./java-solutions/3501-maximize-active-section-with-trade-ii/src/Solution.java
+[java-3505]: ./java-solutions/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/src/Solution.java
 [java-3507]: ./java-solutions/3507-minimum-pair-removal-to-sort-array-i/src/Solution.java
 [java-3508]: ./java-solutions/3508-implement-router/src/Router.java
 [java-3512]: ./java-solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/src/Solution.java
