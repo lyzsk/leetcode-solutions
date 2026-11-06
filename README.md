@@ -1123,6 +1123,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2699 | [.java][java-2699] |                |                |                |                |                  | [back to top] |
 | 2707 | [.java][java-2707] |                |                |                |                |                  | [back to top] |
 | 2709 | [.java][java-2709] |                |                |                |                |                  | [back to top] |
+| 2747 | [.java][java-2747] |                |                |                |                |                  | [back to top] |
 | 2749 | [.java][java-2749] |                |                |                |                |                  | [back to top] |
 | 2751 | [.java][java-2751] |                |                |                |                |                  | [back to top] |
 | 2762 | [.java][java-2762] |                |                |                |                |                  | [back to top] |
@@ -2754,6 +2755,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2699]: ./java-solutions/2699-modify-graph-edge-weights/src/Solution.java
 [java-2707]: ./java-solutions/2707-extra-characters-in-a-string/src/Solution.java
 [java-2709]: ./java-solutions/2709-greatest-common-divisor-traversal/src/Solution.java
+[java-2747]: ./java-solutions/2747-count-zero-request-servers/src/Solution.java
 [java-2749]: ./java-solutions/2749-minimum-operations-to-make-the-integer-zero/src/Solution.java
 [java-2751]: ./java-solutions/2751-robot-collisions/src/Solution.java
 [java-2762]: ./java-solutions/2762-continuous-subarrays/src/Solution.java
