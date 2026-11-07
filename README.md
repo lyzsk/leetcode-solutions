@@ -653,6 +653,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1380 | [.java][java-1380] |                |                |                |                |                  | [back to top] |
 | 1393 |                    |                |                |                |                | [.sql][sql-1393] | [back to top] |
 | 1382 | [.java][java-1382] |                |                |                |                |                  | [back to top] |
+| 1385 | [.java][java-1385] |                |                |                |                |                  | [back to top] |
 | 1386 | [.java][java-1386] |                |                |                |                |                  | [back to top] |
 | 1389 | [.java][java-1389] |                |                |                |                |                  | [back to top] |
 | 1390 | [.java][java-1390] |                |                |                |                |                  | [back to top] |
@@ -848,6 +849,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1876 | [.java][java-1876] |                |                |                |                |                  | [back to top] |
 | 1877 | [.java][java-1877] | [.py][py-1877] | [.js][js-1877] |                |                |                  | [back to top] |
 | 1878 | [.java][java-1878] |                |                |                |                |                  | [back to top] |
+| 1882 | [.java][java-1882] |                |                |                |                |                  | [back to top] |
 | 1886 | [.java][java-1886] |                |                |                |                |                  | [back to top] |
 | 1887 | [.java][java-1887] | [.py][py-1887] | [.js][js-1887] |                |                |                  | [back to top] |
 | 1888 | [.java][java-1888] |                |                |                |                |                  | [back to top] |
@@ -2208,6 +2210,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [sql-1378]: ./sql-solutions/1378-replace-employee-id-with-the-unique-identifier/solution.sql
 [java-1381]: ./java-solutions/1381-design-a-stack-with-increment-operation/src/Solution.java
 [java-1382]: ./java-solutions/1382-balance-a-binary-search-tree/src/Solution.java
+[java-1385]: ./java-solutions/1385-find-the-distance-value-between-two-arrays/src/Solution.java
 [java-1386]: ./java-solutions/1386-cinema-seat-allocation/src/Solution.java
 [java-1389]: ./java-solutions/1389-create-target-array-in-the-given-order/src/Solution.java
 [java-1390]: ./java-solutions/1390-four-divisors/src/Solution.java
@@ -2442,6 +2445,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-1877]: ./python-solutions/1877-minimize-maximum-pair-sum-in-array/solution.py
 [js-1877]: ./javascript-solutions/1877-minimize-maximum-pair-sum-in-array/solution.js
 [java-1878]: ./java-solutions/1878-get-biggest-three-rhombus-sums-in-a-grid/src/Solution.java
+[java-1882]: ./java-solutions/1882-process-tasks-using-servers/src/Solution.java
 [java-1886]: ./java-solutions/1886-determine-whether-matrix-can-be-obtained-by-rotation/src/Solution.java
 [java-1887]: ./java-solutions/1887-reduction-operations-to-make-the-array-elements-equal/src/Solution.java
 [py-1887]: ./python-solutions/1887-reduction-operations-to-make-the-array-elements-equal/solution.py
