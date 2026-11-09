@@ -742,6 +742,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 1594 | [.java][java-1594] |                |                |                |                |                  | [back to top] |
 | 1598 | [.java][java-1598] |                |                |                |                |                  | [back to top] |
 | 1605 | [.java][java-1605] |                |                |                |                |                  | [back to top] |
+| 1606 | [.java][java-1606] |                |                |                |                |                  | [back to top] |
 | 1608 | [.java][java-1608] |                |                |                |                |                  | [back to top] |
 | 1609 | [.java][java-1609] |                |                |                |                |                  | [back to top] |
 | 1611 | [.java][java-1611] |                |                |                |                |                  | [back to top] |
@@ -2319,6 +2320,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-1594]: ./java-solutions/1594-maximum-non-negative-product-in-a-matrix/src/Solution.java
 [java-1598]: ./java-solutions/1598-crawler-log-folder/src/Solution.java
 [java-1605]: ./java-solutions/1605-find-valid-matrix-given-row-and-column-sums/src/Solution.java
+[java-1606]: ./java-solutions/1606-find-servers-that-handled-most-number-of-requests/src/Solution.java
 [java-1608]: ./java-solutions/1608-special-array-with-x-elements-greater-than-or-equal-x/src/Solution.java
 [java-1609]: ./java-solutions/1609-even-odd-tree/src/Solution.java
 [java-1611]: ./java-solutions/1611-minimum-one-bit-operations-to-make-integers-zero/src/Solution.java
