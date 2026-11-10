@@ -1395,6 +1395,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3666 | [.java][java-3666] |                |                |                |                |                  | [back to top] |
 | 3689 | [.java][java-3689] |                |                |                |                |                  | [back to top] |
 | 3691 | [.java][java-3691] |                |                |                |                |                  | [back to top] |
+| 3693 | [.java][java-3693] |                |                |                |                |                  | [back to top] |
 | 3699 | [.java][java-3699] |                |                |                |                |                  | [back to top] |
 | 3700 | [.java][java-3700] |                |                |                |                |                  | [back to top] |
 | 3713 | [.java][java-3713] |                |                |                |                |                  | [back to top] |
@@ -3034,6 +3035,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3666]: ./java-solutions/3666-minimum-operations-to-equalize-binary-string/src/Solution.java
 [java-3689]: ./java-solutions/3689-maximum-total-subarray-value-i/src/Solution.java
 [java-3691]: ./java-solutions/3691-maximum-total-subarray-value-ii/src/Solution.java
+[java-3693]: ./java-solutions/3693-climbing-stairs-ii/src/Solution.java
 [java-3699]: ./java-solutions/3699-number-of-zigzag-arrays-i/src/Solution.java
 [java-3700]: ./java-solutions/3700-number-of-zigzag-arrays-i/src/Solution.java
 [java-3713]: ./java-solutions/3713-longest-balanced-substring-i/src/Solution.java
