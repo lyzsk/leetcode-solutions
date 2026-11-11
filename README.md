@@ -1420,6 +1420,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3756 | [.java][java-3756] |                |                |                |                |                  | [back to top] |
 | 3761 | [.java][java-3761] |                |                |                |                |                  | [back to top] |
 | 3783 | [.java][java-3783] |                |                |                |                |                  | [back to top] |
+| 3789 | [.java][java-3789] |                |                |                |                |                  | [back to top] |
 | 3838 | [.java][java-3838] |                |                |                |                |                  | [back to top] |
 | 3841 | [.java][java-3841] |                |                |                |                |                  | [back to top] |
 | 3863 | [.java][java-3863] |                |                |                |                |                  | [back to top] |
@@ -3060,6 +3061,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3756]: ./java-solutions/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/src/Solution.java
 [java-3761]: ./java-solutions/3761-minimum-absolute-distance-between-mirror-pairs/src/Solution.java
 [java-3783]: ./java-solutions/3783-mirror-distance-of-an-integer/src/Solution.java
+[java-3789]: ./java-solutions/3789-minimum-cost-to-acquire-required-items/src/Solution.java
 [java-3838]: ./java-solutions/3838-weighted-word-mapping/src/Solution.java
 [java-3841]: ./java-solutions/3841-palindromic-path-queries-in-a-tree/src/Solution.java
 [java-3863]: ./java-solutions/3863-minimum-operations-to-sort-a-string/src/Solution.java
