@@ -1306,6 +1306,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3408 | [.java][java-3408] |                |                |                |                |                  | [back to top] |
 | 3414 | [.java][java-3414] |                |                |                |                |                  | [back to top] |
 | 3418 | [.java][java-3418] |                |                |                |                |                  | [back to top] |
+| 3420 | [.java][java-3420] |                |                |                |                |                  | [back to top] |
 | 3423 | [.java][java-3423] |                |                |                |                |                  | [back to top] |
 | 3432 | [.java][java-3432] |                |                |                |                |                  | [back to top] |
 | 3433 | [.java][java-3433] |                |                |                |                |                  | [back to top] |
@@ -2947,6 +2948,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3408]: ./java-solutions/3408-design-task-manager/src/TaskManager.java
 [java-3414]: ./java-solutions/3414-maximum-score-of-non-overlapping-intervals/src/Solution.java
 [java-3418]: ./java-solutions/3418-maximum-amount-of-money-robot-can-earn/src/Solution.java
+[java-3420]: ./java-solutions/3420-count-non-decreasing-subarrays-after-k-operations/src/Solution.java
 [java-3423]: ./java-solutions/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/src/Solution.java
 [java-3432]: ./java-solutions/3432-count-partitions-with-even-sum-difference/src/Solution.java
 [java-3433]: ./java-solutions/3433-count-mentions-per-user/src/Solution.java
