@@ -1291,6 +1291,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3356 | [.java][java-3356] |                |                |                |                |                  | [back to top] |
 | 3362 | [.java][java-3362] |                |                |                |                |                  | [back to top] |
 | 3363 | [.java][java-3363] |                |                |                |                |                  | [back to top] |
+| 3364 | [.java][java-3364] |                |                |                |                |                  | [back to top] |
 | 3370 | [.java][java-3370] |                |                |                |                |                  | [back to top] |
 | 3372 | [.java][java-3372] |                |                |                |                |                  | [back to top] |
 | 3373 | [.java][java-3373] |                |                |                |                |                  | [back to top] |
@@ -2933,6 +2934,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3356]: ./java-solutions/3356-zero-array-transformation-ii/src/Solution.java
 [java-3362]: ./java-solutions/3362-zero-array-transformation-iii/src/Solution.java
 [java-3363]: ./java-solutions/3363-find-the-maximum-number-of-fruits-collected/src/Solution.java
+[java-3364]: ./java-solutions/3364-minimum-positive-sum-subarray/src/Solution.java
 [java-3370]: ./java-solutions/3370-smallest-number-with-all-set-bits/src/Solution.java
 [java-3372]: ./java-solutions/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/src/Solution.java
 [java-3373]: ./java-solutions/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii/src/Solution.java
