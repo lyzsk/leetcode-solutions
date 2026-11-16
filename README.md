@@ -983,6 +983,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2226 | [.java][java-2226] |                |                |                |                |                  | [back to top] |
 | 2235 | [.java][java-2235] | [.py][py-2235] |                |                |                |                  | [back to top] |
 | 2236 | [.java][java-2236] | [.py][py-2236] |                |                |                |                  | [back to top] |
+| 2243 | [.java][java-2243] |                |                |                |                |                  | [back to top] |
 | 2244 | [.java][java-2244] |                |                |                |                |                  | [back to top] |
 | 2256 | [.java][java-2256] |                |                |                |                |                  | [back to top] |
 | 2257 | [.java][java-2257] |                |                |                |                |                  | [back to top] |
@@ -2600,6 +2601,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [py-2235]: ./python-solutions/2235-add-two-integers/solution.py
 [java-2236]: ./java-solutions/2236-root-equals-sum-of-children/src/Solution.java
 [py-2236]: ./python-solutions/2236-root-equals-sum-of-children/solution.py
+[java-2243]: ./java-solutions/2243-calculate-digit-sum-of-a-string/src/Solution.java
 [java-2244]: ./java-solutions/2244-minimum-rounds-to-complete-all-tasks/src/Solution.java
 [java-2256]: ./java-solutions/2256-minimum-average-difference/src/Solution.java
 [java-2257]: ./java-solutions/2257-count-unguarded-cells-in-the-grid/src/Solution.java
