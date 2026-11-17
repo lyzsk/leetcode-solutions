@@ -1166,6 +1166,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2901 | [.java][java-2901] |                |                |                |                |                  | [back to top] |
 | 2904 | [.java][java-2904] |                |                |                |                |                  | [back to top] |
 | 2906 | [.java][java-2906] |                |                |                |                |                  | [back to top] |
+| 2911 | [.java][java-2911] |                |                |                |                |                  | [back to top] |
 | 2913 | [.java][java-2913] |                |                |                |                |                  | [back to top] |
 | 2914 | [.java][java-2914] |                |                |                |                |                  | [back to top] |
 | 2916 | [.java][java-2916] |                |                |                |                |                  | [back to top] |
@@ -2810,6 +2811,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2901]: ./java-solutions/2901-longest-unequal-adjacent-groups-subsequence-ii/src/Solution.java
 [java-2904]: ./java-solutions/2904-shortest-and-lexicographically-smallest-beautiful-string/src/Solution.java
 [java-2906]: ./java-solutions/2906-construct-product-matrix/src/Solution.java
+[java-2911]: ./java-solutions/2911-minimum-changes-to-make-k-semi-palindromes/src/Solution.java
 [java-2913]: ./java-solutions/2913-subarrays-distinct-element-sum-of-squares-i/src/Solution.java
 [java-2914]: ./java-solutions/2914-minimum-number-of-changes-to-make-binary-string-beautiful/src/Solution.java
 [java-2916]: ./java-solutions/2916-subarrays-distinct-element-sum-of-squares-ii/src/Solution.java
