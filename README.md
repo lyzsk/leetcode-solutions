@@ -1095,6 +1095,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2562 | [.java][java-2562] |                |                |                |                |                  | [back to top] |
 | 2563 | [.java][java-2563] |                |                |                |                |                  | [back to top] |
 | 2566 | [.java][java-2566] |                |                |                |                |                  | [back to top] |
+| 2567 | [.java][java-2567] |                |                |                |                |                  | [back to top] |
 | 2570 | [.java][java-2570] |                |                |                |                |                  | [back to top] |
 | 2573 | [.java][java-2573] |                |                |                |                |                  | [back to top] |
 | 2574 | [.java][java-2574] |                |                |                |                |                  | [back to top] |
@@ -2735,6 +2736,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2562]: ./java-solutions/2562-find-the-array-concatenation-value/src/Solution.java
 [java-2563]: ./java-solutions/2563-count-the-number-of-fair-pairs/src/Solution.java
 [java-2566]: ./java-solutions/2566-maximum-difference-by-remapping-a-digit/src/Solution.java
+[java-2567]: ./java-solutions/2567-minimum-score-by-changing-two-elements/src/Solution.java
 [java-2570]: ./java-solutions/2570-merge-two-2d-arrays-by-summing-values/src/Solution.java
 [java-2573]: ./java-solutions/2573-find-the-string-with-lcp/src/Solution.java
 [java-2574]: ./java-solutions/2574-left-and-right-sum-differences/src/Solution.java
