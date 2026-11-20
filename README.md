@@ -1206,6 +1206,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3024 | [.java][java-3024] |                |                |                |                |                  | [back to top] |
 | 3025 | [.java][java-3025] |                |                |                |                |                  | [back to top] |
 | 3027 | [.java][java-3027] |                |                |                |                |                  | [back to top] |
+| 3041 | [.java][java-3041] |                |                |                |                |                  | [back to top] |
 | 3042 | [.java][java-3042] |                |                |                |                |                  | [back to top] |
 | 3043 | [.java][java-3043] | [.py][py-3043] |                |                |                |                  | [back to top] |
 | 3047 | [.java][java-3047] |                |                |                |                |                  | [back to top] |
@@ -2852,6 +2853,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3024]: ./java-solutions/3024-type-of-triangle/src/Solution.java
 [java-3025]: ./java-solutions/3025-find-the-number-of-ways-to-place-people-i/src/Solution.java
 [java-3027]: ./java-solutions/3027-find-the-number-of-ways-to-place-people-ii/src/Solution.java
+[java-3041]: ./java-solutions/3041-maximize-consecutive-elements-in-an-array-after-modification/src/Solution.java
 [java-3042]: ./java-solutions/3042-count-prefix-and-suffix-pairs-i/src/Solution.java
 [java-3043]: ./java-solutions/3043-find-the-length-of-the-longest-common-prefix/src/Solution.java
 [py-3043]: ./python-solutions/3043-find-the-length-of-the-longest-common-prefix/solution.py
