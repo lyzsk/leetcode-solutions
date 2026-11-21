@@ -1277,6 +1277,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3318 | [.java][java-3318] |                |                |                |                |                  | [back to top] |
 | 3321 | [.java][java-3321] |                |                |                |                |                  | [back to top] |
 | 3330 | [.java][java-3330] |                |                |                |                |                  | [back to top] |
+| 3331 | [.java][java-3331] |                |                |                |                |                  | [back to top] |
 | 3333 | [.java][java-3333] |                |                |                |                |                  | [back to top] |
 | 3335 | [.java][java-3335] |                |                |                |                |                  | [back to top] |
 | 3336 | [.java][java-3336] |                |                |                |                |                  | [back to top] |
@@ -2924,6 +2925,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3318]: ./java-solutions/3318-find-x-sum-of-all-k-long-subarrays-i/src/Solution.java
 [java-3321]: ./java-solutions/3321-find-x-sum-of-all-k-long-subarrays-ii/src/Solution.java
 [java-3330]: ./java-solutions/3330-find-the-original-typed-string-i/src/Solution.java
+[java-3331]: ./java-solutions/3331-find-subtree-sizes-after-changes/src/Solution.java
 [java-3333]: ./java-solutions/3333-find-the-original-typed-string-ii/src/Solution.java
 [java-3335]: ./java-solutions/3335-total-characters-in-string-after-transformations-i/src/Solution.java
 [java-3336]: ./java-solutions/3336-find-the-number-of-subsequences-with-equal-gcd/src/Solution.java
