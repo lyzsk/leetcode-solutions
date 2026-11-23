@@ -943,6 +943,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 2110 | [.java][java-2110] |                |                |                |                |                  | [back to top] |
 | 2115 | [.java][java-2115] |                |                |                |                |                  | [back to top] |
 | 2116 | [.java][java-2116] |                |                |                |                |                  | [back to top] |
+| 2124 | [.java][java-2124] |                |                |                |                |                  | [back to top] |
 | 2125 | [.java][java-2125] |                |                |                |                |                  | [back to top] |
 | 2126 | [.java][java-2126] |                |                |                |                |                  | [back to top] |
 | 2127 | [.java][java-2127] |                |                |                |                |                  | [back to top] |
@@ -2561,6 +2562,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-2110]: ./java-solutions/2110-number-of-smooth-descent-periods-of-a-stock/src/Solution.java
 [java-2115]: ./java-solutions/2115-find-all-possible-recipes-from-given-supplies/src/Solution.java
 [java-2116]: ./java-solutions/2116-check-if-a-parentheses-string-can-be-valid/src/Solution.java
+[java-2124]: ./java-solutions/2124-check-if-all-as-appears-before-all-bs/src/Solution.java
 [java-2125]: ./java-solutions/2125-number-of-laser-beams-in-a-bank/src/Solution.java
 [java-2126]: ./java-solutions/2126-destroying-asteroids/src/Solution.java
 [java-2127]: ./java-solutions/2127-maximum-employees-to-be-invited-to-a-meeting/src/Solution.java
