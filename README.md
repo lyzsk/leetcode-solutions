@@ -1441,6 +1441,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 | 3886 | [.java][java-3886] |                |                |                |                |                  | [back to top] |
 | 3903 | [.java][java-3903] |                |                |                |                |                  | [back to top] |
 | 3904 | [.java][java-3904] |                |                |                |                |                  | [back to top] |
+| 3934 | [.java][java-3934] |                |                |                |                |                  | [back to top] |
 | 3942 | [.java][java-3942] |                |                |                |                |                  | [back to top] |
 | 3963 | [.java][java-3963] |                |                |                |                |                  | [back to top] |
 | 3970 | [.java][java-3970] |                |                |                |                |                  | [back to top] |
@@ -3090,6 +3091,7 @@ includes: Java8, Python3, JavaScript, TypeScript, Go, MySQL.
 [java-3886]: ./java-solutions/3886-sum-of-sortable-integers/src/Solution.java
 [java-3903]: ./java-solutions/3903-smallest-stable-index-i/src/Solution.java
 [java-3904]: ./java-solutions/3904-smallest-stable-index-ii/src/Solution.java
+[java-3934]: ./java-solutions/3934-smallest-unique-subarray/src/Solution.java
 [java-3942]: ./java-solutions/3942-minimum-operations-to-sort-a-permutation/src/Solution.java
 [java-3963]: ./java-solutions/3963-create-grid-with-exactly-one-path/src/Solution.java
 [java-3970]: ./java-solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters/src/Solution.java
